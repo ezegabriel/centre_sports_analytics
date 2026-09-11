@@ -1,0 +1,607 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+jumper,good,covenant,586.0,16.0
+jumper,missed,Centre,574.0,18.0
+defensive rebound,,covenant,,
+layup,good,covenant,563.0,19.0
+assist,,covenant,,
+three pointer,missed,Centre,547.0,14.0
+defensive rebound,,covenant,,
+jumper,missed,covenant,519.0,2.0
+offensive rebound,,covenant,,
+layup,good,covenant,512.0,23.0
+assist,,covenant,,
+turnover,,Centre,497.0,15.0
+steal,,covenant,495.0,28.0
+foul,,Centre,491.0,26.0
+subbing in,,Centre,491.0,30.0
+subbing in,,Centre,491.0,30.0
+subbing out,,Centre,491.0,30.0
+subbing out,,Centre,491.0,30.0
+jumper,missed,covenant,480.0,19.0
+block,,Centre,480.0,19.0
+offensive rebound,,covenant,,
+three pointer,missed,covenant,476.0,15.0
+offensive rebound,,covenant,,
+jumper,missed,covenant,454.0,8.0
+defensive rebound,,Centre,,
+subbing in,,Centre,451.0,27.0
+subbing in,,Centre,451.0,27.0
+subbing out,,Centre,451.0,27.0
+subbing out,,Centre,451.0,27.0
+jumper,missed,Centre,444.0,20.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,438.0,24.0
+defensive rebound,,Centre,,
+foul,,Centre,412.0,4.0
+free throw,missed,covenant,412.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,covenant,412.0,30.0
+defensive rebound,,Centre,,
+subbing in,,covenant,412.0,30.0
+subbing in,,covenant,412.0,30.0
+subbing out,,covenant,412.0,30.0
+subbing out,,covenant,412.0,30.0
+layup,good,Centre,394.0,12.0
+assist,,Centre,,
+subbing in,,covenant,372.0,8.0
+subbing out,,covenant,372.0,8.0
+subbing in,,Centre,372.0,8.0
+subbing out,,Centre,372.0,8.0
+turnover,,covenant,357.0,23.0
+turnover,,Centre,356.0,29.0
+foul,,Centre,355.0,29.0
+free throw,missed,covenant,355.0,30.0
+deadball rebound,,Centre,,
+free throw,good,covenant,355.0,30.0
+subbing in,,covenant,355.0,30.0
+subbing in,,covenant,355.0,30.0
+subbing out,,covenant,355.0,30.0
+subbing out,,covenant,355.0,30.0
+turnover,,Centre,351.0,26.0
+steal,,covenant,350.0,29.0
+turnover,,covenant,346.0,26.0
+subbing in,,Centre,344.0,28.0
+subbing out,,Centre,344.0,28.0
+turnover,,Centre,330.0,14.0
+layup,good,covenant,301.0,1.0
+assist,,covenant,,
+jumper,missed,Centre,288.0,17.0
+defensive rebound,,covenant,,
+turnover,,covenant,270.0,12.0
+timeout,,Centre,268.0,28.0
+subbing in,,Centre,268.0,28.0
+subbing in,,Centre,268.0,28.0
+subbing in,,Centre,268.0,28.0
+subbing in,,Centre,268.0,28.0
+subbing out,,Centre,268.0,28.0
+subbing out,,Centre,268.0,28.0
+subbing out,,Centre,268.0,28.0
+subbing out,,Centre,268.0,28.0
+foul,,covenant,258.0,18.0
+free throw,good,Centre,258.0,30.0
+free throw,good,Centre,258.0,30.0
+foul,,covenant,243.0,15.0
+turnover,,covenant,243.0,30.0
+subbing in,,covenant,243.0,30.0
+subbing in,,covenant,243.0,30.0
+subbing out,,covenant,243.0,30.0
+subbing out,,covenant,243.0,30.0
+jumper,good,Centre,224.0,11.0
+jumper,missed,covenant,194.0,0.0
+defensive rebound,,Centre,,
+layup,missed,Centre,175.0,11.0
+defensive rebound,,covenant,,
+three pointer,good,covenant,156.0,11.0
+assist,,covenant,,
+layup,good,Centre,142.0,16.0
+assist,,Centre,,
+three pointer,missed,covenant,122.0,10.0
+defensive rebound,,Centre,,
+jumper,good,Centre,112.0,20.0
+assist,,Centre,,
+foul,,Centre,94.0,12.0
+subbing in,,covenant,94.0,30.0
+subbing in,,covenant,94.0,30.0
+subbing out,,covenant,94.0,30.0
+subbing out,,covenant,94.0,30.0
+subbing in,,Centre,94.0,30.0
+subbing in,,Centre,94.0,30.0
+subbing in,,Centre,94.0,30.0
+subbing out,,Centre,94.0,30.0
+subbing out,,Centre,94.0,30.0
+subbing out,,Centre,94.0,30.0
+jumper,missed,covenant,92.0,28.0
+defensive rebound,,Centre,,
+foul,,covenant,81.0,19.0
+subbing in,,covenant,81.0,30.0
+subbing out,,covenant,81.0,30.0
+jumper,good,Centre,71.0,20.0
+foul,,Centre,50.0,9.0
+free throw,missed,covenant,50.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,covenant,50.0,30.0
+defensive rebound,,Centre,,
+subbing in,,covenant,50.0,30.0
+subbing in,,covenant,50.0,30.0
+subbing out,,covenant,50.0,30.0
+subbing out,,covenant,50.0,30.0
+subbing in,,Centre,50.0,30.0
+subbing out,,Centre,50.0,30.0
+turnover,,Centre,26.0,26.0
+three pointer,good,covenant,7.0,7.0
+assist,,covenant,,
+,,,,
+subbing in,,covenant,600.0,580.0
+subbing out,,covenant,600.0,580.0
+subbing in,,Centre,600.0,580.0
+subbing out,,Centre,600.0,580.0
+jumper,good,Centre,584.0,564.0
+assist,,Centre,,
+turnover,,covenant,561.0,7.0
+turnover,,Centre,558.0,27.0
+steal,,covenant,557.0,29.0
+jumper,missed,covenant,545.0,18.0
+defensive rebound,,Centre,,
+turnover,,Centre,539.0,24.0
+steal,,covenant,539.0,30.0
+three pointer,missed,covenant,530.0,21.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,504.0,4.0
+assist,,Centre,,
+foul,,covenant,488.0,14.0
+turnover,,covenant,488.0,30.0
+turnover,,Centre,488.0,30.0
+foul,,Centre,488.0,30.0
+subbing in,,covenant,488.0,30.0
+subbing out,,covenant,488.0,30.0
+jumper,missed,covenant,480.0,22.0
+defensive rebound,,Centre,,
+turnover,,Centre,467.0,17.0
+steal,,covenant,466.0,29.0
+jumper,good,covenant,462.0,26.0
+assist,,covenant,,
+layup,good,Centre,444.0,12.0
+assist,,Centre,,
+foul,,covenant,444.0,30.0
+free throw,good,Centre,444.0,30.0
+subbing in,,Centre,444.0,30.0
+subbing in,,Centre,444.0,30.0
+subbing in,,Centre,444.0,30.0
+subbing out,,Centre,444.0,30.0
+subbing out,,Centre,444.0,30.0
+subbing out,,Centre,444.0,30.0
+turnover,,covenant,437.0,23.0
+steal,,Centre,435.0,28.0
+three pointer,missed,Centre,426.0,21.0
+defensive rebound,,covenant,,
+jumper,missed,covenant,410.0,14.0
+defensive rebound,,Centre,,
+turnover,,Centre,403.0,23.0
+subbing in,,covenant,403.0,30.0
+subbing in,,covenant,403.0,30.0
+subbing in,,covenant,403.0,30.0
+subbing out,,covenant,403.0,30.0
+subbing out,,covenant,403.0,30.0
+subbing out,,covenant,403.0,30.0
+subbing in,,Centre,403.0,30.0
+subbing in,,Centre,403.0,30.0
+subbing out,,Centre,403.0,30.0
+subbing out,,Centre,403.0,30.0
+layup,good,covenant,391.0,18.0
+assist,,covenant,,
+three pointer,missed,Centre,360.0,29.0
+defensive rebound,,covenant,,
+three pointer,missed,covenant,333.0,3.0
+defensive rebound,,Centre,,
+foul,,Centre,313.0,10.0
+turnover,,Centre,313.0,30.0
+subbing in,,covenant,313.0,30.0
+subbing in,,covenant,313.0,30.0
+subbing out,,covenant,313.0,30.0
+subbing out,,covenant,313.0,30.0
+turnover,,covenant,301.0,18.0
+jumper,good,Centre,286.0,15.0
+assist,,Centre,,
+jumper,missed,covenant,270.0,14.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,257.0,17.0
+offensive rebound,,Centre,,
+,,,256.0,30.0
+defensive rebound,,covenant,,
+jumper,good,covenant,232.0,5.0
+assist,,covenant,,
+foul,,covenant,221.0,19.0
+timeout,,Centre,221.0,30.0
+subbing in,,covenant,221.0,30.0
+subbing in,,covenant,221.0,30.0
+subbing in,,covenant,221.0,30.0
+subbing in,,covenant,221.0,30.0
+subbing out,,covenant,221.0,30.0
+subbing out,,covenant,221.0,30.0
+subbing out,,covenant,221.0,30.0
+subbing out,,covenant,221.0,30.0
+subbing in,,Centre,221.0,30.0
+subbing in,,Centre,221.0,30.0
+subbing in,,Centre,221.0,30.0
+subbing in,,Centre,221.0,30.0
+subbing in,,Centre,221.0,30.0
+subbing out,,Centre,221.0,30.0
+subbing out,,Centre,221.0,30.0
+subbing out,,Centre,221.0,30.0
+subbing out,,Centre,221.0,30.0
+subbing out,,Centre,221.0,30.0
+jumper,missed,Centre,202.0,11.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,197.0,25.0
+defensive rebound,,covenant,,
+jumper,missed,covenant,178.0,11.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,169.0,21.0
+offensive rebound,,Centre,,
+,,,167.0,30.0
+jumper,missed,covenant,149.0,10.0
+block,,Centre,149.0,30.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,121.0,2.0
+defensive rebound,,covenant,,
+layup,good,covenant,115.0,24.0
+assist,,covenant,,
+subbing in,,Centre,111.0,26.0
+subbing in,,Centre,111.0,26.0
+subbing out,,Centre,111.0,26.0
+subbing out,,Centre,111.0,26.0
+turnover,,Centre,106.0,21.0
+jumper,missed,covenant,102.0,26.0
+offensive rebound,,covenant,,
+jumper,good,covenant,98.0,26.0
+assist,,covenant,,
+turnover,,Centre,88.0,20.0
+subbing in,,covenant,87.0,29.0
+subbing in,,covenant,87.0,29.0
+subbing in,,covenant,87.0,29.0
+subbing out,,covenant,87.0,29.0
+subbing out,,covenant,87.0,29.0
+subbing out,,covenant,87.0,29.0
+subbing in,,Centre,87.0,29.0
+subbing out,,Centre,87.0,29.0
+jumper,missed,covenant,63.0,5.0
+defensive rebound,,Centre,,
+turnover,,Centre,59.0,26.0
+foul,,Centre,49.0,20.0
+free throw,missed,covenant,49.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,covenant,49.0,30.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,33.0,14.0
+offensive rebound,,Centre,,
+,,,29.0,29.0
+three pointer,missed,covenant,7.0,7.0
+block,,Centre,7.0,7.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,1.0,1.0
+assist,,Centre,,
+,,,,
+jumper,missed,covenant,532.0,529.0
+offensive rebound,,covenant,,
+foul,,Centre,528.0,26.0
+jumper,good,covenant,526.0,28.0
+assist,,covenant,,
+three pointer,missed,covenant,509.0,13.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,506.0,27.0
+assist,,Centre,,
+three pointer,missed,covenant,497.0,21.0
+defensive rebound,,Centre,,
+jumper,good,Centre,495.0,28.0
+three pointer,missed,covenant,490.0,25.0
+offensive rebound,,covenant,,
+jumper,missed,covenant,490.0,30.0
+defensive rebound,,Centre,,
+layup,good,Centre,472.0,12.0
+assist,,Centre,,
+three pointer,good,Centre,457.0,15.0
+assist,,Centre,,
+timeout,,Centre,449.0,22.0
+subbing in,,Centre,449.0,22.0
+subbing in,,Centre,449.0,22.0
+subbing out,,Centre,449.0,22.0
+subbing out,,Centre,449.0,22.0
+jumper,missed,Centre,394.0,-3.0
+defensive rebound,,covenant,,
+turnover,,covenant,384.0,20.0
+steal,,covenant,381.0,27.0
+layup,good,covenant,374.0,23.0
+foul,,Centre,374.0,30.0
+free throw,missed,covenant,374.0,30.0
+defensive rebound,,Centre,,
+subbing in,,covenant,374.0,30.0
+subbing out,,covenant,374.0,30.0
+three pointer,good,Centre,369.0,25.0
+assist,,Centre,,
+turnover,,covenant,364.0,25.0
+foul,,covenant,364.0,30.0
+jumper,missed,Centre,364.0,30.0
+offensive rebound,,Centre,,
+,,,364.0,30.0
+jumper,good,covenant,364.0,30.0
+assist,,covenant,,
+subbing in,,covenant,364.0,30.0
+subbing in,,covenant,364.0,30.0
+subbing out,,covenant,364.0,30.0
+subbing out,,covenant,364.0,30.0
+foul,,covenant,354.0,20.0
+foul,,covenant,341.0,17.0
+subbing in,,covenant,341.0,30.0
+subbing in,,covenant,341.0,30.0
+subbing out,,covenant,341.0,30.0
+subbing out,,covenant,341.0,30.0
+jumper,missed,covenant,340.0,29.0
+block,,Centre,340.0,29.0
+offensive rebound,,covenant,,
+three pointer,missed,covenant,311.0,0.0
+deadball rebound,,Centre,,
+subbing in,,Centre,310.0,29.0
+subbing in,,Centre,310.0,29.0
+subbing in,,Centre,310.0,29.0
+subbing in,,Centre,310.0,29.0
+subbing out,,Centre,310.0,29.0
+subbing out,,Centre,310.0,29.0
+subbing out,,Centre,310.0,29.0
+subbing out,,Centre,310.0,29.0
+jumper,missed,Centre,293.0,12.0
+block,,covenant,293.0,12.0
+offensive rebound,,Centre,,
+,,,289.0,30.0
+jumper,missed,covenant,266.0,15.0
+defensive rebound,,Centre,,
+turnover,,Centre,243.0,7.0
+timeout,,Centre,243.0,30.0
+subbing in,,covenant,243.0,30.0
+subbing in,,covenant,243.0,30.0
+subbing in,,covenant,243.0,30.0
+subbing in,,covenant,243.0,30.0
+subbing in,,covenant,243.0,30.0
+subbing out,,covenant,243.0,30.0
+subbing out,,covenant,243.0,30.0
+subbing out,,covenant,243.0,30.0
+subbing out,,covenant,243.0,30.0
+subbing out,,covenant,243.0,30.0
+turnover,,covenant,237.0,24.0
+jumper,missed,Centre,234.0,27.0
+offensive rebound,,Centre,,
+,,,230.0,30.0
+block,,covenant,230.0,30.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,216.0,12.0
+offensive rebound,,Centre,,
+three pointer,good,Centre,197.0,11.0
+three pointer,missed,covenant,177.0,10.0
+offensive rebound,,covenant,,
+turnover,,covenant,176.0,29.0
+turnover,,Centre,170.0,24.0
+layup,good,covenant,163.0,23.0
+assist,,covenant,,
+turnover,,Centre,134.0,1.0
+steal,,covenant,133.0,29.0
+three pointer,good,covenant,110.0,7.0
+assist,,covenant,,
+subbing in,,covenant,101.0,21.0
+subbing in,,covenant,101.0,21.0
+subbing out,,covenant,101.0,21.0
+subbing out,,covenant,101.0,21.0
+subbing in,,Centre,101.0,21.0
+subbing in,,Centre,101.0,21.0
+subbing in,,Centre,101.0,21.0
+subbing in,,Centre,101.0,21.0
+subbing in,,Centre,101.0,21.0
+subbing out,,Centre,101.0,21.0
+subbing out,,Centre,101.0,21.0
+subbing out,,Centre,101.0,21.0
+subbing out,,Centre,101.0,21.0
+subbing out,,Centre,101.0,21.0
+turnover,,Centre,91.0,11.0
+foul,,covenant,82.0,21.0
+turnover,,covenant,82.0,30.0
+foul,,covenant,78.0,26.0
+free throw,good,Centre,78.0,30.0
+free throw,missed,Centre,78.0,30.0
+offensive rebound,,Centre,,
+subbing in,,covenant,78.0,30.0
+subbing out,,covenant,78.0,30.0
+jumper,missed,Centre,64.0,16.0
+defensive rebound,,covenant,,
+layup,missed,covenant,51.0,17.0
+defensive rebound,,Centre,,
+foul,,covenant,49.0,28.0
+free throw,good,Centre,49.0,30.0
+free throw,good,Centre,49.0,30.0
+subbing in,,covenant,49.0,30.0
+subbing in,,covenant,49.0,30.0
+subbing out,,covenant,49.0,30.0
+subbing out,,covenant,49.0,30.0
+subbing in,,Centre,49.0,30.0
+subbing out,,Centre,49.0,30.0
+layup,missed,covenant,37.0,18.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,22.0,22.0
+offensive rebound,,Centre,,
+,,,18.0,18.0
+layup,good,covenant,5.0,5.0
+assist,,covenant,,
+,,,,
+subbing in,,covenant,600.0,593.0
+subbing out,,covenant,600.0,593.0
+subbing in,,Centre,600.0,593.0
+subbing in,,Centre,600.0,593.0
+subbing out,,Centre,600.0,593.0
+subbing out,,Centre,600.0,593.0
+foul,,covenant,589.0,582.0
+jumper,good,Centre,569.0,10.0
+jumper,missed,covenant,552.0,13.0
+offensive rebound,,covenant,,
+layup,missed,covenant,546.0,24.0
+block,,Centre,546.0,30.0
+defensive rebound,,Centre,,
+three pointer,missed,covenant,519.0,3.0
+defensive rebound,,Centre,,
+foul,,Centre,497.0,8.0
+free throw,good,covenant,497.0,30.0
+free throw,good,covenant,497.0,30.0
+subbing in,,covenant,497.0,30.0
+subbing in,,covenant,497.0,30.0
+subbing out,,covenant,497.0,30.0
+subbing out,,covenant,497.0,30.0
+subbing in,,Centre,497.0,30.0
+subbing in,,Centre,497.0,30.0
+subbing in,,Centre,497.0,30.0
+subbing in,,Centre,497.0,30.0
+subbing in,,Centre,497.0,30.0
+subbing out,,Centre,497.0,30.0
+subbing out,,Centre,497.0,30.0
+subbing out,,Centre,497.0,30.0
+subbing out,,Centre,497.0,30.0
+subbing out,,Centre,497.0,30.0
+turnover,,Centre,489.0,22.0
+steal,,covenant,488.0,29.0
+jumper,good,covenant,484.0,26.0
+assist,,covenant,,
+foul,,covenant,471.0,17.0
+subbing in,,covenant,471.0,30.0
+subbing out,,covenant,471.0,30.0
+subbing in,,Centre,471.0,30.0
+subbing out,,Centre,471.0,30.0
+layup,good,Centre,460.0,19.0
+assist,,Centre,,
+jumper,missed,covenant,443.0,13.0
+defensive rebound,,Centre,,
+subbing in,,Centre,441.0,28.0
+subbing out,,Centre,441.0,28.0
+layup,good,Centre,430.0,17.0
+assist,,Centre,,
+foul,,Centre,424.0,24.0
+subbing in,,covenant,416.0,22.0
+subbing in,,covenant,416.0,22.0
+subbing out,,covenant,416.0,22.0
+subbing out,,covenant,416.0,22.0
+foul,,Centre,396.0,2.0
+subbing in,,covenant,396.0,30.0
+subbing out,,covenant,396.0,30.0
+subbing in,,Centre,396.0,30.0
+subbing out,,Centre,396.0,30.0
+jumper,missed,covenant,385.0,19.0
+block,,Centre,385.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,363.0,8.0
+steal,,covenant,362.0,29.0
+subbing in,,covenant,344.0,12.0
+subbing in,,covenant,344.0,12.0
+subbing in,,covenant,344.0,12.0
+subbing out,,covenant,344.0,12.0
+subbing out,,covenant,344.0,12.0
+subbing out,,covenant,344.0,12.0
+foul,,Centre,336.0,4.0
+foul,,Centre,332.0,26.0
+free throw,missed,covenant,332.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,covenant,332.0,30.0
+offensive rebound,,covenant,,
+subbing in,,Centre,332.0,30.0
+subbing in,,Centre,332.0,30.0
+subbing in,,Centre,332.0,30.0
+subbing in,,Centre,332.0,30.0
+subbing out,,Centre,332.0,30.0
+subbing out,,Centre,332.0,30.0
+subbing out,,Centre,332.0,30.0
+subbing out,,Centre,332.0,30.0
+foul,,covenant,315.0,13.0
+turnover,,Centre,311.0,26.0
+steal,,covenant,309.0,28.0
+jumper,missed,covenant,305.0,26.0
+defensive rebound,,Centre,,
+foul,,covenant,286.0,11.0
+subbing in,,covenant,286.0,30.0
+subbing out,,covenant,286.0,30.0
+jumper,missed,Centre,280.0,24.0
+defensive rebound,,covenant,,
+turnover,,covenant,258.0,8.0
+steal,,Centre,257.0,29.0
+foul,,covenant,254.0,27.0
+free throw,missed,Centre,254.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,254.0,30.0
+subbing in,,Centre,254.0,30.0
+subbing in,,Centre,254.0,30.0
+subbing out,,Centre,254.0,30.0
+subbing out,,Centre,254.0,30.0
+jumper,missed,covenant,243.0,19.0
+offensive rebound,,covenant,,
+turnover,,covenant,237.0,24.0
+jumper,good,Centre,231.0,24.0
+assist,,Centre,,
+jumper,missed,covenant,213.0,12.0
+deadball rebound,,Centre,,
+foul,,Centre,213.0,30.0
+free throw,good,covenant,213.0,30.0
+free throw,good,covenant,213.0,30.0
+subbing in,,Centre,213.0,30.0
+subbing in,,Centre,213.0,30.0
+subbing out,,Centre,213.0,30.0
+subbing out,,Centre,213.0,30.0
+foul,,covenant,199.0,16.0
+free throw,missed,Centre,199.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,Centre,199.0,30.0
+defensive rebound,,covenant,,
+subbing in,,covenant,199.0,30.0
+subbing out,,covenant,199.0,30.0
+jumper,missed,covenant,190.0,21.0
+defensive rebound,,Centre,,
+turnover,,Centre,175.0,15.0
+jumper,missed,covenant,160.0,15.0
+block,,Centre,160.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,159.0,29.0
+subbing in,,Centre,159.0,29.0
+subbing out,,Centre,159.0,29.0
+subbing out,,Centre,159.0,29.0
+turnover,,Centre,142.0,12.0
+layup,good,covenant,138.0,26.0
+assist,,covenant,,
+foul,,covenant,127.0,19.0
+free throw,good,Centre,127.0,30.0
+free throw,missed,Centre,127.0,30.0
+defensive rebound,,covenant,,
+subbing in,,covenant,127.0,30.0
+subbing in,,covenant,127.0,30.0
+subbing in,,covenant,127.0,30.0
+subbing in,,covenant,127.0,30.0
+subbing in,,covenant,127.0,30.0
+subbing out,,covenant,127.0,30.0
+subbing out,,covenant,127.0,30.0
+subbing out,,covenant,127.0,30.0
+subbing out,,covenant,127.0,30.0
+subbing out,,covenant,127.0,30.0
+jumper,good,covenant,102.0,5.0
+assist,,covenant,,
+layup,good,Centre,85.0,13.0
+assist,,Centre,,
+foul,,covenant,85.0,30.0
+free throw,good,Centre,85.0,30.0
+subbing in,,Centre,85.0,30.0
+subbing in,,Centre,85.0,30.0
+subbing out,,Centre,85.0,30.0
+subbing out,,Centre,85.0,30.0
+jumper,good,covenant,62.0,7.0
+assist,,covenant,,
+timeout,,Centre,58.0,26.0
+subbing in,,Centre,58.0,26.0
+subbing in,,Centre,58.0,26.0
+subbing out,,Centre,58.0,26.0
+subbing out,,Centre,58.0,26.0
+three pointer,missed,Centre,49.0,17.0
+offensive rebound,,Centre,,
+,,,45.0,30.0
+foul,,covenant,45.0,30.0
+free throw,good,Centre,45.0,45.0
+jumper,good,covenant,21.0,21.0
