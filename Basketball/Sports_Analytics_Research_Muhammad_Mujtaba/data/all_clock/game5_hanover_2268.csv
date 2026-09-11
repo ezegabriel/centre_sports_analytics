@@ -1,0 +1,631 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+jumper,missed,Centre,573.0,3.0
+block,,hanover,573.0,30.0
+defensive rebound,,hanover,,
+three pointer,missed,hanover,564.0,21.0
+defensive rebound,,Centre,,
+layup,missed,Centre,554.0,20.0
+defensive rebound,,hanover,,
+turnover,,hanover,543.0,19.0
+steal,,Centre,541.0,28.0
+three pointer,good,Centre,531.0,20.0
+assist,,Centre,,
+three pointer,good,hanover,509.0,8.0
+assist,,hanover,,
+three pointer,missed,Centre,492.0,13.0
+offensive rebound,,Centre,,
+three pointer,good,Centre,482.0,20.0
+assist,,Centre,,
+three pointer,missed,hanover,471.0,19.0
+defensive rebound,,Centre,,
+layup,good,Centre,464.0,23.0
+assist,,Centre,,
+turnover,,hanover,450.0,16.0
+subbing in,,Centre,450.0,30.0
+subbing out,,Centre,450.0,30.0
+turnover,,Centre,442.0,22.0
+steal,,hanover,441.0,29.0
+foul,,Centre,435.0,24.0
+free throw,good,hanover,435.0,30.0
+free throw,good,hanover,435.0,30.0
+foul,,hanover,422.0,17.0
+subbing in,,Centre,422.0,30.0
+subbing in,,Centre,422.0,30.0
+three pointer,missed,Centre,417.0,25.0
+defensive rebound,,hanover,,
+foul,,Centre,407.0,20.0
+subbing in,,Centre,407.0,30.0
+subbing in,,Centre,407.0,30.0
+subbing out,,Centre,407.0,30.0
+subbing out,,Centre,407.0,30.0
+subbing out,,Centre,407.0,30.0
+subbing out,,Centre,407.0,30.0
+layup,missed,hanover,405.0,28.0
+defensive rebound,,Centre,,
+foul,,hanover,387.0,12.0
+subbing in,,Centre,387.0,30.0
+subbing out,,Centre,387.0,30.0
+jumper,good,Centre,383.0,26.0
+assist,,Centre,,
+layup,missed,hanover,373.0,20.0
+defensive rebound,,Centre,,
+layup,missed,Centre,366.0,23.0
+block,,hanover,366.0,23.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,350.0,7.0
+offensive rebound,,Centre,,
+turnover,,Centre,344.0,24.0
+steal,,hanover,342.0,28.0
+turnover,,hanover,339.0,27.0
+steal,,Centre,336.0,27.0
+layup,good,Centre,334.0,28.0
+jumper,good,hanover,311.0,7.0
+turnover,,Centre,297.0,16.0
+steal,,hanover,295.0,28.0
+jumper,missed,hanover,289.0,24.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,272.0,13.0
+defensive rebound,,hanover,,
+turnover,,hanover,262.0,20.0
+steal,,Centre,259.0,27.0
+jumper,missed,Centre,253.0,24.0
+defensive rebound,,hanover,,
+turnover,,hanover,244.0,21.0
+subbing in,,Centre,244.0,30.0
+subbing out,,Centre,244.0,30.0
+subbing in,,hanover,244.0,30.0
+subbing in,,hanover,244.0,30.0
+subbing in,,hanover,244.0,30.0
+subbing out,,hanover,244.0,30.0
+subbing out,,hanover,244.0,30.0
+subbing out,,hanover,244.0,30.0
+foul,,hanover,234.0,20.0
+layup,good,Centre,228.0,24.0
+assist,,Centre,,
+jumper,missed,hanover,219.0,21.0
+defensive rebound,,Centre,,
+turnover,,Centre,198.0,9.0
+steal,,hanover,196.0,28.0
+layup,good,hanover,193.0,27.0
+subbing in,,Centre,183.0,20.0
+subbing out,,Centre,183.0,20.0
+subbing in,,hanover,183.0,20.0
+subbing in,,hanover,183.0,20.0
+subbing in,,hanover,183.0,20.0
+subbing out,,hanover,183.0,20.0
+subbing out,,hanover,183.0,20.0
+subbing out,,hanover,183.0,20.0
+jumper,missed,Centre,165.0,2.0
+defensive rebound,,hanover,,
+layup,missed,hanover,158.0,23.0
+block,,Centre,158.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,150.0,22.0
+steal,,hanover,148.0,28.0
+foul,,Centre,148.0,30.0
+subbing in,,Centre,148.0,30.0
+subbing in,,Centre,148.0,30.0
+subbing out,,Centre,148.0,30.0
+subbing out,,Centre,148.0,30.0
+foul,,Centre,137.0,19.0
+layup,missed,hanover,136.0,29.0
+offensive rebound,,hanover,,
+turnover,,hanover,131.0,25.0
+steal,,Centre,131.0,30.0
+turnover,,Centre,125.0,24.0
+steal,,hanover,123.0,28.0
+layup,good,hanover,118.0,25.0
+assist,,hanover,,
+foul,,Centre,118.0,30.0
+free throw,missed,hanover,118.0,30.0
+offensive rebound,,Centre,,
+subbing in,,Centre,118.0,30.0
+subbing in,,Centre,118.0,30.0
+subbing out,,Centre,118.0,30.0
+subbing out,,Centre,118.0,30.0
+subbing in,,hanover,118.0,30.0
+subbing out,,hanover,118.0,30.0
+foul,,Centre,104.0,16.0
+free throw,good,hanover,104.0,30.0
+free throw,good,hanover,104.0,30.0
+three pointer,missed,Centre,95.0,21.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,84.0,19.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,81.0,27.0
+defensive rebound,,hanover,,
+three pointer,missed,hanover,66.0,15.0
+defensive rebound,,Centre,,
+foul,,hanover,54.0,18.0
+subbing in,,Centre,54.0,30.0
+subbing in,,Centre,54.0,30.0
+subbing in,,Centre,54.0,30.0
+subbing out,,Centre,54.0,30.0
+subbing out,,Centre,54.0,30.0
+subbing out,,Centre,54.0,30.0
+subbing in,,hanover,54.0,30.0
+subbing out,,hanover,54.0,30.0
+three pointer,good,Centre,46.0,22.0
+assist,,Centre,,
+jumper,missed,hanover,21.0,21.0
+defensive rebound,,Centre,,
+layup,missed,Centre,10.0,10.0
+block,,hanover,10.0,10.0
+defensive rebound,,hanover,,
+three pointer,missed,hanover,3.0,3.0
+defensive rebound,,Centre,,
+,,,,
+subbing in,,Centre,600.0,584.0
+subbing in,,Centre,600.0,584.0
+subbing out,,Centre,600.0,584.0
+subbing out,,Centre,600.0,584.0
+subbing in,,hanover,600.0,584.0
+subbing out,,hanover,600.0,584.0
+foul,,Centre,590.0,574.0
+free throw,good,hanover,590.0,30.0
+free throw,good,hanover,590.0,30.0
+subbing in,,Centre,590.0,30.0
+subbing out,,Centre,590.0,30.0
+turnover,,Centre,580.0,20.0
+steal,,hanover,578.0,28.0
+layup,missed,hanover,565.0,17.0
+block,,Centre,565.0,30.0
+defensive rebound,,Centre,,
+layup,good,Centre,554.0,19.0
+assist,,Centre,,
+turnover,,hanover,543.0,19.0
+subbing in,,hanover,543.0,30.0
+subbing out,,hanover,543.0,30.0
+three pointer,missed,Centre,530.0,17.0
+defensive rebound,,hanover,,
+foul,,Centre,523.0,23.0
+free throw,good,hanover,523.0,30.0
+free throw,good,hanover,523.0,30.0
+subbing in,,Centre,523.0,30.0
+subbing out,,Centre,523.0,30.0
+subbing in,,hanover,523.0,30.0
+subbing out,,hanover,523.0,30.0
+three pointer,good,Centre,499.0,6.0
+turnover,,hanover,492.0,23.0
+three pointer,missed,Centre,476.0,14.0
+defensive rebound,,hanover,,
+three pointer,missed,hanover,458.0,12.0
+defensive rebound,,Centre,,
+turnover,,Centre,448.0,20.0
+steal,,hanover,446.0,28.0
+jumper,good,hanover,444.0,28.0
+turnover,,Centre,432.0,18.0
+steal,,hanover,430.0,28.0
+jumper,missed,hanover,423.0,23.0
+defensive rebound,,Centre,,
+timeout,,Centre,420.0,27.0
+subbing in,,Centre,420.0,27.0
+subbing in,,Centre,420.0,27.0
+subbing out,,Centre,420.0,27.0
+subbing out,,Centre,420.0,27.0
+jumper,good,Centre,394.0,1.0
+assist,,Centre,,
+layup,good,hanover,368.0,4.0
+assist,,hanover,,
+turnover,,Centre,346.0,8.0
+subbing in,,hanover,346.0,30.0
+subbing out,,hanover,346.0,30.0
+three pointer,missed,hanover,329.0,13.0
+offensive rebound,,hanover,,
+foul,,Centre,326.0,27.0
+timeout,,Centre,326.0,30.0
+subbing in,,Centre,326.0,30.0
+subbing in,,Centre,326.0,30.0
+subbing in,,Centre,326.0,30.0
+subbing out,,Centre,326.0,30.0
+subbing out,,Centre,326.0,30.0
+subbing out,,Centre,326.0,30.0
+layup,good,hanover,325.0,29.0
+assist,,hanover,,
+layup,missed,Centre,314.0,19.0
+offensive rebound,,Centre,,
+layup,missed,Centre,306.0,22.0
+defensive rebound,,hanover,,
+three pointer,missed,hanover,293.0,17.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,284.0,21.0
+defensive rebound,,hanover,,
+jumper,missed,hanover,271.0,17.0
+defensive rebound,,Centre,,
+foul,,hanover,268.0,27.0
+subbing in,,Centre,268.0,30.0
+subbing out,,Centre,268.0,30.0
+subbing in,,hanover,268.0,30.0
+subbing in,,hanover,268.0,30.0
+subbing out,,hanover,268.0,30.0
+subbing out,,hanover,268.0,30.0
+turnover,,Centre,257.0,19.0
+steal,,hanover,255.0,28.0
+turnover,,hanover,253.0,28.0
+steal,,Centre,252.0,29.0
+layup,good,Centre,251.0,29.0
+foul,,Centre,245.0,24.0
+free throw,good,hanover,245.0,30.0
+free throw,missed,hanover,245.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,245.0,30.0
+subbing out,,Centre,245.0,30.0
+subbing in,,hanover,242.0,27.0
+subbing out,,hanover,242.0,27.0
+turnover,,Centre,227.0,12.0
+layup,missed,hanover,212.0,15.0
+offensive rebound,,hanover,,
+turnover,,hanover,206.0,24.0
+steal,,Centre,205.0,29.0
+layup,good,Centre,205.0,30.0
+foul,,hanover,205.0,30.0
+free throw,good,Centre,205.0,30.0
+subbing in,,Centre,205.0,30.0
+subbing in,,Centre,205.0,30.0
+subbing out,,Centre,205.0,30.0
+subbing out,,Centre,205.0,30.0
+subbing in,,hanover,205.0,30.0
+subbing out,,hanover,205.0,30.0
+three pointer,good,hanover,190.0,15.0
+assist,,hanover,,
+layup,missed,Centre,170.0,10.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,167.0,27.0
+defensive rebound,,hanover,,
+foul,,Centre,160.0,23.0
+free throw,good,hanover,160.0,30.0
+free throw,good,hanover,160.0,30.0
+subbing in,,Centre,160.0,30.0
+subbing out,,Centre,160.0,30.0
+foul,,hanover,140.0,10.0
+subbing in,,Centre,136.0,26.0
+subbing out,,Centre,136.0,26.0
+subbing in,,hanover,136.0,26.0
+subbing out,,hanover,136.0,26.0
+jumper,missed,Centre,130.0,20.0
+defensive rebound,,hanover,,
+three pointer,missed,hanover,121.0,21.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,113.0,22.0
+defensive rebound,,hanover,,
+jumper,missed,hanover,99.0,16.0
+defensive rebound,,Centre,,
+layup,missed,Centre,78.0,9.0
+offensive rebound,,Centre,,
+turnover,,Centre,76.0,28.0
+subbing in,,Centre,76.0,30.0
+subbing out,,Centre,76.0,30.0
+subbing in,,hanover,76.0,30.0
+subbing out,,hanover,76.0,30.0
+turnover,,hanover,60.0,14.0
+steal,,Centre,60.0,30.0
+foul,,hanover,60.0,30.0
+jumper,good,Centre,44.0,14.0
+jumper,missed,hanover,24.0,24.0
+offensive rebound,,hanover,,
+layup,good,hanover,20.0,20.0
+jumper,missed,Centre,5.0,5.0
+defensive rebound,,hanover,,
+three pointer,missed,hanover,0.0,0.0
+defensive rebound,,Centre,,
+,,,,
+layup,good,hanover,596.0,26.0
+foul,,Centre,596.0,30.0
+free throw,good,hanover,596.0,30.0
+turnover,,Centre,574.0,8.0
+foul,,Centre,566.0,22.0
+foul,,Centre,559.0,23.0
+free throw,good,hanover,559.0,30.0
+free throw,good,hanover,559.0,30.0
+subbing in,,Centre,559.0,30.0
+subbing out,,Centre,559.0,30.0
+jumper,missed,Centre,530.0,1.0
+deadball rebound,,Centre,,
+subbing in,,Centre,518.0,18.0
+subbing in,,Centre,518.0,18.0
+subbing out,,Centre,518.0,18.0
+subbing out,,Centre,518.0,18.0
+three pointer,missed,hanover,502.0,2.0
+deadball rebound,,Centre,,
+subbing in,,Centre,500.0,28.0
+subbing out,,Centre,500.0,28.0
+subbing in,,hanover,500.0,28.0
+subbing out,,hanover,500.0,28.0
+jumper,missed,Centre,486.0,14.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,478.0,22.0
+defensive rebound,,hanover,,
+layup,good,hanover,469.0,21.0
+foul,,Centre,469.0,30.0
+free throw,good,hanover,469.0,30.0
+foul,,hanover,462.0,23.0
+subbing in,,Centre,462.0,30.0
+subbing out,,Centre,462.0,30.0
+three pointer,missed,Centre,461.0,29.0
+defensive rebound,,hanover,,
+turnover,,hanover,450.0,19.0
+jumper,good,Centre,437.0,17.0
+layup,missed,hanover,425.0,18.0
+offensive rebound,,hanover,,
+layup,good,hanover,420.0,25.0
+jumper,good,Centre,407.0,17.0
+three pointer,missed,hanover,391.0,14.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,384.0,23.0
+defensive rebound,,hanover,,
+subbing in,,Centre,371.0,17.0
+subbing out,,Centre,371.0,17.0
+subbing in,,hanover,371.0,17.0
+subbing in,,hanover,371.0,17.0
+subbing out,,hanover,371.0,17.0
+subbing out,,hanover,371.0,17.0
+jumper,missed,hanover,368.0,14.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,359.0,21.0
+defensive rebound,,hanover,,
+layup,missed,hanover,346.0,17.0
+defensive rebound,,Centre,,
+foul,,hanover,338.0,22.0
+timeout,,Centre,338.0,30.0
+subbing in,,Centre,338.0,30.0
+subbing out,,Centre,338.0,30.0
+foul,,hanover,334.0,26.0
+three pointer,missed,Centre,331.0,27.0
+offensive rebound,,Centre,,
+three pointer,good,Centre,322.0,21.0
+assist,,Centre,,
+foul,,Centre,310.0,18.0
+free throw,good,hanover,310.0,30.0
+free throw,good,hanover,310.0,30.0
+subbing in,,Centre,310.0,30.0
+subbing out,,Centre,310.0,30.0
+subbing in,,hanover,310.0,30.0
+subbing out,,hanover,310.0,30.0
+three pointer,missed,Centre,297.0,17.0
+offensive rebound,,Centre,,
+three pointer,good,Centre,292.0,25.0
+three pointer,missed,hanover,278.0,16.0
+defensive rebound,,Centre,,
+foul,,hanover,263.0,15.0
+subbing in,,hanover,263.0,30.0
+subbing out,,hanover,263.0,30.0
+three pointer,missed,Centre,256.0,23.0
+defensive rebound,,hanover,,
+layup,missed,hanover,249.0,23.0
+defensive rebound,,Centre,,
+turnover,,Centre,226.0,7.0
+steal,,hanover,223.0,27.0
+jumper,missed,hanover,220.0,27.0
+offensive rebound,,hanover,,
+jumper,good,hanover,216.0,26.0
+layup,good,Centre,196.0,10.0
+assist,,Centre,,
+foul,,Centre,189.0,23.0
+free throw,missed,hanover,189.0,30.0
+deadball rebound,,Centre,,
+free throw,good,hanover,189.0,30.0
+subbing in,,hanover,189.0,30.0
+subbing out,,hanover,189.0,30.0
+subbing out,,hanover,189.0,30.0
+layup,missed,Centre,177.0,18.0
+defensive rebound,,hanover,,
+layup,missed,hanover,170.0,23.0
+offensive rebound,,hanover,,
+foul,,Centre,168.0,28.0
+free throw,good,hanover,168.0,30.0
+free throw,good,hanover,168.0,30.0
+subbing in,,hanover,168.0,30.0
+subbing out,,hanover,168.0,30.0
+turnover,,Centre,159.0,21.0
+steal,,hanover,158.0,29.0
+foul,,Centre,158.0,30.0
+free throw,good,hanover,158.0,30.0
+free throw,good,hanover,158.0,30.0
+layup,missed,Centre,132.0,4.0
+defensive rebound,,hanover,,
+layup,good,hanover,125.0,23.0
+timeout,,Centre,108.0,13.0
+subbing in,,Centre,108.0,13.0
+subbing in,,Centre,108.0,13.0
+subbing out,,Centre,108.0,13.0
+subbing out,,Centre,108.0,13.0
+jumper,missed,Centre,97.0,2.0
+defensive rebound,,hanover,,
+foul,,Centre,85.0,18.0
+free throw,good,hanover,85.0,30.0
+free throw,missed,hanover,85.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,85.0,30.0
+subbing out,,Centre,85.0,30.0
+foul,,hanover,72.0,17.0
+free throw,good,Centre,72.0,30.0
+free throw,good,Centre,72.0,30.0
+subbing in,,Centre,72.0,30.0
+subbing out,,Centre,72.0,30.0
+subbing in,,hanover,72.0,30.0
+subbing out,,hanover,72.0,30.0
+layup,good,hanover,55.0,13.0
+assist,,hanover,,
+foul,,hanover,35.0,10.0
+free throw,good,Centre,35.0,30.0
+free throw,missed,Centre,35.0,30.0
+defensive rebound,,hanover,,
+layup,good,hanover,7.0,7.0
+three pointer,missed,Centre,0.0,0.0
+defensive rebound,,Centre,,
+,,,,
+subbing in,,Centre,600.0,30.0
+subbing in,,Centre,600.0,30.0
+subbing out,,Centre,600.0,30.0
+subbing out,,Centre,600.0,30.0
+subbing in,,hanover,600.0,30.0
+subbing out,,hanover,600.0,30.0
+turnover,,Centre,587.0,17.0
+jumper,good,hanover,581.0,24.0
+assist,,hanover,,
+foul,,hanover,571.0,20.0
+subbing in,,Centre,571.0,30.0
+subbing out,,Centre,571.0,30.0
+three pointer,missed,Centre,568.0,27.0
+deadball rebound,,Centre,,
+foul,,Centre,566.0,28.0
+three pointer,missed,hanover,555.0,19.0
+defensive rebound,,Centre,,
+subbing in,,Centre,552.0,27.0
+subbing out,,Centre,552.0,27.0
+layup,good,Centre,535.0,10.0
+assist,,Centre,,
+jumper,good,hanover,525.0,20.0
+assist,,hanover,,
+layup,good,Centre,511.0,16.0
+layup,good,hanover,498.0,17.0
+assist,,hanover,,
+jumper,good,Centre,481.0,13.0
+layup,missed,hanover,468.0,17.0
+block,,Centre,468.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,460.0,22.0
+subbing in,,Centre,460.0,30.0
+subbing out,,Centre,460.0,30.0
+foul,,Centre,446.0,16.0
+layup,missed,hanover,431.0,15.0
+block,,Centre,431.0,30.0
+defensive rebound,,Centre,,
+foul,,hanover,428.0,27.0
+turnover,,Centre,410.0,12.0
+steal,,hanover,408.0,28.0
+foul,,Centre,402.0,24.0
+timeout,,Centre,402.0,30.0
+subbing in,,Centre,402.0,30.0
+subbing in,,Centre,402.0,30.0
+subbing out,,Centre,402.0,30.0
+subbing out,,Centre,402.0,30.0
+subbing in,,hanover,402.0,30.0
+subbing in,,hanover,402.0,30.0
+subbing out,,hanover,402.0,30.0
+subbing out,,hanover,402.0,30.0
+foul,,Centre,398.0,26.0
+subbing in,,Centre,398.0,30.0
+subbing in,,Centre,398.0,30.0
+subbing out,,Centre,398.0,30.0
+subbing out,,Centre,398.0,30.0
+jumper,good,hanover,393.0,25.0
+assist,,hanover,,
+jumper,good,Centre,383.0,20.0
+assist,,Centre,,
+jumper,missed,hanover,370.0,17.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,362.0,22.0
+defensive rebound,,hanover,,
+jumper,missed,hanover,352.0,20.0
+block,,Centre,352.0,30.0
+defensive rebound,,Centre,,
+foul,,hanover,344.0,22.0
+free throw,good,Centre,344.0,30.0
+free throw,good,Centre,344.0,30.0
+subbing in,,Centre,344.0,30.0
+subbing in,,Centre,344.0,30.0
+subbing out,,Centre,344.0,30.0
+subbing out,,Centre,344.0,30.0
+subbing in,,hanover,344.0,30.0
+subbing in,,hanover,344.0,30.0
+subbing out,,hanover,344.0,30.0
+subbing out,,hanover,344.0,30.0
+foul,,Centre,335.0,21.0
+free throw,good,hanover,335.0,30.0
+free throw,good,hanover,335.0,30.0
+three pointer,missed,Centre,323.0,18.0
+defensive rebound,,hanover,,
+turnover,,hanover,319.0,26.0
+three pointer,good,Centre,317.0,28.0
+assist,,Centre,,
+layup,good,hanover,301.0,14.0
+assist,,hanover,,
+layup,good,Centre,289.0,18.0
+layup,good,hanover,282.0,23.0
+assist,,hanover,,
+three pointer,missed,Centre,257.0,5.0
+defensive rebound,,hanover,,
+foul,,Centre,249.0,22.0
+free throw,good,hanover,249.0,30.0
+free throw,good,hanover,249.0,30.0
+subbing in,,Centre,249.0,30.0
+subbing out,,Centre,249.0,30.0
+subbing out,,hanover,249.0,30.0
+subbing out,,hanover,249.0,30.0
+subbing out,,hanover,249.0,30.0
+subbing out,,hanover,249.0,30.0
+subbing out,,hanover,249.0,30.0
+timeout,,Centre,245.0,26.0
+subbing in,,Centre,245.0,26.0
+subbing in,,Centre,245.0,26.0
+subbing in,,Centre,245.0,26.0
+subbing out,,Centre,245.0,26.0
+subbing out,,Centre,245.0,26.0
+subbing out,,Centre,245.0,26.0
+subbing in,,hanover,245.0,26.0
+subbing in,,hanover,245.0,26.0
+subbing in,,hanover,245.0,26.0
+subbing in,,hanover,245.0,26.0
+subbing in,,hanover,245.0,26.0
+foul,,hanover,223.0,4.0
+free throw,good,Centre,223.0,30.0
+free throw,missed,Centre,223.0,30.0
+defensive rebound,,hanover,,
+subbing in,,Centre,223.0,30.0
+subbing in,,Centre,223.0,30.0
+subbing out,,Centre,223.0,30.0
+subbing out,,Centre,223.0,30.0
+turnover,,hanover,211.0,18.0
+layup,good,Centre,202.0,21.0
+jumper,good,hanover,193.0,21.0
+assist,,hanover,,
+layup,good,Centre,181.0,18.0
+foul,,hanover,181.0,30.0
+free throw,good,Centre,181.0,30.0
+jumper,missed,hanover,163.0,12.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,156.0,23.0
+defensive rebound,,hanover,,
+turnover,,hanover,149.0,23.0
+subbing in,,Centre,149.0,30.0
+subbing out,,Centre,149.0,30.0
+jumper,missed,Centre,141.0,22.0
+defensive rebound,,hanover,,
+foul,,Centre,140.0,29.0
+free throw,good,hanover,140.0,30.0
+free throw,missed,hanover,140.0,30.0
+defensive rebound,,Centre,,
+subbing in,,hanover,140.0,30.0
+subbing out,,hanover,140.0,30.0
+jumper,missed,Centre,128.0,18.0
+offensive rebound,,Centre,,
+foul,,hanover,117.0,19.0
+free throw,missed,Centre,117.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,117.0,30.0
+subbing in,,Centre,117.0,30.0
+subbing out,,Centre,117.0,30.0
+foul,,Centre,110.0,23.0
+free throw,good,hanover,110.0,30.0
+free throw,good,hanover,110.0,30.0
+subbing in,,hanover,110.0,30.0
+subbing out,,hanover,110.0,30.0
+turnover,,Centre,99.0,19.0
+subbing in,,hanover,99.0,30.0
+subbing in,,hanover,99.0,30.0
+subbing in,,hanover,99.0,30.0
+subbing out,,hanover,99.0,30.0
+subbing out,,hanover,99.0,30.0
+subbing out,,hanover,99.0,30.0
+jumper,missed,hanover,89.0,20.0
+offensive rebound,,hanover,,
+timeout,,Centre,84.0,25.0
+layup,missed,hanover,71.0,12.0
+offensive rebound,,hanover,,
+layup,good,hanover,67.0,26.0
+three pointer,missed,Centre,59.0,22.0
+defensive rebound,,Centre,,
+jumper,missed,hanover,29.0,29.0
+offensive rebound,,hanover,,

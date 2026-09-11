@@ -1,0 +1,572 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+foul,,Centre,585.0,15.0
+foul,,methodist,585.0,30.0
+turnover,,methodist,585.0,30.0
+subbing in,,Centre,585.0,30.0
+subbing out,,Centre,585.0,30.0
+jumper,missed,Centre,556.0,1.0
+block,,methodist,556.0,30.0
+defensive rebound,,methodist,,
+jumper,missed,methodist,533.0,7.0
+defensive rebound,,Centre,,
+turnover,,Centre,516.0,13.0
+steal,,methodist,514.0,28.0
+layup,missed,methodist,495.0,11.0
+defensive rebound,,Centre,,
+layup,missed,Centre,483.0,18.0
+defensive rebound,,methodist,,
+layup,missed,methodist,474.0,21.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,463.0,19.0
+offensive rebound,,Centre,,
+foul,,methodist,463.0,30.0
+free throw,missed,Centre,463.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,463.0,30.0
+subbing in,,Centre,463.0,30.0
+subbing out,,Centre,463.0,30.0
+layup,missed,methodist,445.0,12.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,421.0,6.0
+defensive rebound,,methodist,,
+jumper,missed,methodist,413.0,22.0
+defensive rebound,,Centre,,
+turnover,,Centre,404.0,21.0
+steal,,methodist,402.0,28.0
+three pointer,good,methodist,387.0,15.0
+assist,,methodist,,
+turnover,,Centre,360.0,3.0
+steal,,methodist,359.0,29.0
+foul,,Centre,342.0,13.0
+free throw,missed,methodist,342.0,30.0
+deadball rebound,,Centre,,
+free throw,good,methodist,342.0,30.0
+subbing in,,Centre,342.0,30.0
+subbing in,,Centre,342.0,30.0
+subbing in,,Centre,342.0,30.0
+subbing in,,Centre,342.0,30.0
+subbing out,,Centre,342.0,30.0
+subbing out,,Centre,342.0,30.0
+subbing out,,Centre,342.0,30.0
+subbing out,,Centre,342.0,30.0
+subbing in,,methodist,342.0,30.0
+subbing in,,methodist,342.0,30.0
+subbing out,,methodist,342.0,30.0
+subbing out,,methodist,342.0,30.0
+jumper,missed,Centre,327.0,15.0
+offensive rebound,,Centre,,
+layup,good,Centre,315.0,18.0
+assist,,Centre,,
+jumper,good,methodist,303.0,18.0
+assist,,methodist,,
+jumper,missed,Centre,290.0,17.0
+offensive rebound,,Centre,,
+layup,missed,Centre,284.0,24.0
+defensive rebound,,methodist,,
+layup,missed,methodist,273.0,19.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,264.0,21.0
+offensive rebound,,Centre,,
+layup,missed,Centre,259.0,25.0
+offensive rebound,,Centre,,
+layup,good,Centre,250.0,21.0
+turnover,,methodist,232.0,12.0
+timeout,,Centre,232.0,30.0
+three pointer,good,Centre,215.0,13.0
+assist,,Centre,,
+turnover,,methodist,201.0,16.0
+steal,,Centre,198.0,27.0
+layup,missed,Centre,193.0,25.0
+offensive rebound,,Centre,,
+subbing in,,Centre,193.0,30.0
+subbing in,,Centre,193.0,30.0
+subbing in,,Centre,193.0,30.0
+subbing out,,Centre,193.0,30.0
+subbing out,,Centre,193.0,30.0
+subbing out,,Centre,193.0,30.0
+layup,missed,Centre,192.0,29.0
+defensive rebound,,Centre,,
+subbing in,,Centre,192.0,30.0
+subbing out,,Centre,192.0,30.0
+turnover,,methodist,179.0,17.0
+steal,,Centre,179.0,30.0
+subbing in,,methodist,179.0,30.0
+subbing in,,methodist,179.0,30.0
+subbing out,,methodist,179.0,30.0
+subbing out,,methodist,179.0,30.0
+foul,,methodist,172.0,23.0
+turnover,,Centre,153.0,11.0
+steal,,methodist,152.0,29.0
+subbing in,,Centre,152.0,30.0
+subbing out,,Centre,152.0,30.0
+jumper,good,methodist,136.0,14.0
+layup,good,Centre,124.0,18.0
+layup,missed,methodist,105.0,11.0
+offensive rebound,,methodist,,
+three pointer,missed,methodist,101.0,26.0
+defensive rebound,,Centre,,
+foul,,methodist,97.0,26.0
+subbing in,,Centre,97.0,30.0
+subbing out,,Centre,97.0,30.0
+subbing in,,methodist,97.0,30.0
+subbing out,,methodist,97.0,30.0
+foul,,methodist,81.0,14.0
+free throw,good,Centre,81.0,30.0
+free throw,good,Centre,81.0,30.0
+subbing in,,Centre,81.0,30.0
+subbing out,,Centre,81.0,30.0
+subbing in,,methodist,81.0,30.0
+subbing out,,methodist,81.0,30.0
+turnover,,methodist,73.0,22.0
+foul,,methodist,73.0,30.0
+foul,,methodist,60.0,17.0
+free throw,missed,Centre,60.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,Centre,60.0,30.0
+defensive rebound,,methodist,,
+foul,,Centre,45.0,15.0
+subbing in,,Centre,45.0,30.0
+subbing out,,Centre,45.0,30.0
+turnover,,methodist,42.0,27.0
+jumper,good,Centre,27.0,27.0
+layup,missed,methodist,12.0,12.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,0.0,0.0
+offensive rebound,,Centre,,
+,,,,
+subbing in,,Centre,600.0,30.0
+subbing in,,Centre,600.0,30.0
+subbing out,,Centre,600.0,30.0
+subbing out,,Centre,600.0,30.0
+subbing in,,methodist,600.0,30.0
+subbing out,,methodist,600.0,30.0
+layup,good,Centre,591.0,21.0
+assist,,Centre,,
+layup,good,methodist,572.0,11.0
+turnover,,Centre,555.0,13.0
+steal,,methodist,553.0,28.0
+jumper,missed,methodist,539.0,16.0
+offensive rebound,,methodist,,
+layup,missed,methodist,534.0,25.0
+defensive rebound,,Centre,,
+turnover,,Centre,529.0,25.0
+layup,missed,methodist,517.0,18.0
+offensive rebound,,methodist,,
+three pointer,missed,methodist,511.0,24.0
+offensive rebound,,methodist,,
+jumper,missed,methodist,502.0,21.0
+offensive rebound,,methodist,,
+layup,good,methodist,499.0,27.0
+jumper,good,Centre,483.0,14.0
+jumper,missed,methodist,465.0,12.0
+defensive rebound,,Centre,,
+layup,good,methodist,445.0,10.0
+foul,,methodist,437.0,22.0
+free throw,missed,Centre,437.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,Centre,437.0,30.0
+defensive rebound,,methodist,,
+subbing in,,Centre,437.0,30.0
+subbing in,,Centre,437.0,30.0
+subbing in,,Centre,437.0,30.0
+subbing in,,Centre,437.0,30.0
+subbing out,,Centre,437.0,30.0
+subbing out,,Centre,437.0,30.0
+subbing out,,Centre,437.0,30.0
+subbing out,,Centre,437.0,30.0
+three pointer,missed,methodist,425.0,18.0
+offensive rebound,,Centre,,
+foul,,Centre,422.0,27.0
+foul,,Centre,422.0,30.0
+free throw,missed,methodist,422.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,methodist,422.0,30.0
+defensive rebound,,Centre,,
+foul,,methodist,408.0,16.0
+free throw,good,Centre,408.0,30.0
+free throw,missed,Centre,408.0,30.0
+defensive rebound,,methodist,,
+subbing in,,methodist,408.0,30.0
+subbing out,,methodist,408.0,30.0
+foul,,Centre,407.0,29.0
+subbing in,,Centre,407.0,30.0
+subbing out,,Centre,407.0,30.0
+jumper,good,methodist,398.0,21.0
+assist,,methodist,,
+turnover,,Centre,379.0,11.0
+steal,,methodist,376.0,27.0
+jumper,missed,methodist,370.0,24.0
+deadball rebound,,Centre,,
+foul,,methodist,369.0,29.0
+subbing in,,Centre,369.0,30.0
+subbing out,,Centre,369.0,30.0
+layup,missed,Centre,352.0,13.0
+defensive rebound,,methodist,,
+three pointer,missed,methodist,327.0,5.0
+defensive rebound,,Centre,,
+turnover,,Centre,310.0,13.0
+steal,,methodist,309.0,29.0
+layup,good,methodist,306.0,27.0
+three pointer,missed,Centre,287.0,11.0
+defensive rebound,,methodist,,
+jumper,missed,methodist,271.0,14.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,256.0,15.0
+assist,,Centre,,
+layup,good,methodist,242.0,16.0
+jumper,good,Centre,213.0,1.0
+turnover,,methodist,188.0,5.0
+timeout,,Centre,188.0,30.0
+subbing in,,Centre,188.0,30.0
+subbing in,,Centre,188.0,30.0
+subbing in,,Centre,188.0,30.0
+subbing out,,Centre,188.0,30.0
+subbing out,,Centre,188.0,30.0
+subbing out,,Centre,188.0,30.0
+subbing in,,methodist,188.0,30.0
+subbing in,,methodist,188.0,30.0
+subbing out,,methodist,188.0,30.0
+subbing out,,methodist,188.0,30.0
+jumper,missed,Centre,181.0,23.0
+defensive rebound,,Centre,,
+jumper,missed,methodist,167.0,16.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,156.0,19.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,143.0,17.0
+offensive rebound,,Centre,,
+jumper,good,Centre,133.0,20.0
+turnover,,methodist,111.0,8.0
+steal,,Centre,110.0,29.0
+foul,,methodist,101.0,21.0
+free throw,good,Centre,101.0,30.0
+free throw,good,Centre,101.0,30.0
+subbing in,,Centre,101.0,30.0
+subbing out,,Centre,101.0,30.0
+layup,missed,methodist,91.0,20.0
+deadball rebound,,Centre,,
+foul,,methodist,89.0,28.0
+free throw,missed,Centre,89.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,89.0,30.0
+subbing in,,Centre,89.0,30.0
+subbing out,,Centre,89.0,30.0
+turnover,,methodist,80.0,21.0
+layup,good,Centre,63.0,13.0
+assist,,Centre,,
+foul,,Centre,41.0,8.0
+free throw,good,methodist,41.0,30.0
+free throw,good,methodist,41.0,30.0
+timeout,,Centre,41.0,30.0
+subbing in,,Centre,41.0,30.0
+subbing out,,Centre,41.0,30.0
+subbing in,,methodist,41.0,30.0
+subbing out,,methodist,41.0,30.0
+jumper,good,Centre,33.0,22.0
+assist,,Centre,,
+jumper,missed,methodist,18.0,18.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,10.0,10.0
+offensive rebound,,Centre,,
+layup,good,Centre,5.0,5.0
+foul,,methodist,3.0,3.0
+free throw,missed,Centre,3.0,3.0
+deadball rebound,,Centre,,
+free throw,good,Centre,3.0,3.0
+subbing in,,Centre,3.0,3.0
+subbing in,,Centre,3.0,3.0
+subbing out,,Centre,3.0,3.0
+subbing out,,Centre,3.0,3.0
+three pointer,missed,methodist,0.0,0.0
+deadball rebound,,Centre,,
+,,,,
+jumper,missed,methodist,593.0,23.0
+defensive rebound,,Centre,,
+turnover,,Centre,580.0,17.0
+jumper,good,methodist,568.0,18.0
+assist,,methodist,,
+turnover,,Centre,550.0,12.0
+steal,,methodist,549.0,29.0
+foul,,Centre,547.0,28.0
+free throw,good,methodist,547.0,30.0
+free throw,missed,methodist,547.0,30.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,524.0,7.0
+defensive rebound,,Centre,,
+turnover,,methodist,511.0,17.0
+jumper,missed,Centre,497.0,16.0
+defensive rebound,,methodist,,
+layup,good,methodist,474.0,7.0
+timeout,,Centre,463.0,19.0
+timeout,,Centre,463.0,19.0
+subbing in,,Centre,463.0,19.0
+subbing in,,Centre,463.0,19.0
+subbing out,,Centre,463.0,19.0
+subbing out,,Centre,463.0,19.0
+jumper,good,Centre,454.0,10.0
+jumper,missed,methodist,429.0,5.0
+defensive rebound,,Centre,,
+turnover,,Centre,416.0,17.0
+steal,,methodist,415.0,29.0
+jumper,missed,methodist,397.0,12.0
+defensive rebound,,Centre,,
+subbing in,,Centre,393.0,26.0
+subbing in,,Centre,393.0,26.0
+subbing out,,Centre,393.0,26.0
+subbing out,,Centre,393.0,26.0
+layup,missed,Centre,362.0,25.0
+offensive rebound,,Centre,,
+layup,missed,Centre,357.0,25.0
+block,,methodist,357.0,25.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,354.0,22.0
+offensive rebound,,Centre,,
+layup,missed,Centre,350.0,26.0
+offensive rebound,,Centre,,
+foul,,methodist,349.0,29.0
+turnover,,Centre,346.0,27.0
+foul,,Centre,332.0,16.0
+free throw,good,methodist,332.0,30.0
+free throw,missed,methodist,332.0,30.0
+defensive rebound,,Centre,,
+subbing in,,methodist,332.0,30.0
+subbing out,,methodist,332.0,30.0
+foul,,methodist,316.0,14.0
+free throw,missed,Centre,316.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,316.0,30.0
+subbing in,,Centre,316.0,30.0
+subbing out,,Centre,316.0,30.0
+turnover,,methodist,307.0,21.0
+steal,,Centre,304.0,27.0
+layup,good,Centre,301.0,27.0
+assist,,Centre,,
+turnover,,methodist,290.0,19.0
+steal,,Centre,287.0,27.0
+layup,missed,Centre,284.0,27.0
+offensive rebound,,Centre,,
+timeout,,Centre,284.0,30.0
+subbing in,,methodist,284.0,30.0
+subbing out,,methodist,284.0,30.0
+layup,good,Centre,276.0,22.0
+assist,,Centre,,
+layup,missed,methodist,261.0,15.0
+block,,Centre,261.0,30.0
+defensive rebound,,Centre,,
+subbing in,,methodist,252.0,21.0
+subbing out,,methodist,252.0,21.0
+jumper,missed,Centre,246.0,15.0
+defensive rebound,,methodist,,
+foul,,Centre,231.0,15.0
+subbing in,,Centre,231.0,30.0
+subbing in,,Centre,231.0,30.0
+subbing out,,Centre,231.0,30.0
+subbing out,,Centre,231.0,30.0
+jumper,missed,methodist,215.0,14.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,194.0,9.0
+defensive rebound,,methodist,,
+layup,missed,methodist,179.0,15.0
+defensive rebound,,Centre,,
+turnover,,Centre,173.0,24.0
+steal,,methodist,171.0,28.0
+layup,good,methodist,169.0,28.0
+turnover,,Centre,142.0,3.0
+steal,,methodist,142.0,30.0
+timeout,,Centre,142.0,30.0
+subbing in,,Centre,142.0,30.0
+subbing out,,Centre,142.0,30.0
+three pointer,good,methodist,130.0,18.0
+assist,,methodist,,
+subbing in,,Centre,123.0,23.0
+subbing out,,Centre,123.0,23.0
+jumper,missed,Centre,121.0,21.0
+defensive rebound,,methodist,,
+three pointer,missed,methodist,105.0,14.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,99.0,24.0
+offensive rebound,,Centre,,
+turnover,,Centre,94.0,25.0
+steal,,methodist,92.0,28.0
+turnover,,methodist,71.0,9.0
+steal,,Centre,69.0,28.0
+three pointer,good,Centre,65.0,26.0
+assist,,Centre,,
+turnover,,methodist,45.0,10.0
+steal,,Centre,43.0,28.0
+layup,missed,Centre,21.0,21.0
+block,,methodist,21.0,21.0
+defensive rebound,,methodist,,
+foul,,Centre,11.0,11.0
+jumper,missed,methodist,7.0,7.0
+defensive rebound,,Centre,,
+foul,,methodist,1.0,1.0
+free throw,missed,Centre,1.0,1.0
+deadball rebound,,Centre,,
+free throw,good,Centre,1.0,1.0
+,,,,
+subbing in,,Centre,600.0,587.0
+subbing out,,Centre,600.0,587.0
+subbing in,,methodist,600.0,587.0
+subbing in,,methodist,600.0,587.0
+subbing in,,methodist,600.0,587.0
+subbing out,,methodist,600.0,587.0
+subbing out,,methodist,600.0,587.0
+subbing out,,methodist,600.0,587.0
+subbing in,,Centre,598.0,585.0
+subbing out,,Centre,598.0,585.0
+three pointer,missed,Centre,596.0,583.0
+defensive rebound,,methodist,,
+jumper,good,methodist,566.0,0.0
+foul,,Centre,566.0,30.0
+free throw,missed,methodist,566.0,30.0
+defensive rebound,,Centre,,
+subbing in,,methodist,566.0,30.0
+subbing out,,methodist,566.0,30.0
+turnover,,Centre,541.0,5.0
+steal,,methodist,540.0,29.0
+layup,missed,methodist,527.0,17.0
+offensive rebound,,methodist,,
+subbing in,,Centre,524.0,27.0
+subbing out,,Centre,524.0,27.0
+subbing in,,methodist,524.0,27.0
+subbing out,,methodist,524.0,27.0
+foul,,Centre,510.0,13.0
+free throw,good,methodist,510.0,30.0
+free throw,good,methodist,510.0,30.0
+subbing in,,Centre,510.0,30.0
+subbing out,,Centre,510.0,30.0
+jumper,good,Centre,496.0,16.0
+assist,,Centre,,
+layup,good,methodist,479.0,13.0
+foul,,methodist,475.0,26.0
+subbing in,,Centre,475.0,30.0
+subbing out,,Centre,475.0,30.0
+layup,missed,Centre,461.0,16.0
+defensive rebound,,methodist,,
+foul,,methodist,458.0,27.0
+turnover,,methodist,458.0,30.0
+jumper,missed,Centre,455.0,27.0
+defensive rebound,,methodist,,
+jumper,missed,methodist,439.0,14.0
+defensive rebound,,Centre,,
+layup,good,Centre,425.0,16.0
+three pointer,missed,methodist,406.0,11.0
+offensive rebound,,methodist,,
+foul,,Centre,403.0,27.0
+subbing in,,Centre,403.0,30.0
+subbing in,,Centre,403.0,30.0
+subbing in,,Centre,403.0,30.0
+subbing out,,Centre,403.0,30.0
+subbing out,,Centre,403.0,30.0
+subbing out,,Centre,403.0,30.0
+subbing in,,methodist,403.0,30.0
+subbing out,,methodist,403.0,30.0
+three pointer,missed,methodist,398.0,25.0
+defensive rebound,,Centre,,
+layup,missed,Centre,374.0,6.0
+deadball rebound,,Centre,,
+foul,,Centre,374.0,30.0
+layup,missed,methodist,361.0,17.0
+block,,Centre,361.0,30.0
+defensive rebound,,Centre,,
+jumper,good,Centre,352.0,21.0
+assist,,Centre,,
+foul,,Centre,336.0,14.0
+free throw,good,methodist,336.0,30.0
+free throw,good,methodist,336.0,30.0
+subbing in,,Centre,336.0,30.0
+subbing out,,Centre,336.0,30.0
+layup,missed,methodist,303.0,27.0
+defensive rebound,,Centre,,
+subbing in,,methodist,303.0,30.0
+subbing out,,methodist,303.0,30.0
+jumper,missed,Centre,286.0,13.0
+defensive rebound,,methodist,,
+layup,missed,methodist,279.0,23.0
+block,,Centre,279.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,267.0,18.0
+steal,,methodist,266.0,29.0
+layup,missed,methodist,259.0,23.0
+defensive rebound,,Centre,,
+turnover,,Centre,243.0,14.0
+steal,,methodist,242.0,29.0
+timeout,,Centre,236.0,24.0
+foul,,methodist,236.0,24.0
+free throw,good,Centre,236.0,24.0
+free throw,missed,Centre,236.0,24.0
+deadball rebound,,Centre,,
+subbing in,,Centre,236.0,24.0
+subbing in,,Centre,236.0,24.0
+subbing in,,Centre,236.0,24.0
+subbing out,,Centre,236.0,24.0
+subbing out,,Centre,236.0,24.0
+subbing out,,Centre,236.0,24.0
+subbing in,,methodist,236.0,24.0
+subbing in,,methodist,236.0,24.0
+subbing out,,methodist,236.0,24.0
+subbing out,,methodist,236.0,24.0
+foul,,methodist,205.0,23.0
+free throw,good,Centre,205.0,30.0
+free throw,missed,Centre,205.0,30.0
+defensive rebound,,methodist,,
+jumper,missed,methodist,186.0,11.0
+defensive rebound,,Centre,,
+layup,missed,Centre,165.0,9.0
+defensive rebound,,methodist,,
+jumper,good,methodist,149.0,14.0
+assist,,methodist,,
+turnover,,Centre,130.0,11.0
+steal,,methodist,128.0,28.0
+three pointer,missed,methodist,115.0,17.0
+offensive rebound,,methodist,,
+foul,,Centre,111.0,26.0
+free throw,missed,methodist,111.0,30.0
+deadball rebound,,Centre,,
+free throw,good,methodist,111.0,30.0
+subbing in,,Centre,111.0,30.0
+subbing in,,Centre,111.0,30.0
+subbing in,,Centre,111.0,30.0
+subbing out,,Centre,111.0,30.0
+subbing out,,Centre,111.0,30.0
+subbing out,,Centre,111.0,30.0
+subbing in,,methodist,111.0,30.0
+subbing in,,methodist,111.0,30.0
+subbing out,,methodist,111.0,30.0
+subbing out,,methodist,111.0,30.0
+jumper,missed,Centre,100.0,19.0
+defensive rebound,,methodist,,
+foul,,Centre,86.0,16.0
+free throw,missed,methodist,86.0,30.0
+deadball rebound,,Centre,,
+free throw,good,methodist,86.0,30.0
+foul,,methodist,83.0,27.0
+free throw,good,Centre,83.0,30.0
+free throw,good,Centre,83.0,30.0
+subbing in,,Centre,83.0,30.0
+subbing in,,Centre,83.0,30.0
+subbing out,,Centre,83.0,30.0
+subbing out,,Centre,83.0,30.0
+jumper,missed,methodist,69.0,16.0
+defensive rebound,,Centre,,
+foul,,methodist,53.0,14.0
+free throw,good,Centre,53.0,30.0
+free throw,good,Centre,53.0,30.0
+subbing in,,Centre,53.0,30.0
+subbing out,,Centre,53.0,30.0
+turnover,,methodist,36.0,13.0
+steal,,Centre,36.0,30.0
+foul,,methodist,36.0,30.0
+free throw,missed,Centre,36.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,Centre,36.0,30.0
+defensive rebound,,methodist,,
+jumper,good,methodist,27.0,27.0
+assist,,methodist,,
+timeout,,Centre,25.0,25.0
+subbing in,,Centre,25.0,25.0
+subbing in,,Centre,25.0,25.0
+subbing out,,Centre,25.0,25.0
+subbing out,,Centre,25.0,25.0

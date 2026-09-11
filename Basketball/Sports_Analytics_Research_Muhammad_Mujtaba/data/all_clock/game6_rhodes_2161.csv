@@ -1,0 +1,443 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+three pointer,good,Centre,1200.0,30.0
+jumper,missed,Centre,1193.0,23.0
+offensive rebound,,Centre,,
+jumper,good,Centre,1178.0,15.0
+turnover,,rhodes,1167.0,19.0
+jumper,missed,Centre,1151.0,14.0
+defensive rebound,,rhodes,,
+jumper,missed,rhodes,1138.0,17.0
+defensive rebound,,Centre,,
+foul,,rhodes,1029.0,-49.0
+jumper,good,rhodes,1000.0,1.0
+jumper,good,Centre,943.0,3.0
+foul,,rhodes,927.0,14.0
+jumper,missed,Centre,916.0,19.0
+offensive rebound,,Centre,,
+foul,,Centre,883.0,27.0
+three pointer,good,rhodes,873.0,20.0
+assist,,rhodes,,
+jumper,missed,Centre,873.0,30.0
+defensive rebound,,rhodes,,
+three pointer,missed,rhodes,873.0,30.0
+defensive rebound,,rhodes,,
+turnover,,rhodes,873.0,30.0
+jumper,good,Centre,873.0,30.0
+subbing in,,Centre,873.0,30.0
+subbing in,,Centre,873.0,30.0
+subbing out,,Centre,873.0,30.0
+subbing out,,Centre,873.0,30.0
+subbing in,,rhodes,873.0,30.0
+subbing in,,rhodes,873.0,30.0
+subbing in,,rhodes,873.0,30.0
+subbing out,,rhodes,873.0,30.0
+subbing out,,rhodes,873.0,30.0
+subbing out,,rhodes,873.0,30.0
+foul,,Centre,859.0,16.0
+jumper,missed,Centre,851.0,22.0
+defensive rebound,,rhodes,,
+three pointer,missed,rhodes,836.0,15.0
+defensive rebound,,Centre,,
+turnover,,Centre,828.0,22.0
+steal,,rhodes,824.0,26.0
+jumper,good,rhodes,812.0,18.0
+assist,,rhodes,,
+turnover,,Centre,803.0,21.0
+steal,,rhodes,784.0,11.0
+layup,good,rhodes,776.0,22.0
+jumper,good,Centre,768.0,22.0
+assist,,Centre,,
+jumper,missed,rhodes,749.0,11.0
+deadball rebound,,Centre,,
+turnover,,rhodes,746.0,27.0
+jumper,missed,Centre,746.0,30.0
+deadball rebound,,Centre,,
+jumper,missed,rhodes,736.0,20.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,701.0,25.0
+defensive rebound,,rhodes,,
+three pointer,missed,rhodes,679.0,8.0
+offensive rebound,,rhodes,,
+foul,,Centre,666.0,17.0
+jumper,missed,rhodes,660.0,24.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,651.0,21.0
+defensive rebound,,rhodes,,
+three pointer,missed,rhodes,640.0,19.0
+defensive rebound,,Centre,,
+turnover,,Centre,630.0,20.0
+steal,,rhodes,627.0,27.0
+three pointer,good,rhodes,610.0,13.0
+jumper,good,Centre,590.0,10.0
+three pointer,missed,rhodes,568.0,8.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,550.0,12.0
+defensive rebound,,rhodes,,
+layup,good,rhodes,544.0,24.0
+jumper,missed,Centre,527.0,13.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,515.0,18.0
+offensive rebound,,Centre,,
+foul,,rhodes,490.0,5.0
+free throw,missed,Centre,475.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,475.0,30.0
+three pointer,missed,rhodes,475.0,30.0
+offensive rebound,,rhodes,,
+layup,missed,rhodes,475.0,15.0
+offensive rebound,,rhodes,,
+layup,good,rhodes,475.0,30.0
+jumper,missed,rhodes,475.0,30.0
+defensive rebound,,Centre,,
+layup,missed,Centre,475.0,30.0
+block,,rhodes,475.0,30.0
+deadball rebound,,Centre,,
+layup,missed,rhodes,475.0,30.0
+offensive rebound,,rhodes,,
+subbing in,,Centre,475.0,30.0
+subbing out,,Centre,475.0,30.0
+subbing out,,Centre,475.0,30.0
+subbing in,,rhodes,475.0,30.0
+subbing in,,rhodes,475.0,30.0
+subbing in,,rhodes,475.0,30.0
+subbing out,,rhodes,475.0,30.0
+subbing out,,rhodes,475.0,30.0
+subbing out,,rhodes,475.0,30.0
+turnover,,Centre,449.0,4.0
+steal,,rhodes,448.0,29.0
+turnover,,rhodes,445.0,27.0
+steal,,Centre,443.0,28.0
+foul,,rhodes,434.0,21.0
+free throw,good,Centre,418.0,30.0
+free throw,good,Centre,413.0,30.0
+three pointer,missed,rhodes,403.0,29.0
+deadball rebound,,Centre,,
+turnover,,Centre,384.0,11.0
+steal,,rhodes,381.0,27.0
+layup,missed,rhodes,380.0,29.0
+deadball rebound,,Centre,,
+jumper,good,Centre,356.0,6.0
+jumper,good,Centre,341.0,15.0
+jumper,missed,rhodes,330.0,19.0
+defensive rebound,,Centre,,
+jumper,good,Centre,319.0,19.0
+jumper,good,rhodes,295.0,6.0
+foul,,Centre,259.0,24.0
+turnover,,rhodes,249.0,20.0
+steal,,Centre,249.0,30.0
+foul,,rhodes,249.0,30.0
+free throw,missed,Centre,249.0,30.0
+deadball rebound,,Centre,,
+turnover,,Centre,249.0,30.0
+steal,,rhodes,249.0,30.0
+layup,good,rhodes,249.0,30.0
+turnover,,Centre,249.0,30.0
+steal,,rhodes,249.0,30.0
+three pointer,missed,rhodes,249.0,30.0
+deadball rebound,,Centre,,
+subbing in,,Centre,249.0,30.0
+subbing in,,Centre,249.0,30.0
+subbing in,,Centre,249.0,30.0
+subbing in,,Centre,249.0,30.0
+subbing out,,Centre,249.0,30.0
+subbing out,,Centre,249.0,30.0
+subbing in,,rhodes,249.0,30.0
+subbing in,,rhodes,249.0,30.0
+subbing in,,rhodes,249.0,30.0
+subbing out,,rhodes,249.0,30.0
+subbing out,,rhodes,249.0,30.0
+subbing out,,rhodes,249.0,30.0
+timeout,,Centre,244.0,25.0
+jumper,missed,Centre,172.0,-17.0
+defensive rebound,,rhodes,,
+jumper,good,rhodes,166.0,24.0
+turnover,,Centre,147.0,11.0
+steal,,rhodes,137.0,20.0
+layup,missed,rhodes,134.0,27.0
+defensive rebound,,Centre,,
+jumper,good,Centre,125.0,21.0
+assist,,Centre,,
+three pointer,good,rhodes,120.0,25.0
+three pointer,missed,Centre,85.0,25.0
+deadball rebound,,Centre,,
+jumper,good,Centre,72.0,17.0
+layup,good,rhodes,56.0,14.0
+turnover,,Centre,18.0,18.0
+steal,,rhodes,15.0,15.0
+foul,,Centre,1.0,1.0
+free throw,missed,rhodes,1.0,1.0
+offensive rebound,,rhodes,,
+three pointer,missed,rhodes,1.0,1.0
+deadball rebound,,Centre,,
+free throw,good,rhodes,0.0,0.0
+jumper,good,rhodes,0.0,0.0
+jumper,good,Centre,0.0,0.0
+,,,,
+turnover,,rhodes,1199.0,29.0
+jumper,missed,Centre,1170.0,1.0
+deadball rebound,,Centre,,
+foul,,rhodes,1134.0,24.0
+free throw,missed,Centre,1124.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,Centre,1113.0,30.0
+defensive rebound,,rhodes,,
+jumper,missed,rhodes,1106.0,2.0
+offensive rebound,,rhodes,,
+jumper,missed,rhodes,1106.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,1106.0,30.0
+steal,,rhodes,1106.0,30.0
+layup,good,rhodes,1106.0,30.0
+assist,,rhodes,,
+foul,,rhodes,1090.0,14.0
+free throw,good,Centre,1087.0,30.0
+free throw,good,Centre,1087.0,30.0
+jumper,missed,rhodes,1081.0,21.0
+defensive rebound,,Centre,,
+jumper,good,Centre,1075.0,24.0
+turnover,,rhodes,1044.0,29.0
+jumper,good,Centre,1036.0,22.0
+jumper,good,rhodes,1017.0,11.0
+assist,,rhodes,,
+three pointer,missed,Centre,1002.0,15.0
+three pointer,missed,rhodes,968.0,26.0
+defensive rebound,,Centre,,
+turnover,,Centre,943.0,5.0
+jumper,missed,rhodes,941.0,28.0
+deadball rebound,,Centre,,
+foul,,rhodes,941.0,30.0
+jumper,missed,Centre,930.0,19.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,923.0,23.0
+defensive rebound,,rhodes,,
+layup,missed,rhodes,910.0,17.0
+defensive rebound,,Centre,,
+foul,,rhodes,900.0,20.0
+foul,,rhodes,896.0,26.0
+subbing in,,rhodes,896.0,30.0
+subbing in,,rhodes,896.0,30.0
+subbing in,,rhodes,896.0,30.0
+subbing in,,rhodes,896.0,30.0
+subbing out,,rhodes,896.0,30.0
+subbing out,,rhodes,896.0,30.0
+subbing out,,rhodes,896.0,30.0
+subbing out,,rhodes,896.0,30.0
+jumper,missed,Centre,895.0,29.0
+defensive rebound,,rhodes,,
+foul,,Centre,889.0,24.0
+foul,,Centre,868.0,9.0
+free throw,missed,rhodes,865.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,rhodes,865.0,30.0
+defensive rebound,,Centre,,
+foul,,rhodes,865.0,27.0
+subbing in,,Centre,865.0,30.0
+subbing in,,Centre,865.0,30.0
+subbing in,,Centre,865.0,30.0
+subbing out,,Centre,865.0,30.0
+subbing out,,Centre,865.0,30.0
+three pointer,missed,Centre,861.0,26.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,855.0,24.0
+defensive rebound,,rhodes,,
+three pointer,missed,rhodes,848.0,23.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,835.0,17.0
+defensive rebound,,rhodes,,
+turnover,,rhodes,828.0,23.0
+turnover,,Centre,824.0,26.0
+foul,,Centre,822.0,28.0
+subbing in,,rhodes,822.0,30.0
+subbing in,,rhodes,822.0,30.0
+subbing out,,rhodes,822.0,30.0
+subbing out,,rhodes,822.0,30.0
+jumper,missed,rhodes,814.0,22.0
+defensive rebound,,Centre,,
+timeout,,Centre,802.0,18.0
+foul,,rhodes,787.0,3.0
+free throw,good,Centre,783.0,30.0
+free throw,good,Centre,783.0,30.0
+foul,,Centre,760.0,3.0
+free throw,good,rhodes,757.0,30.0
+free throw,good,rhodes,757.0,30.0
+subbing in,,Centre,757.0,30.0
+subbing out,,Centre,757.0,30.0
+subbing in,,rhodes,757.0,30.0
+subbing out,,rhodes,757.0,30.0
+jumper,missed,Centre,748.0,18.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,740.0,22.0
+defensive rebound,,rhodes,,
+three pointer,good,rhodes,711.0,1.0
+three pointer,missed,Centre,691.0,10.0
+offensive rebound,,Centre,,
+turnover,,Centre,684.0,23.0
+steal,,rhodes,684.0,30.0
+foul,,Centre,684.0,30.0
+jumper,missed,rhodes,670.0,16.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,648.0,8.0
+block,,rhodes,648.0,30.0
+deadball rebound,,Centre,,
+turnover,,rhodes,636.0,18.0
+steal,,Centre,635.0,29.0
+three pointer,good,Centre,626.0,21.0
+assist,,Centre,,
+foul,,rhodes,626.0,30.0
+free throw,good,Centre,626.0,30.0
+free throw,good,Centre,626.0,30.0
+subbing in,,Centre,626.0,30.0
+subbing in,,Centre,626.0,30.0
+subbing out,,Centre,626.0,30.0
+subbing out,,Centre,626.0,30.0
+subbing out,,Centre,626.0,30.0
+subbing in,,rhodes,626.0,30.0
+subbing in,,rhodes,626.0,30.0
+subbing in,,rhodes,626.0,30.0
+subbing out,,rhodes,626.0,30.0
+subbing out,,rhodes,626.0,30.0
+subbing out,,rhodes,626.0,30.0
+three pointer,good,rhodes,624.0,28.0
+foul,,rhodes,612.0,18.0
+free throw,good,Centre,612.0,30.0
+free throw,good,Centre,605.0,30.0
+subbing in,,Centre,591.0,9.0
+subbing out,,Centre,591.0,9.0
+jumper,good,rhodes,576.0,24.0
+assist,,rhodes,,
+three pointer,missed,Centre,567.0,21.0
+offensive rebound,,Centre,,
+layup,good,Centre,562.0,25.0
+assist,,Centre,,
+foul,,Centre,532.0,0.0
+free throw,missed,rhodes,530.0,30.0
+deadball rebound,,Centre,,
+free throw,good,rhodes,530.0,30.0
+subbing in,,rhodes,530.0,30.0
+subbing out,,rhodes,530.0,30.0
+jumper,missed,Centre,514.0,12.0
+defensive rebound,,rhodes,,
+foul,,Centre,505.0,21.0
+free throw,missed,rhodes,499.0,30.0
+defensive rebound,,Centre,,
+foul,,rhodes,498.0,23.0
+free throw,good,Centre,498.0,30.0
+free throw,good,Centre,498.0,30.0
+subbing in,,rhodes,498.0,30.0
+subbing out,,rhodes,498.0,30.0
+subbing out,,rhodes,498.0,30.0
+foul,,Centre,483.0,15.0
+free throw,good,rhodes,483.0,30.0
+free throw,missed,rhodes,483.0,30.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,481.0,28.0
+defensive rebound,,rhodes,,
+jumper,missed,rhodes,461.0,10.0
+defensive rebound,,Centre,,
+foul,,Centre,453.0,22.0
+subbing in,,rhodes,453.0,30.0
+subbing out,,rhodes,453.0,30.0
+three pointer,good,rhodes,425.0,2.0
+assist,,rhodes,,
+jumper,missed,Centre,404.0,9.0
+defensive rebound,,rhodes,,
+foul,,Centre,399.0,25.0
+free throw,missed,rhodes,397.0,30.0
+deadball rebound,,Centre,,
+free throw,good,rhodes,397.0,30.0
+subbing in,,Centre,397.0,30.0
+subbing out,,Centre,397.0,30.0
+subbing in,,rhodes,397.0,30.0
+subbing out,,rhodes,397.0,30.0
+jumper,missed,Centre,387.0,18.0
+defensive rebound,,rhodes,,
+three pointer,missed,rhodes,377.0,20.0
+defensive rebound,,Centre,,
+foul,,rhodes,373.0,26.0
+free throw,good,Centre,373.0,30.0
+free throw,good,Centre,373.0,30.0
+subbing in,,Centre,373.0,30.0
+subbing out,,Centre,373.0,30.0
+subbing in,,rhodes,373.0,30.0
+subbing in,,rhodes,373.0,30.0
+subbing out,,rhodes,373.0,30.0
+jumper,missed,rhodes,370.0,27.0
+offensive rebound,,rhodes,,
+jumper,missed,rhodes,353.0,13.0
+offensive rebound,,rhodes,,
+free throw,missed,rhodes,350.0,30.0
+deadball rebound,,Centre,,
+free throw,good,rhodes,350.0,30.0
+jumper,missed,Centre,335.0,12.0
+defensive rebound,,rhodes,,
+three pointer,good,rhodes,323.0,18.0
+assist,,rhodes,,
+jumper,missed,Centre,308.0,15.0
+defensive rebound,,rhodes,,
+turnover,,rhodes,283.0,5.0
+steal,,Centre,280.0,27.0
+three pointer,missed,Centre,259.0,9.0
+defensive rebound,,rhodes,,
+timeout,,Centre,250.0,21.0
+jumper,missed,rhodes,227.0,28.0
+block,,Centre,227.0,30.0
+defensive rebound,,Centre,,
+layup,good,Centre,218.0,21.0
+assist,,Centre,,
+jumper,good,rhodes,185.0,27.0
+jumper,good,Centre,152.0,27.0
+assist,,Centre,,
+jumper,missed,rhodes,119.0,27.0
+defensive rebound,,Centre,,
+foul,,rhodes,110.0,21.0
+timeout,,Centre,110.0,30.0
+free throw,missed,Centre,110.0,30.0
+deadball rebound,,Centre,,
+subbing in,,Centre,110.0,30.0
+subbing in,,Centre,110.0,30.0
+subbing out,,Centre,110.0,30.0
+subbing out,,Centre,110.0,30.0
+subbing in,,rhodes,110.0,30.0
+subbing in,,rhodes,110.0,30.0
+subbing out,,rhodes,110.0,30.0
+subbing out,,rhodes,110.0,30.0
+free throw,good,Centre,107.0,30.0
+timeout,,rhodes,87.0,7.0
+subbing in,,Centre,87.0,7.0
+subbing out,,Centre,87.0,7.0
+jumper,missed,rhodes,80.0,0.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,62.0,12.0
+assist,,Centre,,
+foul,,Centre,43.0,11.0
+free throw,good,rhodes,43.0,30.0
+free throw,missed,rhodes,43.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,43.0,30.0
+subbing in,,Centre,43.0,30.0
+subbing out,,Centre,43.0,30.0
+subbing out,,Centre,43.0,30.0
+subbing in,,rhodes,43.0,30.0
+subbing in,,rhodes,43.0,30.0
+subbing out,,rhodes,43.0,30.0
+subbing out,,rhodes,43.0,30.0
+foul,,rhodes,26.0,26.0
+free throw,good,Centre,26.0,26.0
+free throw,good,Centre,26.0,26.0
+timeout,,rhodes,24.0,24.0
+foul,,rhodes,16.0,16.0
+timeout,,Centre,16.0,16.0
+foul,,rhodes,16.0,16.0
+free throw,good,Centre,16.0,16.0
+free throw,good,Centre,16.0,16.0
+subbing in,,rhodes,16.0,16.0
+subbing out,,rhodes,16.0,16.0
+three pointer,missed,rhodes,10.0,10.0
+defensive rebound,,Centre,,
+foul,,rhodes,1.0,1.0
+free throw,missed,Centre,1.0,1.0
+deadball rebound,,Centre,,
+free throw,good,Centre,1.0,1.0
+three pointer,missed,rhodes,0.0,0.0
+defensive rebound,,Centre,,

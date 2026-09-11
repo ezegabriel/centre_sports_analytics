@@ -1,0 +1,528 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+layup,good,spalding,1179.0,609.0
+assist,,Centre,,
+three pointer,good,Centre,1164.0,15.0
+assist,,Centre,,
+jumper,missed,spalding,1154.0,20.0
+defensive rebound,,Centre,,
+turnover,,Centre,1143.0,19.0
+layup,missed,spalding,1122.0,9.0
+offensive rebound,,spalding,,
+turnover,,spalding,1101.0,9.0
+steal,,Centre,1099.0,28.0
+foul,,spalding,1080.0,11.0
+foul,,spalding,1063.0,13.0
+free throw,good,Centre,1063.0,30.0
+free throw,good,Centre,1063.0,30.0
+layup,missed,spalding,1059.0,26.0
+block,,Centre,1059.0,26.0
+offensive rebound,,Centre,,
+three pointer,missed,spalding,1052.0,19.0
+offensive rebound,,Centre,,
+layup,good,spalding,1028.0,6.0
+layup,good,Centre,1015.0,17.0
+layup,missed,spalding,1007.0,22.0
+block,,Centre,1007.0,22.0
+offensive rebound,,Centre,,
+subbing in,,spalding,1007.0,22.0
+subbing out,,spalding,1007.0,22.0
+layup,good,spalding,990.0,5.0
+assist,,spalding,,
+subbing in,,Centre,976.0,16.0
+subbing in,,Centre,976.0,16.0
+subbing out,,Centre,976.0,16.0
+subbing out,,Centre,976.0,16.0
+subbing in,,spalding,976.0,16.0
+subbing out,,spalding,976.0,16.0
+three pointer,missed,Centre,970.0,10.0
+block,,spalding,970.0,30.0
+defensive rebound,,spalding,,
+three pointer,missed,spalding,951.0,11.0
+defensive rebound,,Centre,,
+subbing in,,spalding,945.0,24.0
+subbing in,,spalding,945.0,24.0
+subbing in,,spalding,945.0,24.0
+subbing out,,spalding,945.0,24.0
+layup,good,Centre,944.0,23.0
+assist,,Centre,,
+jumper,missed,spalding,933.0,19.0
+offensive rebound,,spalding,,
+foul,,Centre,930.0,27.0
+free throw,good,spalding,930.0,30.0
+free throw,missed,spalding,930.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,930.0,30.0
+subbing out,,Centre,930.0,30.0
+subbing out,,spalding,930.0,30.0
+subbing out,,spalding,930.0,30.0
+turnover,,Centre,904.0,4.0
+steal,,spalding,902.0,28.0
+turnover,,spalding,892.0,20.0
+subbing in,,spalding,892.0,30.0
+subbing out,,spalding,892.0,30.0
+foul,,spalding,877.0,15.0
+jumper,good,Centre,864.0,17.0
+assist,,Centre,,
+jumper,missed,spalding,844.0,10.0
+offensive rebound,,spalding,,
+jumper,missed,spalding,840.0,26.0
+offensive rebound,,spalding,,
+subbing in,,Centre,837.0,27.0
+subbing out,,Centre,837.0,27.0
+subbing in,,spalding,837.0,27.0
+subbing out,,spalding,837.0,27.0
+jumper,missed,spalding,830.0,20.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,822.0,22.0
+block,,spalding,822.0,30.0
+defensive rebound,,spalding,,
+foul,,Centre,811.0,19.0
+subbing in,,Centre,810.0,29.0
+jumper,good,spalding,803.0,22.0
+assist,,spalding,,
+layup,missed,Centre,788.0,15.0
+defensive rebound,,spalding,,
+three pointer,missed,spalding,779.0,21.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,772.0,23.0
+offensive rebound,,Centre,,
+subbing in,,Centre,766.0,24.0
+subbing out,,Centre,766.0,24.0
+subbing out,,Centre,766.0,24.0
+subbing in,,spalding,766.0,24.0
+subbing out,,spalding,766.0,24.0
+layup,good,Centre,753.0,11.0
+assist,,Centre,,
+jumper,missed,spalding,733.0,10.0
+offensive rebound,,Centre,,
+subbing in,,Centre,729.0,26.0
+subbing out,,Centre,729.0,26.0
+subbing in,,spalding,729.0,26.0
+subbing out,,spalding,729.0,26.0
+foul,,Centre,727.0,24.0
+free throw,good,spalding,727.0,30.0
+free throw,missed,spalding,727.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,711.0,14.0
+steal,,spalding,710.0,29.0
+foul,,Centre,708.0,28.0
+free throw,good,spalding,708.0,30.0
+free throw,good,spalding,708.0,30.0
+subbing in,,Centre,708.0,30.0
+subbing out,,Centre,708.0,30.0
+subbing in,,spalding,708.0,30.0
+subbing out,,spalding,708.0,30.0
+jumper,good,Centre,691.0,13.0
+turnover,,spalding,674.0,13.0
+steal,,Centre,673.0,29.0
+steal,,Centre,655.0,12.0
+turnover,,Centre,653.0,28.0
+turnover,,spalding,650.0,27.0
+steal,,Centre,648.0,28.0
+steal,,Centre,645.0,27.0
+block,,spalding,645.0,30.0
+defensive rebound,,Centre,,
+turnover,,spalding,638.0,23.0
+subbing in,,Centre,636.0,28.0
+subbing out,,Centre,636.0,28.0
+subbing in,,spalding,627.0,19.0
+subbing out,,spalding,627.0,19.0
+three pointer,missed,Centre,622.0,14.0
+defensive rebound,,spalding,,
+layup,good,spalding,603.0,11.0
+assist,,spalding,,
+layup,missed,Centre,586.0,13.0
+defensive rebound,,spalding,,
+layup,missed,spalding,578.0,22.0
+offensive rebound,,spalding,,
+layup,missed,spalding,571.0,23.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,553.0,12.0
+block,,spalding,553.0,30.0
+defensive rebound,,spalding,,
+layup,good,spalding,546.0,23.0
+timeout,,Centre,546.0,30.0
+foul,,spalding,524.0,8.0
+subbing in,,spalding,524.0,30.0
+subbing in,,spalding,524.0,30.0
+subbing out,,spalding,524.0,30.0
+jumper,missed,Centre,521.0,27.0
+block,,spalding,521.0,30.0
+defensive rebound,,spalding,,
+jumper,missed,spalding,516.0,25.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,507.0,21.0
+defensive rebound,,spalding,,
+jumper,missed,spalding,485.0,8.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,468.0,13.0
+defensive rebound,,spalding,,
+subbing in,,spalding,460.0,22.0
+subbing out,,spalding,460.0,22.0
+three pointer,good,spalding,456.0,18.0
+three pointer,good,Centre,438.0,12.0
+jumper,missed,spalding,412.0,4.0
+defensive rebound,,Centre,,
+foul,,spalding,410.0,28.0
+subbing in,,Centre,410.0,30.0
+subbing in,,Centre,410.0,30.0
+subbing out,,Centre,410.0,30.0
+subbing out,,Centre,410.0,30.0
+subbing in,,spalding,410.0,30.0
+subbing in,,spalding,410.0,30.0
+subbing out,,spalding,410.0,30.0
+subbing out,,spalding,410.0,30.0
+subbing out,,spalding,410.0,30.0
+turnover,,Centre,405.0,25.0
+timeout,,Centre,401.0,26.0
+layup,good,spalding,377.0,2.0
+assist,,spalding,,
+turnover,,Centre,351.0,4.0
+steal,,spalding,349.0,28.0
+foul,,Centre,342.0,23.0
+free throw,good,spalding,342.0,30.0
+free throw,good,spalding,342.0,30.0
+subbing in,,Centre,342.0,30.0
+subbing in,,Centre,342.0,30.0
+subbing out,,Centre,342.0,30.0
+subbing out,,Centre,342.0,30.0
+subbing in,,spalding,342.0,30.0
+subbing out,,spalding,342.0,30.0
+foul,,spalding,318.0,6.0
+free throw,good,Centre,318.0,30.0
+free throw,good,Centre,318.0,30.0
+three pointer,missed,spalding,295.0,7.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,281.0,16.0
+defensive rebound,,spalding,,
+three pointer,missed,spalding,276.0,25.0
+defensive rebound,,Centre,,
+foul,,spalding,273.0,27.0
+free throw,missed,Centre,273.0,30.0
+defensive rebound,,spalding,,
+foul,,Centre,259.0,16.0
+timeout,,Centre,259.0,30.0
+subbing in,,Centre,259.0,30.0
+subbing out,,Centre,259.0,30.0
+subbing in,,spalding,259.0,30.0
+subbing in,,spalding,259.0,30.0
+subbing out,,spalding,259.0,30.0
+subbing out,,spalding,259.0,30.0
+foul,,Centre,239.0,10.0
+free throw,good,spalding,239.0,30.0
+free throw,missed,spalding,239.0,30.0
+defensive rebound,,Centre,,
+jumper,good,Centre,214.0,5.0
+assist,,Centre,,
+turnover,,spalding,193.0,9.0
+steal,,Centre,191.0,28.0
+turnover,,Centre,170.0,9.0
+steal,,spalding,169.0,29.0
+foul,,Centre,162.0,23.0
+free throw,missed,spalding,162.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,spalding,162.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,162.0,30.0
+subbing out,,Centre,162.0,30.0
+subbing in,,spalding,162.0,30.0
+subbing out,,spalding,162.0,30.0
+turnover,,Centre,150.0,18.0
+steal,,spalding,149.0,29.0
+turnover,,spalding,137.0,18.0
+steal,,Centre,134.0,27.0
+three pointer,good,Centre,116.0,12.0
+assist,,Centre,,
+layup,missed,spalding,95.0,9.0
+offensive rebound,,Centre,,
+subbing in,,spalding,90.0,25.0
+subbing out,,spalding,90.0,25.0
+foul,,Centre,85.0,20.0
+free throw,good,spalding,85.0,30.0
+free throw,missed,spalding,85.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,85.0,30.0
+subbing out,,Centre,85.0,30.0
+subbing in,,spalding,84.0,29.0
+subbing out,,spalding,84.0,29.0
+turnover,,Centre,75.0,20.0
+three pointer,missed,spalding,55.0,10.0
+offensive rebound,,spalding,,
+layup,missed,spalding,49.0,24.0
+defensive rebound,,Centre,,
+layup,missed,Centre,33.0,14.0
+defensive rebound,,spalding,,
+three pointer,missed,spalding,21.0,21.0
+defensive rebound,,Centre,,
+foul,,spalding,12.0,12.0
+free throw,good,Centre,12.0,12.0
+free throw,good,Centre,12.0,12.0
+subbing in,,Centre,12.0,12.0
+subbing out,,Centre,12.0,12.0
+subbing in,,spalding,12.0,12.0
+subbing out,,spalding,12.0,12.0
+three pointer,missed,spalding,3.0,3.0
+offensive rebound,,Centre,,
+,,,,
+subbing in,,Centre,1200.0,1197.0
+subbing out,,Centre,1200.0,1197.0
+subbing in,,spalding,1200.0,1197.0
+subbing out,,spalding,1200.0,1197.0
+three pointer,missed,spalding,1179.0,1176.0
+defensive rebound,,Centre,,
+jumper,good,Centre,1144.0,25.0
+layup,good,spalding,1134.0,20.0
+assist,,spalding,,
+foul,,spalding,1106.0,2.0
+free throw,good,Centre,1106.0,30.0
+free throw,good,Centre,1106.0,30.0
+subbing in,,spalding,1106.0,30.0
+subbing out,,spalding,1106.0,30.0
+foul,,Centre,1075.0,29.0
+free throw,missed,spalding,1075.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,spalding,1075.0,30.0
+defensive rebound,,Centre,,
+layup,good,Centre,1056.0,11.0
+turnover,,spalding,1041.0,15.0
+steal,,Centre,1040.0,29.0
+turnover,,Centre,1021.0,11.0
+steal,,spalding,1019.0,28.0
+three pointer,good,spalding,1014.0,25.0
+assist,,spalding,,
+jumper,missed,Centre,993.0,9.0
+block,,spalding,993.0,30.0
+defensive rebound,,spalding,,
+subbing in,,Centre,987.0,24.0
+subbing in,,Centre,987.0,24.0
+subbing in,,Centre,987.0,24.0
+subbing out,,Centre,987.0,24.0
+subbing out,,Centre,987.0,24.0
+subbing out,,Centre,987.0,24.0
+subbing in,,spalding,987.0,24.0
+subbing in,,spalding,987.0,24.0
+subbing out,,spalding,987.0,24.0
+subbing out,,spalding,987.0,24.0
+three pointer,good,spalding,975.0,12.0
+assist,,spalding,,
+layup,missed,Centre,940.0,25.0
+defensive rebound,,spalding,,
+foul,,Centre,933.0,23.0
+free throw,good,spalding,933.0,30.0
+free throw,good,spalding,933.0,30.0
+subbing in,,spalding,933.0,30.0
+subbing out,,spalding,933.0,30.0
+turnover,,Centre,907.0,4.0
+subbing in,,Centre,907.0,30.0
+subbing in,,Centre,907.0,30.0
+subbing out,,Centre,907.0,30.0
+subbing out,,Centre,907.0,30.0
+subbing in,,spalding,907.0,30.0
+subbing out,,spalding,907.0,30.0
+three pointer,missed,spalding,884.0,7.0
+defensive rebound,,Centre,,
+turnover,,Centre,876.0,22.0
+steal,,spalding,875.0,29.0
+three pointer,missed,spalding,871.0,26.0
+defensive rebound,,Centre,,
+foul,,spalding,863.0,22.0
+free throw,good,Centre,863.0,30.0
+free throw,good,Centre,863.0,30.0
+subbing in,,Centre,863.0,30.0
+subbing out,,Centre,863.0,30.0
+subbing in,,spalding,863.0,30.0
+subbing out,,spalding,863.0,30.0
+turnover,,spalding,853.0,20.0
+foul,,spalding,831.0,8.0
+free throw,missed,Centre,831.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,831.0,30.0
+subbing in,,spalding,831.0,30.0
+subbing in,,spalding,831.0,30.0
+subbing in,,spalding,831.0,30.0
+subbing out,,spalding,831.0,30.0
+foul,,Centre,822.0,21.0
+subbing in,,Centre,822.0,30.0
+subbing out,,Centre,822.0,30.0
+subbing out,,spalding,822.0,30.0
+foul,,Centre,811.0,19.0
+jumper,missed,spalding,806.0,25.0
+defensive rebound,,Centre,,
+subbing out,,spalding,801.0,25.0
+turnover,,Centre,791.0,15.0
+jumper,missed,spalding,779.0,18.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,763.0,14.0
+offensive rebound,,Centre,,
+jumper,good,Centre,757.0,24.0
+foul,,spalding,757.0,30.0
+free throw,good,Centre,757.0,30.0
+subbing in,,Centre,757.0,30.0
+subbing in,,Centre,757.0,30.0
+turnover,,spalding,740.0,13.0
+steal,,Centre,738.0,28.0
+subbing out,,Centre,731.0,23.0
+subbing out,,Centre,731.0,23.0
+jumper,missed,Centre,727.0,19.0
+defensive rebound,,spalding,,
+turnover,,spalding,721.0,24.0
+subbing in,,Centre,721.0,30.0
+subbing out,,Centre,721.0,30.0
+subbing in,,spalding,721.0,30.0
+subbing out,,spalding,721.0,30.0
+layup,missed,Centre,701.0,10.0
+defensive rebound,,spalding,,
+three pointer,missed,spalding,682.0,11.0
+offensive rebound,,spalding,,
+jumper,missed,spalding,674.0,22.0
+defensive rebound,,Centre,,
+turnover,,Centre,647.0,3.0
+steal,,spalding,646.0,29.0
+foul,,spalding,642.0,26.0
+timeout,,Centre,641.0,29.0
+subbing in,,Centre,641.0,29.0
+subbing in,,Centre,641.0,29.0
+subbing out,,Centre,641.0,29.0
+subbing out,,Centre,641.0,29.0
+subbing in,,spalding,641.0,29.0
+subbing in,,spalding,641.0,29.0
+subbing out,,spalding,641.0,29.0
+subbing out,,spalding,641.0,29.0
+three pointer,good,Centre,623.0,11.0
+assist,,Centre,,
+three pointer,missed,spalding,606.0,13.0
+offensive rebound,,spalding,,
+block,,Centre,597.0,21.0
+foul,,Centre,597.0,21.0
+free throw,good,spalding,597.0,21.0
+free throw,missed,spalding,597.0,21.0
+defensive rebound,,Centre,,
+foul,,spalding,571.0,25.0
+layup,missed,Centre,562.0,21.0
+block,,spalding,562.0,30.0
+defensive rebound,,spalding,,
+layup,good,spalding,561.0,29.0
+jumper,missed,Centre,551.0,20.0
+defensive rebound,,spalding,,
+jumper,missed,spalding,533.0,12.0
+offensive rebound,,spalding,,
+jumper,missed,spalding,526.0,23.0
+defensive rebound,,Centre,,
+layup,missed,Centre,511.0,15.0
+defensive rebound,,spalding,,
+layup,missed,spalding,504.0,23.0
+defensive rebound,,Centre,,
+turnover,,Centre,497.0,23.0
+layup,missed,spalding,497.0,30.0
+offensive rebound,,spalding,,
+layup,missed,spalding,497.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,497.0,30.0
+subbing in,,Centre,497.0,30.0
+subbing in,,Centre,497.0,30.0
+subbing out,,Centre,497.0,30.0
+subbing out,,Centre,497.0,30.0
+subbing out,,Centre,497.0,30.0
+timeout,,Centre,488.0,21.0
+subbing in,,spalding,488.0,21.0
+subbing in,,spalding,488.0,21.0
+subbing in,,spalding,488.0,21.0
+subbing out,,spalding,488.0,21.0
+subbing out,,spalding,488.0,21.0
+subbing out,,spalding,488.0,21.0
+jumper,good,Centre,469.0,2.0
+jumper,missed,spalding,441.0,2.0
+defensive rebound,,Centre,,
+turnover,,Centre,419.0,8.0
+steal,,spalding,418.0,29.0
+jumper,missed,spalding,409.0,21.0
+defensive rebound,,Centre,,
+layup,missed,Centre,403.0,24.0
+defensive rebound,,spalding,,
+foul,,Centre,400.0,27.0
+subbing in,,spalding,400.0,30.0
+subbing in,,spalding,400.0,30.0
+subbing out,,spalding,400.0,30.0
+subbing out,,spalding,400.0,30.0
+three pointer,good,spalding,395.0,25.0
+assist,,spalding,,
+foul,,spalding,373.0,8.0
+free throw,good,Centre,373.0,30.0
+free throw,missed,Centre,373.0,30.0
+defensive rebound,,spalding,,
+subbing in,,Centre,373.0,30.0
+subbing in,,Centre,373.0,30.0
+subbing in,,Centre,373.0,30.0
+subbing out,,Centre,373.0,30.0
+subbing out,,Centre,373.0,30.0
+subbing out,,Centre,373.0,30.0
+subbing in,,spalding,373.0,30.0
+subbing out,,spalding,373.0,30.0
+subbing in,,Centre,370.0,27.0
+subbing out,,Centre,370.0,27.0
+layup,missed,spalding,353.0,10.0
+offensive rebound,,Centre,,
+layup,missed,spalding,338.0,15.0
+defensive rebound,,Centre,,
+jumper,good,Centre,311.0,3.0
+three pointer,missed,spalding,294.0,13.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,263.0,29.0
+block,,spalding,263.0,30.0
+defensive rebound,,spalding,,
+foul,,Centre,256.0,23.0
+subbing in,,Centre,256.0,30.0
+subbing out,,Centre,256.0,30.0
+three pointer,missed,spalding,255.0,29.0
+defensive rebound,,Centre,,
+foul,,spalding,233.0,8.0
+timeout,,Centre,233.0,30.0
+free throw,missed,Centre,233.0,30.0
+defensive rebound,,spalding,,
+subbing in,,spalding,233.0,30.0
+subbing in,,spalding,233.0,30.0
+subbing out,,spalding,233.0,30.0
+subbing out,,spalding,233.0,30.0
+three pointer,missed,spalding,214.0,11.0
+offensive rebound,,spalding,,
+jumper,good,spalding,195.0,11.0
+turnover,,Centre,191.0,26.0
+subbing in,,spalding,190.0,29.0
+subbing out,,spalding,190.0,29.0
+three pointer,missed,spalding,170.0,9.0
+defensive rebound,,Centre,,
+layup,missed,Centre,139.0,-1.0
+block,,spalding,139.0,-1.0
+offensive rebound,,Centre,,
+layup,good,Centre,129.0,19.0
+three pointer,good,spalding,126.0,27.0
+assist,,spalding,,
+timeout,,Centre,126.0,30.0
+subbing in,,spalding,126.0,30.0
+subbing out,,spalding,126.0,30.0
+foul,,Centre,92.0,26.0
+subbing in,,spalding,92.0,30.0
+subbing out,,spalding,92.0,30.0
+layup,good,spalding,74.0,12.0
+assist,,spalding,,
+foul,,spalding,44.0,0.0
+free throw,good,Centre,44.0,30.0
+free throw,good,Centre,44.0,30.0
+timeout,,Centre,25.0,25.0
+subbing in,,spalding,25.0,25.0
+subbing out,,spalding,25.0,25.0
+turnover,,spalding,9.0,9.0
+timeout,,Centre,9.0,9.0
+subbing in,,spalding,9.0,9.0
+subbing out,,spalding,9.0,9.0
+foul,,spalding,7.0,7.0
+free throw,good,Centre,7.0,7.0
+free throw,missed,Centre,7.0,7.0
+defensive rebound,,spalding,,
+subbing in,,spalding,7.0,7.0
+subbing in,,spalding,7.0,7.0
+subbing out,,spalding,7.0,7.0
+subbing out,,spalding,7.0,7.0
+three pointer,missed,spalding,1.0,1.0
+offensive rebound,,spalding,,

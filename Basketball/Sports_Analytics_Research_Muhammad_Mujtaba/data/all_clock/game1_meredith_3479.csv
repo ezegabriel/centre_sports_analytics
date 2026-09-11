@@ -1,0 +1,474 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+turnover,,meredith,583.0,13.0
+layup,missed,Centre,571.0,18.0
+defensive rebound,,meredith,,
+turnover,,meredith,552.0,11.0
+steal,,Centre,550.0,28.0
+three pointer,good,Centre,527.0,7.0
+assist,,Centre,,
+jumper,missed,meredith,500.0,3.0
+defensive rebound,,Centre,,
+foul,,meredith,476.0,6.0
+free throw,good,Centre,476.0,30.0
+free throw,good,Centre,476.0,30.0
+three pointer,good,meredith,449.0,3.0
+layup,missed,Centre,425.0,6.0
+offensive rebound,,Centre,,
+layup,good,Centre,421.0,26.0
+jumper,missed,meredith,390.0,29.0
+offensive rebound,,meredith,,
+turnover,,meredith,370.0,10.0
+steal,,Centre,361.0,21.0
+layup,good,Centre,359.0,28.0
+jumper,good,meredith,335.0,6.0
+assist,,meredith,,
+turnover,,Centre,316.0,11.0
+steal,,meredith,313.0,27.0
+subbing in,,meredith,307.0,24.0
+subbing in,,meredith,307.0,24.0
+subbing out,,meredith,307.0,24.0
+subbing out,,meredith,307.0,24.0
+subbing in,,Centre,307.0,24.0
+subbing in,,Centre,307.0,24.0
+subbing in,,Centre,307.0,24.0
+subbing out,,Centre,307.0,24.0
+subbing out,,Centre,307.0,24.0
+subbing out,,Centre,307.0,24.0
+layup,missed,meredith,304.0,21.0
+block,,Centre,304.0,21.0
+offensive rebound,,meredith,,
+turnover,,meredith,299.0,16.0
+three pointer,missed,Centre,288.0,19.0
+offensive rebound,,Centre,,
+turnover,,Centre,281.0,23.0
+timeout,,meredith,275.0,24.0
+subbing in,,meredith,275.0,24.0
+subbing out,,meredith,275.0,24.0
+subbing in,,Centre,275.0,24.0
+subbing in,,Centre,275.0,24.0
+subbing in,,Centre,275.0,24.0
+subbing out,,Centre,275.0,24.0
+subbing out,,Centre,275.0,24.0
+jumper,missed,Centre,266.0,15.0
+defensive rebound,,meredith,,
+three pointer,good,meredith,252.0,16.0
+three pointer,missed,Centre,243.0,21.0
+block,,meredith,243.0,30.0
+defensive rebound,,meredith,,
+turnover,,meredith,220.0,7.0
+subbing out,,Centre,220.0,30.0
+jumper,missed,Centre,211.0,21.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,184.0,3.0
+offensive rebound,,Centre,,
+foul,,Centre,174.0,20.0
+subbing in,,meredith,171.0,27.0
+subbing out,,meredith,171.0,27.0
+subbing in,,Centre,171.0,27.0
+subbing out,,Centre,171.0,27.0
+turnover,,meredith,152.0,8.0
+turnover,,Centre,141.0,19.0
+subbing in,,meredith,137.0,26.0
+subbing out,,meredith,137.0,26.0
+subbing in,,Centre,137.0,26.0
+subbing out,,Centre,137.0,26.0
+jumper,missed,meredith,124.0,13.0
+defensive rebound,,Centre,,
+turnover,,Centre,104.0,10.0
+steal,,meredith,102.0,28.0
+layup,missed,meredith,94.0,22.0
+offensive rebound,,meredith,,
+foul,,Centre,66.0,2.0
+free throw,good,meredith,66.0,30.0
+free throw,missed,meredith,66.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,66.0,30.0
+subbing in,,Centre,66.0,30.0
+subbing in,,Centre,66.0,30.0
+subbing in,,Centre,66.0,30.0
+subbing out,,Centre,66.0,30.0
+subbing out,,Centre,66.0,30.0
+subbing out,,Centre,66.0,30.0
+subbing out,,Centre,66.0,30.0
+layup,good,Centre,64.0,28.0
+assist,,Centre,,
+turnover,,meredith,37.0,3.0
+steal,,Centre,34.0,27.0
+three pointer,missed,Centre,31.0,27.0
+deadball rebound,,Centre,,
+jumper,good,meredith,4.0,4.0
+assist,,meredith,,
+,,,,
+subbing in,,Centre,600.0,599.0
+subbing out,,Centre,600.0,599.0
+layup,missed,Centre,597.0,596.0
+defensive rebound,,meredith,,
+layup,missed,meredith,578.0,11.0
+defensive rebound,,Centre,,
+foul,,meredith,565.0,17.0
+jumper,missed,Centre,543.0,8.0
+defensive rebound,,meredith,,
+foul,,Centre,528.0,15.0
+jumper,missed,meredith,510.0,12.0
+defensive rebound,,Centre,,
+turnover,,Centre,487.0,7.0
+steal,,meredith,484.0,27.0
+jumper,missed,meredith,474.0,20.0
+defensive rebound,,Centre,,
+foul,,meredith,451.0,7.0
+free throw,good,Centre,451.0,30.0
+subbing in,,meredith,451.0,30.0
+subbing out,,meredith,451.0,30.0
+subbing in,,Centre,451.0,30.0
+subbing in,,Centre,451.0,30.0
+subbing in,,Centre,451.0,30.0
+subbing out,,Centre,451.0,30.0
+subbing out,,Centre,451.0,30.0
+subbing out,,Centre,451.0,30.0
+free throw,missed,Centre,449.0,30.0
+offensive rebound,,Centre,,
+layup,good,Centre,427.0,6.0
+jumper,missed,meredith,412.0,15.0
+offensive rebound,,meredith,,
+three pointer,missed,meredith,398.0,16.0
+defensive rebound,,Centre,,
+turnover,,Centre,380.0,12.0
+steal,,meredith,378.0,28.0
+foul,,meredith,363.0,15.0
+subbing in,,meredith,363.0,30.0
+subbing out,,meredith,363.0,30.0
+subbing in,,Centre,363.0,30.0
+subbing out,,Centre,363.0,30.0
+layup,good,Centre,357.0,24.0
+assist,,Centre,,
+foul,,Centre,339.0,12.0
+free throw,good,meredith,339.0,30.0
+free throw,missed,meredith,339.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,339.0,30.0
+steal,,meredith,339.0,30.0
+foul,,meredith,295.0,16.0
+turnover,,Centre,295.0,30.0
+timeout,,meredith,295.0,30.0
+subbing in,,meredith,295.0,30.0
+subbing out,,meredith,295.0,30.0
+subbing in,,Centre,295.0,30.0
+subbing in,,Centre,295.0,30.0
+subbing in,,Centre,295.0,30.0
+subbing out,,Centre,295.0,30.0
+subbing out,,Centre,295.0,30.0
+subbing out,,Centre,295.0,30.0
+turnover,,Centre,283.0,18.0
+steal,,meredith,280.0,27.0
+jumper,missed,meredith,261.0,11.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,241.0,10.0
+defensive rebound,,meredith,,
+three pointer,good,meredith,212.0,1.0
+assist,,meredith,,
+layup,missed,Centre,182.0,0.0
+defensive rebound,,meredith,,
+foul,,Centre,179.0,27.0
+subbing in,,Centre,179.0,30.0
+subbing out,,Centre,179.0,30.0
+foul,,Centre,159.0,10.0
+free throw,good,meredith,159.0,30.0
+free throw,good,meredith,159.0,30.0
+jumper,missed,Centre,148.0,19.0
+defensive rebound,,meredith,,
+jumper,missed,meredith,120.0,2.0
+defensive rebound,,Centre,,
+layup,good,Centre,109.0,19.0
+foul,,Centre,76.0,27.0
+free throw,good,meredith,76.0,30.0
+free throw,good,meredith,76.0,30.0
+subbing in,,Centre,76.0,30.0
+subbing in,,Centre,76.0,30.0
+subbing in,,Centre,76.0,30.0
+subbing in,,Centre,76.0,30.0
+subbing out,,Centre,76.0,30.0
+subbing out,,Centre,76.0,30.0
+subbing out,,Centre,76.0,30.0
+jumper,good,Centre,57.0,11.0
+jumper,good,meredith,38.0,11.0
+jumper,missed,Centre,22.0,22.0
+defensive rebound,,meredith,,
+jumper,missed,meredith,5.0,5.0
+defensive rebound,,Centre,,
+,,,,
+three pointer,missed,meredith,569.0,561.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,551.0,12.0
+assist,,Centre,,
+jumper,missed,meredith,519.0,28.0
+defensive rebound,,Centre,,
+turnover,,Centre,500.0,11.0
+steal,,meredith,499.0,29.0
+layup,good,meredith,481.0,12.0
+three pointer,good,Centre,460.0,9.0
+assist,,Centre,,
+jumper,missed,meredith,428.0,28.0
+block,,Centre,428.0,30.0
+defensive rebound,,Centre,,
+jumper,good,Centre,421.0,23.0
+timeout,,meredith,413.0,22.0
+foul,,Centre,394.0,3.0
+free throw,missed,meredith,394.0,30.0
+deadball rebound,,Centre,,
+free throw,good,meredith,394.0,30.0
+subbing in,,meredith,394.0,30.0
+subbing out,,meredith,394.0,30.0
+three pointer,missed,Centre,388.0,24.0
+offensive rebound,,Centre,,
+jumper,good,Centre,380.0,22.0
+jumper,good,meredith,361.0,11.0
+jumper,missed,Centre,332.0,1.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,325.0,23.0
+defensive rebound,,meredith,,
+three pointer,good,meredith,307.0,12.0
+assist,,meredith,,
+timeout,,Centre,287.0,10.0
+subbing in,,Centre,287.0,10.0
+subbing in,,Centre,287.0,10.0
+subbing in,,Centre,287.0,10.0
+subbing in,,Centre,287.0,10.0
+subbing in,,Centre,287.0,10.0
+subbing out,,Centre,287.0,10.0
+subbing out,,Centre,287.0,10.0
+subbing out,,Centre,287.0,10.0
+subbing out,,Centre,287.0,10.0
+subbing out,,Centre,287.0,10.0
+layup,good,Centre,275.0,28.0
+assist,,Centre,,
+jumper,missed,meredith,248.0,3.0
+defensive rebound,,Centre,,
+turnover,,Centre,229.0,11.0
+subbing in,,meredith,225.0,26.0
+subbing out,,meredith,225.0,26.0
+foul,,Centre,203.0,4.0
+foul,,Centre,203.0,30.0
+jumper,missed,meredith,200.0,27.0
+defensive rebound,,Centre,,
+foul,,meredith,191.0,21.0
+subbing in,,meredith,191.0,30.0
+subbing in,,meredith,191.0,30.0
+subbing out,,meredith,191.0,30.0
+subbing out,,meredith,191.0,30.0
+foul,,meredith,188.0,27.0
+free throw,missed,Centre,188.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,Centre,188.0,30.0
+defensive rebound,,meredith,,
+subbing in,,Centre,188.0,30.0
+subbing out,,Centre,188.0,30.0
+turnover,,meredith,162.0,4.0
+subbing in,,Centre,155.0,23.0
+subbing out,,Centre,155.0,23.0
+foul,,meredith,150.0,18.0
+free throw,good,Centre,149.0,30.0
+free throw,good,Centre,142.0,30.0
+subbing in,,meredith,132.0,12.0
+subbing out,,meredith,132.0,12.0
+foul,,Centre,116.0,26.0
+free throw,missed,meredith,116.0,30.0
+deadball rebound,,Centre,,
+free throw,good,meredith,116.0,30.0
+free throw,good,meredith,116.0,30.0
+subbing in,,Centre,116.0,30.0
+subbing out,,Centre,116.0,30.0
+jumper,missed,Centre,102.0,16.0
+defensive rebound,,meredith,,
+turnover,,meredith,84.0,12.0
+steal,,Centre,81.0,27.0
+jumper,missed,Centre,76.0,25.0
+defensive rebound,,meredith,,
+three pointer,missed,meredith,49.0,3.0
+offensive rebound,,Centre,,
+subbing in,,meredith,39.0,20.0
+subbing out,,meredith,39.0,20.0
+subbing in,,Centre,39.0,20.0
+subbing in,,Centre,39.0,20.0
+subbing in,,Centre,39.0,20.0
+subbing out,,Centre,39.0,20.0
+subbing out,,Centre,39.0,20.0
+subbing out,,Centre,39.0,20.0
+turnover,,meredith,38.0,19.0
+steal,,Centre,36.0,28.0
+layup,good,Centre,32.0,26.0
+foul,,meredith,20.0,20.0
+layup,good,Centre,9.0,9.0
+assist,,Centre,,
+three pointer,missed,meredith,0.0,0.0
+deadball rebound,,Centre,,
+,,,,
+subbing in,,meredith,600.0,30.0
+subbing in,,meredith,600.0,30.0
+subbing out,,meredith,600.0,30.0
+subbing out,,meredith,600.0,30.0
+subbing in,,Centre,600.0,30.0
+subbing in,,Centre,600.0,30.0
+subbing out,,Centre,600.0,30.0
+subbing out,,Centre,600.0,30.0
+three pointer,good,meredith,575.0,5.0
+assist,,meredith,,
+jumper,missed,Centre,552.0,7.0
+defensive rebound,,meredith,,
+foul,,Centre,529.0,7.0
+free throw,good,meredith,524.0,30.0
+free throw,missed,meredith,516.0,30.0
+defensive rebound,,Centre,,
+layup,missed,Centre,516.0,17.0
+offensive rebound,,Centre,,
+layup,missed,Centre,516.0,30.0
+defensive rebound,,meredith,,
+subbing in,,Centre,516.0,30.0
+subbing in,,Centre,516.0,30.0
+subbing in,,Centre,516.0,30.0
+subbing out,,Centre,516.0,30.0
+subbing out,,Centre,516.0,30.0
+subbing out,,Centre,516.0,30.0
+foul,,Centre,512.0,26.0
+free throw,good,meredith,504.0,30.0
+subbing in,,meredith,495.0,13.0
+subbing out,,meredith,495.0,13.0
+free throw,good,meredith,491.0,30.0
+turnover,,Centre,474.0,22.0
+turnover,,meredith,462.0,18.0
+steal,,Centre,459.0,27.0
+subbing in,,Centre,459.0,30.0
+subbing in,,Centre,459.0,30.0
+subbing out,,Centre,459.0,30.0
+subbing out,,Centre,459.0,30.0
+foul,,meredith,446.0,17.0
+free throw,good,Centre,446.0,30.0
+free throw,good,Centre,446.0,30.0
+timeout,,meredith,428.0,12.0
+turnover,,Centre,428.0,12.0
+subbing in,,Centre,428.0,12.0
+subbing in,,Centre,428.0,12.0
+subbing in,,Centre,428.0,12.0
+subbing out,,Centre,428.0,12.0
+subbing out,,Centre,428.0,12.0
+subbing out,,Centre,428.0,12.0
+layup,good,Centre,408.0,22.0
+assist,,Centre,,
+layup,missed,meredith,379.0,1.0
+defensive rebound,,Centre,,
+jumper,good,Centre,370.0,21.0
+assist,,Centre,,
+jumper,missed,meredith,352.0,12.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,346.0,24.0
+assist,,Centre,,
+layup,missed,meredith,322.0,6.0
+defensive rebound,,meredith,,
+layup,good,meredith,292.0,0.0
+three pointer,good,Centre,283.0,21.0
+subbing in,,meredith,276.0,23.0
+subbing out,,meredith,276.0,23.0
+subbing in,,Centre,276.0,23.0
+subbing in,,Centre,276.0,23.0
+subbing in,,Centre,276.0,23.0
+subbing in,,Centre,276.0,23.0
+subbing in,,Centre,276.0,23.0
+subbing out,,Centre,276.0,23.0
+subbing out,,Centre,276.0,23.0
+subbing out,,Centre,276.0,23.0
+subbing out,,Centre,276.0,23.0
+subbing out,,Centre,276.0,23.0
+layup,good,meredith,273.0,20.0
+assist,,meredith,,
+foul,,meredith,244.0,1.0
+free throw,good,Centre,244.0,30.0
+free throw,good,Centre,244.0,30.0
+three pointer,missed,meredith,236.0,22.0
+offensive rebound,,meredith,,
+three pointer,missed,meredith,228.0,22.0
+offensive rebound,,meredith,,
+layup,good,meredith,206.0,8.0
+timeout,,Centre,199.0,23.0
+subbing in,,meredith,199.0,23.0
+subbing out,,meredith,199.0,23.0
+foul,,meredith,192.0,16.0
+jumper,good,Centre,192.0,30.0
+assist,,Centre,,
+foul,,Centre,181.0,19.0
+subbing in,,Centre,181.0,30.0
+subbing out,,Centre,181.0,30.0
+layup,missed,meredith,177.0,26.0
+defensive rebound,,Centre,,
+foul,,meredith,162.0,15.0
+jumper,missed,Centre,160.0,28.0
+defensive rebound,,meredith,,
+jumper,missed,meredith,139.0,9.0
+defensive rebound,,Centre,,
+foul,,meredith,139.0,30.0
+free throw,missed,Centre,138.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,137.0,30.0
+jumper,good,meredith,134.0,25.0
+layup,missed,Centre,87.0,13.0
+block,,meredith,87.0,30.0
+defensive rebound,,meredith,,
+foul,,Centre,74.0,17.0
+free throw,good,meredith,74.0,30.0
+free throw,missed,meredith,74.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,74.0,30.0
+subbing in,,Centre,74.0,30.0
+subbing out,,Centre,74.0,30.0
+subbing out,,Centre,74.0,30.0
+three pointer,missed,Centre,69.0,25.0
+offensive rebound,,Centre,,
+foul,,meredith,49.0,10.0
+free throw,good,Centre,49.0,30.0
+free throw,missed,Centre,49.0,30.0
+defensive rebound,,meredith,,
+timeout,,meredith,49.0,30.0
+subbing in,,meredith,49.0,30.0
+subbing out,,meredith,49.0,30.0
+subbing in,,Centre,49.0,30.0
+subbing in,,Centre,49.0,30.0
+subbing out,,Centre,49.0,30.0
+subbing out,,Centre,49.0,30.0
+layup,missed,meredith,47.0,28.0
+defensive rebound,,Centre,,
+timeout,,Centre,47.0,30.0
+subbing in,,Centre,47.0,30.0
+subbing in,,Centre,47.0,30.0
+subbing out,,Centre,47.0,30.0
+subbing out,,Centre,47.0,30.0
+foul,,meredith,45.0,28.0
+free throw,good,Centre,45.0,30.0
+free throw,good,Centre,45.0,30.0
+subbing in,,Centre,45.0,30.0
+subbing in,,Centre,45.0,30.0
+subbing out,,Centre,45.0,30.0
+subbing out,,Centre,45.0,30.0
+three pointer,missed,meredith,33.0,18.0
+offensive rebound,,meredith,,
+jumper,missed,meredith,28.0,28.0
+offensive rebound,,meredith,,
+foul,,Centre,25.0,25.0
+free throw,good,meredith,25.0,25.0
+free throw,good,meredith,25.0,25.0
+subbing in,,Centre,25.0,25.0
+subbing in,,Centre,25.0,25.0
+subbing out,,Centre,25.0,25.0
+subbing out,,Centre,25.0,25.0
+layup,missed,Centre,24.0,24.0
+defensive rebound,,meredith,,
+layup,missed,meredith,19.0,19.0
+offensive rebound,,Centre,,
+foul,,meredith,14.0,14.0
+free throw,good,Centre,14.0,14.0
+free throw,missed,Centre,14.0,14.0
+defensive rebound,,meredith,,
+subbing in,,Centre,14.0,14.0
+subbing in,,Centre,14.0,14.0
+subbing out,,Centre,14.0,14.0
+subbing out,,Centre,14.0,14.0
+three pointer,missed,meredith,6.0,6.0
+defensive rebound,,Centre,,

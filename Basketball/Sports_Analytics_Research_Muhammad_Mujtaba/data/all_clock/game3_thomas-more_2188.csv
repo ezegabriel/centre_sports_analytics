@@ -1,0 +1,520 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+turnover,,Centre,1180.0,10.0
+steal,,thomas more,1179.0,29.0
+layup,good,thomas more,1177.0,28.0
+jumper,good,Centre,1152.0,5.0
+three pointer,missed,thomas more,1138.0,16.0
+offensive rebound,,thomas more,,
+three pointer,good,thomas more,1120.0,12.0
+assist,,thomas more,,
+turnover,,Centre,1102.0,12.0
+steal,,thomas more,1100.0,28.0
+layup,missed,thomas more,1095.0,25.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,1070.0,5.0
+block,,thomas more,1070.0,5.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,1063.0,28.0
+defensive rebound,,Centre,,
+layup,missed,thomas more,1048.0,15.0
+defensive rebound,,Centre,,
+turnover,,Centre,1030.0,12.0
+steal,,thomas more,1030.0,30.0
+foul,,Centre,1030.0,30.0
+subbing in,,Centre,1030.0,30.0
+subbing out,,Centre,1030.0,30.0
+layup,missed,thomas more,1006.0,6.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,999.0,23.0
+defensive rebound,,thomas more,,
+foul,,Centre,997.0,28.0
+layup,missed,thomas more,984.0,17.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,975.0,21.0
+defensive rebound,,Centre,,
+subbing in,,Centre,974.0,29.0
+subbing out,,Centre,974.0,29.0
+subbing in,,thomas more,974.0,29.0
+subbing in,,thomas more,974.0,29.0
+subbing out,,thomas more,974.0,29.0
+subbing out,,thomas more,974.0,29.0
+three pointer,missed,thomas more,951.0,6.0
+offensive rebound,,thomas more,,
+foul,,Centre,948.0,27.0
+jumper,missed,thomas more,946.0,28.0
+offensive rebound,,thomas more,,
+turnover,,thomas more,932.0,16.0
+turnover,,Centre,922.0,20.0
+steal,,thomas more,918.0,26.0
+subbing in,,Centre,913.0,25.0
+subbing in,,Centre,913.0,25.0
+subbing in,,Centre,913.0,25.0
+subbing out,,Centre,913.0,25.0
+subbing out,,Centre,913.0,25.0
+subbing out,,Centre,913.0,25.0
+subbing out,,Centre,913.0,25.0
+jumper,missed,thomas more,909.0,21.0
+offensive rebound,,thomas more,,
+layup,good,thomas more,905.0,26.0
+subbing in,,Centre,901.0,26.0
+jumper,good,Centre,898.0,23.0
+turnover,,thomas more,886.0,18.0
+subbing in,,thomas more,886.0,30.0
+subbing out,,thomas more,886.0,30.0
+foul,,thomas more,860.0,4.0
+free throw,missed,Centre,860.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,860.0,30.0
+free throw,good,Centre,860.0,30.0
+subbing in,,Centre,860.0,30.0
+subbing out,,Centre,860.0,30.0
+subbing in,,thomas more,860.0,30.0
+subbing out,,thomas more,860.0,30.0
+three pointer,missed,thomas more,848.0,18.0
+defensive rebound,,Centre,,
+layup,missed,Centre,832.0,14.0
+offensive rebound,,Centre,,
+layup,missed,Centre,828.0,26.0
+offensive rebound,,Centre,,
+layup,missed,Centre,824.0,26.0
+offensive rebound,,Centre,,
+foul,,thomas more,821.0,27.0
+free throw,good,Centre,821.0,30.0
+free throw,missed,Centre,821.0,30.0
+defensive rebound,,thomas more,,
+subbing in,,thomas more,821.0,30.0
+subbing out,,thomas more,821.0,30.0
+foul,,Centre,813.0,22.0
+foul,,Centre,810.0,27.0
+subbing in,,Centre,810.0,30.0
+subbing out,,Centre,810.0,30.0
+turnover,,thomas more,792.0,12.0
+steal,,Centre,790.0,28.0
+three pointer,missed,Centre,783.0,23.0
+defensive rebound,,thomas more,,
+foul,,Centre,778.0,25.0
+foul,,thomas more,768.0,20.0
+turnover,,thomas more,768.0,30.0
+timeout,,Centre,768.0,30.0
+subbing in,,Centre,768.0,30.0
+subbing out,,Centre,768.0,30.0
+subbing in,,thomas more,768.0,30.0
+subbing out,,thomas more,768.0,30.0
+jumper,missed,Centre,744.0,6.0
+block,,thomas more,744.0,30.0
+defensive rebound,,thomas more,,
+three pointer,missed,thomas more,726.0,12.0
+offensive rebound,,thomas more,,
+jumper,good,thomas more,712.0,16.0
+turnover,,Centre,699.0,17.0
+steal,,thomas more,698.0,29.0
+layup,good,thomas more,677.0,9.0
+assist,,thomas more,,
+layup,good,Centre,669.0,22.0
+assist,,Centre,,
+foul,,Centre,657.0,18.0
+free throw,good,thomas more,657.0,30.0
+free throw,good,thomas more,657.0,30.0
+subbing in,,thomas more,657.0,30.0
+subbing in,,thomas more,657.0,30.0
+subbing in,,thomas more,657.0,30.0
+subbing out,,thomas more,657.0,30.0
+subbing out,,thomas more,657.0,30.0
+subbing out,,thomas more,657.0,30.0
+foul,,thomas more,644.0,17.0
+three pointer,good,Centre,638.0,24.0
+assist,,Centre,,
+layup,missed,thomas more,626.0,18.0
+defensive rebound,,Centre,,
+foul,,Centre,614.0,18.0
+turnover,,Centre,614.0,30.0
+subbing in,,thomas more,614.0,30.0
+subbing out,,thomas more,614.0,30.0
+three pointer,good,thomas more,588.0,4.0
+assist,,thomas more,,
+foul,,thomas more,573.0,15.0
+subbing in,,Centre,573.0,30.0
+subbing out,,Centre,573.0,30.0
+subbing in,,thomas more,573.0,30.0
+subbing out,,thomas more,573.0,30.0
+turnover,,Centre,567.0,24.0
+steal,,thomas more,565.0,28.0
+three pointer,missed,thomas more,556.0,21.0
+offensive rebound,,thomas more,,
+jumper,missed,thomas more,552.0,26.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,534.0,12.0
+defensive rebound,,thomas more,,
+three pointer,missed,thomas more,517.0,13.0
+defensive rebound,,Centre,,
+jumper,good,Centre,507.0,20.0
+three pointer,missed,thomas more,486.0,9.0
+defensive rebound,,Centre,,
+layup,good,Centre,477.0,21.0
+assist,,Centre,,
+foul,,thomas more,477.0,30.0
+free throw,missed,Centre,477.0,30.0
+defensive rebound,,thomas more,,
+subbing in,,Centre,477.0,30.0
+subbing out,,Centre,477.0,30.0
+three pointer,good,thomas more,463.0,16.0
+assist,,thomas more,,
+layup,good,Centre,445.0,12.0
+assist,,Centre,,
+three pointer,missed,thomas more,435.0,20.0
+defensive rebound,,Centre,,
+timeout,,Centre,432.0,27.0
+subbing in,,Centre,432.0,27.0
+subbing out,,Centre,432.0,27.0
+subbing in,,thomas more,432.0,27.0
+subbing in,,thomas more,432.0,27.0
+subbing out,,thomas more,432.0,27.0
+subbing out,,thomas more,432.0,27.0
+layup,missed,Centre,415.0,10.0
+defensive rebound,,Centre,,
+three pointer,good,thomas more,397.0,12.0
+assist,,thomas more,,
+turnover,,Centre,372.0,5.0
+steal,,thomas more,370.0,28.0
+layup,good,thomas more,367.0,27.0
+assist,,thomas more,,
+turnover,,Centre,350.0,13.0
+steal,,thomas more,348.0,28.0
+jumper,missed,thomas more,345.0,27.0
+defensive rebound,,Centre,,
+foul,,thomas more,343.0,28.0
+free throw,missed,Centre,343.0,30.0
+defensive rebound,,thomas more,,
+subbing in,,Centre,343.0,30.0
+subbing in,,Centre,343.0,30.0
+subbing out,,Centre,343.0,30.0
+subbing out,,Centre,343.0,30.0
+subbing in,,thomas more,343.0,30.0
+subbing out,,thomas more,343.0,30.0
+three pointer,good,thomas more,332.0,19.0
+assist,,thomas more,,
+subbing in,,Centre,315.0,13.0
+subbing out,,Centre,315.0,13.0
+subbing in,,thomas more,315.0,13.0
+subbing out,,thomas more,315.0,13.0
+turnover,,Centre,313.0,11.0
+steal,,thomas more,313.0,30.0
+foul,,Centre,292.0,9.0
+free throw,missed,thomas more,292.0,30.0
+deadball rebound,,Centre,,
+free throw,good,thomas more,292.0,30.0
+subbing in,,Centre,292.0,30.0
+subbing out,,Centre,292.0,30.0
+layup,good,Centre,275.0,13.0
+assist,,Centre,,
+foul,,Centre,261.0,16.0
+free throw,good,thomas more,261.0,30.0
+free throw,good,thomas more,261.0,30.0
+subbing in,,Centre,261.0,30.0
+subbing out,,Centre,261.0,30.0
+subbing in,,thomas more,261.0,30.0
+subbing out,,thomas more,261.0,30.0
+layup,good,Centre,236.0,5.0
+layup,good,thomas more,218.0,12.0
+assist,,thomas more,,
+jumper,missed,Centre,204.0,16.0
+defensive rebound,,thomas more,,
+layup,good,thomas more,197.0,23.0
+assist,,thomas more,,
+three pointer,missed,Centre,183.0,16.0
+defensive rebound,,thomas more,,
+layup,missed,thomas more,166.0,13.0
+defensive rebound,,Centre,,
+layup,good,Centre,149.0,13.0
+assist,,Centre,,
+foul,,thomas more,149.0,30.0
+free throw,good,Centre,149.0,30.0
+subbing in,,Centre,149.0,30.0
+subbing in,,Centre,149.0,30.0
+subbing out,,Centre,149.0,30.0
+subbing out,,Centre,149.0,30.0
+subbing in,,thomas more,149.0,30.0
+subbing out,,thomas more,149.0,30.0
+three pointer,missed,thomas more,122.0,3.0
+defensive rebound,,Centre,,
+foul,,thomas more,120.0,28.0
+free throw,good,Centre,120.0,30.0
+free throw,missed,Centre,120.0,30.0
+offensive rebound,,Centre,,
+subbing in,,thomas more,120.0,30.0
+subbing out,,thomas more,120.0,30.0
+turnover,,Centre,117.0,27.0
+steal,,thomas more,115.0,28.0
+layup,missed,thomas more,97.0,12.0
+defensive rebound,,Centre,,
+foul,,thomas more,81.0,14.0
+free throw,good,Centre,81.0,30.0
+free throw,missed,Centre,81.0,30.0
+defensive rebound,,thomas more,,
+subbing in,,thomas more,81.0,30.0
+subbing out,,thomas more,81.0,30.0
+layup,good,thomas more,62.0,11.0
+assist,,thomas more,,
+foul,,thomas more,51.0,19.0
+free throw,good,Centre,51.0,30.0
+free throw,good,Centre,51.0,30.0
+three pointer,missed,thomas more,38.0,17.0
+defensive rebound,,Centre,,
+turnover,,Centre,11.0,11.0
+steal,,thomas more,9.0,9.0
+layup,missed,thomas more,5.0,5.0
+defensive rebound,,Centre,,
+,,,,
+subbing in,,Centre,1200.0,1192.0
+subbing out,,Centre,1200.0,1192.0
+subbing in,,thomas more,1200.0,1192.0
+subbing out,,thomas more,1200.0,1192.0
+jumper,missed,Centre,1193.0,1185.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,1189.0,26.0
+defensive rebound,,thomas more,,
+foul,,thomas more,1181.0,22.0
+turnover,,thomas more,1181.0,30.0
+three pointer,missed,Centre,1169.0,18.0
+defensive rebound,,Centre,,
+turnover,,thomas more,1155.0,16.0
+layup,good,Centre,1144.0,19.0
+three pointer,missed,thomas more,1131.0,17.0
+defensive rebound,,Centre,,
+turnover,,Centre,1117.0,16.0
+steal,,thomas more,1117.0,30.0
+foul,,Centre,1117.0,30.0
+three pointer,missed,thomas more,1100.0,13.0
+offensive rebound,,thomas more,,
+foul,,Centre,1097.0,27.0
+free throw,good,thomas more,1097.0,30.0
+free throw,missed,thomas more,1097.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,1083.0,16.0
+layup,good,thomas more,1073.0,20.0
+assist,,thomas more,,
+foul,,thomas more,1065.0,22.0
+turnover,,Centre,1064.0,29.0
+steal,,thomas more,1062.0,28.0
+turnover,,thomas more,1059.0,27.0
+subbing in,,Centre,1059.0,30.0
+subbing out,,Centre,1059.0,30.0
+jumper,good,Centre,1050.0,21.0
+foul,,Centre,1035.0,15.0
+free throw,good,thomas more,1035.0,30.0
+free throw,good,thomas more,1035.0,30.0
+subbing in,,Centre,1035.0,30.0
+subbing out,,Centre,1035.0,30.0
+subbing in,,thomas more,1035.0,30.0
+subbing out,,thomas more,1035.0,30.0
+three pointer,missed,Centre,1016.0,11.0
+defensive rebound,,thomas more,,
+foul,,Centre,1000.0,14.0
+free throw,good,thomas more,1000.0,30.0
+free throw,missed,thomas more,1000.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,1000.0,30.0
+subbing in,,Centre,1000.0,30.0
+subbing out,,Centre,1000.0,30.0
+subbing out,,Centre,1000.0,30.0
+subbing in,,thomas more,1000.0,30.0
+subbing out,,thomas more,1000.0,30.0
+turnover,,Centre,983.0,13.0
+three pointer,missed,thomas more,968.0,15.0
+defensive rebound,,Centre,,
+jumper,good,Centre,952.0,14.0
+turnover,,thomas more,934.0,12.0
+steal,,Centre,933.0,29.0
+layup,missed,Centre,929.0,26.0
+defensive rebound,,thomas more,,
+layup,good,thomas more,920.0,21.0
+assist,,thomas more,,
+timeout,,Centre,918.0,28.0
+subbing in,,Centre,918.0,28.0
+subbing out,,Centre,918.0,28.0
+subbing in,,thomas more,918.0,28.0
+subbing out,,thomas more,918.0,28.0
+foul,,thomas more,892.0,2.0
+jumper,missed,Centre,891.0,29.0
+block,,thomas more,891.0,29.0
+offensive rebound,,Centre,,
+foul,,thomas more,889.0,27.0
+free throw,good,Centre,889.0,30.0
+free throw,missed,Centre,889.0,30.0
+defensive rebound,,thomas more,,
+subbing in,,thomas more,889.0,30.0
+subbing in,,thomas more,889.0,30.0
+subbing out,,thomas more,889.0,30.0
+subbing out,,thomas more,889.0,30.0
+turnover,,thomas more,869.0,10.0
+subbing in,,Centre,869.0,30.0
+subbing in,,Centre,869.0,30.0
+subbing out,,Centre,869.0,30.0
+subbing out,,Centre,869.0,30.0
+three pointer,missed,Centre,856.0,17.0
+defensive rebound,,thomas more,,
+layup,missed,thomas more,847.0,21.0
+defensive rebound,,Centre,,
+subbing in,,Centre,833.0,16.0
+subbing out,,Centre,833.0,16.0
+jumper,good,Centre,819.0,2.0
+assist,,Centre,,
+three pointer,missed,thomas more,791.0,2.0
+offensive rebound,,thomas more,,
+jumper,missed,thomas more,785.0,24.0
+defensive rebound,,Centre,,
+jumper,good,Centre,776.0,21.0
+turnover,,thomas more,763.0,17.0
+steal,,Centre,761.0,28.0
+foul,,thomas more,748.0,17.0
+timeout,,Centre,748.0,30.0
+subbing in,,Centre,748.0,30.0
+subbing out,,Centre,748.0,30.0
+subbing in,,thomas more,748.0,30.0
+subbing out,,thomas more,748.0,30.0
+turnover,,Centre,741.0,23.0
+steal,,thomas more,740.0,29.0
+jumper,missed,thomas more,725.0,15.0
+defensive rebound,,Centre,,
+foul,,thomas more,723.0,28.0
+foul,,Centre,705.0,12.0
+turnover,,Centre,705.0,30.0
+three pointer,missed,thomas more,690.0,15.0
+defensive rebound,,Centre,,
+turnover,,Centre,676.0,16.0
+layup,good,thomas more,667.0,21.0
+assist,,thomas more,,
+layup,missed,Centre,654.0,17.0
+defensive rebound,,Centre,,
+timeout,,Centre,652.0,28.0
+subbing in,,Centre,652.0,28.0
+subbing in,,Centre,652.0,28.0
+subbing out,,Centre,652.0,28.0
+subbing out,,Centre,652.0,28.0
+layup,missed,thomas more,640.0,16.0
+defensive rebound,,Centre,,
+turnover,,Centre,626.0,16.0
+steal,,thomas more,624.0,28.0
+foul,,Centre,621.0,27.0
+free throw,good,thomas more,621.0,30.0
+free throw,good,thomas more,621.0,30.0
+subbing in,,Centre,621.0,30.0
+subbing in,,Centre,621.0,30.0
+subbing in,,Centre,621.0,30.0
+subbing in,,Centre,621.0,30.0
+subbing out,,Centre,621.0,30.0
+subbing out,,Centre,621.0,30.0
+subbing out,,Centre,621.0,30.0
+subbing out,,Centre,621.0,30.0
+subbing in,,thomas more,621.0,30.0
+subbing out,,thomas more,621.0,30.0
+turnover,,Centre,601.0,10.0
+steal,,thomas more,600.0,29.0
+three pointer,good,thomas more,590.0,20.0
+assist,,thomas more,,
+turnover,,Centre,563.0,3.0
+steal,,thomas more,563.0,30.0
+three pointer,missed,thomas more,547.0,14.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,535.0,18.0
+defensive rebound,,thomas more,,
+layup,good,thomas more,526.0,21.0
+foul,,thomas more,498.0,2.0
+free throw,good,Centre,498.0,30.0
+free throw,good,Centre,498.0,30.0
+subbing in,,Centre,498.0,30.0
+subbing in,,Centre,498.0,30.0
+subbing in,,Centre,498.0,30.0
+subbing out,,Centre,498.0,30.0
+subbing out,,Centre,498.0,30.0
+subbing out,,Centre,498.0,30.0
+subbing in,,thomas more,498.0,30.0
+subbing in,,thomas more,498.0,30.0
+subbing in,,thomas more,498.0,30.0
+subbing out,,thomas more,498.0,30.0
+subbing out,,thomas more,498.0,30.0
+subbing out,,thomas more,498.0,30.0
+jumper,missed,thomas more,470.0,2.0
+defensive rebound,,Centre,,
+jumper,good,Centre,449.0,9.0
+foul,,Centre,425.0,6.0
+free throw,good,thomas more,425.0,30.0
+free throw,good,thomas more,425.0,30.0
+subbing in,,thomas more,425.0,30.0
+subbing out,,thomas more,425.0,30.0
+turnover,,Centre,414.0,19.0
+steal,,thomas more,413.0,29.0
+three pointer,good,thomas more,400.0,17.0
+assist,,thomas more,,
+foul,,thomas more,379.0,9.0
+free throw,good,Centre,379.0,30.0
+free throw,good,Centre,379.0,30.0
+subbing in,,Centre,379.0,30.0
+subbing in,,Centre,379.0,30.0
+subbing in,,Centre,379.0,30.0
+subbing in,,Centre,379.0,30.0
+subbing out,,Centre,379.0,30.0
+subbing out,,Centre,379.0,30.0
+subbing out,,Centre,379.0,30.0
+subbing out,,Centre,379.0,30.0
+subbing in,,thomas more,379.0,30.0
+subbing out,,thomas more,379.0,30.0
+three pointer,good,thomas more,355.0,6.0
+assist,,thomas more,,
+layup,good,Centre,322.0,27.0
+assist,,Centre,,
+timeout,,Centre,320.0,28.0
+layup,missed,thomas more,301.0,9.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,291.0,20.0
+offensive rebound,,Centre,,
+layup,good,Centre,287.0,26.0
+layup,missed,thomas more,257.0,0.0
+defensive rebound,,Centre,,
+layup,missed,Centre,246.0,19.0
+defensive rebound,,thomas more,,
+three pointer,good,thomas more,217.0,1.0
+assist,,thomas more,,
+timeout,,Centre,210.0,23.0
+subbing in,,thomas more,210.0,23.0
+subbing in,,thomas more,210.0,23.0
+subbing out,,thomas more,210.0,23.0
+subbing out,,thomas more,210.0,23.0
+jumper,missed,Centre,198.0,11.0
+defensive rebound,,Centre,,
+foul,,Centre,180.0,12.0
+free throw,good,thomas more,180.0,30.0
+free throw,good,thomas more,180.0,30.0
+subbing in,,thomas more,180.0,30.0
+subbing out,,thomas more,180.0,30.0
+jumper,good,Centre,158.0,8.0
+assist,,Centre,,
+jumper,missed,thomas more,139.0,11.0
+defensive rebound,,Centre,,
+layup,missed,Centre,126.0,17.0
+block,,thomas more,126.0,17.0
+offensive rebound,,Centre,,
+subbing out,,Centre,126.0,17.0
+subbing out,,Centre,126.0,17.0
+jumper,good,Centre,121.0,12.0
+assist,,Centre,,
+jumper,missed,thomas more,97.0,6.0
+defensive rebound,,Centre,,
+foul,,thomas more,93.0,26.0
+free throw,missed,Centre,93.0,30.0
+defensive rebound,,thomas more,,
+subbing in,,Centre,93.0,30.0
+subbing in,,Centre,93.0,30.0
+subbing in,,Centre,93.0,30.0
+subbing out,,Centre,93.0,30.0
+layup,missed,thomas more,62.0,29.0
+defensive rebound,,Centre,,
+turnover,,Centre,54.0,22.0
+subbing in,,Centre,54.0,30.0
+subbing out,,Centre,54.0,30.0
+layup,missed,thomas more,29.0,29.0
+block,,Centre,29.0,29.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,19.0,19.0
+defensive rebound,,thomas more,,

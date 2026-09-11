@@ -1,0 +1,505 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+three pointer,missed,calvin,1194.0,624.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,1175.0,11.0
+offensive rebound,,Centre,,
+jumper,good,Centre,1171.0,26.0
+assist,,Centre,,
+three pointer,missed,calvin,1154.0,13.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,1135.0,11.0
+defensive rebound,,calvin,,
+three pointer,missed,calvin,1117.0,12.0
+defensive rebound,,Centre,,
+turnover,,Centre,1100.0,13.0
+steal,,calvin,1098.0,28.0
+layup,good,calvin,1097.0,29.0
+turnover,,Centre,1078.0,11.0
+steal,,calvin,1076.0,28.0
+layup,good,calvin,1074.0,28.0
+three pointer,missed,Centre,1051.0,7.0
+defensive rebound,,calvin,,
+three pointer,missed,calvin,1043.0,22.0
+offensive rebound,,calvin,,
+turnover,,calvin,1032.0,19.0
+steal,,Centre,1030.0,28.0
+jumper,missed,Centre,1025.0,25.0
+defensive rebound,,calvin,,
+jumper,missed,calvin,1006.0,11.0
+defensive rebound,,Centre,,
+layup,good,Centre,990.0,14.0
+assist,,Centre,,
+jumper,good,calvin,972.0,12.0
+three pointer,missed,Centre,947.0,5.0
+defensive rebound,,calvin,,
+turnover,,calvin,935.0,18.0
+steal,,Centre,933.0,28.0
+layup,missed,Centre,927.0,24.0
+block,,calvin,927.0,30.0
+defensive rebound,,calvin,,
+jumper,missed,calvin,914.0,17.0
+offensive rebound,,calvin,,
+foul,,Centre,913.0,29.0
+timeout,,Centre,913.0,30.0
+subbing in,,Centre,913.0,30.0
+subbing in,,Centre,913.0,30.0
+subbing in,,Centre,913.0,30.0
+subbing in,,Centre,913.0,30.0
+subbing out,,Centre,913.0,30.0
+subbing out,,Centre,913.0,30.0
+subbing out,,Centre,913.0,30.0
+subbing out,,Centre,913.0,30.0
+subbing in,,calvin,913.0,30.0
+subbing in,,calvin,913.0,30.0
+subbing in,,calvin,913.0,30.0
+subbing out,,calvin,913.0,30.0
+subbing out,,calvin,913.0,30.0
+subbing out,,calvin,913.0,30.0
+three pointer,good,calvin,899.0,16.0
+assist,,calvin,,
+turnover,,Centre,874.0,5.0
+jumper,good,calvin,862.0,18.0
+assist,,calvin,,
+layup,missed,Centre,832.0,0.0
+block,,calvin,832.0,0.0
+offensive rebound,,Centre,,
+subbing in,,Centre,832.0,0.0
+subbing out,,Centre,832.0,0.0
+subbing in,,calvin,832.0,0.0
+subbing out,,calvin,832.0,0.0
+foul,,calvin,828.0,26.0
+layup,missed,Centre,820.0,22.0
+defensive rebound,,calvin,,
+three pointer,good,calvin,797.0,7.0
+assist,,calvin,,
+layup,good,Centre,775.0,8.0
+turnover,,calvin,762.0,17.0
+steal,,Centre,761.0,29.0
+turnover,,Centre,747.0,16.0
+steal,,calvin,746.0,29.0
+layup,missed,calvin,743.0,27.0
+defensive rebound,,Centre,,
+turnover,,Centre,711.0,28.0
+subbing in,,Centre,711.0,30.0
+subbing out,,Centre,711.0,30.0
+subbing in,,calvin,711.0,30.0
+subbing out,,calvin,711.0,30.0
+jumper,missed,calvin,691.0,10.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,673.0,12.0
+block,,calvin,673.0,30.0
+defensive rebound,,calvin,,
+layup,good,calvin,664.0,21.0
+assist,,calvin,,
+layup,good,Centre,643.0,9.0
+assist,,Centre,,
+three pointer,missed,calvin,635.0,22.0
+offensive rebound,,calvin,,
+turnover,,calvin,625.0,20.0
+subbing in,,Centre,625.0,30.0
+subbing in,,Centre,625.0,30.0
+subbing in,,Centre,625.0,30.0
+subbing out,,Centre,625.0,30.0
+subbing out,,Centre,625.0,30.0
+subbing out,,Centre,625.0,30.0
+jumper,missed,Centre,606.0,11.0
+defensive rebound,,calvin,,
+turnover,,calvin,593.0,17.0
+steal,,Centre,591.0,28.0
+foul,,calvin,590.0,29.0
+free throw,good,Centre,590.0,30.0
+free throw,good,Centre,590.0,30.0
+subbing in,,Centre,590.0,30.0
+subbing out,,Centre,590.0,30.0
+subbing in,,calvin,590.0,30.0
+subbing in,,calvin,590.0,30.0
+subbing in,,calvin,590.0,30.0
+subbing out,,calvin,590.0,30.0
+subbing out,,calvin,590.0,30.0
+subbing out,,calvin,590.0,30.0
+jumper,good,calvin,573.0,13.0
+turnover,,Centre,563.0,20.0
+layup,good,calvin,539.0,6.0
+layup,missed,Centre,515.0,6.0
+defensive rebound,,calvin,,
+jumper,good,calvin,504.0,19.0
+assist,,calvin,,
+foul,,Centre,489.0,15.0
+turnover,,Centre,489.0,30.0
+subbing in,,calvin,489.0,30.0
+subbing in,,calvin,489.0,30.0
+subbing out,,calvin,489.0,30.0
+subbing out,,calvin,489.0,30.0
+layup,good,calvin,482.0,23.0
+assist,,calvin,,
+subbing in,,Centre,461.0,9.0
+subbing out,,Centre,461.0,9.0
+foul,,calvin,455.0,3.0
+subbing in,,calvin,455.0,30.0
+subbing out,,calvin,455.0,30.0
+jumper,good,Centre,445.0,20.0
+assist,,Centre,,
+jumper,missed,calvin,427.0,12.0
+offensive rebound,,calvin,,
+foul,,Centre,425.0,28.0
+turnover,,calvin,421.0,26.0
+turnover,,Centre,410.0,19.0
+jumper,missed,calvin,393.0,13.0
+offensive rebound,,calvin,,
+three pointer,good,calvin,389.0,26.0
+assist,,calvin,,
+foul,,calvin,359.0,0.0
+subbing in,,calvin,359.0,30.0
+subbing in,,calvin,359.0,30.0
+subbing in,,calvin,359.0,30.0
+subbing out,,calvin,359.0,30.0
+subbing out,,calvin,359.0,30.0
+subbing out,,calvin,359.0,30.0
+foul,,calvin,348.0,19.0
+subbing in,,Centre,348.0,30.0
+subbing in,,Centre,348.0,30.0
+subbing in,,Centre,348.0,30.0
+subbing out,,Centre,348.0,30.0
+subbing out,,Centre,348.0,30.0
+subbing out,,Centre,348.0,30.0
+jumper,good,Centre,344.0,26.0
+turnover,,calvin,332.0,18.0
+foul,,calvin,316.0,14.0
+subbing in,,calvin,316.0,30.0
+subbing out,,calvin,316.0,30.0
+turnover,,Centre,308.0,22.0
+subbing in,,Centre,308.0,30.0
+subbing out,,Centre,308.0,30.0
+three pointer,missed,calvin,290.0,12.0
+offensive rebound,,Centre,,
+foul,,Centre,287.0,27.0
+three pointer,good,calvin,285.0,28.0
+foul,,calvin,260.0,5.0
+free throw,good,Centre,260.0,30.0
+free throw,missed,Centre,260.0,30.0
+defensive rebound,,calvin,,
+subbing in,,Centre,260.0,30.0
+subbing out,,Centre,260.0,30.0
+jumper,missed,calvin,247.0,17.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,220.0,3.0
+offensive rebound,,Centre,,
+turnover,,Centre,209.0,19.0
+subbing in,,Centre,209.0,30.0
+subbing out,,Centre,209.0,30.0
+three pointer,good,calvin,187.0,8.0
+assist,,calvin,,
+foul,,Centre,161.0,4.0
+turnover,,Centre,161.0,30.0
+subbing in,,Centre,161.0,30.0
+subbing out,,Centre,161.0,30.0
+subbing in,,calvin,161.0,30.0
+subbing in,,calvin,161.0,30.0
+subbing out,,calvin,161.0,30.0
+subbing out,,calvin,161.0,30.0
+foul,,Centre,142.0,11.0
+subbing in,,Centre,142.0,30.0
+subbing out,,Centre,142.0,30.0
+three pointer,missed,calvin,130.0,18.0
+defensive rebound,,Centre,,
+turnover,,Centre,111.0,11.0
+steal,,calvin,109.0,28.0
+foul,,Centre,104.0,25.0
+free throw,good,calvin,104.0,30.0
+free throw,missed,calvin,104.0,30.0
+offensive rebound,,calvin,,
+subbing in,,Centre,104.0,30.0
+subbing out,,Centre,104.0,30.0
+layup,missed,calvin,101.0,27.0
+defensive rebound,,Centre,,
+layup,missed,Centre,74.0,3.0
+defensive rebound,,calvin,,
+foul,,Centre,67.0,23.0
+free throw,missed,calvin,67.0,30.0
+defensive rebound,,Centre,,
+subbing in,,calvin,67.0,30.0
+subbing out,,calvin,67.0,30.0
+jumper,good,Centre,42.0,5.0
+assist,,Centre,,
+three pointer,missed,calvin,30.0,30.0
+defensive rebound,,Centre,,
+jumper,good,Centre,8.0,8.0
+assist,,Centre,,
+,,,,
+jumper,missed,Centre,1189.0,1177.0
+defensive rebound,,calvin,,
+jumper,missed,calvin,1162.0,3.0
+offensive rebound,,calvin,,
+layup,good,calvin,1159.0,27.0
+foul,,Centre,1159.0,30.0
+free throw,good,calvin,1159.0,30.0
+subbing in,,Centre,1159.0,30.0
+subbing out,,Centre,1159.0,30.0
+three pointer,missed,Centre,1146.0,17.0
+defensive rebound,,calvin,,
+three pointer,good,calvin,1133.0,17.0
+assist,,calvin,,
+three pointer,missed,Centre,1110.0,7.0
+defensive rebound,,calvin,,
+layup,good,calvin,1096.0,16.0
+assist,,calvin,,
+turnover,,Centre,1071.0,5.0
+steal,,calvin,1068.0,27.0
+layup,good,calvin,1063.0,25.0
+assist,,calvin,,
+timeout,,Centre,1055.0,22.0
+subbing in,,Centre,1055.0,22.0
+subbing in,,Centre,1055.0,22.0
+subbing out,,Centre,1055.0,22.0
+subbing out,,Centre,1055.0,22.0
+layup,missed,Centre,1035.0,2.0
+block,,calvin,1035.0,2.0
+offensive rebound,,Centre,,
+foul,,calvin,1033.0,0.0
+free throw,good,Centre,1033.0,30.0
+free throw,good,Centre,1033.0,30.0
+subbing in,,calvin,1033.0,30.0
+subbing out,,calvin,1033.0,30.0
+jumper,good,calvin,1014.0,11.0
+assist,,calvin,,
+foul,,calvin,987.0,3.0
+free throw,good,Centre,987.0,30.0
+free throw,good,Centre,987.0,30.0
+subbing in,,Centre,987.0,30.0
+subbing out,,Centre,987.0,30.0
+three pointer,missed,calvin,969.0,12.0
+defensive rebound,,Centre,,
+foul,,calvin,943.0,4.0
+free throw,good,Centre,943.0,30.0
+free throw,good,Centre,943.0,30.0
+subbing in,,calvin,943.0,30.0
+subbing in,,calvin,943.0,30.0
+subbing out,,calvin,943.0,30.0
+subbing out,,calvin,943.0,30.0
+layup,good,calvin,925.0,12.0
+assist,,calvin,,
+jumper,missed,Centre,899.0,4.0
+block,,calvin,899.0,30.0
+defensive rebound,,calvin,,
+subbing in,,Centre,896.0,27.0
+subbing in,,Centre,896.0,27.0
+subbing in,,Centre,896.0,27.0
+subbing out,,Centre,896.0,27.0
+subbing out,,Centre,896.0,27.0
+subbing out,,Centre,896.0,27.0
+foul,,Centre,884.0,15.0
+jumper,missed,calvin,881.0,27.0
+defensive rebound,,Centre,,
+jumper,good,Centre,851.0,0.0
+assist,,Centre,,
+three pointer,missed,calvin,835.0,14.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,810.0,5.0
+assist,,Centre,,
+timeout,,Centre,798.0,18.0
+subbing in,,calvin,798.0,18.0
+subbing in,,calvin,798.0,18.0
+subbing out,,calvin,798.0,18.0
+subbing out,,calvin,798.0,18.0
+turnover,,calvin,789.0,9.0
+steal,,Centre,786.0,27.0
+foul,,calvin,784.0,28.0
+free throw,good,Centre,784.0,30.0
+free throw,missed,Centre,784.0,30.0
+defensive rebound,,calvin,,
+foul,,Centre,758.0,4.0
+free throw,missed,calvin,758.0,30.0
+deadball rebound,,calvin,,
+free throw,good,calvin,758.0,30.0
+subbing in,,Centre,758.0,30.0
+subbing out,,Centre,758.0,30.0
+turnover,,Centre,743.0,15.0
+subbing in,,calvin,743.0,30.0
+subbing out,,calvin,743.0,30.0
+turnover,,calvin,736.0,23.0
+steal,,Centre,735.0,29.0
+layup,good,Centre,731.0,26.0
+foul,,calvin,717.0,16.0
+turnover,,calvin,717.0,30.0
+timeout,,Centre,717.0,30.0
+subbing in,,Centre,717.0,30.0
+subbing out,,Centre,717.0,30.0
+subbing in,,calvin,717.0,30.0
+subbing in,,calvin,717.0,30.0
+subbing in,,calvin,717.0,30.0
+subbing out,,calvin,717.0,30.0
+subbing out,,calvin,717.0,30.0
+subbing out,,calvin,717.0,30.0
+turnover,,Centre,695.0,8.0
+jumper,good,calvin,674.0,9.0
+assist,,calvin,,
+jumper,missed,Centre,659.0,15.0
+defensive rebound,,calvin,,
+foul,,Centre,656.0,27.0
+turnover,,calvin,636.0,10.0
+steal,,Centre,634.0,28.0
+layup,good,Centre,630.0,26.0
+assist,,Centre,,
+layup,good,calvin,607.0,7.0
+assist,,calvin,,
+three pointer,missed,Centre,590.0,13.0
+defensive rebound,,calvin,,
+three pointer,good,calvin,567.0,7.0
+assist,,calvin,,
+timeout,,Centre,556.0,19.0
+subbing in,,Centre,556.0,19.0
+subbing in,,Centre,556.0,19.0
+subbing out,,Centre,556.0,19.0
+subbing out,,Centre,556.0,19.0
+subbing in,,calvin,556.0,19.0
+subbing in,,calvin,556.0,19.0
+subbing out,,calvin,556.0,19.0
+subbing out,,calvin,556.0,19.0
+layup,good,Centre,545.0,8.0
+assist,,Centre,,
+jumper,missed,calvin,524.0,9.0
+offensive rebound,,Centre,,
+three pointer,missed,calvin,520.0,26.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,510.0,20.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,504.0,24.0
+offensive rebound,,Centre,,
+layup,good,Centre,503.0,29.0
+foul,,calvin,503.0,30.0
+free throw,missed,Centre,503.0,30.0
+defensive rebound,,calvin,,
+foul,,Centre,493.0,20.0
+turnover,,calvin,492.0,29.0
+steal,,Centre,489.0,27.0
+layup,missed,Centre,487.0,28.0
+block,,calvin,487.0,28.0
+offensive rebound,,Centre,,
+turnover,,Centre,484.0,25.0
+steal,,calvin,482.0,28.0
+jumper,good,calvin,477.0,25.0
+assist,,calvin,,
+turnover,,Centre,451.0,4.0
+steal,,calvin,449.0,28.0
+foul,,calvin,445.0,26.0
+turnover,,calvin,445.0,30.0
+subbing in,,Centre,445.0,30.0
+subbing out,,Centre,445.0,30.0
+subbing in,,calvin,445.0,30.0
+subbing in,,calvin,445.0,30.0
+subbing in,,calvin,445.0,30.0
+subbing out,,calvin,445.0,30.0
+subbing out,,calvin,445.0,30.0
+subbing out,,calvin,445.0,30.0
+turnover,,Centre,422.0,7.0
+layup,missed,calvin,405.0,13.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,391.0,16.0
+defensive rebound,,calvin,,
+three pointer,good,calvin,381.0,20.0
+assist,,calvin,,
+subbing in,,Centre,361.0,10.0
+subbing in,,Centre,361.0,10.0
+subbing in,,Centre,361.0,10.0
+subbing out,,Centre,361.0,10.0
+subbing out,,Centre,361.0,10.0
+subbing out,,Centre,361.0,10.0
+subbing in,,calvin,361.0,10.0
+subbing in,,calvin,361.0,10.0
+subbing out,,calvin,361.0,10.0
+subbing out,,calvin,361.0,10.0
+foul,,calvin,354.0,3.0
+free throw,missed,Centre,354.0,30.0
+defensive rebound,,calvin,,
+three pointer,missed,calvin,343.0,19.0
+offensive rebound,,calvin,,
+layup,missed,calvin,338.0,25.0
+offensive rebound,,calvin,,
+jumper,missed,calvin,335.0,27.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,320.0,15.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,315.0,25.0
+defensive rebound,,calvin,,
+foul,,Centre,308.0,23.0
+layup,missed,calvin,296.0,18.0
+offensive rebound,,calvin,,
+foul,,Centre,294.0,28.0
+free throw,good,calvin,294.0,30.0
+free throw,good,calvin,294.0,30.0
+subbing in,,calvin,294.0,30.0
+subbing in,,calvin,294.0,30.0
+subbing out,,calvin,294.0,30.0
+subbing out,,calvin,294.0,30.0
+three pointer,good,Centre,282.0,18.0
+assist,,Centre,,
+turnover,,calvin,274.0,22.0
+subbing in,,Centre,274.0,30.0
+subbing out,,Centre,274.0,30.0
+jumper,missed,Centre,259.0,15.0
+defensive rebound,,calvin,,
+turnover,,calvin,252.0,23.0
+steal,,Centre,251.0,29.0
+foul,,Centre,248.0,27.0
+turnover,,Centre,248.0,30.0
+subbing in,,Centre,248.0,30.0
+subbing out,,Centre,248.0,30.0
+subbing in,,calvin,248.0,30.0
+subbing in,,calvin,248.0,30.0
+subbing out,,calvin,248.0,30.0
+subbing out,,calvin,248.0,30.0
+jumper,good,calvin,235.0,17.0
+assist,,calvin,,
+jumper,missed,Centre,211.0,6.0
+defensive rebound,,calvin,,
+three pointer,good,calvin,202.0,21.0
+assist,,calvin,,
+timeout,,Centre,194.0,22.0
+subbing in,,Centre,194.0,22.0
+subbing in,,Centre,194.0,22.0
+subbing out,,Centre,194.0,22.0
+subbing out,,Centre,194.0,22.0
+subbing in,,calvin,194.0,22.0
+subbing in,,calvin,194.0,22.0
+subbing out,,calvin,194.0,22.0
+subbing out,,calvin,194.0,22.0
+layup,good,Centre,183.0,11.0
+turnover,,calvin,164.0,11.0
+subbing in,,Centre,164.0,30.0
+subbing out,,Centre,164.0,30.0
+three pointer,missed,Centre,148.0,14.0
+defensive rebound,,calvin,,
+layup,good,calvin,133.0,15.0
+assist,,calvin,,
+jumper,good,Centre,107.0,4.0
+assist,,Centre,,
+timeout,,Centre,100.0,23.0
+subbing in,,Centre,100.0,23.0
+subbing in,,Centre,100.0,23.0
+subbing in,,Centre,100.0,23.0
+subbing out,,Centre,100.0,23.0
+subbing out,,Centre,100.0,23.0
+subbing out,,Centre,100.0,23.0
+subbing in,,calvin,100.0,23.0
+subbing out,,calvin,100.0,23.0
+three pointer,missed,calvin,82.0,5.0
+offensive rebound,,calvin,,
+layup,good,calvin,79.0,27.0
+turnover,,Centre,70.0,21.0
+steal,,calvin,69.0,29.0
+layup,good,calvin,66.0,27.0
+assist,,calvin,,
+jumper,good,Centre,56.0,20.0
+assist,,Centre,,
+foul,,Centre,40.0,14.0
+free throw,good,calvin,40.0,30.0
+free throw,good,calvin,40.0,30.0
+three pointer,missed,Centre,30.0,30.0
+offensive rebound,,Centre,,
+turnover,,Centre,21.0,21.0
+steal,,calvin,19.0,19.0
+layup,missed,calvin,10.0,10.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,0.0,0.0
+defensive rebound,,calvin,,

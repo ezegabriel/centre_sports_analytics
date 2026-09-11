@@ -1,0 +1,405 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+turnover,,franklin,1181.0,11.0
+steal,,Centre,1180.0,29.0
+layup,missed,Centre,1157.0,7.0
+defensive rebound,,franklin,,
+jumper,missed,franklin,1132.0,5.0
+defensive rebound,,Centre,,
+foul,,franklin,1104.0,2.0
+three pointer,missed,Centre,1101.0,27.0
+defensive rebound,,franklin,,
+turnover,,franklin,1067.0,26.0
+jumper,missed,Centre,1052.0,15.0
+defensive rebound,,franklin,,
+jumper,missed,franklin,1039.0,17.0
+defensive rebound,,Centre,,
+layup,missed,Centre,1028.0,19.0
+offensive rebound,,Centre,,
+jumper,good,Centre,1024.0,26.0
+foul,,Centre,1008.0,14.0
+free throw,good,franklin,1008.0,30.0
+free throw,missed,franklin,1008.0,30.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,987.0,9.0
+defensive rebound,,Centre,,
+subbing in,,Centre,985.0,28.0
+subbing out,,Centre,985.0,28.0
+subbing in,,franklin,985.0,28.0
+subbing out,,franklin,985.0,28.0
+layup,missed,franklin,963.0,6.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,955.0,22.0
+assist,,Centre,,
+timeout,,Centre,952.0,27.0
+layup,good,franklin,928.0,3.0
+foul,,Centre,928.0,30.0
+free throw,good,franklin,928.0,30.0
+subbing in,,Centre,928.0,30.0
+subbing out,,Centre,928.0,30.0
+turnover,,Centre,896.0,28.0
+steal,,franklin,894.0,28.0
+turnover,,franklin,880.0,16.0
+subbing in,,Centre,880.0,30.0
+subbing out,,Centre,880.0,30.0
+foul,,franklin,863.0,13.0
+subbing in,,Centre,863.0,30.0
+subbing out,,Centre,863.0,30.0
+subbing in,,franklin,863.0,30.0
+subbing out,,franklin,863.0,30.0
+turnover,,Centre,853.0,20.0
+steal,,franklin,851.0,28.0
+layup,good,franklin,848.0,27.0
+assist,,franklin,,
+layup,good,Centre,823.0,5.0
+assist,,Centre,,
+foul,,Centre,795.0,2.0
+free throw,good,franklin,795.0,30.0
+free throw,good,franklin,795.0,30.0
+subbing in,,Centre,795.0,30.0
+subbing in,,Centre,795.0,30.0
+subbing out,,Centre,795.0,30.0
+subbing out,,Centre,795.0,30.0
+jumper,missed,Centre,776.0,11.0
+defensive rebound,,franklin,,
+turnover,,franklin,755.0,9.0
+three pointer,good,Centre,742.0,17.0
+assist,,Centre,,
+turnover,,franklin,727.0,15.0
+jumper,missed,Centre,708.0,11.0
+block,,franklin,708.0,11.0
+offensive rebound,,Centre,,
+subbing in,,franklin,708.0,11.0
+subbing out,,franklin,708.0,11.0
+turnover,,Centre,706.0,9.0
+layup,missed,franklin,688.0,12.0
+offensive rebound,,franklin,,
+three pointer,missed,franklin,661.0,3.0
+offensive rebound,,franklin,,
+three pointer,missed,franklin,651.0,20.0
+defensive rebound,,Centre,,
+timeout,,Centre,649.0,28.0
+subbing in,,Centre,649.0,28.0
+subbing out,,Centre,649.0,28.0
+foul,,franklin,631.0,10.0
+layup,missed,Centre,627.0,26.0
+offensive rebound,,Centre,,
+layup,good,Centre,623.0,26.0
+three pointer,good,franklin,600.0,7.0
+assist,,franklin,,
+three pointer,missed,Centre,582.0,12.0
+offensive rebound,,Centre,,
+jumper,good,Centre,578.0,26.0
+jumper,good,franklin,563.0,15.0
+foul,,franklin,549.0,16.0
+subbing in,,Centre,549.0,30.0
+subbing in,,Centre,549.0,30.0
+subbing out,,Centre,549.0,30.0
+subbing out,,Centre,549.0,30.0
+subbing in,,franklin,549.0,30.0
+subbing out,,franklin,549.0,30.0
+turnover,,Centre,526.0,7.0
+steal,,franklin,523.0,27.0
+turnover,,franklin,504.0,11.0
+jumper,missed,Centre,490.0,16.0
+defensive rebound,,franklin,,
+layup,good,franklin,468.0,8.0
+three pointer,missed,Centre,456.0,18.0
+defensive rebound,,franklin,,
+layup,missed,franklin,436.0,10.0
+defensive rebound,,Centre,,
+subbing in,,Centre,434.0,28.0
+subbing out,,Centre,434.0,28.0
+subbing in,,franklin,434.0,28.0
+subbing in,,franklin,434.0,28.0
+subbing out,,franklin,434.0,28.0
+subbing out,,franklin,434.0,28.0
+turnover,,Centre,411.0,5.0
+subbing in,,Centre,411.0,30.0
+subbing out,,Centre,411.0,30.0
+layup,missed,franklin,399.0,18.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,388.0,19.0
+defensive rebound,,franklin,,
+jumper,missed,franklin,362.0,4.0
+defensive rebound,,Centre,,
+layup,missed,Centre,350.0,18.0
+offensive rebound,,Centre,,
+layup,good,Centre,346.0,26.0
+foul,,Centre,331.0,15.0
+free throw,good,franklin,331.0,30.0
+free throw,good,franklin,331.0,30.0
+subbing in,,Centre,331.0,30.0
+subbing in,,Centre,331.0,30.0
+subbing out,,Centre,331.0,30.0
+subbing out,,Centre,331.0,30.0
+subbing in,,franklin,331.0,30.0
+subbing out,,franklin,331.0,30.0
+layup,missed,Centre,312.0,11.0
+block,,franklin,312.0,11.0
+offensive rebound,,Centre,,
+layup,missed,Centre,306.0,5.0
+defensive rebound,,franklin,,
+layup,good,franklin,293.0,17.0
+assist,,franklin,,
+foul,,franklin,272.0,9.0
+layup,good,Centre,269.0,27.0
+assist,,Centre,,
+foul,,Centre,253.0,14.0
+subbing in,,franklin,253.0,30.0
+subbing out,,franklin,253.0,30.0
+jumper,missed,franklin,247.0,24.0
+defensive rebound,,Centre,,
+turnover,,Centre,238.0,21.0
+steal,,franklin,237.0,29.0
+layup,good,franklin,228.0,21.0
+assist,,franklin,,
+three pointer,missed,Centre,209.0,11.0
+defensive rebound,,franklin,,
+layup,missed,franklin,203.0,24.0
+offensive rebound,,franklin,,
+layup,missed,franklin,200.0,27.0
+defensive rebound,,Centre,,
+layup,missed,Centre,189.0,19.0
+block,,franklin,189.0,19.0
+offensive rebound,,Centre,,
+layup,missed,Centre,188.0,18.0
+defensive rebound,,Centre,,
+subbing in,,Centre,186.0,28.0
+subbing out,,Centre,186.0,28.0
+jumper,missed,franklin,171.0,13.0
+offensive rebound,,Centre,,
+layup,good,franklin,168.0,27.0
+assist,,franklin,,
+layup,good,Centre,146.0,8.0
+timeout,,Centre,143.0,27.0
+three pointer,missed,franklin,123.0,7.0
+offensive rebound,,franklin,,
+jumper,good,franklin,119.0,26.0
+turnover,,Centre,102.0,13.0
+steal,,franklin,100.0,28.0
+layup,missed,franklin,77.0,7.0
+defensive rebound,,Centre,,
+foul,,franklin,63.0,16.0
+turnover,,Centre,61.0,28.0
+steal,,franklin,59.0,28.0
+three pointer,missed,franklin,42.0,13.0
+defensive rebound,,Centre,,
+turnover,,Centre,33.0,21.0
+jumper,missed,franklin,13.0,13.0
+offensive rebound,,franklin,,
+turnover,,franklin,10.0,10.0
+turnover,,Centre,4.0,4.0
+turnover,,franklin,0.0,0.0
+,,,,
+three pointer,missed,Centre,1185.0,15.0
+offensive rebound,,Centre,,
+turnover,,Centre,1179.0,24.0
+steal,,franklin,1177.0,28.0
+foul,,Centre,1175.0,28.0
+layup,missed,franklin,1166.0,21.0
+defensive rebound,,Centre,,
+foul,,franklin,1153.0,17.0
+turnover,,Centre,1151.0,28.0
+layup,good,franklin,1134.0,13.0
+assist,,franklin,,
+foul,,Centre,1134.0,30.0
+free throw,good,franklin,1134.0,30.0
+jumper,good,Centre,1114.0,10.0
+assist,,Centre,,
+jumper,missed,franklin,1097.0,13.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,1068.0,1.0
+block,,franklin,1068.0,30.0
+defensive rebound,,franklin,,
+jumper,missed,franklin,1045.0,7.0
+defensive rebound,,Centre,,
+foul,,franklin,1024.0,9.0
+subbing in,,franklin,1024.0,30.0
+subbing out,,franklin,1024.0,30.0
+foul,,franklin,1007.0,13.0
+free throw,missed,Centre,1007.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,1007.0,30.0
+subbing in,,Centre,1007.0,30.0
+subbing in,,Centre,1007.0,30.0
+subbing out,,Centre,1007.0,30.0
+subbing out,,Centre,1007.0,30.0
+layup,good,franklin,980.0,3.0
+assist,,franklin,,
+jumper,missed,Centre,955.0,5.0
+defensive rebound,,franklin,,
+foul,,Centre,931.0,6.0
+subbing in,,Centre,931.0,30.0
+subbing out,,Centre,931.0,30.0
+jumper,missed,franklin,917.0,16.0
+defensive rebound,,Centre,,
+turnover,,Centre,907.0,20.0
+timeout,,Centre,907.0,30.0
+layup,missed,franklin,882.0,5.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,870.0,18.0
+defensive rebound,,franklin,,
+layup,missed,franklin,852.0,12.0
+block,,Centre,852.0,12.0
+offensive rebound,,Centre,,
+subbing in,,Centre,852.0,12.0
+subbing in,,Centre,852.0,12.0
+subbing in,,Centre,852.0,12.0
+subbing out,,Centre,852.0,12.0
+subbing out,,Centre,852.0,12.0
+subbing out,,Centre,852.0,12.0
+three pointer,missed,franklin,844.0,4.0
+defensive rebound,,Centre,,
+layup,good,Centre,831.0,17.0
+assist,,Centre,,
+layup,missed,franklin,803.0,2.0
+offensive rebound,,Centre,,
+subbing in,,franklin,801.0,28.0
+subbing out,,franklin,801.0,28.0
+foul,,Centre,789.0,16.0
+three pointer,good,franklin,775.0,16.0
+assist,,franklin,,
+turnover,,Centre,757.0,12.0
+subbing in,,Centre,757.0,30.0
+subbing in,,Centre,757.0,30.0
+subbing out,,Centre,757.0,30.0
+subbing out,,Centre,757.0,30.0
+subbing in,,franklin,757.0,30.0
+subbing out,,franklin,757.0,30.0
+layup,missed,franklin,740.0,13.0
+defensive rebound,,Centre,,
+foul,,franklin,728.0,18.0
+three pointer,good,Centre,716.0,18.0
+assist,,Centre,,
+jumper,missed,franklin,689.0,3.0
+defensive rebound,,Centre,,
+turnover,,Centre,669.0,10.0
+steal,,franklin,667.0,28.0
+jumper,missed,franklin,651.0,14.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,634.0,13.0
+defensive rebound,,franklin,,
+foul,,Centre,620.0,16.0
+timeout,,Centre,620.0,30.0
+free throw,good,franklin,620.0,30.0
+free throw,missed,franklin,620.0,30.0
+defensive rebound,,Centre,,
+subbing in,,franklin,620.0,30.0
+subbing out,,franklin,620.0,30.0
+three pointer,missed,Centre,603.0,13.0
+offensive rebound,,Centre,,
+subbing in,,Centre,600.0,27.0
+subbing in,,Centre,600.0,27.0
+subbing out,,Centre,600.0,27.0
+subbing out,,Centre,600.0,27.0
+subbing in,,franklin,600.0,27.0
+subbing out,,franklin,600.0,27.0
+foul,,franklin,598.0,25.0
+free throw,good,Centre,598.0,30.0
+free throw,good,Centre,598.0,30.0
+subbing in,,franklin,598.0,30.0
+subbing out,,franklin,598.0,30.0
+layup,missed,franklin,583.0,15.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,574.0,21.0
+defensive rebound,,franklin,,
+turnover,,franklin,552.0,8.0
+steal,,Centre,550.0,28.0
+layup,good,Centre,533.0,13.0
+three pointer,missed,franklin,516.0,13.0
+defensive rebound,,Centre,,
+foul,,franklin,492.0,6.0
+subbing in,,Centre,492.0,30.0
+subbing out,,Centre,492.0,30.0
+subbing in,,franklin,492.0,30.0
+subbing out,,franklin,492.0,30.0
+jumper,missed,Centre,479.0,17.0
+offensive rebound,,Centre,,
+layup,good,Centre,475.0,26.0
+timeout,,Centre,472.0,27.0
+turnover,,franklin,448.0,3.0
+steal,,Centre,446.0,28.0
+foul,,franklin,436.0,20.0
+free throw,good,Centre,436.0,30.0
+free throw,missed,Centre,436.0,30.0
+defensive rebound,,franklin,,
+subbing in,,franklin,436.0,30.0
+subbing in,,franklin,436.0,30.0
+subbing out,,franklin,436.0,30.0
+subbing out,,franklin,436.0,30.0
+foul,,Centre,430.0,24.0
+layup,missed,franklin,410.0,10.0
+block,,Centre,410.0,30.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,400.0,20.0
+block,,franklin,400.0,30.0
+defensive rebound,,franklin,,
+layup,good,franklin,379.0,9.0
+assist,,franklin,,
+layup,good,Centre,357.0,8.0
+three pointer,good,franklin,330.0,3.0
+assist,,franklin,,
+foul,,franklin,310.0,10.0
+free throw,missed,Centre,310.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,310.0,30.0
+subbing in,,franklin,310.0,30.0
+subbing out,,franklin,310.0,30.0
+turnover,,franklin,297.0,17.0
+subbing in,,Centre,297.0,30.0
+subbing out,,Centre,297.0,30.0
+turnover,,Centre,280.0,13.0
+steal,,franklin,278.0,28.0
+layup,good,franklin,275.0,27.0
+turnover,,Centre,265.0,20.0
+steal,,franklin,263.0,28.0
+turnover,,franklin,261.0,28.0
+three pointer,missed,Centre,235.0,4.0
+offensive rebound,,Centre,,
+layup,missed,Centre,232.0,27.0
+defensive rebound,,franklin,,
+turnover,,franklin,208.0,6.0
+subbing in,,Centre,208.0,30.0
+subbing in,,Centre,208.0,30.0
+subbing out,,Centre,208.0,30.0
+subbing out,,Centre,208.0,30.0
+subbing in,,franklin,208.0,30.0
+subbing out,,franklin,208.0,30.0
+layup,missed,Centre,189.0,11.0
+offensive rebound,,Centre,,
+layup,missed,Centre,185.0,26.0
+defensive rebound,,franklin,,
+layup,missed,franklin,163.0,8.0
+defensive rebound,,Centre,,
+foul,,franklin,158.0,25.0
+free throw,good,Centre,158.0,30.0
+free throw,missed,Centre,158.0,30.0
+defensive rebound,,franklin,,
+turnover,,franklin,137.0,9.0
+layup,missed,Centre,122.0,15.0
+block,,franklin,122.0,30.0
+defensive rebound,,franklin,,
+timeout,,Centre,113.0,21.0
+turnover,,franklin,98.0,6.0
+steal,,Centre,96.0,28.0
+three pointer,missed,Centre,86.0,20.0
+offensive rebound,,Centre,,
+foul,,franklin,83.0,27.0
+free throw,good,Centre,83.0,30.0
+free throw,missed,Centre,83.0,30.0
+defensive rebound,,franklin,,
+subbing in,,franklin,83.0,30.0
+subbing out,,franklin,83.0,30.0
+turnover,,franklin,51.0,28.0
+layup,good,Centre,37.0,16.0
+layup,missed,franklin,20.0,20.0
+block,,Centre,20.0,20.0
+defensive rebound,,Centre,,
+foul,,franklin,17.0,17.0
+free throw,missed,Centre,17.0,17.0
+deadball rebound,,Centre,,
+free throw,missed,Centre,17.0,17.0
+defensive rebound,,franklin,,
+subbing in,,franklin,17.0,17.0
+subbing out,,franklin,17.0,17.0

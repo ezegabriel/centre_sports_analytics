@@ -1,0 +1,465 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+turnover,,augustana college,1183.0,13.0
+steal,,Centre,1181.0,28.0
+three pointer,missed,Centre,1163.0,12.0
+defensive rebound,,augustana college,,
+foul,,Centre,1152.0,19.0
+jumper,missed,augustana college,1149.0,27.0
+offensive rebound,,augustana college,,
+layup,good,augustana college,1146.0,27.0
+foul,,augustana college,1127.0,11.0
+free throw,good,Centre,1127.0,30.0
+free throw,good,Centre,1127.0,30.0
+turnover,,augustana college,1106.0,9.0
+steal,,Centre,1105.0,29.0
+layup,good,Centre,1097.0,22.0
+turnover,,augustana college,1079.0,12.0
+steal,,Centre,1077.0,28.0
+jumper,missed,Centre,1063.0,16.0
+offensive rebound,,Centre,,
+foul,,augustana college,1058.0,25.0
+foul,,augustana college,1050.0,22.0
+layup,good,Centre,1040.0,20.0
+turnover,,augustana college,1022.0,12.0
+steal,,Centre,1021.0,29.0
+foul,,augustana college,1017.0,26.0
+subbing in,,augustana college,1017.0,30.0
+subbing out,,augustana college,1017.0,30.0
+foul,,augustana college,1013.0,26.0
+subbing in,,augustana college,1013.0,30.0
+subbing out,,augustana college,1013.0,30.0
+three pointer,missed,Centre,1003.0,20.0
+defensive rebound,,augustana college,,
+three pointer,missed,augustana college,991.0,18.0
+offensive rebound,,augustana college,,
+foul,,Centre,985.0,24.0
+subbing in,,Centre,985.0,30.0
+subbing out,,Centre,985.0,30.0
+jumper,missed,augustana college,979.0,24.0
+block,,Centre,979.0,30.0
+defensive rebound,,Centre,,
+jumper,good,Centre,972.0,23.0
+timeout,,Centre,968.0,26.0
+subbing in,,Centre,968.0,26.0
+subbing out,,Centre,968.0,26.0
+three pointer,missed,augustana college,945.0,3.0
+defensive rebound,,Centre,,
+turnover,,Centre,939.0,24.0
+turnover,,augustana college,919.0,10.0
+foul,,augustana college,919.0,30.0
+subbing in,,augustana college,919.0,30.0
+subbing in,,augustana college,919.0,30.0
+subbing in,,augustana college,919.0,30.0
+subbing out,,augustana college,919.0,30.0
+subbing out,,augustana college,919.0,30.0
+subbing out,,augustana college,919.0,30.0
+three pointer,missed,Centre,911.0,22.0
+defensive rebound,,augustana college,,
+jumper,good,augustana college,895.0,14.0
+three pointer,missed,Centre,879.0,14.0
+defensive rebound,,augustana college,,
+turnover,,augustana college,863.0,14.0
+subbing in,,Centre,863.0,30.0
+subbing in,,Centre,863.0,30.0
+subbing in,,Centre,863.0,30.0
+subbing out,,Centre,863.0,30.0
+subbing out,,Centre,863.0,30.0
+subbing out,,Centre,863.0,30.0
+jumper,missed,Centre,838.0,5.0
+offensive rebound,,Centre,,
+layup,missed,Centre,835.0,27.0
+defensive rebound,,augustana college,,
+jumper,missed,augustana college,810.0,5.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,789.0,9.0
+defensive rebound,,augustana college,,
+three pointer,missed,augustana college,776.0,17.0
+offensive rebound,,augustana college,,
+foul,,Centre,773.0,27.0
+subbing in,,augustana college,773.0,30.0
+subbing out,,augustana college,773.0,30.0
+turnover,,augustana college,753.0,10.0
+foul,,augustana college,753.0,30.0
+layup,missed,Centre,731.0,8.0
+block,,augustana college,731.0,8.0
+offensive rebound,,Centre,,
+layup,good,Centre,728.0,5.0
+layup,good,augustana college,705.0,7.0
+assist,,augustana college,,
+three pointer,missed,Centre,689.0,14.0
+offensive rebound,,Centre,,
+turnover,,Centre,660.0,1.0
+timeout,,Centre,660.0,30.0
+subbing in,,Centre,660.0,30.0
+subbing in,,Centre,660.0,30.0
+subbing in,,Centre,660.0,30.0
+subbing in,,Centre,660.0,30.0
+subbing in,,Centre,660.0,30.0
+subbing out,,Centre,660.0,30.0
+subbing out,,Centre,660.0,30.0
+subbing out,,Centre,660.0,30.0
+subbing out,,Centre,660.0,30.0
+subbing out,,Centre,660.0,30.0
+subbing in,,augustana college,654.0,24.0
+subbing out,,augustana college,654.0,24.0
+three pointer,missed,augustana college,652.0,22.0
+defensive rebound,,Centre,,
+subbing in,,augustana college,632.0,10.0
+subbing out,,augustana college,632.0,10.0
+three pointer,good,Centre,623.0,1.0
+assist,,Centre,,
+foul,,Centre,594.0,1.0
+free throw,good,augustana college,594.0,30.0
+free throw,good,augustana college,594.0,30.0
+subbing in,,augustana college,594.0,30.0
+subbing in,,augustana college,594.0,30.0
+subbing in,,augustana college,594.0,30.0
+subbing out,,augustana college,594.0,30.0
+subbing out,,augustana college,594.0,30.0
+subbing out,,augustana college,594.0,30.0
+three pointer,good,Centre,581.0,17.0
+assist,,Centre,,
+jumper,good,augustana college,559.0,8.0
+turnover,,Centre,525.0,26.0
+foul,,Centre,525.0,30.0
+subbing in,,augustana college,525.0,30.0
+subbing out,,augustana college,525.0,30.0
+subbing in,,Centre,525.0,30.0
+subbing out,,Centre,525.0,30.0
+turnover,,augustana college,515.0,20.0
+steal,,Centre,511.0,26.0
+jumper,missed,Centre,510.0,29.0
+defensive rebound,,augustana college,,
+foul,,Centre,508.0,28.0
+subbing in,,Centre,508.0,30.0
+subbing out,,Centre,508.0,30.0
+three pointer,missed,augustana college,492.0,14.0
+offensive rebound,,augustana college,,
+layup,good,augustana college,487.0,25.0
+assist,,augustana college,,
+layup,good,Centre,462.0,5.0
+jumper,good,augustana college,440.0,8.0
+assist,,augustana college,,
+three pointer,missed,Centre,414.0,4.0
+defensive rebound,,Centre,,
+three pointer,missed,augustana college,403.0,19.0
+defensive rebound,,Centre,,
+turnover,,Centre,375.0,2.0
+foul,,Centre,375.0,30.0
+jumper,good,augustana college,352.0,7.0
+assist,,augustana college,,
+timeout,,Centre,349.0,27.0
+subbing in,,Centre,349.0,27.0
+subbing out,,Centre,349.0,27.0
+three pointer,missed,Centre,335.0,13.0
+defensive rebound,,augustana college,,
+three pointer,good,augustana college,323.0,18.0
+assist,,augustana college,,
+jumper,missed,Centre,299.0,6.0
+defensive rebound,,augustana college,,
+jumper,missed,augustana college,282.0,13.0
+defensive rebound,,Centre,,
+layup,missed,Centre,274.0,22.0
+defensive rebound,,augustana college,,
+layup,missed,augustana college,250.0,6.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,242.0,22.0
+assist,,Centre,,
+three pointer,missed,augustana college,214.0,2.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,199.0,15.0
+defensive rebound,,augustana college,,
+three pointer,good,augustana college,192.0,23.0
+assist,,augustana college,,
+timeout,,Centre,189.0,27.0
+subbing in,,augustana college,189.0,27.0
+subbing in,,augustana college,189.0,27.0
+subbing out,,augustana college,189.0,27.0
+subbing out,,augustana college,189.0,27.0
+subbing in,,Centre,189.0,27.0
+subbing in,,Centre,189.0,27.0
+subbing in,,Centre,189.0,27.0
+subbing out,,Centre,189.0,27.0
+subbing out,,Centre,189.0,27.0
+subbing out,,Centre,189.0,27.0
+three pointer,missed,Centre,170.0,8.0
+defensive rebound,,augustana college,,
+layup,good,augustana college,159.0,19.0
+assist,,augustana college,,
+layup,good,Centre,148.0,19.0
+three pointer,good,augustana college,122.0,4.0
+assist,,augustana college,,
+three pointer,missed,Centre,99.0,7.0
+defensive rebound,,Centre,,
+subbing in,,augustana college,94.0,25.0
+subbing out,,augustana college,94.0,25.0
+subbing in,,Centre,94.0,25.0
+subbing in,,Centre,94.0,25.0
+subbing out,,Centre,94.0,25.0
+subbing out,,Centre,94.0,25.0
+turnover,,augustana college,83.0,14.0
+steal,,Centre,82.0,29.0
+foul,,augustana college,65.0,13.0
+free throw,missed,Centre,65.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,65.0,30.0
+subbing in,,augustana college,65.0,30.0
+subbing out,,augustana college,65.0,30.0
+subbing in,,Centre,65.0,30.0
+subbing out,,Centre,65.0,30.0
+jumper,good,augustana college,53.0,18.0
+three pointer,good,Centre,38.0,15.0
+assist,,Centre,,
+layup,missed,augustana college,6.0,6.0
+defensive rebound,,Centre,,
+,,,,
+turnover,,augustana college,1189.0,1181.0
+steal,,Centre,1187.0,28.0
+layup,missed,Centre,1175.0,18.0
+defensive rebound,,augustana college,,
+layup,missed,augustana college,1164.0,19.0
+offensive rebound,,augustana college,,
+foul,,Centre,1163.0,29.0
+free throw,good,augustana college,1163.0,30.0
+free throw,missed,augustana college,1163.0,30.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,1141.0,8.0
+defensive rebound,,augustana college,,
+jumper,missed,augustana college,1112.0,1.0
+defensive rebound,,Centre,,
+layup,missed,Centre,1085.0,3.0
+defensive rebound,,augustana college,,
+turnover,,augustana college,1082.0,27.0
+subbing in,,Centre,1082.0,30.0
+subbing out,,Centre,1082.0,30.0
+foul,,augustana college,1081.0,29.0
+jumper,missed,Centre,1079.0,28.0
+defensive rebound,,augustana college,,
+three pointer,missed,augustana college,1071.0,22.0
+defensive rebound,,Centre,,
+turnover,,Centre,1063.0,22.0
+steal,,augustana college,1062.0,29.0
+foul,,Centre,1058.0,26.0
+free throw,good,augustana college,1058.0,30.0
+free throw,good,augustana college,1058.0,30.0
+three pointer,missed,Centre,1037.0,9.0
+defensive rebound,,augustana college,,
+three pointer,missed,augustana college,1027.0,20.0
+defensive rebound,,Centre,,
+layup,missed,Centre,995.0,28.0
+defensive rebound,,augustana college,,
+layup,missed,augustana college,985.0,20.0
+defensive rebound,,Centre,,
+turnover,,Centre,979.0,24.0
+subbing in,,Centre,979.0,30.0
+subbing in,,Centre,979.0,30.0
+subbing out,,Centre,979.0,30.0
+subbing out,,Centre,979.0,30.0
+three pointer,good,augustana college,958.0,9.0
+assist,,augustana college,,
+three pointer,missed,Centre,934.0,6.0
+offensive rebound,,Centre,,
+layup,good,Centre,930.0,26.0
+three pointer,missed,augustana college,917.0,17.0
+offensive rebound,,augustana college,,
+three pointer,good,augustana college,911.0,24.0
+assist,,augustana college,,
+jumper,missed,Centre,882.0,1.0
+defensive rebound,,augustana college,,
+three pointer,missed,augustana college,873.0,21.0
+defensive rebound,,Centre,,
+layup,good,Centre,846.0,3.0
+three pointer,good,augustana college,825.0,9.0
+assist,,augustana college,,
+jumper,missed,Centre,800.0,5.0
+block,,augustana college,800.0,30.0
+defensive rebound,,augustana college,,
+layup,good,augustana college,782.0,12.0
+assist,,augustana college,,
+timeout,,Centre,773.0,21.0
+subbing in,,augustana college,773.0,21.0
+subbing in,,augustana college,773.0,21.0
+subbing in,,augustana college,773.0,21.0
+subbing in,,augustana college,773.0,21.0
+subbing in,,augustana college,773.0,21.0
+subbing out,,augustana college,773.0,21.0
+subbing out,,augustana college,773.0,21.0
+subbing out,,augustana college,773.0,21.0
+subbing out,,augustana college,773.0,21.0
+subbing out,,augustana college,773.0,21.0
+subbing in,,Centre,773.0,21.0
+subbing in,,Centre,773.0,21.0
+subbing in,,Centre,773.0,21.0
+subbing out,,Centre,773.0,21.0
+subbing out,,Centre,773.0,21.0
+subbing out,,Centre,773.0,21.0
+layup,good,Centre,771.0,19.0
+foul,,augustana college,770.0,29.0
+free throw,missed,Centre,770.0,30.0
+defensive rebound,,augustana college,,
+jumper,missed,augustana college,764.0,24.0
+defensive rebound,,Centre,,
+jumper,good,Centre,738.0,4.0
+foul,,Centre,707.0,29.0
+free throw,good,augustana college,707.0,30.0
+free throw,missed,augustana college,707.0,30.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,687.0,10.0
+assist,,Centre,,
+foul,,Centre,663.0,6.0
+subbing in,,augustana college,663.0,30.0
+subbing out,,augustana college,663.0,30.0
+subbing in,,Centre,663.0,30.0
+subbing out,,Centre,663.0,30.0
+jumper,good,augustana college,658.0,25.0
+assist,,augustana college,,
+jumper,missed,Centre,635.0,7.0
+defensive rebound,,augustana college,,
+three pointer,good,augustana college,626.0,21.0
+assist,,augustana college,,
+three pointer,missed,Centre,596.0,0.0
+defensive rebound,,augustana college,,
+three pointer,missed,augustana college,569.0,3.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,544.0,5.0
+defensive rebound,,augustana college,,
+turnover,,augustana college,529.0,15.0
+steal,,Centre,527.0,28.0
+three pointer,good,Centre,510.0,13.0
+assist,,Centre,,
+foul,,Centre,497.0,17.0
+subbing in,,augustana college,497.0,30.0
+subbing in,,augustana college,497.0,30.0
+subbing in,,augustana college,497.0,30.0
+subbing out,,augustana college,497.0,30.0
+subbing out,,augustana college,497.0,30.0
+subbing out,,augustana college,497.0,30.0
+subbing in,,Centre,497.0,30.0
+subbing in,,Centre,497.0,30.0
+subbing out,,Centre,497.0,30.0
+subbing out,,Centre,497.0,30.0
+three pointer,good,augustana college,482.0,15.0
+assist,,augustana college,,
+three pointer,missed,Centre,454.0,2.0
+defensive rebound,,augustana college,,
+foul,,Centre,446.0,22.0
+layup,good,augustana college,443.0,27.0
+assist,,augustana college,,
+turnover,,Centre,438.0,25.0
+three pointer,good,augustana college,432.0,24.0
+assist,,augustana college,,
+jumper,missed,Centre,407.0,5.0
+block,,augustana college,407.0,30.0
+defensive rebound,,augustana college,,
+three pointer,missed,augustana college,399.0,22.0
+offensive rebound,,Centre,,
+turnover,,augustana college,397.0,28.0
+foul,,augustana college,397.0,30.0
+subbing in,,augustana college,397.0,30.0
+subbing out,,augustana college,397.0,30.0
+subbing in,,Centre,397.0,30.0
+subbing out,,Centre,397.0,30.0
+foul,,augustana college,385.0,18.0
+jumper,missed,Centre,385.0,30.0
+defensive rebound,,augustana college,,
+turnover,,augustana college,378.0,23.0
+turnover,,Centre,363.0,15.0
+layup,missed,augustana college,353.0,20.0
+defensive rebound,,Centre,,
+layup,missed,Centre,345.0,22.0
+defensive rebound,,augustana college,,
+turnover,,augustana college,341.0,26.0
+steal,,Centre,340.0,29.0
+layup,missed,Centre,336.0,26.0
+defensive rebound,,augustana college,,
+foul,,Centre,334.0,28.0
+free throw,good,augustana college,334.0,30.0
+free throw,good,augustana college,334.0,30.0
+subbing in,,augustana college,334.0,30.0
+subbing out,,augustana college,334.0,30.0
+subbing in,,Centre,334.0,30.0
+subbing in,,Centre,334.0,30.0
+subbing out,,Centre,334.0,30.0
+subbing out,,Centre,334.0,30.0
+three pointer,missed,Centre,319.0,15.0
+offensive rebound,,Centre,,
+layup,good,Centre,313.0,24.0
+foul,,augustana college,312.0,29.0
+free throw,missed,Centre,312.0,30.0
+defensive rebound,,augustana college,,
+three pointer,good,augustana college,292.0,10.0
+assist,,augustana college,,
+three pointer,missed,Centre,272.0,10.0
+offensive rebound,,Centre,,
+layup,good,Centre,269.0,27.0
+layup,missed,augustana college,254.0,15.0
+defensive rebound,,Centre,,
+subbing in,,augustana college,251.0,27.0
+subbing in,,augustana college,251.0,27.0
+subbing in,,augustana college,251.0,27.0
+subbing out,,augustana college,251.0,27.0
+subbing out,,augustana college,251.0,27.0
+subbing out,,augustana college,251.0,27.0
+subbing in,,Centre,251.0,27.0
+subbing out,,Centre,251.0,27.0
+jumper,missed,Centre,231.0,7.0
+defensive rebound,,augustana college,,
+foul,,Centre,220.0,19.0
+free throw,missed,augustana college,220.0,30.0
+deadball rebound,,Centre,,
+free throw,good,augustana college,220.0,30.0
+subbing in,,Centre,220.0,30.0
+subbing out,,Centre,220.0,30.0
+layup,good,Centre,195.0,5.0
+three pointer,good,augustana college,160.0,25.0
+assist,,augustana college,,
+jumper,good,Centre,130.0,0.0
+timeout,,Centre,127.0,27.0
+subbing in,,augustana college,127.0,27.0
+subbing in,,augustana college,127.0,27.0
+subbing out,,augustana college,127.0,27.0
+subbing out,,augustana college,127.0,27.0
+foul,,Centre,112.0,12.0
+free throw,good,augustana college,112.0,30.0
+free throw,missed,augustana college,112.0,30.0
+defensive rebound,,Centre,,
+foul,,augustana college,107.0,25.0
+free throw,missed,Centre,107.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,Centre,107.0,30.0
+defensive rebound,,augustana college,,
+subbing in,,augustana college,107.0,30.0
+subbing in,,augustana college,107.0,30.0
+subbing in,,augustana college,107.0,30.0
+subbing out,,augustana college,107.0,30.0
+subbing out,,augustana college,107.0,30.0
+subbing out,,augustana college,107.0,30.0
+foul,,Centre,105.0,28.0
+free throw,good,augustana college,103.0,30.0
+free throw,good,augustana college,101.0,30.0
+subbing in,,Centre,101.0,30.0
+subbing in,,Centre,101.0,30.0
+subbing in,,Centre,101.0,30.0
+subbing in,,Centre,101.0,30.0
+subbing in,,Centre,101.0,30.0
+subbing out,,Centre,101.0,30.0
+subbing out,,Centre,101.0,30.0
+subbing out,,Centre,101.0,30.0
+subbing out,,Centre,101.0,30.0
+subbing out,,Centre,101.0,30.0
+turnover,,Centre,96.0,21.0
+three pointer,missed,augustana college,78.0,12.0
+offensive rebound,,augustana college,,
+three pointer,good,augustana college,62.0,14.0
+assist,,augustana college,,
+three pointer,missed,Centre,33.0,1.0
+block,,augustana college,33.0,30.0
+defensive rebound,,augustana college,,
+three pointer,missed,augustana college,16.0,16.0
+defensive rebound,,Centre,,
+timeout,,Centre,8.0,8.0
+subbing in,,Centre,8.0,8.0
+subbing in,,Centre,8.0,8.0
+subbing out,,Centre,8.0,8.0
+subbing out,,Centre,8.0,8.0

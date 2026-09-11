@@ -1,0 +1,497 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+turnover,,Centre,1175.0,5.0
+steal,,university of chicago,1175.0,30.0
+three pointer,good,university of chicago,1168.0,23.0
+assist,,university of chicago,,
+jumper,missed,Centre,1140.0,2.0
+defensive rebound,,university of chicago,,
+layup,missed,university of chicago,1132.0,22.0
+defensive rebound,,Centre,,
+turnover,,Centre,1120.0,18.0
+steal,,university of chicago,1118.0,28.0
+layup,missed,university of chicago,1116.0,28.0
+defensive rebound,,Centre,,
+turnover,,Centre,1107.0,21.0
+steal,,university of chicago,1106.0,29.0
+turnover,,university of chicago,1103.0,27.0
+jumper,good,Centre,1086.0,13.0
+turnover,,university of chicago,1071.0,15.0
+jumper,missed,Centre,1045.0,4.0
+defensive rebound,,university of chicago,,
+three pointer,missed,university of chicago,1034.0,19.0
+defensive rebound,,Centre,,
+subbing in,,university of chicago,1030.0,26.0
+subbing out,,university of chicago,1030.0,26.0
+turnover,,Centre,1010.0,6.0
+steal,,university of chicago,1009.0,29.0
+layup,missed,university of chicago,1006.0,27.0
+defensive rebound,,Centre,,
+subbing in,,university of chicago,1004.0,28.0
+subbing out,,university of chicago,1004.0,28.0
+layup,missed,Centre,990.0,14.0
+defensive rebound,,university of chicago,,
+jumper,missed,university of chicago,964.0,4.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,956.0,22.0
+defensive rebound,,university of chicago,,
+layup,missed,university of chicago,942.0,16.0
+defensive rebound,,Centre,,
+subbing in,,university of chicago,940.0,28.0
+subbing out,,university of chicago,940.0,28.0
+subbing in,,Centre,940.0,28.0
+subbing in,,Centre,940.0,28.0
+subbing out,,Centre,940.0,28.0
+subbing out,,Centre,940.0,28.0
+jumper,missed,Centre,915.0,3.0
+defensive rebound,,university of chicago,,
+three pointer,missed,university of chicago,898.0,13.0
+defensive rebound,,Centre,,
+timeout,,Centre,893.0,25.0
+subbing in,,university of chicago,893.0,25.0
+subbing out,,university of chicago,893.0,25.0
+three pointer,good,Centre,880.0,12.0
+assist,,Centre,,
+layup,good,university of chicago,860.0,10.0
+jumper,good,Centre,842.0,12.0
+assist,,Centre,,
+layup,missed,university of chicago,827.0,15.0
+offensive rebound,,Centre,,
+subbing in,,university of chicago,823.0,26.0
+subbing in,,university of chicago,823.0,26.0
+subbing in,,university of chicago,823.0,26.0
+subbing out,,university of chicago,823.0,26.0
+subbing out,,university of chicago,823.0,26.0
+subbing out,,university of chicago,823.0,26.0
+subbing in,,Centre,823.0,26.0
+subbing out,,Centre,823.0,26.0
+foul,,Centre,816.0,19.0
+jumper,missed,university of chicago,816.0,30.0
+offensive rebound,,university of chicago,,
+layup,good,university of chicago,812.0,26.0
+turnover,,Centre,791.0,9.0
+steal,,university of chicago,789.0,28.0
+layup,missed,university of chicago,783.0,24.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,766.0,13.0
+defensive rebound,,Centre,,
+three pointer,missed,university of chicago,754.0,18.0
+defensive rebound,,Centre,,
+subbing in,,university of chicago,730.0,6.0
+subbing in,,university of chicago,730.0,6.0
+subbing out,,university of chicago,730.0,6.0
+subbing out,,university of chicago,730.0,6.0
+subbing in,,Centre,730.0,6.0
+subbing in,,Centre,730.0,6.0
+subbing in,,Centre,730.0,6.0
+subbing out,,Centre,730.0,6.0
+subbing out,,Centre,730.0,6.0
+subbing out,,Centre,730.0,6.0
+jumper,missed,Centre,723.0,29.0
+offensive rebound,,Centre,,
+layup,missed,Centre,719.0,26.0
+defensive rebound,,university of chicago,,
+turnover,,university of chicago,707.0,18.0
+steal,,Centre,705.0,28.0
+foul,,university of chicago,694.0,19.0
+subbing in,,Centre,694.0,30.0
+subbing out,,Centre,694.0,30.0
+three pointer,good,Centre,680.0,16.0
+assist,,Centre,,
+turnover,,university of chicago,666.0,16.0
+layup,good,Centre,648.0,12.0
+assist,,Centre,,
+turnover,,university of chicago,626.0,8.0
+layup,missed,Centre,610.0,14.0
+defensive rebound,,university of chicago,,
+turnover,,university of chicago,602.0,22.0
+steal,,Centre,602.0,30.0
+foul,,university of chicago,590.0,18.0
+free throw,good,Centre,590.0,30.0
+free throw,missed,Centre,590.0,30.0
+defensive rebound,,university of chicago,,
+subbing in,,university of chicago,590.0,30.0
+subbing in,,university of chicago,590.0,30.0
+subbing out,,university of chicago,590.0,30.0
+subbing out,,university of chicago,590.0,30.0
+layup,good,university of chicago,577.0,17.0
+assist,,university of chicago,,
+jumper,missed,Centre,559.0,12.0
+offensive rebound,,Centre,,
+foul,,university of chicago,550.0,21.0
+subbing in,,Centre,550.0,30.0
+subbing out,,Centre,550.0,30.0
+layup,good,Centre,544.0,24.0
+turnover,,university of chicago,523.0,9.0
+foul,,university of chicago,508.0,15.0
+free throw,good,Centre,508.0,30.0
+free throw,good,Centre,508.0,30.0
+subbing in,,university of chicago,508.0,30.0
+subbing in,,university of chicago,508.0,30.0
+subbing out,,university of chicago,508.0,30.0
+subbing out,,university of chicago,508.0,30.0
+three pointer,missed,university of chicago,491.0,13.0
+defensive rebound,,Centre,,
+subbing in,,university of chicago,488.0,27.0
+subbing out,,university of chicago,488.0,27.0
+subbing in,,Centre,488.0,27.0
+subbing in,,Centre,488.0,27.0
+subbing out,,Centre,488.0,27.0
+subbing out,,Centre,488.0,27.0
+layup,missed,Centre,474.0,13.0
+defensive rebound,,university of chicago,,
+three pointer,missed,university of chicago,454.0,10.0
+offensive rebound,,university of chicago,,
+layup,good,university of chicago,450.0,26.0
+three pointer,missed,Centre,434.0,14.0
+defensive rebound,,university of chicago,,
+layup,good,university of chicago,425.0,21.0
+assist,,university of chicago,,
+turnover,,Centre,408.0,13.0
+subbing in,,Centre,408.0,30.0
+subbing out,,Centre,408.0,30.0
+jumper,good,university of chicago,396.0,18.0
+jumper,good,Centre,382.0,16.0
+three pointer,missed,university of chicago,369.0,17.0
+offensive rebound,,university of chicago,,
+layup,good,university of chicago,364.0,25.0
+turnover,,Centre,346.0,12.0
+steal,,university of chicago,345.0,29.0
+layup,good,university of chicago,335.0,20.0
+foul,,Centre,334.0,29.0
+free throw,good,university of chicago,334.0,30.0
+subbing in,,university of chicago,334.0,30.0
+subbing in,,university of chicago,334.0,30.0
+subbing in,,university of chicago,334.0,30.0
+subbing out,,university of chicago,334.0,30.0
+subbing out,,university of chicago,334.0,30.0
+subbing out,,university of chicago,334.0,30.0
+subbing in,,Centre,334.0,30.0
+subbing in,,Centre,334.0,30.0
+subbing out,,Centre,334.0,30.0
+subbing out,,Centre,334.0,30.0
+jumper,missed,Centre,323.0,19.0
+offensive rebound,,Centre,,
+layup,missed,Centre,319.0,26.0
+defensive rebound,,university of chicago,,
+layup,missed,university of chicago,306.0,17.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,281.0,5.0
+assist,,Centre,,
+foul,,Centre,268.0,17.0
+subbing in,,university of chicago,268.0,30.0
+subbing out,,university of chicago,268.0,30.0
+subbing in,,Centre,268.0,30.0
+subbing out,,Centre,268.0,30.0
+jumper,good,university of chicago,267.0,29.0
+assist,,university of chicago,,
+jumper,missed,Centre,245.0,8.0
+defensive rebound,,university of chicago,,
+layup,missed,university of chicago,234.0,19.0
+block,,Centre,234.0,30.0
+defensive rebound,,Centre,,
+layup,missed,Centre,227.0,23.0
+offensive rebound,,Centre,,
+foul,,university of chicago,220.0,23.0
+free throw,good,Centre,220.0,30.0
+free throw,missed,Centre,220.0,30.0
+defensive rebound,,university of chicago,,
+three pointer,missed,university of chicago,200.0,10.0
+offensive rebound,,university of chicago,,
+three pointer,missed,university of chicago,193.0,23.0
+offensive rebound,,university of chicago,,
+foul,,university of chicago,186.0,23.0
+turnover,,university of chicago,186.0,30.0
+subbing in,,university of chicago,171.0,15.0
+subbing in,,university of chicago,171.0,15.0
+subbing out,,university of chicago,171.0,15.0
+subbing out,,university of chicago,171.0,15.0
+subbing in,,Centre,171.0,15.0
+subbing out,,Centre,171.0,15.0
+jumper,missed,Centre,160.0,4.0
+defensive rebound,,university of chicago,,
+foul,,Centre,155.0,25.0
+layup,missed,university of chicago,143.0,18.0
+defensive rebound,,Centre,,
+layup,missed,Centre,124.0,11.0
+defensive rebound,,university of chicago,,
+layup,good,university of chicago,115.0,21.0
+turnover,,Centre,96.0,11.0
+three pointer,missed,university of chicago,81.0,15.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,70.0,19.0
+defensive rebound,,university of chicago,,
+turnover,,university of chicago,65.0,25.0
+steal,,Centre,64.0,29.0
+foul,,university of chicago,60.0,26.0
+free throw,missed,Centre,60.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,Centre,60.0,30.0
+defensive rebound,,university of chicago,,
+three pointer,missed,university of chicago,47.0,17.0
+offensive rebound,,university of chicago,,
+three pointer,missed,university of chicago,41.0,24.0
+offensive rebound,,university of chicago,,
+foul,,university of chicago,36.0,25.0
+turnover,,university of chicago,36.0,30.0
+layup,missed,Centre,20.0,20.0
+block,,university of chicago,20.0,20.0
+defensive rebound,,university of chicago,,
+layup,missed,university of chicago,7.0,7.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,1.0,1.0
+deadball rebound,,Centre,,
+,,,,
+turnover,,Centre,1199.0,1193.0
+layup,missed,university of chicago,1199.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,1199.0,30.0
+steal,,university of chicago,1199.0,30.0
+turnover,,university of chicago,1199.0,30.0
+steal,,Centre,1199.0,30.0
+layup,missed,Centre,1199.0,30.0
+defensive rebound,,university of chicago,,
+turnover,,university of chicago,1198.0,29.0
+layup,missed,Centre,1159.0,21.0
+defensive rebound,,university of chicago,,
+foul,,Centre,1155.0,26.0
+jumper,missed,university of chicago,1132.0,7.0
+defensive rebound,,Centre,,
+turnover,,Centre,1114.0,12.0
+steal,,university of chicago,1113.0,29.0
+three pointer,missed,university of chicago,1107.0,24.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,1091.0,14.0
+defensive rebound,,university of chicago,,
+layup,good,university of chicago,1082.0,21.0
+assist,,university of chicago,,
+turnover,,Centre,1067.0,15.0
+timeout,,Centre,1067.0,30.0
+subbing in,,university of chicago,1067.0,30.0
+subbing out,,university of chicago,1067.0,30.0
+three pointer,missed,university of chicago,1049.0,12.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,1037.0,18.0
+assist,,Centre,,
+layup,good,university of chicago,1023.0,16.0
+three pointer,missed,Centre,1002.0,9.0
+defensive rebound,,university of chicago,,
+jumper,good,university of chicago,985.0,13.0
+turnover,,Centre,969.0,14.0
+steal,,university of chicago,968.0,29.0
+layup,missed,university of chicago,964.0,26.0
+defensive rebound,,Centre,,
+layup,missed,Centre,951.0,17.0
+defensive rebound,,university of chicago,,
+turnover,,university of chicago,937.0,16.0
+subbing in,,university of chicago,937.0,30.0
+subbing in,,university of chicago,937.0,30.0
+subbing out,,university of chicago,937.0,30.0
+subbing out,,university of chicago,937.0,30.0
+subbing in,,Centre,937.0,30.0
+subbing in,,Centre,937.0,30.0
+subbing in,,Centre,937.0,30.0
+subbing out,,Centre,937.0,30.0
+subbing out,,Centre,937.0,30.0
+subbing out,,Centre,937.0,30.0
+turnover,,Centre,920.0,13.0
+steal,,university of chicago,918.0,28.0
+three pointer,missed,university of chicago,901.0,13.0
+defensive rebound,,Centre,,
+foul,,university of chicago,892.0,21.0
+free throw,missed,Centre,892.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,892.0,30.0
+turnover,,university of chicago,884.0,22.0
+steal,,Centre,882.0,28.0
+layup,missed,Centre,872.0,20.0
+offensive rebound,,Centre,,
+subbing in,,Centre,870.0,28.0
+subbing out,,Centre,870.0,28.0
+jumper,missed,Centre,864.0,22.0
+defensive rebound,,university of chicago,,
+subbing in,,university of chicago,860.0,26.0
+subbing out,,university of chicago,860.0,26.0
+layup,missed,university of chicago,836.0,2.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,828.0,22.0
+assist,,Centre,,
+three pointer,good,university of chicago,806.0,8.0
+assist,,university of chicago,,
+three pointer,missed,Centre,784.0,8.0
+defensive rebound,,university of chicago,,
+jumper,missed,university of chicago,772.0,18.0
+defensive rebound,,Centre,,
+layup,good,Centre,763.0,21.0
+timeout,,Centre,760.0,27.0
+subbing in,,university of chicago,760.0,27.0
+subbing in,,university of chicago,760.0,27.0
+subbing out,,university of chicago,760.0,27.0
+subbing out,,university of chicago,760.0,27.0
+three pointer,good,university of chicago,736.0,3.0
+assist,,university of chicago,,
+jumper,missed,Centre,717.0,11.0
+defensive rebound,,university of chicago,,
+three pointer,good,university of chicago,707.0,20.0
+assist,,university of chicago,,
+layup,good,Centre,692.0,15.0
+assist,,Centre,,
+turnover,,university of chicago,680.0,18.0
+subbing in,,university of chicago,680.0,30.0
+subbing in,,university of chicago,680.0,30.0
+subbing in,,university of chicago,680.0,30.0
+subbing out,,university of chicago,680.0,30.0
+subbing out,,university of chicago,680.0,30.0
+subbing out,,university of chicago,680.0,30.0
+subbing in,,Centre,680.0,30.0
+subbing in,,Centre,680.0,30.0
+subbing in,,Centre,680.0,30.0
+subbing out,,Centre,680.0,30.0
+subbing out,,Centre,680.0,30.0
+subbing out,,Centre,680.0,30.0
+layup,good,Centre,670.0,20.0
+turnover,,university of chicago,656.0,16.0
+three pointer,good,Centre,642.0,16.0
+assist,,Centre,,
+layup,missed,university of chicago,628.0,16.0
+defensive rebound,,Centre,,
+layup,missed,Centre,613.0,15.0
+defensive rebound,,university of chicago,,
+three pointer,missed,university of chicago,603.0,20.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,592.0,19.0
+defensive rebound,,university of chicago,,
+layup,good,university of chicago,581.0,19.0
+turnover,,Centre,561.0,10.0
+subbing in,,university of chicago,561.0,30.0
+subbing out,,university of chicago,561.0,30.0
+subbing in,,Centre,561.0,30.0
+subbing in,,Centre,561.0,30.0
+subbing out,,Centre,561.0,30.0
+subbing out,,Centre,561.0,30.0
+layup,missed,university of chicago,551.0,20.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,537.0,16.0
+defensive rebound,,university of chicago,,
+foul,,Centre,518.0,11.0
+subbing in,,university of chicago,518.0,30.0
+subbing out,,university of chicago,518.0,30.0
+layup,missed,university of chicago,507.0,19.0
+defensive rebound,,Centre,,
+layup,missed,Centre,501.0,24.0
+block,,university of chicago,501.0,30.0
+defensive rebound,,university of chicago,,
+timeout,,Centre,492.0,21.0
+subbing in,,Centre,492.0,21.0
+subbing out,,Centre,492.0,21.0
+three pointer,good,university of chicago,485.0,14.0
+assist,,university of chicago,,
+three pointer,good,Centre,476.0,21.0
+assist,,Centre,,
+layup,missed,university of chicago,465.0,19.0
+defensive rebound,,Centre,,
+turnover,,Centre,457.0,22.0
+steal,,university of chicago,455.0,28.0
+layup,good,university of chicago,454.0,29.0
+jumper,good,Centre,420.0,26.0
+subbing in,,university of chicago,415.0,25.0
+subbing in,,university of chicago,415.0,25.0
+subbing out,,university of chicago,415.0,25.0
+subbing out,,university of chicago,415.0,25.0
+subbing in,,Centre,415.0,25.0
+subbing in,,Centre,415.0,25.0
+subbing in,,Centre,415.0,25.0
+subbing in,,Centre,415.0,25.0
+subbing in,,Centre,415.0,25.0
+subbing out,,Centre,415.0,25.0
+subbing out,,Centre,415.0,25.0
+subbing out,,Centre,415.0,25.0
+subbing out,,Centre,415.0,25.0
+subbing out,,Centre,415.0,25.0
+turnover,,university of chicago,401.0,11.0
+steal,,Centre,399.0,28.0
+jumper,missed,Centre,394.0,25.0
+defensive rebound,,university of chicago,,
+three pointer,missed,university of chicago,364.0,0.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,346.0,12.0
+offensive rebound,,Centre,,
+foul,,university of chicago,342.0,26.0
+subbing in,,university of chicago,342.0,30.0
+subbing in,,university of chicago,342.0,30.0
+subbing out,,university of chicago,342.0,30.0
+subbing out,,university of chicago,342.0,30.0
+jumper,good,Centre,337.0,25.0
+subbing in,,university of chicago,325.0,18.0
+subbing out,,university of chicago,325.0,18.0
+turnover,,university of chicago,311.0,4.0
+jumper,missed,Centre,299.0,18.0
+defensive rebound,,university of chicago,,
+foul,,Centre,285.0,16.0
+free throw,missed,university of chicago,285.0,30.0
+deadball rebound,,Centre,,
+free throw,good,university of chicago,285.0,30.0
+jumper,missed,Centre,272.0,17.0
+defensive rebound,,university of chicago,,
+foul,,Centre,267.0,25.0
+subbing in,,Centre,267.0,30.0
+subbing in,,Centre,267.0,30.0
+subbing out,,Centre,267.0,30.0
+subbing out,,Centre,267.0,30.0
+foul,,Centre,250.0,13.0
+free throw,good,university of chicago,250.0,30.0
+free throw,missed,university of chicago,250.0,30.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,228.0,8.0
+defensive rebound,,university of chicago,,
+foul,,Centre,224.0,26.0
+subbing in,,university of chicago,224.0,30.0
+subbing out,,university of chicago,224.0,30.0
+three pointer,missed,university of chicago,215.0,21.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,193.0,8.0
+defensive rebound,,university of chicago,,
+layup,missed,university of chicago,174.0,11.0
+defensive rebound,,Centre,,
+turnover,,Centre,170.0,26.0
+steal,,university of chicago,168.0,28.0
+layup,missed,university of chicago,150.0,12.0
+defensive rebound,,Centre,,
+foul,,Centre,133.0,13.0
+turnover,,Centre,133.0,30.0
+subbing in,,Centre,133.0,30.0
+subbing out,,Centre,133.0,30.0
+layup,missed,university of chicago,122.0,19.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,101.0,9.0
+block,,university of chicago,101.0,30.0
+defensive rebound,,university of chicago,,
+three pointer,missed,university of chicago,77.0,6.0
+defensive rebound,,Centre,,
+foul,,university of chicago,53.0,6.0
+subbing in,,Centre,53.0,30.0
+subbing out,,Centre,53.0,30.0
+foul,,university of chicago,47.0,24.0
+jumper,missed,Centre,30.0,30.0
+block,,university of chicago,30.0,30.0
+offensive rebound,,Centre,,
+foul,,university of chicago,26.0,26.0
+free throw,good,Centre,26.0,26.0
+free throw,missed,Centre,26.0,26.0
+defensive rebound,,university of chicago,,
+foul,,Centre,18.0,18.0
+free throw,missed,university of chicago,18.0,18.0
+defensive rebound,,Centre,,
+foul,,university of chicago,9.0,9.0
+timeout,,Centre,9.0,9.0
+timeout,,Centre,9.0,9.0
+turnover,,Centre,7.0,7.0
+steal,,university of chicago,7.0,7.0
+foul,,Centre,7.0,7.0
+free throw,good,university of chicago,7.0,7.0
+timeout,,Centre,7.0,7.0
+free throw,good,university of chicago,7.0,7.0
+subbing in,,Centre,7.0,7.0
+subbing in,,Centre,7.0,7.0
+subbing out,,Centre,7.0,7.0
+subbing out,,Centre,7.0,7.0

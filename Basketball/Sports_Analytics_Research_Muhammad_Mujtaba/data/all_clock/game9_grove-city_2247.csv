@@ -1,0 +1,442 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+jumper,good,Centre,1195.0,25.0
+jumper,missed,grove city,1170.0,5.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,1161.0,21.0
+assist,,Centre,,
+turnover,,grove city,1131.0,0.0
+steal,,Centre,1130.0,29.0
+jumper,missed,Centre,1119.0,19.0
+defensive rebound,,grove city,,
+layup,good,grove city,1088.0,29.0
+assist,,grove city,,
+layup,good,Centre,1076.0,18.0
+assist,,Centre,,
+jumper,missed,grove city,1060.0,14.0
+defensive rebound,,Centre,,
+turnover,,Centre,1054.0,24.0
+subbing in,,grove city,1054.0,30.0
+subbing out,,grove city,1054.0,30.0
+turnover,,grove city,1039.0,15.0
+steal,,Centre,1032.0,23.0
+foul,,grove city,1031.0,29.0
+free throw,missed,Centre,1031.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,1031.0,30.0
+turnover,,grove city,1026.0,25.0
+timeout,,Centre,1026.0,30.0
+turnover,,Centre,1023.0,27.0
+foul,,Centre,1023.0,30.0
+subbing in,,Centre,1023.0,30.0
+subbing out,,Centre,1023.0,30.0
+turnover,,grove city,999.0,6.0
+steal,,Centre,998.0,29.0
+layup,good,Centre,995.0,27.0
+turnover,,grove city,982.0,17.0
+subbing in,,grove city,982.0,30.0
+subbing in,,grove city,982.0,30.0
+subbing in,,grove city,982.0,30.0
+subbing out,,grove city,982.0,30.0
+subbing out,,grove city,982.0,30.0
+subbing out,,grove city,982.0,30.0
+layup,missed,Centre,955.0,3.0
+defensive rebound,,grove city,,
+jumper,missed,grove city,924.0,29.0
+offensive rebound,,grove city,,
+subbing in,,Centre,906.0,12.0
+subbing in,,Centre,906.0,12.0
+subbing in,,Centre,906.0,12.0
+subbing out,,Centre,906.0,12.0
+subbing out,,Centre,906.0,12.0
+subbing out,,Centre,906.0,12.0
+foul,,Centre,902.0,8.0
+free throw,missed,grove city,902.0,30.0
+deadball rebound,,Centre,,
+free throw,good,grove city,902.0,30.0
+subbing in,,grove city,902.0,30.0
+subbing out,,grove city,902.0,30.0
+turnover,,Centre,894.0,22.0
+steal,,grove city,892.0,28.0
+jumper,good,grove city,886.0,24.0
+assist,,grove city,,
+turnover,,Centre,873.0,17.0
+steal,,grove city,872.0,29.0
+foul,,Centre,865.0,23.0
+free throw,missed,grove city,865.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,grove city,865.0,30.0
+offensive rebound,,Centre,,
+subbing in,,grove city,865.0,30.0
+subbing out,,grove city,865.0,30.0
+subbing in,,Centre,865.0,30.0
+subbing in,,Centre,865.0,30.0
+subbing out,,Centre,865.0,30.0
+subbing out,,Centre,865.0,30.0
+jumper,missed,grove city,860.0,25.0
+offensive rebound,,grove city,,
+jumper,good,grove city,841.0,11.0
+assist,,grove city,,
+subbing in,,grove city,828.0,17.0
+subbing out,,grove city,828.0,17.0
+turnover,,Centre,826.0,15.0
+jumper,missed,grove city,806.0,10.0
+defensive rebound,,Centre,,
+foul,,grove city,796.0,20.0
+free throw,good,Centre,796.0,30.0
+free throw,good,Centre,796.0,30.0
+subbing in,,Centre,796.0,30.0
+subbing out,,Centre,796.0,30.0
+jumper,missed,grove city,775.0,9.0
+defensive rebound,,Centre,,
+subbing in,,grove city,772.0,27.0
+subbing in,,grove city,772.0,27.0
+subbing out,,grove city,772.0,27.0
+subbing out,,grove city,772.0,27.0
+subbing in,,Centre,772.0,27.0
+subbing out,,Centre,772.0,27.0
+turnover,,Centre,763.0,18.0
+jumper,missed,grove city,757.0,24.0
+defensive rebound,,Centre,,
+foul,,grove city,747.0,20.0
+subbing in,,grove city,747.0,30.0
+subbing in,,grove city,747.0,30.0
+subbing in,,grove city,747.0,30.0
+subbing out,,grove city,747.0,30.0
+subbing in,,Centre,747.0,30.0
+subbing out,,Centre,747.0,30.0
+jumper,missed,Centre,745.0,28.0
+defensive rebound,,grove city,,
+foul,,Centre,729.0,14.0
+subbing out,,grove city,729.0,30.0
+subbing out,,grove city,729.0,30.0
+turnover,,grove city,723.0,24.0
+subbing in,,grove city,723.0,30.0
+subbing out,,grove city,723.0,30.0
+jumper,good,Centre,713.0,20.0
+assist,,Centre,,
+three pointer,good,grove city,686.0,3.0
+assist,,grove city,,
+layup,good,Centre,657.0,1.0
+turnover,,grove city,638.0,11.0
+subbing in,,grove city,638.0,30.0
+subbing in,,grove city,638.0,30.0
+subbing out,,grove city,638.0,30.0
+subbing out,,grove city,638.0,30.0
+jumper,missed,Centre,613.0,5.0
+defensive rebound,,grove city,,
+jumper,missed,grove city,600.0,17.0
+defensive rebound,,Centre,,
+turnover,,Centre,594.0,24.0
+subbing in,,Centre,594.0,30.0
+subbing in,,Centre,594.0,30.0
+subbing in,,Centre,594.0,30.0
+subbing out,,Centre,594.0,30.0
+subbing out,,Centre,594.0,30.0
+subbing out,,Centre,594.0,30.0
+jumper,good,grove city,569.0,5.0
+foul,,grove city,544.0,5.0
+free throw,good,Centre,544.0,30.0
+free throw,good,Centre,544.0,30.0
+subbing out,,Centre,544.0,30.0
+subbing out,,Centre,544.0,30.0
+subbing out,,Centre,544.0,30.0
+subbing out,,Centre,544.0,30.0
+subbing out,,Centre,544.0,30.0
+subbing in,,Centre,534.0,20.0
+subbing in,,Centre,534.0,20.0
+subbing in,,Centre,534.0,20.0
+subbing in,,Centre,534.0,20.0
+subbing in,,Centre,534.0,20.0
+jumper,missed,grove city,516.0,2.0
+defensive rebound,,Centre,,
+subbing in,,grove city,512.0,26.0
+subbing out,,grove city,512.0,26.0
+jumper,missed,Centre,492.0,6.0
+defensive rebound,,grove city,,
+turnover,,grove city,483.0,21.0
+foul,,grove city,483.0,30.0
+layup,good,Centre,471.0,18.0
+jumper,missed,grove city,449.0,8.0
+defensive rebound,,Centre,,
+turnover,,Centre,442.0,23.0
+subbing in,,grove city,442.0,30.0
+subbing in,,grove city,442.0,30.0
+subbing out,,grove city,442.0,30.0
+subbing out,,grove city,442.0,30.0
+subbing in,,Centre,442.0,30.0
+subbing in,,Centre,442.0,30.0
+subbing out,,Centre,442.0,30.0
+subbing out,,Centre,442.0,30.0
+layup,good,grove city,429.0,17.0
+assist,,grove city,,
+layup,good,Centre,402.0,3.0
+assist,,Centre,,
+three pointer,good,grove city,384.0,12.0
+assist,,grove city,,
+timeout,,Centre,380.0,26.0
+layup,missed,Centre,360.0,6.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,354.0,24.0
+defensive rebound,,grove city,,
+layup,good,grove city,346.0,22.0
+foul,,Centre,346.0,30.0
+free throw,good,grove city,346.0,30.0
+subbing in,,Centre,346.0,30.0
+subbing in,,Centre,346.0,30.0
+subbing out,,Centre,346.0,30.0
+subbing out,,Centre,346.0,30.0
+turnover,,Centre,337.0,21.0
+steal,,grove city,336.0,29.0
+jumper,missed,grove city,331.0,25.0
+defensive rebound,,Centre,,
+layup,missed,Centre,324.0,23.0
+offensive rebound,,Centre,,
+turnover,,Centre,320.0,26.0
+subbing in,,grove city,320.0,30.0
+subbing out,,grove city,320.0,30.0
+subbing in,,Centre,320.0,30.0
+subbing out,,Centre,320.0,30.0
+turnover,,grove city,299.0,9.0
+steal,,Centre,298.0,29.0
+three pointer,good,Centre,292.0,24.0
+assist,,Centre,,
+jumper,good,grove city,277.0,15.0
+turnover,,Centre,265.0,18.0
+turnover,,grove city,254.0,19.0
+foul,,grove city,254.0,30.0
+subbing in,,grove city,254.0,30.0
+subbing out,,grove city,254.0,30.0
+turnover,,Centre,231.0,7.0
+foul,,Centre,231.0,30.0
+turnover,,grove city,221.0,20.0
+steal,,Centre,221.0,30.0
+layup,missed,Centre,219.0,28.0
+offensive rebound,,Centre,,
+jumper,good,Centre,216.0,27.0
+timeout,,Centre,212.0,26.0
+turnover,,grove city,201.0,15.0
+subbing in,,grove city,201.0,30.0
+subbing out,,grove city,201.0,30.0
+jumper,missed,Centre,175.0,4.0
+block,,grove city,175.0,30.0
+defensive rebound,,grove city,,
+jumper,missed,grove city,168.0,23.0
+defensive rebound,,Centre,,
+turnover,,Centre,163.0,25.0
+steal,,grove city,162.0,29.0
+jumper,missed,grove city,157.0,25.0
+defensive rebound,,Centre,,
+foul,,grove city,140.0,13.0
+free throw,missed,Centre,140.0,30.0
+defensive rebound,,grove city,,
+subbing in,,grove city,140.0,30.0
+subbing out,,grove city,140.0,30.0
+jumper,missed,grove city,128.0,18.0
+defensive rebound,,Centre,,
+jumper,good,Centre,108.0,10.0
+assist,,Centre,,
+turnover,,grove city,95.0,17.0
+subbing in,,grove city,95.0,30.0
+subbing in,,grove city,95.0,30.0
+subbing out,,grove city,95.0,30.0
+subbing out,,grove city,95.0,30.0
+jumper,missed,Centre,71.0,6.0
+defensive rebound,,grove city,,
+jumper,missed,grove city,62.0,21.0
+defensive rebound,,Centre,,
+foul,,grove city,44.0,12.0
+free throw,good,Centre,44.0,30.0
+free throw,good,Centre,44.0,30.0
+subbing in,,Centre,44.0,30.0
+subbing out,,Centre,44.0,30.0
+layup,missed,grove city,23.0,23.0
+defensive rebound,,Centre,,
+turnover,,Centre,7.0,7.0
+steal,,grove city,6.0,6.0
+turnover,,grove city,2.0,2.0
+,,,,
+jumper,good,grove city,1200.0,1186.0
+subbing out,,grove city,1200.0,30.0
+subbing out,,grove city,1200.0,30.0
+subbing out,,grove city,1200.0,30.0
+jumper,missed,Centre,1168.0,28.0
+defensive rebound,,grove city,,
+subbing in,,grove city,1157.0,19.0
+subbing in,,grove city,1157.0,19.0
+subbing in,,grove city,1157.0,19.0
+jumper,good,Centre,1125.0,17.0
+foul,,Centre,1116.0,21.0
+layup,good,grove city,1087.0,1.0
+assist,,grove city,,
+turnover,,Centre,1077.0,20.0
+steal,,grove city,1075.0,28.0
+jumper,missed,grove city,1071.0,26.0
+offensive rebound,,grove city,,
+jumper,missed,grove city,1068.0,27.0
+offensive rebound,,grove city,,
+turnover,,grove city,1062.0,24.0
+steal,,Centre,1062.0,30.0
+jumper,good,Centre,1050.0,18.0
+assist,,Centre,,
+timeout,,Centre,1045.0,25.0
+subbing in,,grove city,1045.0,25.0
+subbing in,,grove city,1045.0,25.0
+subbing out,,grove city,1045.0,25.0
+subbing out,,grove city,1045.0,25.0
+foul,,grove city,1019.0,29.0
+turnover,,grove city,1019.0,30.0
+subbing in,,grove city,1011.0,22.0
+subbing out,,grove city,1011.0,22.0
+layup,missed,Centre,1008.0,19.0
+offensive rebound,,Centre,,
+jumper,good,Centre,1005.0,27.0
+foul,,grove city,992.0,17.0
+three pointer,missed,Centre,989.0,27.0
+defensive rebound,,Centre,,
+layup,good,grove city,962.0,3.0
+turnover,,Centre,937.0,5.0
+steal,,grove city,935.0,28.0
+jumper,good,grove city,922.0,17.0
+assist,,grove city,,
+three pointer,good,Centre,893.0,1.0
+assist,,Centre,,
+jumper,good,grove city,873.0,10.0
+three pointer,missed,Centre,844.0,1.0
+defensive rebound,,grove city,,
+turnover,,grove city,828.0,14.0
+steal,,Centre,826.0,28.0
+three pointer,missed,Centre,805.0,9.0
+defensive rebound,,grove city,,
+turnover,,grove city,799.0,24.0
+foul,,grove city,799.0,30.0
+subbing in,,grove city,799.0,30.0
+subbing in,,grove city,799.0,30.0
+subbing in,,grove city,799.0,30.0
+subbing out,,grove city,799.0,30.0
+subbing out,,grove city,799.0,30.0
+subbing out,,grove city,799.0,30.0
+subbing in,,Centre,799.0,30.0
+subbing in,,Centre,799.0,30.0
+subbing in,,Centre,799.0,30.0
+subbing in,,Centre,799.0,30.0
+subbing out,,Centre,799.0,30.0
+subbing out,,Centre,799.0,30.0
+subbing out,,Centre,799.0,30.0
+subbing out,,Centre,799.0,30.0
+jumper,missed,Centre,781.0,12.0
+defensive rebound,,grove city,,
+foul,,Centre,756.0,5.0
+turnover,,grove city,742.0,16.0
+three pointer,missed,Centre,726.0,14.0
+defensive rebound,,grove city,,
+foul,,Centre,711.0,15.0
+subbing in,,grove city,711.0,30.0
+subbing out,,grove city,711.0,30.0
+subbing in,,Centre,711.0,30.0
+subbing out,,Centre,711.0,30.0
+layup,missed,grove city,703.0,22.0
+offensive rebound,,Centre,,
+jumper,good,grove city,680.0,7.0
+assist,,grove city,,
+foul,,grove city,656.0,6.0
+turnover,,Centre,653.0,27.0
+steal,,grove city,651.0,28.0
+jumper,good,grove city,648.0,27.0
+layup,good,Centre,617.0,29.0
+assist,,Centre,,
+layup,good,grove city,586.0,29.0
+foul,,grove city,573.0,17.0
+subbing in,,grove city,573.0,30.0
+subbing in,,grove city,573.0,30.0
+subbing out,,grove city,573.0,30.0
+subbing out,,grove city,573.0,30.0
+turnover,,Centre,553.0,10.0
+subbing in,,Centre,550.0,27.0
+subbing in,,Centre,550.0,27.0
+subbing in,,Centre,550.0,27.0
+subbing out,,Centre,550.0,27.0
+subbing out,,Centre,550.0,27.0
+subbing out,,Centre,550.0,27.0
+layup,good,grove city,548.0,25.0
+assist,,grove city,,
+three pointer,missed,Centre,514.0,26.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,510.0,26.0
+defensive rebound,,grove city,,
+foul,,Centre,504.0,24.0
+subbing in,,Centre,504.0,30.0
+subbing out,,Centre,504.0,30.0
+layup,good,grove city,483.0,9.0
+timeout,,Centre,480.0,27.0
+layup,missed,Centre,464.0,11.0
+defensive rebound,,grove city,,
+three pointer,missed,grove city,445.0,11.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,417.0,2.0
+assist,,Centre,,
+layup,good,grove city,384.0,27.0
+foul,,Centre,380.0,26.0
+free throw,good,grove city,380.0,30.0
+subbing in,,grove city,380.0,30.0
+subbing in,,grove city,380.0,30.0
+subbing out,,grove city,380.0,30.0
+subbing out,,grove city,380.0,30.0
+subbing in,,Centre,380.0,30.0
+subbing out,,Centre,380.0,30.0
+three pointer,missed,Centre,359.0,9.0
+defensive rebound,,grove city,,
+turnover,,grove city,350.0,21.0
+steal,,Centre,348.0,28.0
+jumper,missed,Centre,324.0,6.0
+defensive rebound,,grove city,,
+jumper,missed,grove city,307.0,13.0
+offensive rebound,,grove city,,
+turnover,,grove city,282.0,5.0
+subbing in,,grove city,282.0,30.0
+subbing in,,grove city,282.0,30.0
+subbing out,,grove city,282.0,30.0
+subbing out,,grove city,282.0,30.0
+subbing in,,Centre,282.0,30.0
+subbing out,,Centre,282.0,30.0
+turnover,,Centre,269.0,17.0
+steal,,grove city,268.0,29.0
+jumper,good,grove city,247.0,9.0
+layup,good,Centre,234.0,17.0
+timeout,,Centre,230.0,26.0
+jumper,missed,grove city,203.0,29.0
+defensive rebound,,Centre,,
+foul,,grove city,180.0,7.0
+free throw,good,Centre,180.0,30.0
+free throw,good,Centre,180.0,30.0
+subbing in,,grove city,180.0,30.0
+subbing in,,grove city,180.0,30.0
+subbing out,,grove city,180.0,30.0
+subbing out,,grove city,180.0,30.0
+subbing in,,Centre,180.0,30.0
+subbing out,,Centre,180.0,30.0
+foul,,Centre,158.0,8.0
+layup,good,grove city,150.0,22.0
+assist,,grove city,,
+foul,,grove city,122.0,2.0
+free throw,missed,Centre,122.0,30.0
+deadball rebound,,Centre,,
+timeout,,Centre,122.0,30.0
+free throw,good,Centre,122.0,30.0
+subbing in,,Centre,122.0,30.0
+subbing out,,Centre,122.0,30.0
+jumper,missed,grove city,99.0,7.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,68.0,29.0
+defensive rebound,,grove city,,
+three pointer,good,grove city,45.0,7.0
+assist,,grove city,,
+timeout,,Centre,38.0,23.0
+layup,good,Centre,34.0,19.0
+timeout,,Centre,28.0,28.0
+timeout,,Centre,17.0,17.0
+jumper,good,grove city,5.0,5.0
+assist,,grove city,,
+timeout,,Centre,5.0,5.0
+jumper,missed,Centre,0.0,0.0
+defensive rebound,,Centre,,

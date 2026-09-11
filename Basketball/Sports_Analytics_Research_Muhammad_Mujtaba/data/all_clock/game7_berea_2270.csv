@@ -1,0 +1,527 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+turnover,,Centre,581.0,11.0
+steal,,berea,579.0,28.0
+foul,,Centre,576.0,27.0
+free throw,good,berea,576.0,30.0
+free throw,good,berea,576.0,30.0
+turnover,,Centre,573.0,27.0
+steal,,berea,571.0,28.0
+layup,missed,berea,570.0,29.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,561.0,21.0
+assist,,Centre,,
+three pointer,missed,berea,542.0,11.0
+offensive rebound,,berea,,
+turnover,,berea,522.0,10.0
+turnover,,Centre,507.0,15.0
+layup,missed,berea,488.0,11.0
+block,,Centre,488.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,482.0,24.0
+turnover,,berea,465.0,13.0
+turnover,,Centre,453.0,18.0
+steal,,berea,451.0,28.0
+foul,,Centre,448.0,27.0
+free throw,good,berea,448.0,30.0
+free throw,good,berea,448.0,30.0
+subbing in,,berea,448.0,30.0
+subbing out,,berea,448.0,30.0
+subbing in,,Centre,448.0,30.0
+subbing in,,Centre,448.0,30.0
+subbing out,,Centre,448.0,30.0
+subbing out,,Centre,448.0,30.0
+three pointer,good,Centre,430.0,12.0
+assist,,Centre,,
+three pointer,good,berea,411.0,11.0
+assist,,berea,,
+foul,,berea,381.0,0.0
+subbing in,,berea,381.0,30.0
+subbing out,,berea,381.0,30.0
+turnover,,Centre,379.0,28.0
+three pointer,missed,berea,369.0,20.0
+defensive rebound,,Centre,,
+layup,missed,Centre,360.0,21.0
+block,,berea,360.0,21.0
+offensive rebound,,Centre,,
+subbing in,,Centre,358.0,19.0
+subbing in,,Centre,358.0,19.0
+subbing out,,Centre,358.0,19.0
+subbing out,,Centre,358.0,19.0
+three pointer,missed,Centre,350.0,11.0
+defensive rebound,,berea,,
+turnover,,berea,343.0,23.0
+jumper,good,Centre,316.0,3.0
+layup,missed,berea,303.0,17.0
+block,,Centre,303.0,30.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,286.0,13.0
+defensive rebound,,berea,,
+jumper,missed,berea,268.0,12.0
+defensive rebound,,Centre,,
+foul,,berea,265.0,27.0
+subbing in,,berea,265.0,30.0
+subbing out,,berea,265.0,30.0
+subbing in,,Centre,265.0,30.0
+subbing in,,Centre,265.0,30.0
+subbing in,,Centre,265.0,30.0
+subbing out,,Centre,265.0,30.0
+subbing out,,Centre,265.0,30.0
+subbing out,,Centre,265.0,30.0
+turnover,,Centre,231.0,26.0
+steal,,berea,230.0,29.0
+foul,,Centre,223.0,23.0
+free throw,good,berea,223.0,30.0
+free throw,good,berea,223.0,30.0
+jumper,good,Centre,206.0,13.0
+assist,,Centre,,
+turnover,,berea,193.0,17.0
+steal,,Centre,192.0,29.0
+three pointer,missed,Centre,173.0,11.0
+defensive rebound,,berea,,
+layup,good,berea,163.0,20.0
+turnover,,Centre,138.0,5.0
+steal,,berea,138.0,30.0
+subbing in,,berea,138.0,30.0
+subbing out,,berea,138.0,30.0
+subbing in,,Centre,138.0,30.0
+subbing in,,Centre,138.0,30.0
+subbing in,,Centre,138.0,30.0
+subbing out,,Centre,138.0,30.0
+subbing out,,Centre,138.0,30.0
+subbing out,,Centre,138.0,30.0
+jumper,good,berea,130.0,22.0
+assist,,berea,,
+layup,missed,Centre,106.0,6.0
+defensive rebound,,berea,,
+three pointer,good,berea,96.0,20.0
+assist,,berea,,
+timeout,,Centre,91.0,25.0
+subbing in,,Centre,91.0,25.0
+subbing out,,Centre,91.0,25.0
+jumper,missed,Centre,69.0,3.0
+defensive rebound,,berea,,
+foul,,Centre,66.0,27.0
+subbing in,,Centre,66.0,30.0
+subbing out,,Centre,66.0,30.0
+turnover,,berea,55.0,19.0
+subbing in,,berea,55.0,30.0
+subbing out,,berea,55.0,30.0
+three pointer,good,Centre,32.0,7.0
+assist,,Centre,,
+three pointer,missed,berea,5.0,5.0
+defensive rebound,,Centre,,
+,,,,
+subbing in,,berea,600.0,598.0
+subbing in,,berea,600.0,598.0
+subbing in,,berea,600.0,598.0
+subbing out,,berea,600.0,598.0
+subbing out,,berea,600.0,598.0
+subbing out,,berea,600.0,598.0
+subbing in,,Centre,600.0,598.0
+subbing in,,Centre,600.0,598.0
+subbing out,,Centre,600.0,598.0
+subbing out,,Centre,600.0,598.0
+three pointer,missed,Centre,575.0,573.0
+offensive rebound,,Centre,,
+layup,missed,Centre,567.0,22.0
+defensive rebound,,berea,,
+foul,,Centre,562.0,25.0
+subbing in,,berea,562.0,30.0
+subbing out,,berea,562.0,30.0
+subbing in,,Centre,562.0,30.0
+subbing out,,Centre,562.0,30.0
+three pointer,missed,berea,550.0,18.0
+defensive rebound,,Centre,,
+foul,,berea,520.0,0.0
+free throw,missed,Centre,520.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,520.0,30.0
+free throw,missed,Centre,520.0,30.0
+defensive rebound,,berea,,
+subbing in,,berea,520.0,30.0
+subbing out,,berea,520.0,30.0
+jumper,missed,berea,513.0,23.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,498.0,15.0
+assist,,Centre,,
+layup,missed,berea,466.0,28.0
+offensive rebound,,berea,,
+foul,,Centre,463.0,27.0
+free throw,missed,berea,463.0,30.0
+deadball rebound,,Centre,,
+free throw,good,berea,463.0,30.0
+subbing in,,berea,463.0,30.0
+subbing in,,berea,463.0,30.0
+subbing out,,berea,463.0,30.0
+subbing out,,berea,463.0,30.0
+subbing in,,Centre,463.0,30.0
+subbing out,,Centre,463.0,30.0
+jumper,good,Centre,450.0,17.0
+assist,,Centre,,
+three pointer,missed,berea,426.0,6.0
+offensive rebound,,berea,,
+layup,missed,berea,421.0,25.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,410.0,19.0
+defensive rebound,,berea,,
+subbing in,,berea,405.0,25.0
+subbing out,,berea,405.0,25.0
+subbing in,,Centre,405.0,25.0
+subbing out,,Centre,405.0,25.0
+three pointer,missed,berea,400.0,20.0
+defensive rebound,,Centre,,
+turnover,,Centre,394.0,24.0
+three pointer,good,berea,391.0,27.0
+assist,,berea,,
+jumper,good,Centre,369.0,8.0
+assist,,Centre,,
+foul,,Centre,359.0,20.0
+three pointer,missed,berea,359.0,30.0
+offensive rebound,,berea,,
+subbing in,,Centre,359.0,30.0
+subbing in,,Centre,359.0,30.0
+subbing out,,Centre,359.0,30.0
+subbing out,,Centre,359.0,30.0
+layup,missed,berea,353.0,24.0
+defensive rebound,,Centre,,
+foul,,berea,344.0,21.0
+layup,good,Centre,314.0,0.0
+assist,,Centre,,
+layup,missed,berea,295.0,11.0
+defensive rebound,,Centre,,
+foul,,berea,292.0,27.0
+subbing in,,berea,292.0,30.0
+subbing in,,berea,292.0,30.0
+subbing out,,berea,292.0,30.0
+subbing out,,berea,292.0,30.0
+turnover,,Centre,265.0,3.0
+steal,,berea,264.0,29.0
+foul,,Centre,261.0,27.0
+layup,missed,berea,245.0,14.0
+block,,Centre,245.0,14.0
+offensive rebound,,berea,,
+layup,missed,berea,237.0,6.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,228.0,21.0
+offensive rebound,,Centre,,
+turnover,,Centre,223.0,25.0
+steal,,berea,222.0,29.0
+foul,,Centre,220.0,28.0
+free throw,good,berea,220.0,30.0
+free throw,good,berea,220.0,30.0
+subbing in,,Centre,220.0,30.0
+subbing out,,Centre,220.0,30.0
+turnover,,Centre,204.0,14.0
+steal,,berea,202.0,28.0
+layup,missed,berea,195.0,23.0
+offensive rebound,,Centre,,
+subbing in,,berea,191.0,26.0
+subbing out,,berea,191.0,26.0
+foul,,Centre,188.0,23.0
+free throw,missed,berea,188.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,berea,188.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,172.0,14.0
+steal,,berea,171.0,29.0
+foul,,Centre,171.0,30.0
+free throw,good,berea,171.0,30.0
+free throw,good,berea,171.0,30.0
+subbing in,,Centre,171.0,30.0
+subbing in,,Centre,171.0,30.0
+subbing out,,Centre,171.0,30.0
+subbing out,,Centre,171.0,30.0
+turnover,,Centre,165.0,24.0
+steal,,berea,163.0,28.0
+three pointer,missed,berea,161.0,28.0
+offensive rebound,,berea,,
+jumper,missed,berea,144.0,13.0
+offensive rebound,,berea,,
+layup,good,berea,139.0,25.0
+three pointer,missed,Centre,115.0,6.0
+offensive rebound,,Centre,,
+foul,,berea,112.0,27.0
+jumper,missed,Centre,109.0,27.0
+defensive rebound,,berea,,
+jumper,good,berea,86.0,7.0
+assist,,berea,,
+turnover,,Centre,69.0,13.0
+steal,,berea,68.0,29.0
+layup,good,berea,66.0,28.0
+timeout,,Centre,62.0,26.0
+subbing in,,Centre,62.0,26.0
+subbing in,,Centre,62.0,26.0
+subbing out,,Centre,62.0,26.0
+subbing out,,Centre,62.0,26.0
+turnover,,Centre,51.0,15.0
+steal,,berea,50.0,29.0
+foul,,Centre,31.0,11.0
+free throw,missed,berea,31.0,30.0
+deadball rebound,,Centre,,
+free throw,good,berea,31.0,30.0
+subbing in,,Centre,31.0,30.0
+subbing out,,Centre,31.0,30.0
+jumper,good,Centre,15.0,15.0
+assist,,Centre,,
+three pointer,missed,berea,2.0,2.0
+deadball rebound,,Centre,,
+,,,,
+subbing in,,berea,600.0,599.0
+subbing out,,berea,600.0,599.0
+three pointer,good,berea,591.0,590.0
+assist,,berea,,
+layup,good,Centre,577.0,16.0
+assist,,Centre,,
+layup,missed,berea,553.0,6.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,533.0,10.0
+assist,,Centre,,
+turnover,,berea,505.0,2.0
+steal,,Centre,504.0,29.0
+layup,good,Centre,502.0,28.0
+layup,good,berea,480.0,8.0
+layup,missed,Centre,458.0,8.0
+offensive rebound,,Centre,,
+layup,good,Centre,454.0,26.0
+jumper,missed,berea,434.0,10.0
+defensive rebound,,Centre,,
+subbing in,,berea,431.0,27.0
+subbing out,,berea,431.0,27.0
+subbing in,,Centre,431.0,27.0
+subbing out,,Centre,431.0,27.0
+jumper,good,Centre,413.0,9.0
+assist,,Centre,,
+jumper,missed,berea,389.0,6.0
+defensive rebound,,Centre,,
+layup,good,Centre,381.0,22.0
+timeout,,Centre,377.0,26.0
+subbing in,,berea,377.0,26.0
+subbing out,,berea,377.0,26.0
+subbing out,,berea,377.0,26.0
+subbing out,,berea,377.0,26.0
+subbing out,,berea,377.0,26.0
+subbing in,,Centre,377.0,26.0
+subbing out,,Centre,377.0,26.0
+subbing out,,Centre,377.0,26.0
+subbing out,,Centre,377.0,26.0
+subbing out,,Centre,377.0,26.0
+subbing out,,Centre,377.0,26.0
+layup,missed,berea,360.0,9.0
+block,,Centre,360.0,30.0
+defensive rebound,,Centre,,
+layup,missed,Centre,344.0,14.0
+block,,berea,344.0,30.0
+defensive rebound,,berea,,
+foul,,Centre,330.0,16.0
+free throw,good,berea,330.0,30.0
+free throw,good,berea,330.0,30.0
+subbing in,,Centre,330.0,30.0
+layup,missed,Centre,306.0,6.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,301.0,25.0
+defensive rebound,,berea,,
+foul,,Centre,293.0,22.0
+layup,missed,berea,293.0,30.0
+offensive rebound,,berea,,
+three pointer,missed,berea,293.0,30.0
+offensive rebound,,berea,,
+subbing out,,berea,293.0,30.0
+subbing out,,berea,293.0,30.0
+subbing in,,Centre,293.0,30.0
+subbing in,,Centre,293.0,30.0
+subbing in,,Centre,293.0,30.0
+subbing in,,Centre,293.0,30.0
+subbing out,,Centre,293.0,30.0
+subbing in,,berea,291.0,28.0
+subbing in,,berea,291.0,28.0
+subbing in,,berea,291.0,28.0
+subbing in,,berea,291.0,28.0
+subbing in,,berea,291.0,28.0
+turnover,,berea,256.0,23.0
+steal,,Centre,254.0,28.0
+turnover,,Centre,229.0,5.0
+steal,,berea,229.0,30.0
+subbing in,,Centre,229.0,30.0
+subbing out,,Centre,229.0,30.0
+three pointer,missed,berea,211.0,12.0
+offensive rebound,,Centre,,
+layup,good,berea,194.0,13.0
+assist,,berea,,
+layup,missed,Centre,176.0,12.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,164.0,18.0
+defensive rebound,,berea,,
+foul,,Centre,161.0,27.0
+subbing in,,Centre,161.0,30.0
+subbing in,,Centre,161.0,30.0
+subbing out,,Centre,161.0,30.0
+subbing out,,Centre,161.0,30.0
+three pointer,missed,berea,138.0,7.0
+defensive rebound,,Centre,,
+foul,,berea,127.0,19.0
+free throw,good,Centre,127.0,30.0
+free throw,missed,Centre,127.0,30.0
+defensive rebound,,berea,,
+subbing in,,berea,127.0,30.0
+subbing in,,berea,127.0,30.0
+subbing out,,berea,127.0,30.0
+subbing out,,berea,127.0,30.0
+layup,missed,berea,114.0,17.0
+offensive rebound,,berea,,
+jumper,missed,berea,108.0,24.0
+defensive rebound,,Centre,,
+turnover,,Centre,96.0,18.0
+foul,,Centre,82.0,16.0
+subbing in,,Centre,82.0,30.0
+subbing out,,Centre,82.0,30.0
+three pointer,missed,berea,67.0,15.0
+defensive rebound,,Centre,,
+foul,,berea,61.0,24.0
+foul,,berea,50.0,19.0
+foul,,berea,41.0,21.0
+layup,good,Centre,41.0,30.0
+assist,,Centre,,
+three pointer,good,berea,9.0,9.0
+assist,,berea,,
+,,,,
+subbing in,,berea,600.0,589.0
+subbing in,,berea,600.0,589.0
+subbing out,,berea,600.0,589.0
+subbing out,,berea,600.0,589.0
+subbing in,,Centre,600.0,589.0
+subbing out,,Centre,600.0,589.0
+foul,,berea,592.0,581.0
+jumper,good,Centre,587.0,25.0
+three pointer,missed,berea,574.0,17.0
+defensive rebound,,Centre,,
+layup,good,Centre,565.0,21.0
+assist,,Centre,,
+three pointer,missed,berea,545.0,10.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,534.0,19.0
+offensive rebound,,Centre,,
+layup,good,Centre,525.0,21.0
+layup,missed,berea,513.0,18.0
+block,,Centre,513.0,30.0
+defensive rebound,,Centre,,
+layup,good,Centre,502.0,19.0
+assist,,Centre,,
+timeout,,Centre,498.0,26.0
+subbing in,,berea,498.0,26.0
+subbing out,,berea,498.0,26.0
+layup,missed,berea,484.0,12.0
+block,,Centre,484.0,30.0
+defensive rebound,,Centre,,
+layup,missed,Centre,470.0,16.0
+defensive rebound,,berea,,
+three pointer,good,berea,460.0,20.0
+assist,,berea,,
+three pointer,missed,Centre,442.0,12.0
+offensive rebound,,Centre,,
+jumper,good,Centre,410.0,28.0
+assist,,Centre,,
+foul,,berea,398.0,18.0
+turnover,,berea,398.0,30.0
+subbing in,,berea,398.0,30.0
+subbing out,,berea,398.0,30.0
+subbing in,,Centre,398.0,30.0
+subbing in,,Centre,398.0,30.0
+subbing out,,Centre,398.0,30.0
+subbing out,,Centre,398.0,30.0
+turnover,,Centre,390.0,22.0
+steal,,berea,388.0,28.0
+turnover,,berea,386.0,28.0
+steal,,Centre,384.0,28.0
+turnover,,Centre,364.0,10.0
+steal,,berea,361.0,27.0
+layup,good,berea,360.0,29.0
+jumper,missed,Centre,346.0,16.0
+block,,berea,346.0,16.0
+offensive rebound,,Centre,,
+turnover,,Centre,346.0,16.0
+steal,,berea,346.0,30.0
+subbing in,,Centre,346.0,30.0
+subbing in,,Centre,346.0,30.0
+subbing out,,Centre,346.0,30.0
+subbing out,,Centre,346.0,30.0
+foul,,Centre,322.0,6.0
+free throw,missed,berea,322.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,berea,322.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,291.0,29.0
+jumper,missed,berea,279.0,18.0
+offensive rebound,,berea,,
+jumper,good,berea,270.0,21.0
+turnover,,Centre,260.0,20.0
+steal,,berea,258.0,28.0
+layup,good,berea,256.0,28.0
+timeout,,Centre,255.0,29.0
+subbing in,,berea,255.0,29.0
+subbing out,,berea,255.0,29.0
+subbing in,,Centre,255.0,29.0
+subbing in,,Centre,255.0,29.0
+subbing in,,Centre,255.0,29.0
+subbing out,,Centre,255.0,29.0
+subbing out,,Centre,255.0,29.0
+subbing out,,Centre,255.0,29.0
+foul,,berea,233.0,7.0
+free throw,missed,Centre,233.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,233.0,30.0
+subbing in,,berea,233.0,30.0
+subbing out,,berea,233.0,30.0
+subbing in,,Centre,233.0,30.0
+subbing out,,Centre,233.0,30.0
+layup,good,berea,222.0,19.0
+assist,,berea,,
+three pointer,missed,Centre,191.0,29.0
+defensive rebound,,berea,,
+foul,,Centre,169.0,8.0
+free throw,good,berea,169.0,30.0
+free throw,missed,berea,169.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,169.0,30.0
+subbing in,,Centre,169.0,30.0
+subbing in,,Centre,169.0,30.0
+subbing out,,Centre,169.0,30.0
+subbing out,,Centre,169.0,30.0
+subbing out,,Centre,169.0,30.0
+foul,,berea,147.0,8.0
+three pointer,missed,Centre,137.0,20.0
+defensive rebound,,berea,,
+jumper,missed,berea,108.0,1.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,87.0,9.0
+defensive rebound,,berea,,
+subbing in,,berea,83.0,26.0
+subbing out,,berea,83.0,26.0
+timeout,,Centre,73.0,16.0
+subbing in,,berea,73.0,16.0
+subbing out,,berea,73.0,16.0
+foul,,Centre,71.0,14.0
+foul,,Centre,69.0,28.0
+layup,good,berea,58.0,19.0
+turnover,,Centre,35.0,7.0
+steal,,berea,34.0,29.0
+layup,good,berea,33.0,29.0
+turnover,,Centre,30.0,30.0
+timeout,,Centre,30.0,30.0
+subbing in,,Centre,30.0,30.0
+subbing in,,Centre,30.0,30.0
+subbing out,,Centre,30.0,30.0
+subbing out,,Centre,30.0,30.0
+foul,,berea,29.0,29.0
+turnover,,berea,29.0,29.0
+subbing in,,berea,29.0,29.0
+subbing out,,berea,29.0,29.0
+layup,missed,Centre,28.0,28.0
+defensive rebound,,berea,,
+foul,,Centre,20.0,20.0
+free throw,good,berea,20.0,20.0
+free throw,good,berea,20.0,20.0
+subbing in,,Centre,20.0,20.0
+subbing out,,Centre,20.0,20.0
+layup,missed,Centre,11.0,11.0
+defensive rebound,,berea,,

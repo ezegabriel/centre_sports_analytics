@@ -1,0 +1,479 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+turnover,,ripon college,1187.0,17.0
+steal,,Centre,1185.0,28.0
+layup,good,Centre,1172.0,17.0
+layup,good,ripon college,1152.0,10.0
+three pointer,missed,Centre,1126.0,4.0
+defensive rebound,,ripon college,,
+turnover,,ripon college,1109.0,13.0
+layup,good,Centre,1097.0,18.0
+three pointer,missed,ripon college,1074.0,7.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,1061.0,17.0
+assist,,Centre,,
+layup,missed,ripon college,1031.0,0.0
+defensive rebound,,Centre,,
+jumper,good,Centre,1023.0,22.0
+foul,,Centre,996.0,3.0
+subbing in,,Centre,996.0,30.0
+subbing out,,Centre,996.0,30.0
+subbing in,,ripon college,996.0,30.0
+subbing out,,ripon college,996.0,30.0
+jumper,good,ripon college,983.0,17.0
+assist,,ripon college,,
+free throw,missed,Centre,962.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,962.0,30.0
+subbing in,,Centre,962.0,30.0
+subbing in,,Centre,962.0,30.0
+subbing out,,Centre,962.0,30.0
+subbing out,,Centre,962.0,30.0
+layup,missed,ripon college,936.0,13.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,924.0,18.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,920.0,26.0
+defensive rebound,,Centre,,
+subbing in,,Centre,916.0,26.0
+subbing in,,Centre,916.0,26.0
+subbing out,,Centre,916.0,26.0
+subbing out,,Centre,916.0,26.0
+jumper,missed,ripon college,886.0,26.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,875.0,19.0
+defensive rebound,,ripon college,,
+subbing in,,ripon college,867.0,22.0
+subbing in,,ripon college,867.0,22.0
+subbing out,,ripon college,867.0,22.0
+subbing out,,ripon college,867.0,22.0
+jumper,missed,ripon college,855.0,10.0
+defensive rebound,,Centre,,
+layup,good,Centre,849.0,24.0
+assist,,Centre,,
+subbing in,,ripon college,838.0,19.0
+subbing out,,ripon college,838.0,19.0
+foul,,Centre,813.0,24.0
+free throw,good,ripon college,813.0,30.0
+free throw,good,ripon college,813.0,30.0
+jumper,good,Centre,800.0,17.0
+assist,,Centre,,
+three pointer,good,ripon college,786.0,16.0
+assist,,ripon college,,
+jumper,good,Centre,776.0,20.0
+assist,,Centre,,
+three pointer,missed,ripon college,758.0,12.0
+defensive rebound,,Centre,,
+layup,missed,Centre,748.0,20.0
+block,,ripon college,748.0,20.0
+offensive rebound,,Centre,,
+subbing in,,Centre,741.0,13.0
+subbing in,,Centre,741.0,13.0
+subbing in,,Centre,741.0,13.0
+subbing in,,Centre,741.0,13.0
+subbing out,,Centre,741.0,13.0
+subbing out,,Centre,741.0,13.0
+subbing out,,Centre,741.0,13.0
+subbing out,,Centre,741.0,13.0
+layup,missed,Centre,732.0,4.0
+defensive rebound,,ripon college,,
+timeout,,Centre,732.0,30.0
+subbing in,,ripon college,732.0,30.0
+subbing in,,ripon college,732.0,30.0
+subbing out,,ripon college,732.0,30.0
+subbing out,,ripon college,732.0,30.0
+foul,,Centre,721.0,19.0
+subbing in,,Centre,721.0,30.0
+subbing out,,Centre,721.0,30.0
+turnover,,ripon college,704.0,13.0
+steal,,Centre,703.0,29.0
+layup,good,Centre,689.0,16.0
+three pointer,good,ripon college,673.0,14.0
+assist,,ripon college,,
+turnover,,Centre,657.0,14.0
+foul,,Centre,657.0,30.0
+three pointer,good,ripon college,643.0,16.0
+assist,,ripon college,,
+timeout,,Centre,631.0,18.0
+subbing in,,ripon college,631.0,18.0
+subbing out,,ripon college,631.0,18.0
+turnover,,Centre,622.0,9.0
+steal,,ripon college,621.0,29.0
+turnover,,ripon college,615.0,24.0
+foul,,ripon college,615.0,30.0
+foul,,ripon college,615.0,30.0
+layup,good,Centre,605.0,20.0
+jumper,good,ripon college,581.0,6.0
+assist,,ripon college,,
+three pointer,missed,Centre,566.0,15.0
+defensive rebound,,ripon college,,
+jumper,missed,ripon college,550.0,14.0
+defensive rebound,,Centre,,
+subbing in,,Centre,547.0,27.0
+subbing in,,Centre,547.0,27.0
+subbing in,,Centre,547.0,27.0
+subbing out,,Centre,547.0,27.0
+subbing out,,Centre,547.0,27.0
+subbing out,,Centre,547.0,27.0
+layup,missed,Centre,531.0,11.0
+defensive rebound,,ripon college,,
+turnover,,ripon college,520.0,19.0
+steal,,Centre,519.0,29.0
+jumper,missed,Centre,516.0,27.0
+defensive rebound,,Centre,,
+foul,,Centre,515.0,29.0
+subbing in,,Centre,515.0,30.0
+subbing out,,Centre,515.0,30.0
+subbing in,,ripon college,515.0,30.0
+subbing out,,ripon college,515.0,30.0
+three pointer,good,ripon college,504.0,19.0
+assist,,ripon college,,
+three pointer,missed,Centre,494.0,20.0
+defensive rebound,,Centre,,
+subbing in,,Centre,487.0,23.0
+subbing out,,Centre,487.0,23.0
+turnover,,ripon college,465.0,1.0
+steal,,Centre,464.0,29.0
+layup,good,Centre,461.0,27.0
+three pointer,good,ripon college,441.0,10.0
+assist,,ripon college,,
+three pointer,missed,Centre,423.0,12.0
+defensive rebound,,ripon college,,
+layup,missed,ripon college,398.0,5.0
+defensive rebound,,Centre,,
+turnover,,Centre,388.0,20.0
+steal,,ripon college,387.0,29.0
+layup,good,ripon college,368.0,11.0
+three pointer,missed,Centre,346.0,8.0
+offensive rebound,,Centre,,
+foul,,ripon college,337.0,21.0
+free throw,missed,Centre,337.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,337.0,30.0
+subbing in,,Centre,337.0,30.0
+subbing in,,Centre,337.0,30.0
+subbing in,,Centre,337.0,30.0
+subbing in,,Centre,337.0,30.0
+subbing in,,Centre,337.0,30.0
+subbing out,,Centre,337.0,30.0
+subbing out,,Centre,337.0,30.0
+subbing out,,Centre,337.0,30.0
+subbing out,,Centre,337.0,30.0
+subbing out,,Centre,337.0,30.0
+subbing in,,ripon college,337.0,30.0
+subbing in,,ripon college,337.0,30.0
+subbing in,,ripon college,337.0,30.0
+subbing out,,ripon college,337.0,30.0
+subbing out,,ripon college,337.0,30.0
+subbing out,,ripon college,337.0,30.0
+jumper,missed,Centre,328.0,21.0
+offensive rebound,,Centre,,
+layup,missed,Centre,320.0,22.0
+defensive rebound,,ripon college,,
+three pointer,missed,Centre,296.0,6.0
+defensive rebound,,ripon college,,
+turnover,,ripon college,288.0,22.0
+steal,,Centre,286.0,28.0
+turnover,,Centre,283.0,27.0
+subbing in,,ripon college,283.0,30.0
+subbing out,,ripon college,283.0,30.0
+three pointer,good,ripon college,249.0,26.0
+layup,missed,Centre,227.0,8.0
+defensive rebound,,ripon college,,
+layup,missed,ripon college,216.0,19.0
+defensive rebound,,Centre,,
+timeout,,Centre,212.0,26.0
+subbing in,,Centre,212.0,26.0
+subbing in,,Centre,212.0,26.0
+subbing in,,Centre,212.0,26.0
+subbing out,,Centre,212.0,26.0
+subbing out,,Centre,212.0,26.0
+subbing out,,Centre,212.0,26.0
+jumper,missed,Centre,196.0,10.0
+defensive rebound,,ripon college,,
+jumper,missed,ripon college,187.0,21.0
+defensive rebound,,Centre,,
+foul,,ripon college,184.0,27.0
+three pointer,missed,Centre,166.0,12.0
+defensive rebound,,ripon college,,
+layup,good,ripon college,138.0,2.0
+layup,missed,Centre,128.0,20.0
+block,,ripon college,128.0,20.0
+offensive rebound,,Centre,,
+subbing in,,ripon college,127.0,19.0
+subbing out,,ripon college,127.0,19.0
+layup,good,Centre,110.0,2.0
+assist,,Centre,,
+layup,good,ripon college,81.0,1.0
+foul,,ripon college,74.0,23.0
+subbing in,,Centre,74.0,30.0
+subbing out,,Centre,74.0,30.0
+jumper,missed,Centre,66.0,22.0
+defensive rebound,,ripon college,,
+three pointer,missed,ripon college,35.0,29.0
+offensive rebound,,ripon college,,
+layup,good,ripon college,14.0,14.0
+layup,good,Centre,1.0,1.0
+foul,,Centre,0.0,0.0
+,,,,
+three pointer,good,Centre,1189.0,19.0
+assist,,Centre,,
+jumper,missed,ripon college,1159.0,0.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,1146.0,17.0
+offensive rebound,,Centre,,
+layup,good,Centre,1143.0,27.0
+turnover,,ripon college,1112.0,29.0
+foul,,ripon college,1112.0,30.0
+layup,good,Centre,1095.0,13.0
+assist,,Centre,,
+layup,missed,ripon college,1080.0,15.0
+defensive rebound,,Centre,,
+subbing in,,ripon college,1080.0,30.0
+subbing out,,ripon college,1080.0,30.0
+subbing out,,ripon college,1080.0,30.0
+turnover,,Centre,1064.0,14.0
+subbing in,,Centre,1063.0,29.0
+subbing out,,Centre,1063.0,29.0
+turnover,,ripon college,1053.0,19.0
+steal,,Centre,1052.0,29.0
+turnover,,Centre,1048.0,26.0
+steal,,ripon college,1046.0,28.0
+turnover,,ripon college,1033.0,17.0
+steal,,Centre,1032.0,29.0
+layup,good,Centre,1025.0,23.0
+assist,,Centre,,
+timeout,,Centre,1024.0,29.0
+subbing in,,Centre,1024.0,29.0
+subbing out,,Centre,1024.0,29.0
+three pointer,missed,ripon college,1008.0,13.0
+defensive rebound,,Centre,,
+foul,,ripon college,995.0,17.0
+layup,missed,Centre,988.0,23.0
+defensive rebound,,ripon college,,
+turnover,,ripon college,970.0,12.0
+subbing in,,Centre,970.0,30.0
+subbing out,,Centre,970.0,30.0
+three pointer,missed,Centre,957.0,17.0
+defensive rebound,,ripon college,,
+jumper,missed,ripon college,939.0,12.0
+defensive rebound,,Centre,,
+foul,,ripon college,938.0,29.0
+subbing in,,Centre,938.0,30.0
+subbing out,,Centre,938.0,30.0
+subbing in,,ripon college,938.0,30.0
+subbing in,,ripon college,938.0,30.0
+foul,,ripon college,927.0,19.0
+free throw,good,Centre,927.0,30.0
+free throw,good,Centre,927.0,30.0
+subbing in,,ripon college,927.0,30.0
+subbing out,,ripon college,927.0,30.0
+subbing out,,ripon college,927.0,30.0
+turnover,,ripon college,921.0,24.0
+jumper,good,Centre,916.0,25.0
+assist,,Centre,,
+foul,,Centre,903.0,17.0
+free throw,good,ripon college,903.0,30.0
+free throw,good,ripon college,903.0,30.0
+subbing in,,Centre,903.0,30.0
+subbing out,,Centre,903.0,30.0
+turnover,,Centre,896.0,23.0
+jumper,missed,ripon college,880.0,14.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,870.0,20.0
+assist,,Centre,,
+layup,good,ripon college,844.0,4.0
+jumper,missed,Centre,835.0,21.0
+defensive rebound,,ripon college,,
+jumper,missed,ripon college,818.0,13.0
+defensive rebound,,Centre,,
+layup,good,Centre,810.0,22.0
+turnover,,ripon college,789.0,9.0
+steal,,Centre,786.0,27.0
+layup,good,Centre,785.0,29.0
+timeout,,Centre,782.0,27.0
+layup,good,Centre,742.0,17.0
+foul,,ripon college,742.0,30.0
+free throw,good,Centre,742.0,30.0
+subbing in,,ripon college,724.0,12.0
+subbing in,,ripon college,724.0,12.0
+subbing in,,ripon college,724.0,12.0
+subbing out,,ripon college,724.0,12.0
+subbing out,,ripon college,724.0,12.0
+subbing out,,ripon college,724.0,12.0
+turnover,,ripon college,720.0,8.0
+steal,,Centre,718.0,28.0
+three pointer,good,Centre,714.0,26.0
+assist,,Centre,,
+three pointer,missed,ripon college,695.0,11.0
+offensive rebound,,Centre,,
+foul,,Centre,688.0,23.0
+jumper,missed,ripon college,676.0,18.0
+offensive rebound,,ripon college,,
+layup,missed,ripon college,669.0,23.0
+offensive rebound,,ripon college,,
+three pointer,missed,ripon college,659.0,20.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,647.0,18.0
+defensive rebound,,ripon college,,
+foul,,Centre,634.0,17.0
+subbing in,,Centre,634.0,30.0
+subbing out,,Centre,634.0,30.0
+subbing in,,ripon college,634.0,30.0
+subbing in,,ripon college,634.0,30.0
+subbing out,,ripon college,634.0,30.0
+subbing out,,ripon college,634.0,30.0
+turnover,,ripon college,624.0,20.0
+foul,,ripon college,613.0,19.0
+free throw,good,Centre,613.0,30.0
+free throw,good,Centre,613.0,30.0
+turnover,,ripon college,598.0,15.0
+jumper,missed,Centre,569.0,1.0
+defensive rebound,,ripon college,,
+foul,,Centre,569.0,30.0
+subbing in,,ripon college,569.0,30.0
+subbing out,,ripon college,569.0,30.0
+layup,good,ripon college,551.0,12.0
+jumper,missed,Centre,534.0,13.0
+defensive rebound,,ripon college,,
+free throw,good,ripon college,515.0,30.0
+foul,,Centre,515.0,30.0
+free throw,good,ripon college,515.0,30.0
+subbing in,,Centre,515.0,30.0
+subbing in,,Centre,515.0,30.0
+subbing in,,Centre,515.0,30.0
+subbing in,,Centre,515.0,30.0
+subbing out,,Centre,515.0,30.0
+subbing out,,Centre,515.0,30.0
+subbing out,,Centre,515.0,30.0
+subbing out,,Centre,515.0,30.0
+defensive rebound,,Centre,,
+jumper,missed,ripon college,512.0,8.0
+jumper,missed,Centre,499.0,17.0
+defensive rebound,,ripon college,,
+turnover,,ripon college,494.0,25.0
+jumper,missed,Centre,463.0,29.0
+defensive rebound,,ripon college,,
+three pointer,missed,ripon college,455.0,22.0
+defensive rebound,,Centre,,
+subbing in,,Centre,452.0,27.0
+subbing out,,Centre,452.0,27.0
+subbing in,,ripon college,452.0,27.0
+subbing out,,ripon college,452.0,27.0
+subbing out,,ripon college,452.0,27.0
+jumper,good,ripon college,441.0,16.0
+jumper,good,Centre,431.0,20.0
+foul,,ripon college,422.0,21.0
+free throw,good,Centre,413.0,30.0
+turnover,,ripon college,406.0,14.0
+steal,,Centre,406.0,30.0
+foul,,ripon college,403.0,27.0
+free throw,good,Centre,403.0,30.0
+free throw,good,Centre,403.0,30.0
+subbing in,,ripon college,403.0,30.0
+subbing in,,ripon college,403.0,30.0
+subbing out,,ripon college,403.0,30.0
+turnover,,ripon college,395.0,22.0
+subbing in,,Centre,395.0,30.0
+subbing in,,Centre,395.0,30.0
+subbing out,,Centre,395.0,30.0
+subbing out,,Centre,395.0,30.0
+foul,,ripon college,364.0,29.0
+free throw,good,Centre,364.0,30.0
+free throw,good,Centre,364.0,30.0
+layup,missed,ripon college,353.0,19.0
+defensive rebound,,Centre,,
+turnover,,Centre,346.0,23.0
+steal,,ripon college,344.0,28.0
+turnover,,ripon college,343.0,29.0
+foul,,ripon college,343.0,30.0
+subbing in,,Centre,343.0,30.0
+subbing out,,Centre,343.0,30.0
+jumper,missed,Centre,323.0,10.0
+offensive rebound,,Centre,,
+layup,missed,Centre,320.0,27.0
+defensive rebound,,Centre,,
+three pointer,missed,ripon college,308.0,18.0
+defensive rebound,,Centre,,
+foul,,ripon college,298.0,20.0
+free throw,good,Centre,298.0,30.0
+free throw,good,Centre,298.0,30.0
+subbing in,,ripon college,298.0,30.0
+subbing out,,ripon college,298.0,30.0
+layup,missed,ripon college,275.0,7.0
+defensive rebound,,Centre,,
+foul,,ripon college,270.0,25.0
+free throw,good,Centre,270.0,30.0
+free throw,good,Centre,270.0,30.0
+subbing in,,ripon college,270.0,30.0
+subbing out,,ripon college,270.0,30.0
+turnover,,ripon college,244.0,4.0
+steal,,Centre,241.0,27.0
+turnover,,Centre,233.0,22.0
+subbing in,,Centre,233.0,30.0
+subbing in,,Centre,233.0,30.0
+subbing in,,Centre,233.0,30.0
+subbing out,,Centre,233.0,30.0
+subbing out,,Centre,233.0,30.0
+subbing out,,Centre,233.0,30.0
+layup,good,ripon college,214.0,11.0
+layup,missed,Centre,185.0,1.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,179.0,24.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,157.0,8.0
+offensive rebound,,Centre,,
+layup,good,Centre,157.0,30.0
+foul,,ripon college,157.0,30.0
+free throw,missed,Centre,157.0,30.0
+defensive rebound,,Centre,,
+subbing in,,ripon college,157.0,30.0
+subbing out,,ripon college,157.0,30.0
+subbing in,,Centre,153.0,26.0
+subbing in,,Centre,153.0,26.0
+subbing out,,Centre,153.0,26.0
+subbing out,,Centre,153.0,26.0
+three pointer,good,ripon college,134.0,7.0
+assist,,ripon college,,
+timeout,,Centre,131.0,27.0
+timeout,,Centre,122.0,18.0
+subbing in,,ripon college,122.0,18.0
+subbing out,,ripon college,122.0,18.0
+turnover,,Centre,111.0,7.0
+foul,,Centre,104.0,23.0
+layup,missed,ripon college,99.0,25.0
+offensive rebound,,ripon college,,
+three pointer,missed,ripon college,92.0,23.0
+defensive rebound,,Centre,,
+foul,,ripon college,84.0,22.0
+free throw,good,Centre,84.0,30.0
+free throw,missed,Centre,84.0,30.0
+defensive rebound,,ripon college,,
+foul,,Centre,64.0,10.0
+free throw,missed,ripon college,64.0,30.0
+offensive rebound,,ripon college,,
+subbing in,,Centre,64.0,30.0
+subbing out,,Centre,64.0,30.0
+foul,,Centre,59.0,25.0
+free throw,good,ripon college,59.0,30.0
+free throw,good,ripon college,59.0,30.0
+turnover,,Centre,52.0,23.0
+foul,,Centre,43.0,21.0
+free throw,good,ripon college,43.0,30.0
+free throw,good,ripon college,43.0,30.0
+layup,missed,Centre,27.0,27.0
+defensive rebound,,ripon college,,
+jumper,good,ripon college,23.0,23.0
+assist,,ripon college,,
+three pointer,missed,ripon college,19.0,19.0
+offensive rebound,,ripon college,,
+jumper,missed,ripon college,15.0,15.0
+offensive rebound,,ripon college,,
+foul,,Centre,10.0,10.0
+free throw,missed,ripon college,10.0,10.0
+deadball rebound,,Centre,,
+free throw,good,ripon college,10.0,10.0
+foul,,ripon college,5.0,5.0
+free throw,good,Centre,5.0,5.0
+free throw,missed,Centre,5.0,5.0
+defensive rebound,,ripon college,,

@@ -1,0 +1,436 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+subbing in,,rust,1200.0,30.0
+subbing out,,rust,1200.0,30.0
+three pointer,missed,rust,1175.0,5.0
+defensive rebound,,Centre,,
+turnover,,Centre,1167.0,22.0
+steal,,rust,1165.0,28.0
+layup,missed,rust,1153.0,18.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,1146.0,23.0
+assist,,Centre,,
+layup,missed,rust,1119.0,3.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,1111.0,22.0
+defensive rebound,,rust,,
+three pointer,missed,rust,1092.0,11.0
+defensive rebound,,Centre,,
+layup,missed,Centre,1078.0,16.0
+defensive rebound,,rust,,
+foul,,Centre,1049.0,1.0
+free throw,good,rust,1049.0,30.0
+free throw,good,rust,1049.0,30.0
+subbing in,,Centre,1049.0,30.0
+subbing out,,Centre,1049.0,30.0
+turnover,,Centre,1033.0,14.0
+layup,good,rust,1023.0,20.0
+assist,,rust,,
+timeout,,Centre,1019.0,26.0
+three pointer,missed,Centre,1009.0,16.0
+defensive rebound,,rust,,
+layup,missed,rust,992.0,13.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,969.0,7.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,966.0,27.0
+offensive rebound,,Centre,,
+subbing in,,Centre,964.0,28.0
+subbing in,,Centre,964.0,28.0
+subbing out,,Centre,964.0,28.0
+subbing out,,Centre,964.0,28.0
+layup,missed,Centre,962.0,26.0
+defensive rebound,,rust,,
+jumper,missed,rust,938.0,6.0
+defensive rebound,,Centre,,
+foul,,rust,931.0,23.0
+free throw,good,Centre,931.0,30.0
+free throw,good,Centre,931.0,30.0
+subbing in,,rust,931.0,30.0
+subbing out,,rust,931.0,30.0
+subbing in,,Centre,931.0,30.0
+subbing out,,Centre,931.0,30.0
+jumper,missed,rust,914.0,13.0
+offensive rebound,,rust,,
+layup,missed,rust,911.0,27.0
+offensive rebound,,rust,,
+jumper,good,rust,906.0,25.0
+assist,,rust,,
+foul,,rust,887.0,11.0
+three pointer,missed,Centre,882.0,25.0
+defensive rebound,,rust,,
+layup,good,rust,871.0,19.0
+layup,good,Centre,839.0,28.0
+turnover,,rust,815.0,6.0
+subbing in,,Centre,815.0,30.0
+subbing in,,Centre,815.0,30.0
+subbing in,,Centre,815.0,30.0
+subbing out,,Centre,815.0,30.0
+subbing out,,Centre,815.0,30.0
+subbing out,,Centre,815.0,30.0
+three pointer,good,Centre,794.0,9.0
+three pointer,good,rust,776.0,12.0
+assist,,rust,,
+three pointer,missed,Centre,762.0,16.0
+defensive rebound,,rust,,
+jumper,good,rust,743.0,11.0
+foul,,rust,714.0,1.0
+subbing in,,rust,714.0,30.0
+subbing out,,rust,714.0,30.0
+subbing in,,Centre,714.0,30.0
+subbing in,,Centre,714.0,30.0
+subbing out,,Centre,714.0,30.0
+subbing out,,Centre,714.0,30.0
+three pointer,missed,Centre,707.0,23.0
+defensive rebound,,rust,,
+foul,,Centre,691.0,14.0
+free throw,missed,rust,691.0,30.0
+deadball rebound,,rust,,
+free throw,good,rust,691.0,30.0
+timeout,,Centre,691.0,30.0
+jumper,good,Centre,676.0,15.0
+assist,,Centre,,
+layup,good,rust,653.0,7.0
+assist,,rust,,
+jumper,missed,Centre,648.0,25.0
+defensive rebound,,rust,,
+turnover,,rust,628.0,10.0
+subbing in,,rust,628.0,30.0
+subbing out,,rust,628.0,30.0
+layup,missed,Centre,613.0,15.0
+defensive rebound,,rust,,
+turnover,,rust,598.0,15.0
+jumper,missed,Centre,587.0,19.0
+defensive rebound,,rust,,
+layup,good,rust,562.0,5.0
+foul,,rust,533.0,1.0
+subbing in,,rust,533.0,30.0
+subbing out,,rust,533.0,30.0
+subbing in,,Centre,533.0,30.0
+subbing out,,Centre,533.0,30.0
+three pointer,missed,Centre,523.0,20.0
+defensive rebound,,rust,,
+foul,,Centre,501.0,8.0
+timeout,,Centre,501.0,30.0
+free throw,good,rust,501.0,30.0
+free throw,missed,rust,501.0,30.0
+deadball rebound,,rust,,
+subbing in,,Centre,501.0,30.0
+subbing out,,Centre,501.0,30.0
+turnover,,rust,500.0,29.0
+layup,missed,Centre,492.0,22.0
+defensive rebound,,rust,,
+three pointer,good,rust,478.0,16.0
+assist,,rust,,
+three pointer,good,Centre,448.0,0.0
+assist,,Centre,,
+jumper,missed,rust,429.0,11.0
+defensive rebound,,Centre,,
+turnover,,Centre,423.0,24.0
+subbing in,,Centre,423.0,30.0
+subbing out,,Centre,423.0,30.0
+jumper,good,rust,403.0,10.0
+assist,,rust,,
+foul,,rust,373.0,0.0
+free throw,good,Centre,373.0,30.0
+free throw,good,Centre,373.0,30.0
+subbing in,,rust,373.0,30.0
+subbing in,,rust,373.0,30.0
+subbing out,,rust,373.0,30.0
+subbing out,,rust,373.0,30.0
+subbing in,,Centre,373.0,30.0
+subbing out,,Centre,373.0,30.0
+jumper,missed,rust,359.0,16.0
+offensive rebound,,rust,,
+layup,good,rust,355.0,26.0
+foul,,rust,335.0,10.0
+free throw,good,Centre,335.0,30.0
+free throw,good,Centre,335.0,30.0
+subbing in,,Centre,335.0,30.0
+subbing out,,Centre,335.0,30.0
+jumper,missed,rust,318.0,13.0
+defensive rebound,,Centre,,
+subbing in,,Centre,315.0,27.0
+subbing out,,Centre,315.0,27.0
+three pointer,missed,Centre,290.0,2.0
+defensive rebound,,rust,,
+jumper,missed,rust,277.0,17.0
+offensive rebound,,rust,,
+foul,,Centre,274.0,27.0
+free throw,missed,rust,274.0,30.0
+deadball rebound,,rust,,
+free throw,missed,rust,274.0,30.0
+defensive rebound,,Centre,,
+subbing in,,rust,274.0,30.0
+subbing out,,rust,274.0,30.0
+subbing in,,Centre,274.0,30.0
+subbing out,,Centre,274.0,30.0
+layup,missed,Centre,265.0,21.0
+defensive rebound,,rust,,
+turnover,,rust,261.0,26.0
+steal,,Centre,260.0,29.0
+turnover,,Centre,232.0,2.0
+steal,,rust,231.0,29.0
+jumper,missed,rust,212.0,11.0
+offensive rebound,,rust,,
+jumper,good,rust,208.0,26.0
+three pointer,good,Centre,197.0,19.0
+assist,,Centre,,
+three pointer,good,rust,185.0,18.0
+assist,,rust,,
+three pointer,missed,Centre,168.0,13.0
+defensive rebound,,rust,,
+foul,,Centre,155.0,17.0
+free throw,missed,rust,155.0,30.0
+deadball rebound,,rust,,
+free throw,good,rust,155.0,30.0
+subbing in,,rust,155.0,30.0
+subbing in,,rust,155.0,30.0
+subbing out,,rust,155.0,30.0
+subbing out,,rust,155.0,30.0
+subbing in,,Centre,155.0,30.0
+subbing in,,Centre,155.0,30.0
+subbing in,,Centre,155.0,30.0
+subbing out,,Centre,155.0,30.0
+subbing out,,Centre,155.0,30.0
+subbing out,,Centre,155.0,30.0
+layup,missed,Centre,150.0,25.0
+defensive rebound,,rust,,
+turnover,,rust,136.0,16.0
+steal,,Centre,135.0,29.0
+layup,good,Centre,133.0,28.0
+turnover,,rust,111.0,8.0
+steal,,Centre,108.0,27.0
+layup,good,Centre,96.0,18.0
+assist,,Centre,,
+turnover,,rust,70.0,4.0
+foul,,rust,70.0,30.0
+subbing in,,rust,70.0,30.0
+subbing out,,rust,70.0,30.0
+turnover,,Centre,45.0,5.0
+steal,,rust,44.0,29.0
+jumper,good,rust,34.0,20.0
+assist,,rust,,
+three pointer,missed,Centre,15.0,15.0
+defensive rebound,,rust,,
+layup,good,rust,4.0,4.0
+assist,,rust,,
+,,,,
+subbing in,,rust,1200.0,1196.0
+subbing out,,rust,1200.0,1196.0
+layup,good,Centre,1192.0,1188.0
+assist,,Centre,,
+layup,missed,rust,1177.0,15.0
+defensive rebound,,Centre,,
+foul,,rust,1174.0,27.0
+layup,missed,Centre,1160.0,16.0
+offensive rebound,,Centre,,
+layup,good,Centre,1157.0,27.0
+three pointer,good,rust,1138.0,11.0
+assist,,rust,,
+three pointer,good,Centre,1111.0,3.0
+assist,,Centre,,
+layup,good,rust,1089.0,8.0
+jumper,good,Centre,1073.0,14.0
+assist,,Centre,,
+jumper,missed,rust,1048.0,5.0
+offensive rebound,,rust,,
+foul,,Centre,1044.0,26.0
+foul,,Centre,1027.0,13.0
+free throw,good,rust,1019.0,30.0
+free throw,missed,rust,1019.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,1019.0,22.0
+subbing out,,Centre,1019.0,22.0
+three pointer,missed,Centre,998.0,1.0
+offensive rebound,,Centre,,
+foul,,rust,991.0,23.0
+jumper,missed,Centre,986.0,25.0
+block,,rust,986.0,25.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,985.0,24.0
+defensive rebound,,rust,,
+foul,,Centre,980.0,25.0
+turnover,,rust,966.0,16.0
+subbing in,,Centre,966.0,30.0
+subbing out,,Centre,966.0,30.0
+layup,missed,Centre,943.0,7.0
+offensive rebound,,Centre,,
+layup,good,Centre,938.0,25.0
+turnover,,rust,920.0,12.0
+turnover,,Centre,904.0,14.0
+three pointer,missed,rust,875.0,1.0
+offensive rebound,,rust,,
+subbing in,,rust,871.0,26.0
+subbing out,,rust,871.0,26.0
+subbing in,,Centre,871.0,26.0
+subbing in,,Centre,871.0,26.0
+subbing in,,Centre,871.0,26.0
+subbing out,,Centre,871.0,26.0
+subbing out,,Centre,871.0,26.0
+subbing out,,Centre,871.0,26.0
+turnover,,rust,867.0,22.0
+steal,,Centre,866.0,29.0
+turnover,,Centre,843.0,7.0
+steal,,rust,843.0,30.0
+layup,good,rust,840.0,27.0
+assist,,rust,,
+jumper,missed,Centre,813.0,3.0
+block,,rust,813.0,30.0
+defensive rebound,,rust,,
+turnover,,rust,809.0,26.0
+subbing in,,Centre,809.0,30.0
+subbing out,,Centre,809.0,30.0
+jumper,missed,Centre,793.0,14.0
+defensive rebound,,rust,,
+layup,missed,rust,776.0,13.0
+defensive rebound,,Centre,,
+foul,,rust,775.0,29.0
+subbing in,,rust,775.0,30.0
+subbing in,,rust,775.0,30.0
+subbing out,,rust,775.0,30.0
+subbing out,,rust,775.0,30.0
+subbing in,,Centre,775.0,30.0
+subbing out,,Centre,775.0,30.0
+three pointer,missed,Centre,761.0,16.0
+defensive rebound,,rust,,
+three pointer,missed,rust,743.0,12.0
+defensive rebound,,Centre,,
+layup,good,Centre,727.0,14.0
+foul,,rust,724.0,27.0
+free throw,good,Centre,724.0,30.0
+jumper,missed,rust,706.0,12.0
+offensive rebound,,Centre,,
+subbing in,,Centre,703.0,27.0
+subbing out,,Centre,703.0,27.0
+jumper,missed,rust,699.0,23.0
+defensive rebound,,Centre,,
+foul,,rust,696.0,27.0
+foul,,rust,671.0,5.0
+free throw,good,Centre,671.0,30.0
+free throw,missed,Centre,671.0,30.0
+offensive rebound,,Centre,,
+subbing in,,rust,671.0,30.0
+subbing out,,rust,671.0,30.0
+subbing in,,rust,670.0,29.0
+subbing out,,rust,670.0,29.0
+three pointer,missed,Centre,658.0,17.0
+offensive rebound,,Centre,,
+subbing in,,Centre,654.0,26.0
+subbing out,,Centre,654.0,26.0
+layup,good,Centre,634.0,6.0
+assist,,Centre,,
+turnover,,rust,616.0,12.0
+steal,,Centre,615.0,29.0
+layup,good,Centre,614.0,29.0
+timeout,,Centre,609.0,25.0
+subbing in,,rust,609.0,25.0
+subbing out,,rust,609.0,25.0
+jumper,good,rust,589.0,5.0
+turnover,,Centre,575.0,16.0
+steal,,rust,574.0,29.0
+turnover,,rust,554.0,10.0
+foul,,rust,554.0,30.0
+subbing in,,Centre,554.0,30.0
+subbing out,,Centre,554.0,30.0
+three pointer,missed,Centre,539.0,15.0
+defensive rebound,,rust,,
+foul,,Centre,523.0,14.0
+free throw,good,rust,523.0,30.0
+free throw,good,rust,523.0,30.0
+foul,,rust,514.0,21.0
+free throw,missed,Centre,514.0,30.0
+offensive rebound,,Centre,,
+subbing in,,rust,514.0,30.0
+subbing out,,rust,514.0,30.0
+jumper,missed,Centre,512.0,28.0
+defensive rebound,,rust,,
+layup,good,rust,504.0,22.0
+assist,,rust,,
+foul,,rust,481.0,7.0
+free throw,good,Centre,481.0,30.0
+free throw,good,Centre,481.0,30.0
+subbing in,,rust,481.0,30.0
+subbing out,,rust,481.0,30.0
+subbing in,,Centre,481.0,30.0
+subbing in,,Centre,481.0,30.0
+subbing out,,Centre,481.0,30.0
+subbing out,,Centre,481.0,30.0
+turnover,,rust,468.0,17.0
+steal,,Centre,467.0,29.0
+three pointer,good,Centre,452.0,15.0
+assist,,Centre,,
+three pointer,missed,rust,435.0,13.0
+defensive rebound,,Centre,,
+layup,good,Centre,427.0,22.0
+jumper,missed,rust,398.0,1.0
+defensive rebound,,Centre,,
+layup,good,Centre,391.0,23.0
+timeout,,Centre,382.0,21.0
+subbing in,,rust,382.0,21.0
+subbing out,,rust,382.0,21.0
+subbing in,,Centre,382.0,21.0
+subbing in,,Centre,382.0,21.0
+subbing out,,Centre,382.0,21.0
+subbing out,,Centre,382.0,21.0
+layup,good,rust,372.0,11.0
+jumper,missed,Centre,357.0,15.0
+defensive rebound,,rust,,
+turnover,,rust,349.0,22.0
+foul,,rust,349.0,30.0
+layup,good,Centre,338.0,19.0
+assist,,Centre,,
+three pointer,missed,rust,318.0,10.0
+defensive rebound,,Centre,,
+layup,good,Centre,296.0,8.0
+assist,,Centre,,
+jumper,missed,rust,272.0,6.0
+defensive rebound,,Centre,,
+subbing in,,Centre,264.0,22.0
+subbing out,,Centre,264.0,22.0
+three pointer,missed,Centre,262.0,20.0
+offensive rebound,,Centre,,
+subbing in,,rust,258.0,26.0
+subbing out,,rust,258.0,26.0
+jumper,missed,Centre,246.0,14.0
+defensive rebound,,rust,,
+layup,good,rust,234.0,18.0
+assist,,rust,,
+three pointer,missed,Centre,207.0,3.0
+defensive rebound,,rust,,
+three pointer,missed,rust,195.0,18.0
+offensive rebound,,rust,,
+jumper,good,rust,188.0,23.0
+assist,,rust,,
+timeout,,Centre,176.0,18.0
+subbing in,,Centre,176.0,18.0
+subbing in,,Centre,176.0,18.0
+subbing in,,Centre,176.0,18.0
+subbing out,,Centre,176.0,18.0
+subbing out,,Centre,176.0,18.0
+subbing out,,Centre,176.0,18.0
+three pointer,missed,Centre,156.0,28.0
+defensive rebound,,rust,,
+jumper,good,rust,139.0,13.0
+assist,,rust,,
+jumper,missed,Centre,120.0,11.0
+defensive rebound,,rust,,
+three pointer,missed,rust,102.0,12.0
+offensive rebound,,rust,,
+jumper,missed,rust,97.0,25.0
+block,,Centre,97.0,25.0
+offensive rebound,,Centre,,
+subbing in,,Centre,97.0,25.0
+subbing out,,Centre,97.0,25.0
+jumper,good,rust,86.0,14.0
+three pointer,missed,Centre,61.0,5.0
+defensive rebound,,rust,,
+three pointer,missed,rust,39.0,8.0
+defensive rebound,,Centre,,
+layup,good,Centre,30.0,30.0
+timeout,,Centre,21.0,21.0
+subbing in,,rust,21.0,21.0
+subbing out,,rust,21.0,21.0
+turnover,,rust,17.0,17.0
+steal,,Centre,15.0,15.0
+jumper,good,Centre,4.0,4.0

@@ -1,0 +1,562 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+layup,good,marietta,587.0,17.0
+assist,,marietta,,
+layup,missed,Centre,570.0,13.0
+defensive rebound,,marietta,,
+three pointer,missed,marietta,562.0,22.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,544.0,12.0
+offensive rebound,,Centre,,
+turnover,,Centre,526.0,12.0
+steal,,marietta,524.0,28.0
+layup,good,marietta,522.0,28.0
+assist,,marietta,,
+turnover,,Centre,508.0,16.0
+layup,missed,marietta,496.0,18.0
+offensive rebound,,marietta,,
+layup,good,marietta,493.0,27.0
+turnover,,Centre,473.0,10.0
+steal,,marietta,472.0,29.0
+subbing in,,Centre,470.0,28.0
+subbing in,,Centre,470.0,28.0
+subbing in,,Centre,470.0,28.0
+subbing out,,Centre,470.0,28.0
+subbing out,,Centre,470.0,28.0
+subbing out,,Centre,470.0,28.0
+layup,good,marietta,464.0,22.0
+assist,,marietta,,
+turnover,,Centre,455.0,21.0
+jumper,missed,marietta,436.0,11.0
+offensive rebound,,marietta,,
+foul,,Centre,431.0,25.0
+free throw,missed,marietta,431.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,marietta,431.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,431.0,30.0
+subbing out,,Centre,431.0,30.0
+jumper,good,Centre,405.0,4.0
+assist,,Centre,,
+three pointer,missed,marietta,396.0,21.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,386.0,20.0
+defensive rebound,,Centre,,
+subbing in,,marietta,383.0,27.0
+subbing out,,marietta,383.0,27.0
+layup,good,marietta,366.0,10.0
+assist,,marietta,,
+turnover,,Centre,351.0,15.0
+steal,,marietta,348.0,27.0
+jumper,missed,marietta,330.0,12.0
+offensive rebound,,marietta,,
+layup,missed,marietta,319.0,19.0
+defensive rebound,,Centre,,
+timeout,,Centre,316.0,27.0
+subbing in,,marietta,316.0,27.0
+subbing out,,marietta,316.0,27.0
+subbing in,,Centre,316.0,27.0
+subbing in,,Centre,316.0,27.0
+subbing out,,Centre,316.0,27.0
+subbing out,,Centre,316.0,27.0
+subbing out,,Centre,316.0,27.0
+subbing out,,Centre,316.0,27.0
+foul,,marietta,301.0,12.0
+subbing in,,marietta,301.0,30.0
+subbing out,,marietta,301.0,30.0
+jumper,good,Centre,295.0,24.0
+turnover,,marietta,282.0,17.0
+steal,,Centre,281.0,29.0
+three pointer,good,Centre,273.0,22.0
+assist,,Centre,,
+layup,missed,marietta,261.0,18.0
+defensive rebound,,Centre,,
+turnover,,Centre,253.0,22.0
+steal,,marietta,252.0,29.0
+subbing in,,marietta,232.0,10.0
+subbing in,,marietta,232.0,10.0
+subbing out,,marietta,232.0,10.0
+subbing out,,marietta,232.0,10.0
+subbing in,,Centre,232.0,10.0
+subbing in,,Centre,232.0,10.0
+subbing in,,Centre,232.0,10.0
+subbing out,,Centre,232.0,10.0
+subbing out,,Centre,232.0,10.0
+layup,missed,marietta,219.0,27.0
+defensive rebound,,Centre,,
+layup,missed,Centre,202.0,13.0
+defensive rebound,,marietta,,
+turnover,,marietta,184.0,12.0
+steal,,Centre,184.0,30.0
+subbing in,,Centre,184.0,30.0
+three pointer,good,Centre,159.0,5.0
+assist,,Centre,,
+layup,missed,marietta,148.0,19.0
+block,,Centre,148.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,142.0,24.0
+subbing in,,marietta,142.0,30.0
+subbing in,,marietta,142.0,30.0
+subbing out,,marietta,142.0,30.0
+subbing out,,marietta,142.0,30.0
+subbing in,,Centre,142.0,30.0
+subbing out,,Centre,142.0,30.0
+turnover,,marietta,131.0,19.0
+turnover,,Centre,106.0,5.0
+steal,,marietta,105.0,29.0
+foul,,Centre,99.0,24.0
+free throw,missed,marietta,99.0,30.0
+deadball rebound,,Centre,,
+free throw,good,marietta,99.0,30.0
+subbing in,,Centre,99.0,30.0
+subbing out,,Centre,99.0,30.0
+three pointer,missed,Centre,87.0,18.0
+defensive rebound,,marietta,,
+turnover,,marietta,81.0,24.0
+three pointer,missed,Centre,62.0,11.0
+defensive rebound,,marietta,,
+layup,good,marietta,48.0,16.0
+assist,,marietta,,
+three pointer,missed,Centre,34.0,16.0
+offensive rebound,,Centre,,
+layup,missed,Centre,23.0,23.0
+block,,marietta,23.0,23.0
+defensive rebound,,marietta,,
+layup,good,marietta,14.0,14.0
+assist,,marietta,,
+foul,,marietta,6.0,6.0
+subbing in,,Centre,6.0,6.0
+subbing in,,Centre,6.0,6.0
+subbing out,,Centre,6.0,6.0
+subbing out,,Centre,6.0,6.0
+layup,missed,Centre,5.0,5.0
+defensive rebound,,marietta,,
+foul,,Centre,3.0,3.0
+subbing in,,marietta,3.0,3.0
+subbing out,,marietta,3.0,3.0
+three pointer,missed,marietta,1.0,1.0
+deadball rebound,,Centre,,
+,,,,
+subbing in,,Centre,597.0,593.0
+subbing out,,Centre,597.0,593.0
+layup,missed,marietta,571.0,567.0
+defensive rebound,,Centre,,
+foul,,marietta,557.0,16.0
+foul,,marietta,552.0,25.0
+free throw,missed,Centre,552.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,Centre,552.0,30.0
+defensive rebound,,marietta,,
+subbing in,,marietta,533.0,11.0
+subbing out,,marietta,533.0,11.0
+jumper,missed,marietta,527.0,5.0
+offensive rebound,,marietta,,
+layup,good,marietta,513.0,16.0
+jumper,missed,Centre,498.0,15.0
+block,,marietta,498.0,15.0
+offensive rebound,,Centre,,
+layup,good,Centre,491.0,8.0
+assist,,Centre,,
+jumper,good,marietta,475.0,14.0
+assist,,marietta,,
+three pointer,missed,Centre,467.0,22.0
+offensive rebound,,Centre,,
+layup,good,Centre,463.0,26.0
+foul,,marietta,463.0,30.0
+free throw,good,Centre,463.0,30.0
+subbing in,,marietta,463.0,30.0
+subbing out,,marietta,463.0,30.0
+three pointer,good,marietta,438.0,5.0
+assist,,marietta,,
+turnover,,Centre,421.0,13.0
+steal,,marietta,420.0,29.0
+foul,,Centre,417.0,27.0
+free throw,good,marietta,417.0,30.0
+free throw,good,marietta,417.0,30.0
+subbing in,,Centre,417.0,30.0
+subbing in,,Centre,417.0,30.0
+subbing in,,Centre,417.0,30.0
+subbing in,,Centre,417.0,30.0
+subbing out,,Centre,417.0,30.0
+subbing out,,Centre,417.0,30.0
+subbing out,,Centre,417.0,30.0
+subbing out,,Centre,417.0,30.0
+turnover,,Centre,406.0,19.0
+steal,,marietta,404.0,28.0
+jumper,good,marietta,398.0,24.0
+timeout,,Centre,395.0,27.0
+turnover,,Centre,375.0,7.0
+steal,,marietta,373.0,28.0
+turnover,,marietta,362.0,19.0
+turnover,,Centre,352.0,20.0
+layup,good,marietta,338.0,16.0
+assist,,marietta,,
+layup,missed,Centre,312.0,4.0
+offensive rebound,,Centre,,
+turnover,,Centre,308.0,26.0
+subbing in,,marietta,308.0,30.0
+subbing out,,marietta,308.0,30.0
+subbing in,,Centre,308.0,30.0
+subbing in,,Centre,308.0,30.0
+subbing in,,Centre,308.0,30.0
+subbing out,,Centre,308.0,30.0
+subbing out,,Centre,308.0,30.0
+subbing out,,Centre,308.0,30.0
+layup,missed,marietta,305.0,27.0
+defensive rebound,,Centre,,
+turnover,,marietta,301.0,26.0
+subbing in,,Centre,301.0,30.0
+subbing out,,Centre,301.0,30.0
+subbing in,,marietta,288.0,17.0
+subbing out,,marietta,288.0,17.0
+turnover,,Centre,280.0,9.0
+steal,,marietta,278.0,28.0
+layup,missed,marietta,277.0,29.0
+offensive rebound,,marietta,,
+turnover,,marietta,263.0,16.0
+foul,,marietta,263.0,30.0
+subbing in,,marietta,263.0,30.0
+subbing out,,marietta,263.0,30.0
+turnover,,Centre,246.0,13.0
+foul,,Centre,226.0,10.0
+free throw,good,marietta,226.0,30.0
+free throw,missed,marietta,226.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,226.0,30.0
+subbing out,,Centre,226.0,30.0
+foul,,marietta,209.0,13.0
+free throw,good,Centre,209.0,30.0
+free throw,missed,Centre,209.0,30.0
+defensive rebound,,marietta,,
+subbing in,,marietta,209.0,30.0
+subbing out,,marietta,209.0,30.0
+three pointer,good,marietta,196.0,17.0
+assist,,marietta,,
+turnover,,Centre,182.0,16.0
+subbing in,,Centre,182.0,30.0
+subbing out,,Centre,182.0,30.0
+turnover,,marietta,172.0,20.0
+subbing in,,marietta,165.0,23.0
+subbing out,,marietta,165.0,23.0
+foul,,marietta,160.0,18.0
+free throw,missed,Centre,160.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,160.0,30.0
+subbing in,,marietta,160.0,30.0
+subbing out,,marietta,160.0,30.0
+layup,missed,marietta,147.0,17.0
+block,,Centre,147.0,30.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,135.0,18.0
+defensive rebound,,marietta,,
+jumper,missed,marietta,126.0,21.0
+offensive rebound,,marietta,,
+layup,missed,marietta,122.0,26.0
+block,,Centre,122.0,26.0
+offensive rebound,,Centre,,
+jumper,missed,marietta,109.0,13.0
+defensive rebound,,Centre,,
+turnover,,Centre,98.0,19.0
+subbing in,,marietta,95.0,27.0
+subbing out,,marietta,95.0,27.0
+layup,missed,marietta,75.0,7.0
+block,,Centre,75.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,71.0,26.0
+subbing out,,Centre,71.0,26.0
+three pointer,missed,Centre,57.0,12.0
+defensive rebound,,marietta,,
+three pointer,missed,marietta,39.0,12.0
+offensive rebound,,marietta,,
+three pointer,missed,marietta,30.0,30.0
+defensive rebound,,Centre,,
+foul,,marietta,14.0,14.0
+free throw,good,Centre,14.0,14.0
+free throw,good,Centre,14.0,14.0
+timeout,,Centre,14.0,14.0
+subbing in,,marietta,14.0,14.0
+subbing in,,marietta,14.0,14.0
+subbing out,,marietta,14.0,14.0
+subbing out,,marietta,14.0,14.0
+subbing in,,Centre,14.0,14.0
+subbing out,,Centre,14.0,14.0
+three pointer,missed,marietta,1.0,1.0
+defensive rebound,,Centre,,
+,,,,
+layup,missed,marietta,590.0,581.0
+block,,Centre,590.0,30.0
+defensive rebound,,Centre,,
+jumper,good,Centre,583.0,23.0
+jumper,good,marietta,564.0,11.0
+assist,,marietta,,
+layup,missed,Centre,543.0,9.0
+block,,marietta,543.0,30.0
+defensive rebound,,marietta,,
+jumper,good,marietta,533.0,20.0
+assist,,marietta,,
+layup,missed,Centre,517.0,14.0
+defensive rebound,,marietta,,
+foul,,marietta,503.0,16.0
+turnover,,marietta,503.0,30.0
+three pointer,good,Centre,491.0,18.0
+assist,,Centre,,
+foul,,Centre,479.0,18.0
+subbing in,,Centre,479.0,30.0
+subbing out,,Centre,479.0,30.0
+layup,missed,marietta,473.0,24.0
+block,,Centre,473.0,24.0
+offensive rebound,,Centre,,
+turnover,,marietta,470.0,21.0
+steal,,Centre,469.0,29.0
+layup,good,Centre,466.0,27.0
+turnover,,marietta,450.0,14.0
+steal,,Centre,450.0,30.0
+timeout,,Centre,450.0,30.0
+jumper,missed,Centre,425.0,5.0
+defensive rebound,,marietta,,
+turnover,,marietta,409.0,14.0
+steal,,Centre,408.0,29.0
+jumper,missed,Centre,389.0,11.0
+defensive rebound,,marietta,,
+jumper,good,marietta,378.0,19.0
+assist,,marietta,,
+jumper,missed,Centre,358.0,10.0
+block,,marietta,358.0,30.0
+defensive rebound,,marietta,,
+subbing in,,marietta,356.0,28.0
+subbing in,,marietta,356.0,28.0
+subbing out,,marietta,356.0,28.0
+subbing out,,marietta,356.0,28.0
+subbing out,,marietta,356.0,28.0
+subbing in,,Centre,356.0,28.0
+subbing in,,Centre,356.0,28.0
+subbing in,,Centre,356.0,28.0
+subbing in,,Centre,356.0,28.0
+subbing out,,Centre,356.0,28.0
+subbing out,,Centre,356.0,28.0
+subbing out,,Centre,356.0,28.0
+subbing out,,Centre,356.0,28.0
+three pointer,missed,marietta,340.0,12.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,311.0,1.0
+defensive rebound,,marietta,,
+layup,good,marietta,302.0,21.0
+turnover,,Centre,283.0,11.0
+steal,,marietta,282.0,29.0
+layup,good,marietta,276.0,24.0
+assist,,marietta,,
+turnover,,Centre,258.0,12.0
+steal,,marietta,256.0,28.0
+turnover,,marietta,254.0,28.0
+steal,,Centre,252.0,28.0
+layup,missed,Centre,251.0,29.0
+defensive rebound,,marietta,,
+layup,good,marietta,243.0,22.0
+timeout,,Centre,234.0,21.0
+subbing in,,marietta,234.0,21.0
+subbing in,,marietta,234.0,21.0
+subbing in,,marietta,234.0,21.0
+subbing out,,marietta,234.0,21.0
+subbing out,,marietta,234.0,21.0
+subbing in,,Centre,234.0,21.0
+subbing in,,Centre,234.0,21.0
+subbing in,,Centre,234.0,21.0
+subbing out,,Centre,234.0,21.0
+subbing out,,Centre,234.0,21.0
+subbing out,,Centre,234.0,21.0
+layup,good,Centre,221.0,8.0
+assist,,Centre,,
+jumper,missed,marietta,205.0,14.0
+offensive rebound,,marietta,,
+layup,good,marietta,201.0,26.0
+foul,,marietta,182.0,11.0
+subbing in,,marietta,182.0,30.0
+subbing in,,marietta,182.0,30.0
+subbing out,,marietta,182.0,30.0
+subbing out,,marietta,182.0,30.0
+foul,,marietta,179.0,27.0
+jumper,missed,Centre,175.0,26.0
+offensive rebound,,Centre,,
+foul,,marietta,165.0,20.0
+free throw,good,Centre,165.0,30.0
+free throw,good,Centre,165.0,30.0
+turnover,,marietta,158.0,23.0
+steal,,Centre,157.0,29.0
+three pointer,missed,Centre,145.0,18.0
+defensive rebound,,Centre,,
+layup,missed,marietta,125.0,10.0
+block,,Centre,125.0,30.0
+defensive rebound,,Centre,,
+jumper,good,Centre,106.0,11.0
+assist,,Centre,,
+subbing in,,marietta,87.0,11.0
+subbing out,,marietta,87.0,11.0
+subbing in,,Centre,87.0,11.0
+subbing out,,Centre,87.0,11.0
+three pointer,missed,marietta,86.0,10.0
+defensive rebound,,Centre,,
+foul,,marietta,84.0,28.0
+free throw,missed,Centre,84.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,84.0,30.0
+subbing in,,marietta,84.0,30.0
+subbing in,,marietta,84.0,30.0
+subbing out,,marietta,84.0,30.0
+subbing out,,marietta,84.0,30.0
+jumper,good,marietta,72.0,18.0
+foul,,marietta,70.0,28.0
+free throw,good,Centre,70.0,30.0
+free throw,missed,Centre,70.0,30.0
+defensive rebound,,marietta,,
+subbing in,,marietta,70.0,30.0
+subbing out,,marietta,70.0,30.0
+three pointer,missed,marietta,53.0,13.0
+offensive rebound,,marietta,,
+jumper,missed,marietta,35.0,12.0
+defensive rebound,,Centre,,
+layup,missed,Centre,28.0,28.0
+block,,marietta,28.0,28.0
+defensive rebound,,marietta,,
+three pointer,missed,marietta,5.0,5.0
+offensive rebound,,marietta,,
+jumper,missed,marietta,1.0,1.0
+offensive rebound,,marietta,,
+,,,,
+subbing in,,marietta,600.0,595.0
+subbing in,,marietta,600.0,595.0
+subbing out,,marietta,600.0,595.0
+subbing out,,marietta,600.0,595.0
+subbing in,,Centre,600.0,595.0
+subbing out,,Centre,600.0,595.0
+jumper,missed,Centre,577.0,572.0
+offensive rebound,,Centre,,
+jumper,good,Centre,574.0,27.0
+three pointer,missed,marietta,540.0,26.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,527.0,17.0
+offensive rebound,,Centre,,
+subbing in,,marietta,525.0,28.0
+subbing out,,marietta,525.0,28.0
+subbing in,,Centre,525.0,28.0
+subbing out,,Centre,525.0,28.0
+layup,missed,Centre,519.0,22.0
+block,,marietta,519.0,30.0
+defensive rebound,,marietta,,
+layup,good,marietta,506.0,17.0
+jumper,missed,Centre,481.0,5.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,474.0,23.0
+offensive rebound,,Centre,,
+turnover,,Centre,462.0,18.0
+steal,,marietta,461.0,29.0
+layup,missed,marietta,458.0,27.0
+offensive rebound,,marietta,,
+layup,good,marietta,455.0,27.0
+foul,,Centre,455.0,30.0
+free throw,good,marietta,455.0,30.0
+subbing in,,Centre,455.0,30.0
+subbing out,,Centre,455.0,30.0
+subbing in,,Centre,454.0,29.0
+subbing out,,Centre,454.0,29.0
+layup,missed,Centre,445.0,20.0
+defensive rebound,,marietta,,
+three pointer,good,marietta,434.0,19.0
+assist,,marietta,,
+turnover,,Centre,412.0,8.0
+subbing in,,Centre,412.0,30.0
+subbing in,,Centre,412.0,30.0
+subbing in,,Centre,412.0,30.0
+subbing out,,Centre,412.0,30.0
+subbing out,,Centre,412.0,30.0
+subbing out,,Centre,412.0,30.0
+turnover,,marietta,397.0,15.0
+steal,,Centre,397.0,30.0
+layup,missed,Centre,380.0,13.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,375.0,25.0
+defensive rebound,,marietta,,
+layup,missed,marietta,366.0,21.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,350.0,14.0
+assist,,Centre,,
+subbing in,,marietta,337.0,17.0
+subbing in,,marietta,337.0,17.0
+subbing out,,marietta,337.0,17.0
+subbing out,,marietta,337.0,17.0
+subbing in,,Centre,337.0,17.0
+subbing out,,Centre,337.0,17.0
+layup,missed,marietta,323.0,3.0
+offensive rebound,,marietta,,
+layup,good,marietta,320.0,27.0
+jumper,good,Centre,302.0,12.0
+foul,,Centre,290.0,18.0
+subbing in,,marietta,290.0,30.0
+subbing in,,marietta,290.0,30.0
+subbing out,,marietta,290.0,30.0
+subbing out,,marietta,290.0,30.0
+subbing out,,marietta,290.0,30.0
+subbing in,,Centre,290.0,30.0
+subbing out,,Centre,290.0,30.0
+three pointer,missed,marietta,289.0,29.0
+offensive rebound,,marietta,,
+three pointer,missed,marietta,282.0,23.0
+defensive rebound,,Centre,,
+turnover,,Centre,265.0,13.0
+turnover,,marietta,231.0,26.0
+steal,,Centre,229.0,28.0
+layup,good,Centre,227.0,28.0
+three pointer,good,marietta,214.0,17.0
+layup,missed,Centre,194.0,10.0
+defensive rebound,,marietta,,
+timeout,,Centre,182.0,18.0
+foul,,Centre,182.0,18.0
+jumper,good,marietta,182.0,18.0
+assist,,marietta,,
+subbing out,,marietta,182.0,18.0
+subbing out,,marietta,182.0,18.0
+subbing out,,marietta,182.0,18.0
+subbing in,,Centre,182.0,18.0
+subbing in,,Centre,182.0,18.0
+subbing in,,Centre,182.0,18.0
+subbing out,,Centre,182.0,18.0
+subbing out,,Centre,182.0,18.0
+subbing out,,Centre,182.0,18.0
+subbing out,,Centre,182.0,18.0
+subbing out,,Centre,182.0,18.0
+jumper,missed,Centre,162.0,28.0
+offensive rebound,,Centre,,
+foul,,marietta,144.0,12.0
+free throw,missed,Centre,144.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,135.0,30.0
+turnover,,marietta,135.0,30.0
+steal,,Centre,135.0,30.0
+foul,,marietta,129.0,15.0
+three pointer,missed,Centre,123.0,24.0
+offensive rebound,,Centre,,
+foul,,marietta,118.0,25.0
+free throw,good,Centre,118.0,30.0
+free throw,missed,Centre,118.0,30.0
+defensive rebound,,marietta,,
+subbing in,,marietta,118.0,30.0
+subbing in,,marietta,118.0,30.0
+subbing in,,Centre,118.0,30.0
+subbing out,,Centre,118.0,30.0
+layup,missed,marietta,97.0,9.0
+offensive rebound,,marietta,,
+layup,missed,marietta,93.0,26.0
+defensive rebound,,Centre,,
+turnover,,Centre,77.0,14.0
+steal,,marietta,75.0,28.0
+jumper,good,marietta,60.0,15.0
+jumper,good,Centre,39.0,9.0
+assist,,Centre,,
+subbing in,,marietta,33.0,24.0
+subbing in,,marietta,33.0,24.0
+subbing in,,marietta,33.0,24.0
+subbing in,,marietta,33.0,24.0
+subbing out,,marietta,33.0,24.0
+subbing out,,marietta,33.0,24.0
+jumper,good,marietta,9.0,9.0
+subbing in,,marietta,7.0,7.0
+subbing out,,marietta,7.0,7.0

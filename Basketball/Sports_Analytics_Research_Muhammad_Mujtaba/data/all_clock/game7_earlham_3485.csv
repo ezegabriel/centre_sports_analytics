@@ -1,0 +1,454 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+layup,good,earlham,587.0,17.0
+turnover,,Centre,562.0,5.0
+steal,,earlham,559.0,27.0
+foul,,Centre,553.0,24.0
+foul,,earlham,530.0,7.0
+turnover,,earlham,530.0,30.0
+jumper,good,Centre,528.0,28.0
+jumper,missed,earlham,502.0,4.0
+block,,Centre,502.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,486.0,14.0
+subbing in,,Centre,486.0,14.0
+subbing out,,Centre,486.0,14.0
+subbing out,,Centre,486.0,14.0
+turnover,,Centre,483.0,11.0
+layup,missed,earlham,480.0,27.0
+block,,Centre,480.0,27.0
+offensive rebound,,earlham,,
+foul,,Centre,456.0,3.0
+foul,,Centre,456.0,30.0
+turnover,,earlham,454.0,28.0
+jumper,missed,Centre,433.0,9.0
+defensive rebound,,earlham,,
+turnover,,earlham,426.0,23.0
+turnover,,Centre,420.0,24.0
+layup,good,earlham,413.0,23.0
+assist,,earlham,,
+subbing in,,Centre,413.0,30.0
+subbing in,,Centre,413.0,30.0
+subbing out,,Centre,413.0,30.0
+jumper,missed,Centre,402.0,19.0
+defensive rebound,,Centre,,
+foul,,Centre,398.0,26.0
+subbing in,,earlham,398.0,30.0
+subbing in,,earlham,398.0,30.0
+subbing out,,earlham,398.0,30.0
+subbing out,,earlham,398.0,30.0
+subbing in,,Centre,398.0,30.0
+subbing in,,Centre,398.0,30.0
+subbing in,,Centre,398.0,30.0
+subbing out,,Centre,398.0,30.0
+subbing out,,Centre,398.0,30.0
+subbing out,,Centre,398.0,30.0
+layup,missed,earlham,390.0,22.0
+defensive rebound,,Centre,,
+jumper,good,Centre,366.0,6.0
+three pointer,missed,earlham,337.0,1.0
+defensive rebound,,Centre,,
+timeout,,Centre,290.0,-17.0
+subbing in,,Centre,289.0,-18.0
+subbing out,,Centre,289.0,-18.0
+foul,,earlham,285.0,8.0
+layup,missed,Centre,248.0,23.0
+defensive rebound,,earlham,,
+foul,,Centre,240.0,22.0
+free throw,missed,earlham,240.0,30.0
+offensive rebound,,earlham,,
+subbing in,,earlham,240.0,30.0
+subbing in,,earlham,240.0,30.0
+subbing out,,earlham,240.0,30.0
+subbing out,,earlham,240.0,30.0
+free throw,good,earlham,239.0,30.0
+three pointer,good,Centre,223.0,13.0
+assist,,Centre,,
+three pointer,missed,earlham,211.0,18.0
+offensive rebound,,earlham,,
+turnover,,earlham,193.0,12.0
+subbing in,,earlham,192.0,29.0
+subbing out,,earlham,192.0,29.0
+turnover,,Centre,187.0,24.0
+steal,,earlham,183.0,26.0
+layup,missed,earlham,180.0,27.0
+offensive rebound,,earlham,,
+jumper,missed,earlham,174.0,24.0
+offensive rebound,,earlham,,
+jumper,good,earlham,168.0,24.0
+turnover,,Centre,156.0,18.0
+subbing in,,Centre,154.0,28.0
+subbing in,,Centre,154.0,28.0
+subbing in,,Centre,154.0,28.0
+subbing in,,Centre,154.0,28.0
+subbing out,,Centre,154.0,28.0
+subbing out,,Centre,154.0,28.0
+subbing out,,Centre,154.0,28.0
+subbing out,,Centre,154.0,28.0
+subbing out,,Centre,154.0,28.0
+turnover,,earlham,140.0,14.0
+subbing in,,earlham,116.0,6.0
+subbing out,,earlham,116.0,6.0
+three pointer,missed,Centre,110.0,0.0
+defensive rebound,,earlham,,
+turnover,,earlham,81.0,1.0
+three pointer,good,Centre,60.0,9.0
+assist,,Centre,,
+foul,,Centre,38.0,8.0
+free throw,good,earlham,36.0,30.0
+free throw,missed,earlham,36.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,36.0,28.0
+subbing in,,Centre,36.0,28.0
+subbing out,,Centre,36.0,28.0
+subbing out,,Centre,36.0,28.0
+three pointer,good,Centre,21.0,21.0
+assist,,Centre,,
+three pointer,missed,earlham,7.0,7.0
+defensive rebound,,Centre,,
+turnover,,Centre,4.0,4.0
+layup,missed,earlham,2.0,2.0
+offensive rebound,,earlham,,
+three pointer,missed,earlham,0.0,0.0
+defensive rebound,,Centre,,
+,,,,
+subbing in,,earlham,594.0,22.0
+subbing out,,earlham,594.0,22.0
+three pointer,good,Centre,593.0,21.0
+assist,,Centre,,
+three pointer,missed,earlham,575.0,12.0
+defensive rebound,,Centre,,
+jumper,good,Centre,544.0,29.0
+timeout,,earlham,521.0,7.0
+subbing in,,Centre,519.0,5.0
+subbing out,,Centre,519.0,5.0
+jumper,missed,earlham,518.0,4.0
+defensive rebound,,Centre,,
+foul,,Centre,512.0,24.0
+turnover,,earlham,510.0,28.0
+steal,,Centre,509.0,29.0
+turnover,,Centre,508.0,29.0
+steal,,earlham,507.0,29.0
+turnover,,earlham,506.0,29.0
+steal,,earlham,505.0,29.0
+turnover,,Centre,505.0,30.0
+turnover,,earlham,504.0,29.0
+turnover,,Centre,502.0,28.0
+subbing in,,earlham,498.0,26.0
+subbing out,,earlham,498.0,26.0
+jumper,missed,Centre,476.0,4.0
+deadball rebound,,earlham,,
+foul,,Centre,474.0,28.0
+subbing in,,earlham,465.0,21.0
+subbing out,,earlham,465.0,21.0
+subbing in,,Centre,465.0,21.0
+subbing in,,Centre,465.0,21.0
+subbing in,,Centre,465.0,21.0
+subbing out,,Centre,465.0,21.0
+subbing out,,Centre,465.0,21.0
+subbing out,,Centre,465.0,21.0
+turnover,,earlham,458.0,14.0
+steal,,Centre,452.0,24.0
+three pointer,missed,earlham,449.0,27.0
+defensive rebound,,Centre,,
+turnover,,Centre,436.0,17.0
+steal,,earlham,435.0,29.0
+layup,good,earlham,434.0,29.0
+assist,,earlham,,
+layup,missed,Centre,421.0,17.0
+defensive rebound,,earlham,,
+subbing in,,Centre,408.0,17.0
+subbing in,,Centre,408.0,17.0
+subbing in,,Centre,408.0,17.0
+subbing out,,Centre,408.0,17.0
+subbing out,,Centre,408.0,17.0
+subbing out,,Centre,408.0,17.0
+layup,missed,earlham,390.0,29.0
+defensive rebound,,Centre,,
+subbing in,,earlham,381.0,21.0
+subbing out,,earlham,381.0,21.0
+turnover,,Centre,351.0,21.0
+steal,,earlham,349.0,28.0
+turnover,,earlham,343.0,24.0
+three pointer,good,Centre,302.0,19.0
+assist,,Centre,,
+jumper,missed,earlham,272.0,0.0
+defensive rebound,,Centre,,
+subbing in,,earlham,255.0,13.0
+subbing in,,earlham,255.0,13.0
+subbing out,,earlham,255.0,13.0
+subbing out,,earlham,255.0,13.0
+subbing in,,Centre,255.0,13.0
+subbing out,,Centre,255.0,13.0
+foul,,earlham,241.0,29.0
+turnover,,Centre,234.0,23.0
+subbing in,,Centre,229.0,25.0
+subbing out,,Centre,229.0,25.0
+three pointer,good,earlham,200.0,26.0
+assist,,earlham,,
+turnover,,Centre,189.0,19.0
+steal,,earlham,187.0,28.0
+layup,missed,earlham,184.0,27.0
+defensive rebound,,Centre,,
+foul,,earlham,178.0,24.0
+subbing in,,earlham,178.0,30.0
+subbing out,,earlham,178.0,30.0
+foul,,earlham,173.0,25.0
+free throw,good,Centre,172.0,30.0
+free throw,good,Centre,172.0,30.0
+subbing in,,earlham,172.0,30.0
+subbing out,,earlham,172.0,30.0
+three pointer,missed,earlham,151.0,8.0
+offensive rebound,,earlham,,
+subbing in,,Centre,134.0,13.0
+subbing in,,Centre,134.0,13.0
+subbing out,,Centre,134.0,13.0
+subbing out,,Centre,134.0,13.0
+layup,good,earlham,121.0,0.0
+turnover,,Centre,98.0,7.0
+turnover,,earlham,91.0,23.0
+three pointer,good,Centre,82.0,21.0
+assist,,Centre,,
+layup,good,earlham,59.0,7.0
+assist,,earlham,,
+layup,good,Centre,50.0,21.0
+assist,,Centre,,
+layup,missed,earlham,33.0,13.0
+defensive rebound,,Centre,,
+layup,missed,Centre,10.0,10.0
+defensive rebound,,earlham,,
+three pointer,good,earlham,2.0,2.0
+assist,,earlham,,
+,,,,
+three pointer,missed,earlham,598.0,595.0
+defensive rebound,,Centre,,
+jumper,good,Centre,595.0,27.0
+turnover,,earlham,584.0,19.0
+steal,,Centre,580.0,26.0
+foul,,earlham,576.0,26.0
+jumper,missed,Centre,547.0,1.0
+offensive rebound,,Centre,,
+layup,good,Centre,542.0,25.0
+turnover,,earlham,521.0,9.0
+steal,,Centre,519.0,28.0
+layup,missed,Centre,500.0,11.0
+defensive rebound,,earlham,,
+foul,,Centre,494.0,24.0
+layup,good,earlham,478.0,14.0
+foul,,earlham,471.0,23.0
+three pointer,good,Centre,443.0,2.0
+assist,,Centre,,
+layup,missed,earlham,423.0,10.0
+defensive rebound,,Centre,,
+layup,good,Centre,409.0,16.0
+assist,,Centre,,
+foul,,Centre,392.0,13.0
+subbing in,,earlham,388.0,26.0
+subbing out,,earlham,388.0,26.0
+subbing in,,Centre,388.0,26.0
+subbing in,,Centre,388.0,26.0
+subbing in,,Centre,388.0,26.0
+subbing in,,Centre,388.0,26.0
+subbing in,,Centre,388.0,26.0
+subbing out,,Centre,388.0,26.0
+subbing out,,Centre,388.0,26.0
+subbing out,,Centre,388.0,26.0
+subbing out,,Centre,388.0,26.0
+subbing out,,Centre,388.0,26.0
+layup,missed,earlham,370.0,8.0
+defensive rebound,,Centre,,
+turnover,,Centre,329.0,19.0
+steal,,earlham,313.0,14.0
+three pointer,missed,earlham,310.0,27.0
+defensive rebound,,Centre,,
+foul,,earlham,310.0,30.0
+free throw,good,Centre,310.0,30.0
+free throw,good,Centre,310.0,30.0
+subbing in,,earlham,310.0,30.0
+subbing in,,earlham,310.0,30.0
+subbing out,,earlham,310.0,30.0
+subbing out,,earlham,310.0,30.0
+layup,missed,earlham,293.0,13.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,269.0,6.0
+defensive rebound,,earlham,,
+layup,missed,earlham,258.0,19.0
+defensive rebound,,Centre,,
+turnover,,Centre,247.0,19.0
+timeout,,earlham,245.0,28.0
+layup,missed,earlham,232.0,15.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,220.0,18.0
+defensive rebound,,earlham,,
+foul,,Centre,216.0,26.0
+subbing in,,Centre,216.0,30.0
+subbing in,,Centre,216.0,30.0
+subbing in,,Centre,216.0,30.0
+subbing in,,Centre,216.0,30.0
+subbing out,,Centre,216.0,30.0
+subbing out,,Centre,216.0,30.0
+subbing out,,Centre,216.0,30.0
+subbing out,,Centre,216.0,30.0
+layup,missed,earlham,200.0,14.0
+offensive rebound,,earlham,,
+layup,good,earlham,197.0,27.0
+turnover,,Centre,170.0,3.0
+subbing in,,Centre,160.0,20.0
+subbing out,,Centre,160.0,20.0
+layup,good,earlham,149.0,9.0
+jumper,missed,Centre,121.0,2.0
+defensive rebound,,earlham,,
+jumper,missed,earlham,97.0,6.0
+offensive rebound,,earlham,,
+foul,,Centre,96.0,29.0
+subbing in,,Centre,96.0,30.0
+subbing out,,Centre,96.0,30.0
+turnover,,earlham,77.0,11.0
+steal,,Centre,75.0,28.0
+three pointer,good,Centre,53.0,8.0
+assist,,Centre,,
+three pointer,missed,earlham,41.0,18.0
+defensive rebound,,Centre,,
+layup,good,Centre,17.0,17.0
+three pointer,missed,earlham,2.0,2.0
+defensive rebound,,Centre,,
+,,,,
+three pointer,missed,Centre,584.0,573.0
+offensive rebound,,Centre,,
+layup,good,Centre,579.0,25.0
+layup,missed,earlham,548.0,29.0
+defensive rebound,,Centre,,
+layup,good,Centre,526.0,8.0
+foul,,Centre,512.0,16.0
+free throw,missed,earlham,512.0,30.0
+deadball rebound,,earlham,,
+free throw,good,earlham,512.0,30.0
+subbing in,,Centre,512.0,30.0
+subbing in,,Centre,512.0,30.0
+subbing out,,Centre,512.0,30.0
+subbing out,,Centre,512.0,30.0
+jumper,good,Centre,492.0,10.0
+assist,,Centre,,
+subbing in,,Centre,473.0,11.0
+subbing out,,Centre,473.0,11.0
+layup,good,earlham,468.0,6.0
+subbing in,,earlham,442.0,4.0
+subbing out,,earlham,442.0,4.0
+layup,good,Centre,425.0,17.0
+assist,,Centre,,
+three pointer,missed,earlham,402.0,7.0
+defensive rebound,,Centre,,
+timeout,,Centre,393.0,21.0
+subbing in,,earlham,393.0,21.0
+subbing out,,earlham,393.0,21.0
+subbing in,,Centre,393.0,21.0
+subbing in,,Centre,393.0,21.0
+subbing in,,Centre,393.0,21.0
+subbing out,,Centre,393.0,21.0
+subbing out,,Centre,393.0,21.0
+subbing out,,Centre,393.0,21.0
+foul,,earlham,385.0,13.0
+turnover,,Centre,379.0,24.0
+steal,,earlham,376.0,27.0
+layup,missed,earlham,362.0,16.0
+block,,Centre,362.0,16.0
+offensive rebound,,earlham,,
+foul,,Centre,354.0,8.0
+foul,,earlham,354.0,30.0
+turnover,,earlham,354.0,30.0
+subbing in,,earlham,354.0,30.0
+subbing out,,earlham,354.0,30.0
+layup,missed,Centre,341.0,17.0
+defensive rebound,,earlham,,
+foul,,Centre,332.0,21.0
+free throw,good,earlham,332.0,30.0
+free throw,missed,earlham,332.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,332.0,30.0
+subbing out,,Centre,332.0,30.0
+jumper,missed,Centre,321.0,19.0
+offensive rebound,,Centre,,
+layup,good,Centre,317.0,26.0
+foul,,earlham,317.0,30.0
+free throw,good,Centre,317.0,30.0
+subbing in,,earlham,317.0,30.0
+subbing in,,earlham,317.0,30.0
+subbing out,,earlham,317.0,30.0
+subbing out,,earlham,317.0,30.0
+foul,,earlham,312.0,25.0
+turnover,,earlham,312.0,30.0
+jumper,missed,Centre,290.0,8.0
+offensive rebound,,Centre,,
+layup,good,Centre,286.0,26.0
+timeout,,Centre,281.0,25.0
+layup,missed,earlham,273.0,17.0
+defensive rebound,,Centre,,
+layup,missed,Centre,255.0,12.0
+defensive rebound,,earlham,,
+jumper,missed,earlham,231.0,6.0
+offensive rebound,,earlham,,
+free throw,missed,earlham,214.0,30.0
+deadball rebound,,earlham,,
+free throw,good,earlham,214.0,30.0
+subbing in,,Centre,214.0,30.0
+subbing in,,Centre,214.0,30.0
+subbing in,,Centre,214.0,30.0
+subbing in,,Centre,214.0,30.0
+subbing in,,Centre,214.0,30.0
+subbing out,,Centre,214.0,30.0
+subbing out,,Centre,214.0,30.0
+subbing out,,Centre,214.0,30.0
+subbing out,,Centre,214.0,30.0
+subbing out,,Centre,214.0,30.0
+layup,good,Centre,194.0,23.0
+three pointer,missed,earlham,184.0,20.0
+defensive rebound,,Centre,,
+subbing in,,earlham,177.0,23.0
+subbing out,,earlham,177.0,23.0
+turnover,,Centre,161.0,7.0
+steal,,earlham,160.0,29.0
+jumper,missed,earlham,150.0,20.0
+offensive rebound,,earlham,,
+foul,,Centre,149.0,29.0
+free throw,good,earlham,149.0,30.0
+free throw,good,earlham,149.0,30.0
+subbing in,,earlham,149.0,30.0
+subbing out,,earlham,149.0,30.0
+subbing in,,Centre,149.0,30.0
+subbing in,,Centre,149.0,30.0
+subbing in,,Centre,149.0,30.0
+subbing out,,Centre,149.0,30.0
+subbing out,,Centre,149.0,30.0
+subbing out,,Centre,149.0,30.0
+jumper,missed,Centre,132.0,13.0
+offensive rebound,,Centre,,
+layup,missed,Centre,128.0,26.0
+offensive rebound,,Centre,,
+layup,good,Centre,124.0,26.0
+layup,good,earlham,116.0,22.0
+jumper,missed,Centre,83.0,27.0
+defensive rebound,,earlham,,
+jumper,good,earlham,74.0,21.0
+assist,,earlham,,
+timeout,,Centre,65.0,21.0
+subbing in,,earlham,65.0,21.0
+subbing in,,earlham,65.0,21.0
+subbing in,,earlham,65.0,21.0
+subbing out,,earlham,65.0,21.0
+subbing out,,earlham,65.0,21.0
+subbing out,,earlham,65.0,21.0
+subbing in,,Centre,65.0,21.0
+subbing in,,Centre,65.0,21.0
+subbing in,,Centre,65.0,21.0
+subbing out,,Centre,65.0,21.0
+subbing out,,Centre,65.0,21.0
+subbing out,,Centre,65.0,21.0
+layup,missed,Centre,62.0,18.0
+offensive rebound,,Centre,,
+layup,good,Centre,57.0,25.0
+three pointer,missed,earlham,38.0,11.0
+defensive rebound,,Centre,,
+turnover,,Centre,28.0,28.0
+steal,,earlham,26.0,26.0
+three pointer,good,earlham,18.0,18.0
+assist,,earlham,,

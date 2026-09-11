@@ -1,0 +1,527 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+three pointer,missed,north park,1187.0,617.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,1161.0,4.0
+defensive rebound,,north park,,
+jumper,missed,north park,1151.0,20.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,1124.0,3.0
+offensive rebound,,Centre,,
+layup,good,Centre,1119.0,25.0
+assist,,Centre,,
+layup,good,north park,1097.0,8.0
+assist,,north park,,
+jumper,missed,Centre,1082.0,15.0
+defensive rebound,,north park,,
+foul,,Centre,1073.0,21.0
+free throw,good,north park,1073.0,30.0
+free throw,missed,north park,1073.0,30.0
+defensive rebound,,Centre,,
+jumper,good,Centre,1064.0,21.0
+assist,,Centre,,
+three pointer,good,north park,1049.0,15.0
+assist,,north park,,
+jumper,missed,Centre,1032.0,13.0
+defensive rebound,,north park,,
+foul,,Centre,1021.0,19.0
+subbing in,,Centre,1021.0,30.0
+subbing in,,Centre,1021.0,30.0
+subbing out,,Centre,1021.0,30.0
+subbing out,,Centre,1021.0,30.0
+jumper,good,north park,1016.0,25.0
+jumper,missed,Centre,999.0,13.0
+defensive rebound,,north park,,
+turnover,,north park,990.0,21.0
+foul,,north park,973.0,13.0
+layup,missed,Centre,968.0,25.0
+defensive rebound,,north park,,
+three pointer,missed,north park,958.0,20.0
+defensive rebound,,Centre,,
+layup,good,Centre,945.0,17.0
+assist,,Centre,,
+layup,good,north park,928.0,13.0
+layup,good,Centre,904.0,6.0
+layup,good,north park,885.0,11.0
+assist,,north park,,
+layup,missed,Centre,869.0,14.0
+defensive rebound,,north park,,
+layup,missed,north park,858.0,19.0
+defensive rebound,,Centre,,
+subbing in,,north park,851.0,23.0
+subbing in,,north park,851.0,23.0
+subbing in,,north park,851.0,23.0
+subbing in,,north park,851.0,23.0
+subbing in,,north park,851.0,23.0
+subbing out,,north park,851.0,23.0
+subbing out,,north park,851.0,23.0
+subbing out,,north park,851.0,23.0
+subbing out,,north park,851.0,23.0
+subbing out,,north park,851.0,23.0
+subbing in,,Centre,851.0,23.0
+subbing out,,Centre,851.0,23.0
+jumper,missed,Centre,849.0,21.0
+offensive rebound,,Centre,,
+jumper,good,Centre,845.0,26.0
+jumper,missed,north park,834.0,19.0
+defensive rebound,,Centre,,
+subbing in,,Centre,833.0,29.0
+subbing out,,Centre,833.0,29.0
+foul,,north park,832.0,28.0
+jumper,good,Centre,820.0,18.0
+layup,missed,north park,803.0,13.0
+block,,Centre,803.0,13.0
+offensive rebound,,Centre,,
+foul,,Centre,801.0,11.0
+free throw,missed,north park,801.0,30.0
+deadball rebound,,Centre,,
+free throw,good,north park,801.0,30.0
+turnover,,Centre,794.0,23.0
+three pointer,good,north park,781.0,17.0
+jumper,missed,Centre,768.0,17.0
+defensive rebound,,north park,,
+layup,missed,north park,759.0,21.0
+defensive rebound,,Centre,,
+turnover,,Centre,749.0,20.0
+timeout,,Centre,749.0,30.0
+subbing in,,north park,749.0,30.0
+subbing out,,north park,749.0,30.0
+subbing in,,Centre,749.0,30.0
+subbing out,,Centre,749.0,30.0
+layup,good,north park,727.0,8.0
+layup,missed,Centre,716.0,19.0
+defensive rebound,,north park,,
+turnover,,north park,711.0,25.0
+steal,,Centre,709.0,28.0
+turnover,,Centre,695.0,16.0
+steal,,north park,693.0,28.0
+jumper,missed,north park,669.0,6.0
+defensive rebound,,Centre,,
+layup,good,Centre,654.0,15.0
+assist,,Centre,,
+turnover,,north park,638.0,14.0
+subbing in,,north park,638.0,30.0
+subbing in,,north park,638.0,30.0
+subbing out,,north park,638.0,30.0
+subbing out,,north park,638.0,30.0
+subbing in,,Centre,638.0,30.0
+subbing in,,Centre,638.0,30.0
+subbing out,,Centre,638.0,30.0
+subbing out,,Centre,638.0,30.0
+turnover,,Centre,616.0,8.0
+steal,,north park,614.0,28.0
+layup,good,north park,611.0,27.0
+assist,,north park,,
+three pointer,missed,Centre,599.0,18.0
+defensive rebound,,north park,,
+jumper,missed,north park,591.0,22.0
+defensive rebound,,Centre,,
+turnover,,Centre,574.0,13.0
+steal,,north park,572.0,28.0
+layup,good,north park,564.0,22.0
+assist,,north park,,
+timeout,,Centre,562.0,28.0
+three pointer,good,Centre,536.0,2.0
+assist,,Centre,,
+three pointer,missed,north park,515.0,9.0
+defensive rebound,,Centre,,
+jumper,good,Centre,503.0,18.0
+assist,,Centre,,
+timeout,,Centre,494.0,21.0
+subbing in,,north park,494.0,21.0
+subbing in,,north park,494.0,21.0
+subbing in,,north park,494.0,21.0
+subbing out,,north park,494.0,21.0
+subbing out,,north park,494.0,21.0
+subbing out,,north park,494.0,21.0
+subbing in,,Centre,494.0,21.0
+subbing in,,Centre,494.0,21.0
+subbing out,,Centre,494.0,21.0
+subbing out,,Centre,494.0,21.0
+three pointer,missed,north park,484.0,11.0
+offensive rebound,,north park,,
+layup,missed,north park,481.0,27.0
+defensive rebound,,Centre,,
+turnover,,Centre,473.0,22.0
+steal,,north park,470.0,27.0
+layup,missed,north park,450.0,10.0
+offensive rebound,,north park,,
+foul,,Centre,448.0,28.0
+free throw,missed,north park,448.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,north park,448.0,30.0
+defensive rebound,,Centre,,
+jumper,good,Centre,421.0,3.0
+foul,,Centre,397.0,6.0
+subbing in,,north park,397.0,30.0
+subbing out,,north park,397.0,30.0
+jumper,good,north park,389.0,22.0
+foul,,north park,368.0,9.0
+free throw,missed,Centre,368.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,368.0,30.0
+three pointer,missed,north park,340.0,2.0
+defensive rebound,,Centre,,
+turnover,,Centre,311.0,1.0
+subbing in,,Centre,311.0,30.0
+subbing out,,Centre,311.0,30.0
+three pointer,missed,north park,295.0,14.0
+defensive rebound,,Centre,,
+turnover,,Centre,283.0,18.0
+steal,,north park,281.0,28.0
+three pointer,missed,north park,275.0,24.0
+defensive rebound,,Centre,,
+foul,,north park,269.0,24.0
+subbing in,,north park,269.0,30.0
+subbing in,,north park,269.0,30.0
+subbing in,,north park,269.0,30.0
+subbing in,,north park,269.0,30.0
+subbing in,,north park,269.0,30.0
+subbing out,,north park,269.0,30.0
+subbing out,,north park,269.0,30.0
+subbing out,,north park,269.0,30.0
+subbing out,,north park,269.0,30.0
+subbing out,,north park,269.0,30.0
+subbing in,,Centre,269.0,30.0
+subbing out,,Centre,269.0,30.0
+foul,,Centre,258.0,19.0
+turnover,,Centre,258.0,30.0
+subbing in,,Centre,258.0,30.0
+subbing out,,Centre,258.0,30.0
+layup,missed,north park,239.0,11.0
+defensive rebound,,Centre,,
+foul,,north park,227.0,18.0
+free throw,good,Centre,227.0,30.0
+free throw,good,Centre,227.0,30.0
+turnover,,north park,219.0,22.0
+turnover,,Centre,209.0,20.0
+steal,,north park,208.0,29.0
+layup,missed,north park,205.0,27.0
+offensive rebound,,Centre,,
+jumper,good,north park,198.0,23.0
+three pointer,good,Centre,179.0,11.0
+assist,,Centre,,
+timeout,,Centre,170.0,21.0
+subbing in,,Centre,170.0,21.0
+subbing in,,Centre,170.0,21.0
+subbing out,,Centre,170.0,21.0
+subbing out,,Centre,170.0,21.0
+three pointer,missed,north park,159.0,10.0
+defensive rebound,,Centre,,
+layup,missed,Centre,152.0,23.0
+offensive rebound,,Centre,,
+jumper,good,Centre,148.0,26.0
+assist,,Centre,,
+foul,,Centre,127.0,9.0
+free throw,good,north park,127.0,30.0
+free throw,missed,north park,127.0,30.0
+defensive rebound,,Centre,,
+subbing in,,north park,127.0,30.0
+subbing out,,north park,127.0,30.0
+subbing in,,Centre,127.0,30.0
+subbing out,,Centre,127.0,30.0
+layup,missed,Centre,103.0,6.0
+defensive rebound,,north park,,
+layup,good,north park,73.0,0.0
+assist,,north park,,
+jumper,good,Centre,48.0,5.0
+turnover,,north park,28.0,28.0
+steal,,Centre,25.0,25.0
+layup,good,Centre,11.0,11.0
+three pointer,good,north park,2.0,2.0
+,,,,
+turnover,,Centre,1196.0,1178.0
+steal,,north park,1194.0,28.0
+turnover,,north park,1184.0,20.0
+turnover,,Centre,1168.0,14.0
+foul,,Centre,1158.0,20.0
+subbing in,,Centre,1158.0,30.0
+subbing out,,Centre,1158.0,30.0
+jumper,missed,north park,1151.0,23.0
+defensive rebound,,Centre,,
+layup,good,Centre,1139.0,18.0
+assist,,Centre,,
+jumper,missed,north park,1129.0,20.0
+defensive rebound,,Centre,,
+turnover,,Centre,1118.0,19.0
+steal,,north park,1116.0,28.0
+layup,missed,north park,1102.0,16.0
+offensive rebound,,north park,,
+foul,,Centre,1099.0,27.0
+free throw,good,north park,1099.0,30.0
+free throw,good,north park,1099.0,30.0
+three pointer,good,Centre,1073.0,4.0
+assist,,Centre,,
+layup,missed,north park,1053.0,10.0
+offensive rebound,,Centre,,
+three pointer,missed,north park,1046.0,23.0
+offensive rebound,,north park,,
+three pointer,missed,north park,1042.0,26.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,1020.0,8.0
+defensive rebound,,north park,,
+layup,good,north park,1013.0,23.0
+assist,,north park,,
+layup,missed,Centre,993.0,10.0
+defensive rebound,,north park,,
+three pointer,missed,north park,985.0,22.0
+defensive rebound,,Centre,,
+foul,,north park,973.0,18.0
+subbing in,,north park,973.0,30.0
+subbing in,,north park,973.0,30.0
+subbing in,,north park,973.0,30.0
+subbing in,,north park,973.0,30.0
+subbing in,,north park,973.0,30.0
+subbing out,,north park,973.0,30.0
+subbing out,,north park,973.0,30.0
+subbing out,,north park,973.0,30.0
+subbing out,,north park,973.0,30.0
+subbing out,,north park,973.0,30.0
+subbing in,,Centre,973.0,30.0
+subbing in,,Centre,973.0,30.0
+subbing out,,Centre,973.0,30.0
+subbing out,,Centre,973.0,30.0
+foul,,north park,969.0,26.0
+free throw,good,Centre,969.0,30.0
+free throw,good,Centre,969.0,30.0
+jumper,missed,north park,937.0,28.0
+defensive rebound,,Centre,,
+turnover,,Centre,923.0,16.0
+steal,,north park,921.0,28.0
+layup,missed,north park,917.0,26.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,905.0,18.0
+defensive rebound,,north park,,
+foul,,Centre,887.0,12.0
+free throw,missed,north park,887.0,30.0
+deadball rebound,,Centre,,
+free throw,good,north park,887.0,30.0
+subbing in,,Centre,887.0,30.0
+subbing in,,Centre,887.0,30.0
+subbing in,,Centre,887.0,30.0
+subbing out,,Centre,887.0,30.0
+subbing out,,Centre,887.0,30.0
+subbing out,,Centre,887.0,30.0
+layup,missed,Centre,878.0,21.0
+defensive rebound,,north park,,
+layup,good,north park,859.0,11.0
+assist,,north park,,
+layup,good,Centre,846.0,17.0
+assist,,Centre,,
+foul,,north park,846.0,30.0
+free throw,good,Centre,846.0,30.0
+subbing in,,north park,846.0,30.0
+subbing out,,north park,846.0,30.0
+three pointer,missed,north park,823.0,7.0
+offensive rebound,,north park,,
+turnover,,north park,818.0,25.0
+foul,,north park,791.0,3.0
+free throw,good,Centre,791.0,30.0
+free throw,good,Centre,791.0,30.0
+subbing in,,north park,791.0,30.0
+subbing out,,north park,791.0,30.0
+layup,good,north park,772.0,11.0
+timeout,,Centre,770.0,28.0
+subbing in,,north park,770.0,28.0
+subbing out,,north park,770.0,28.0
+subbing in,,Centre,770.0,28.0
+subbing out,,Centre,770.0,28.0
+foul,,north park,748.0,6.0
+free throw,good,Centre,748.0,30.0
+free throw,good,Centre,748.0,30.0
+subbing in,,north park,748.0,30.0
+subbing out,,north park,748.0,30.0
+layup,missed,north park,721.0,3.0
+defensive rebound,,Centre,,
+layup,good,Centre,704.0,13.0
+three pointer,missed,north park,685.0,11.0
+defensive rebound,,Centre,,
+foul,,north park,683.0,28.0
+subbing in,,north park,683.0,30.0
+subbing out,,north park,683.0,30.0
+turnover,,Centre,671.0,18.0
+steal,,north park,671.0,30.0
+three pointer,missed,north park,647.0,6.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,637.0,20.0
+defensive rebound,,north park,,
+layup,good,north park,627.0,20.0
+assist,,north park,,
+turnover,,Centre,607.0,10.0
+steal,,north park,604.0,27.0
+foul,,Centre,599.0,25.0
+free throw,good,north park,599.0,30.0
+free throw,good,north park,599.0,30.0
+subbing in,,Centre,599.0,30.0
+subbing in,,Centre,599.0,30.0
+subbing in,,Centre,599.0,30.0
+subbing out,,Centre,599.0,30.0
+subbing out,,Centre,599.0,30.0
+subbing out,,Centre,599.0,30.0
+turnover,,Centre,587.0,18.0
+layup,missed,north park,564.0,7.0
+offensive rebound,,north park,,
+layup,missed,north park,560.0,26.0
+offensive rebound,,north park,,
+layup,good,north park,556.0,26.0
+turnover,,Centre,539.0,13.0
+steal,,north park,536.0,27.0
+turnover,,north park,534.0,28.0
+jumper,good,Centre,511.0,7.0
+assist,,Centre,,
+timeout,,Centre,510.0,29.0
+subbing in,,north park,510.0,29.0
+subbing out,,north park,510.0,29.0
+subbing in,,Centre,510.0,29.0
+subbing out,,Centre,510.0,29.0
+three pointer,missed,north park,488.0,7.0
+deadball rebound,,Centre,,
+jumper,missed,Centre,462.0,4.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,458.0,26.0
+defensive rebound,,north park,,
+three pointer,good,north park,444.0,16.0
+assist,,north park,,
+subbing in,,Centre,416.0,2.0
+subbing out,,Centre,416.0,2.0
+jumper,good,Centre,409.0,25.0
+assist,,Centre,,
+three pointer,missed,north park,388.0,9.0
+defensive rebound,,Centre,,
+foul,,north park,377.0,19.0
+free throw,good,Centre,377.0,30.0
+free throw,good,Centre,377.0,30.0
+subbing in,,north park,377.0,30.0
+subbing out,,north park,377.0,30.0
+three pointer,missed,north park,363.0,16.0
+offensive rebound,,north park,,
+foul,,Centre,359.0,26.0
+three pointer,good,north park,355.0,26.0
+assist,,north park,,
+turnover,,Centre,348.0,23.0
+subbing in,,Centre,348.0,30.0
+subbing out,,Centre,348.0,30.0
+jumper,good,north park,328.0,10.0
+layup,good,Centre,307.0,9.0
+assist,,Centre,,
+layup,good,north park,282.0,5.0
+timeout,,Centre,280.0,28.0
+subbing in,,Centre,280.0,28.0
+subbing out,,Centre,280.0,28.0
+turnover,,Centre,269.0,17.0
+steal,,north park,267.0,28.0
+layup,good,north park,250.0,13.0
+assist,,north park,,
+three pointer,missed,Centre,223.0,3.0
+defensive rebound,,north park,,
+layup,missed,north park,216.0,23.0
+offensive rebound,,north park,,
+layup,missed,north park,188.0,2.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,165.0,7.0
+defensive rebound,,north park,,
+three pointer,good,north park,144.0,9.0
+assist,,north park,,
+jumper,good,Centre,128.0,14.0
+three pointer,missed,north park,112.0,14.0
+defensive rebound,,Centre,,
+foul,,north park,108.0,26.0
+free throw,missed,Centre,108.0,30.0
+defensive rebound,,north park,,
+timeout,,Centre,99.0,21.0
+subbing in,,north park,99.0,21.0
+subbing out,,north park,99.0,21.0
+layup,good,north park,94.0,16.0
+assist,,Centre,,
+jumper,good,Centre,75.0,11.0
+timeout,,Centre,74.0,29.0
+turnover,,north park,69.0,24.0
+steal,,Centre,69.0,30.0
+layup,good,Centre,66.0,27.0
+timeout,,Centre,57.0,21.0
+foul,,Centre,46.0,10.0
+layup,good,north park,28.0,28.0
+turnover,,Centre,19.0,19.0
+foul,,Centre,17.0,17.0
+timeout,,Centre,17.0,17.0
+free throw,missed,north park,17.0,17.0
+defensive rebound,,Centre,,
+foul,,Centre,10.0,10.0
+turnover,,Centre,10.0,10.0
+foul,,Centre,10.0,10.0
+free throw,missed,north park,10.0,10.0
+defensive rebound,,Centre,,
+subbing in,,Centre,10.0,10.0
+subbing in,,Centre,10.0,10.0
+subbing out,,Centre,10.0,10.0
+subbing out,,Centre,10.0,10.0
+three pointer,good,Centre,2.0,2.0
+assist,,Centre,,
+,,,,
+subbing in,,north park,300.0,284.0
+subbing in,,north park,300.0,284.0
+subbing out,,north park,300.0,284.0
+subbing out,,north park,300.0,284.0
+subbing in,,Centre,300.0,284.0
+subbing out,,Centre,300.0,284.0
+turnover,,north park,272.0,256.0
+jumper,good,Centre,260.0,18.0
+assist,,Centre,,
+turnover,,north park,242.0,12.0
+layup,missed,Centre,228.0,16.0
+offensive rebound,,Centre,,
+subbing in,,north park,226.0,28.0
+subbing in,,north park,226.0,28.0
+subbing out,,north park,226.0,28.0
+subbing out,,north park,226.0,28.0
+jumper,missed,Centre,223.0,25.0
+offensive rebound,,Centre,,
+foul,,north park,214.0,21.0
+free throw,good,Centre,214.0,30.0
+free throw,good,Centre,214.0,30.0
+jumper,missed,north park,190.0,6.0
+block,,Centre,190.0,6.0
+offensive rebound,,north park,,
+layup,good,north park,183.0,29.0
+layup,missed,Centre,156.0,3.0
+defensive rebound,,north park,,
+jumper,good,north park,138.0,12.0
+foul,,Centre,113.0,5.0
+turnover,,Centre,113.0,30.0
+subbing in,,Centre,113.0,30.0
+subbing out,,Centre,113.0,30.0
+jumper,good,north park,101.0,18.0
+turnover,,Centre,88.0,17.0
+steal,,north park,86.0,28.0
+layup,good,north park,79.0,23.0
+turnover,,Centre,67.0,18.0
+steal,,north park,66.0,29.0
+timeout,,Centre,57.0,21.0
+foul,,Centre,54.0,18.0
+free throw,good,north park,54.0,30.0
+free throw,good,north park,54.0,30.0
+foul,,north park,46.0,22.0
+free throw,good,Centre,46.0,30.0
+free throw,good,Centre,46.0,30.0
+timeout,,Centre,46.0,30.0
+subbing in,,Centre,46.0,30.0
+subbing out,,Centre,46.0,30.0
+foul,,Centre,44.0,28.0
+free throw,good,north park,44.0,30.0
+free throw,good,north park,44.0,30.0
+subbing in,,Centre,44.0,30.0
+subbing out,,Centre,44.0,30.0
+three pointer,missed,Centre,29.0,29.0
+defensive rebound,,Centre,,
+foul,,Centre,26.0,26.0
+free throw,good,north park,26.0,26.0
+free throw,good,north park,26.0,26.0
+subbing in,,Centre,26.0,26.0
+subbing out,,Centre,26.0,26.0
+three pointer,missed,Centre,14.0,14.0
+defensive rebound,,north park,,
+foul,,Centre,10.0,10.0
+free throw,good,north park,10.0,10.0
+free throw,good,north park,10.0,10.0
+three pointer,missed,Centre,1.0,1.0
+defensive rebound,,north park,,

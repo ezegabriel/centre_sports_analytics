@@ -1,0 +1,618 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+jumper,good,Centre,583.0,13.0
+assist,,Centre,,
+jumper,good,maryville,568.0,15.0
+assist,,maryville,,
+jumper,good,Centre,553.0,15.0
+jumper,good,maryville,539.0,16.0
+assist,,maryville,,
+layup,missed,Centre,519.0,10.0
+block,,maryville,519.0,10.0
+offensive rebound,,Centre,,
+foul,,maryville,507.0,28.0
+turnover,,Centre,507.0,30.0
+layup,good,maryville,504.0,27.0
+assist,,maryville,,
+three pointer,missed,Centre,486.0,12.0
+defensive rebound,,maryville,,
+three pointer,missed,maryville,476.0,20.0
+offensive rebound,,maryville,,
+foul,,maryville,459.0,13.0
+subbing in,,maryville,459.0,30.0
+subbing in,,maryville,459.0,30.0
+subbing in,,maryville,459.0,30.0
+subbing out,,maryville,459.0,30.0
+subbing out,,maryville,459.0,30.0
+subbing out,,maryville,459.0,30.0
+subbing in,,Centre,459.0,30.0
+subbing in,,Centre,459.0,30.0
+subbing in,,Centre,459.0,30.0
+subbing out,,Centre,459.0,30.0
+subbing out,,Centre,459.0,30.0
+subbing out,,Centre,459.0,30.0
+layup,good,Centre,456.0,27.0
+assist,,Centre,,
+foul,,Centre,443.0,17.0
+turnover,,maryville,423.0,10.0
+three pointer,missed,Centre,412.0,19.0
+defensive rebound,,maryville,,
+layup,missed,maryville,393.0,11.0
+block,,Centre,393.0,30.0
+defensive rebound,,Centre,,
+layup,good,Centre,381.0,18.0
+foul,,maryville,381.0,30.0
+free throw,missed,Centre,381.0,30.0
+defensive rebound,,maryville,,
+subbing in,,maryville,381.0,30.0
+subbing in,,maryville,381.0,30.0
+subbing out,,maryville,381.0,30.0
+subbing out,,maryville,381.0,30.0
+subbing in,,Centre,381.0,30.0
+subbing out,,Centre,381.0,30.0
+foul,,Centre,377.0,26.0
+subbing in,,maryville,377.0,30.0
+subbing out,,maryville,377.0,30.0
+subbing in,,Centre,377.0,30.0
+subbing out,,Centre,377.0,30.0
+layup,good,maryville,370.0,23.0
+assist,,maryville,,
+jumper,good,maryville,357.0,17.0
+assist,,maryville,,
+turnover,,Centre,348.0,21.0
+turnover,,Centre,340.0,22.0
+layup,missed,maryville,312.0,2.0
+offensive rebound,,maryville,,
+three pointer,good,maryville,305.0,23.0
+assist,,maryville,,
+foul,,Centre,287.0,12.0
+timeout,,maryville,258.0,1.0
+subbing in,,maryville,258.0,1.0
+subbing in,,maryville,258.0,1.0
+subbing out,,maryville,258.0,1.0
+subbing out,,maryville,258.0,1.0
+subbing in,,Centre,258.0,1.0
+subbing in,,Centre,258.0,1.0
+subbing in,,Centre,258.0,1.0
+subbing in,,Centre,258.0,1.0
+subbing out,,Centre,258.0,1.0
+subbing out,,Centre,258.0,1.0
+subbing out,,Centre,258.0,1.0
+subbing out,,Centre,258.0,1.0
+jumper,good,maryville,254.0,27.0
+assist,,maryville,,
+jumper,missed,Centre,222.0,28.0
+offensive rebound,,Centre,,
+layup,good,Centre,214.0,22.0
+jumper,missed,maryville,209.0,25.0
+offensive rebound,,maryville,,
+three pointer,missed,maryville,204.0,25.0
+defensive rebound,,Centre,,
+foul,,maryville,191.0,17.0
+free throw,good,Centre,190.0,30.0
+free throw,good,Centre,190.0,30.0
+subbing in,,maryville,190.0,30.0
+subbing out,,maryville,190.0,30.0
+subbing in,,Centre,190.0,30.0
+subbing out,,Centre,190.0,30.0
+three pointer,good,maryville,168.0,7.0
+assist,,maryville,,
+foul,,maryville,150.0,12.0
+free throw,good,Centre,147.0,30.0
+free throw,good,Centre,147.0,30.0
+subbing in,,maryville,147.0,30.0
+subbing out,,maryville,147.0,30.0
+turnover,,maryville,116.0,26.0
+layup,missed,Centre,106.0,20.0
+offensive rebound,,Centre,,
+jumper,good,Centre,96.0,20.0
+subbing in,,maryville,83.0,17.0
+subbing out,,maryville,83.0,17.0
+foul,,Centre,79.0,13.0
+free throw,missed,maryville,79.0,30.0
+deadball rebound,,Centre,,
+free throw,good,maryville,79.0,30.0
+three pointer,missed,Centre,74.0,25.0
+offensive rebound,,Centre,,
+layup,good,Centre,65.0,21.0
+assist,,Centre,,
+subbing in,,Centre,50.0,15.0
+subbing out,,Centre,50.0,15.0
+jumper,good,maryville,47.0,12.0
+assist,,maryville,,
+turnover,,Centre,27.0,27.0
+steal,,maryville,23.0,23.0
+foul,,Centre,20.0,20.0
+free throw,good,maryville,20.0,20.0
+free throw,missed,maryville,20.0,20.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,10.0,10.0
+defensive rebound,,maryville,,
+subbing in,,maryville,0.0,0.0
+subbing out,,maryville,0.0,0.0
+subbing in,,Centre,0.0,0.0
+subbing in,,Centre,0.0,0.0
+subbing in,,Centre,0.0,0.0
+subbing in,,Centre,0.0,0.0
+subbing out,,Centre,0.0,0.0
+subbing out,,Centre,0.0,0.0
+subbing out,,Centre,0.0,0.0
+subbing out,,Centre,0.0,0.0
+,,,,
+three pointer,missed,Centre,596.0,26.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,570.0,4.0
+offensive rebound,,Centre,,
+subbing in,,Centre,564.0,24.0
+subbing in,,Centre,564.0,24.0
+subbing in,,Centre,564.0,24.0
+subbing out,,Centre,564.0,24.0
+subbing out,,Centre,564.0,24.0
+subbing out,,Centre,564.0,24.0
+jumper,good,Centre,563.0,23.0
+foul,,Centre,548.0,15.0
+free throw,missed,maryville,548.0,30.0
+deadball rebound,,Centre,,
+free throw,good,maryville,548.0,30.0
+layup,good,Centre,533.0,15.0
+assist,,Centre,,
+layup,good,maryville,511.0,8.0
+three pointer,good,Centre,484.0,3.0
+assist,,Centre,,
+foul,,Centre,465.0,11.0
+turnover,,maryville,465.0,30.0
+steal,,Centre,465.0,30.0
+foul,,maryville,465.0,30.0
+subbing in,,maryville,465.0,30.0
+subbing in,,maryville,465.0,30.0
+subbing out,,maryville,465.0,30.0
+subbing out,,maryville,465.0,30.0
+subbing in,,Centre,465.0,30.0
+subbing out,,Centre,465.0,30.0
+jumper,missed,Centre,451.0,16.0
+offensive rebound,,Centre,,
+turnover,,Centre,444.0,23.0
+foul,,Centre,427.0,13.0
+jumper,good,maryville,427.0,30.0
+free throw,missed,maryville,427.0,30.0
+defensive rebound,,maryville,,
+jumper,good,Centre,427.0,30.0
+layup,good,maryville,427.0,30.0
+assist,,maryville,,
+subbing in,,Centre,427.0,30.0
+subbing out,,Centre,427.0,30.0
+foul,,maryville,410.0,13.0
+subbing in,,Centre,405.0,25.0
+subbing in,,Centre,405.0,25.0
+subbing in,,Centre,405.0,25.0
+subbing out,,Centre,405.0,25.0
+subbing out,,Centre,405.0,25.0
+subbing out,,Centre,405.0,25.0
+subbing in,,maryville,385.0,5.0
+subbing in,,maryville,385.0,5.0
+subbing out,,maryville,385.0,5.0
+subbing out,,maryville,385.0,5.0
+turnover,,Centre,366.0,16.0
+steal,,maryville,364.0,28.0
+layup,good,maryville,361.0,27.0
+layup,missed,Centre,342.0,11.0
+offensive rebound,,Centre,,
+turnover,,Centre,331.0,19.0
+steal,,maryville,329.0,28.0
+foul,,Centre,313.0,14.0
+free throw,good,maryville,304.0,30.0
+free throw,good,maryville,304.0,30.0
+subbing in,,Centre,304.0,30.0
+subbing in,,Centre,304.0,30.0
+subbing out,,Centre,304.0,30.0
+subbing out,,Centre,304.0,30.0
+three pointer,good,Centre,300.0,17.0
+layup,missed,maryville,289.0,19.0
+offensive rebound,,maryville,,
+layup,missed,maryville,271.0,12.0
+defensive rebound,,Centre,,
+turnover,,Centre,264.0,23.0
+steal,,maryville,264.0,30.0
+timeout,,maryville,260.0,26.0
+layup,good,maryville,260.0,26.0
+subbing in,,Centre,260.0,26.0
+subbing out,,Centre,260.0,26.0
+three pointer,missed,Centre,241.0,7.0
+defensive rebound,,maryville,,
+layup,missed,maryville,230.0,19.0
+defensive rebound,,Centre,,
+foul,,maryville,203.0,3.0
+free throw,good,Centre,203.0,30.0
+free throw,good,Centre,203.0,30.0
+subbing in,,maryville,203.0,30.0
+subbing in,,maryville,203.0,30.0
+subbing in,,maryville,203.0,30.0
+subbing out,,maryville,203.0,30.0
+subbing out,,maryville,203.0,30.0
+subbing out,,maryville,203.0,30.0
+layup,missed,maryville,181.0,8.0
+defensive rebound,,Centre,,
+jumper,good,Centre,174.0,23.0
+foul,,Centre,160.0,16.0
+free throw,missed,maryville,160.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,maryville,160.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,160.0,30.0
+subbing out,,Centre,160.0,30.0
+jumper,good,Centre,153.0,23.0
+assist,,Centre,,
+three pointer,missed,maryville,137.0,14.0
+offensive rebound,,Centre,,
+subbing in,,maryville,125.0,18.0
+subbing in,,maryville,125.0,18.0
+subbing in,,maryville,125.0,18.0
+subbing in,,maryville,125.0,18.0
+subbing out,,maryville,125.0,18.0
+subbing out,,maryville,125.0,18.0
+subbing out,,maryville,125.0,18.0
+subbing out,,maryville,125.0,18.0
+jumper,missed,maryville,123.0,16.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,115.0,22.0
+defensive rebound,,maryville,,
+foul,,Centre,92.0,7.0
+free throw,good,maryville,92.0,30.0
+free throw,missed,maryville,92.0,30.0
+defensive rebound,,Centre,,
+foul,,maryville,92.0,30.0
+subbing in,,maryville,92.0,30.0
+subbing out,,maryville,92.0,30.0
+subbing in,,Centre,92.0,30.0
+subbing out,,Centre,92.0,30.0
+three pointer,good,Centre,74.0,12.0
+assist,,Centre,,
+turnover,,maryville,51.0,7.0
+steal,,Centre,45.0,24.0
+layup,good,Centre,42.0,27.0
+subbing in,,Centre,38.0,26.0
+subbing in,,Centre,38.0,26.0
+subbing out,,Centre,38.0,26.0
+subbing out,,Centre,38.0,26.0
+layup,missed,maryville,36.0,24.0
+defensive rebound,,Centre,,
+turnover,,Centre,15.0,15.0
+steal,,maryville,10.0,10.0
+jumper,missed,maryville,2.0,2.0
+defensive rebound,,Centre,,
+,,,,
+jumper,missed,maryville,575.0,569.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,566.0,21.0
+assist,,Centre,,
+turnover,,maryville,536.0,0.0
+steal,,Centre,532.0,26.0
+layup,good,Centre,521.0,19.0
+assist,,Centre,,
+turnover,,maryville,508.0,17.0
+steal,,Centre,506.0,28.0
+foul,,maryville,505.0,29.0
+layup,good,Centre,505.0,30.0
+foul,,maryville,505.0,30.0
+free throw,missed,Centre,505.0,30.0
+defensive rebound,,maryville,,
+subbing in,,maryville,505.0,30.0
+subbing out,,maryville,505.0,30.0
+jumper,missed,maryville,497.0,22.0
+block,,Centre,497.0,30.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,485.0,18.0
+assist,,Centre,,
+subbing in,,maryville,466.0,11.0
+subbing in,,maryville,466.0,11.0
+subbing out,,maryville,466.0,11.0
+subbing out,,maryville,466.0,11.0
+three pointer,good,maryville,459.0,4.0
+assist,,maryville,,
+foul,,maryville,433.0,4.0
+subbing in,,Centre,433.0,30.0
+subbing out,,Centre,433.0,30.0
+jumper,missed,Centre,431.0,28.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,408.0,7.0
+defensive rebound,,maryville,,
+turnover,,maryville,388.0,10.0
+steal,,Centre,385.0,27.0
+turnover,,Centre,382.0,27.0
+subbing in,,Centre,382.0,30.0
+subbing in,,Centre,382.0,30.0
+subbing in,,Centre,382.0,30.0
+subbing in,,Centre,382.0,30.0
+subbing out,,Centre,382.0,30.0
+subbing out,,Centre,382.0,30.0
+subbing out,,Centre,382.0,30.0
+subbing out,,Centre,382.0,30.0
+layup,missed,maryville,373.0,21.0
+offensive rebound,,maryville,,
+layup,missed,maryville,355.0,12.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,348.0,23.0
+defensive rebound,,maryville,,
+foul,,Centre,340.0,22.0
+subbing in,,maryville,340.0,30.0
+subbing in,,maryville,340.0,30.0
+subbing out,,maryville,340.0,30.0
+subbing out,,maryville,340.0,30.0
+subbing in,,Centre,340.0,30.0
+subbing out,,Centre,340.0,30.0
+jumper,good,maryville,336.0,26.0
+foul,,Centre,336.0,30.0
+free throw,good,maryville,336.0,30.0
+jumper,missed,Centre,327.0,21.0
+defensive rebound,,Centre,,
+layup,missed,maryville,304.0,7.0
+offensive rebound,,maryville,,
+foul,,Centre,301.0,27.0
+free throw,missed,maryville,301.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,maryville,301.0,30.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,295.0,24.0
+defensive rebound,,maryville,,
+layup,missed,maryville,281.0,16.0
+layup,good,maryville,266.0,15.0
+turnover,,Centre,266.0,30.0
+steal,,maryville,266.0,30.0
+layup,good,maryville,266.0,30.0
+subbing in,,maryville,266.0,30.0
+subbing in,,maryville,266.0,30.0
+subbing in,,maryville,266.0,30.0
+subbing out,,maryville,266.0,30.0
+subbing out,,maryville,266.0,30.0
+subbing out,,maryville,266.0,30.0
+subbing in,,Centre,266.0,30.0
+subbing in,,Centre,266.0,30.0
+subbing in,,Centre,266.0,30.0
+subbing in,,Centre,266.0,30.0
+subbing in,,Centre,266.0,30.0
+subbing out,,Centre,266.0,30.0
+subbing out,,Centre,266.0,30.0
+subbing out,,Centre,266.0,30.0
+subbing out,,Centre,266.0,30.0
+subbing out,,Centre,266.0,30.0
+jumper,good,Centre,251.0,15.0
+foul,,Centre,228.0,7.0
+free throw,good,maryville,227.0,30.0
+free throw,good,maryville,216.0,30.0
+turnover,,Centre,202.0,4.0
+steal,,maryville,200.0,28.0
+layup,missed,maryville,174.0,4.0
+block,,Centre,174.0,30.0
+defensive rebound,,Centre,,
+layup,missed,Centre,148.0,4.0
+offensive rebound,,Centre,,
+foul,,maryville,142.0,24.0
+free throw,good,Centre,142.0,30.0
+free throw,good,Centre,142.0,30.0
+subbing in,,maryville,142.0,30.0
+subbing out,,maryville,142.0,30.0
+subbing in,,Centre,142.0,30.0
+subbing in,,Centre,142.0,30.0
+subbing out,,Centre,142.0,30.0
+subbing out,,Centre,142.0,30.0
+three pointer,missed,maryville,139.0,27.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,132.0,23.0
+offensive rebound,,Centre,,
+turnover,,Centre,126.0,24.0
+steal,,maryville,126.0,30.0
+foul,,Centre,94.0,28.0
+free throw,good,maryville,94.0,30.0
+free throw,missed,maryville,94.0,30.0
+offensive rebound,,maryville,,
+subbing in,,Centre,94.0,30.0
+subbing out,,Centre,94.0,30.0
+three pointer,missed,maryville,91.0,27.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,71.0,10.0
+block,,maryville,71.0,10.0
+offensive rebound,,Centre,,
+jumper,good,Centre,55.0,24.0
+foul,,maryville,34.0,9.0
+subbing in,,maryville,34.0,30.0
+subbing out,,maryville,34.0,30.0
+subbing in,,Centre,34.0,30.0
+subbing out,,Centre,34.0,30.0
+three pointer,good,Centre,22.0,22.0
+assist,,Centre,,
+jumper,missed,maryville,8.0,8.0
+offensive rebound,,Centre,,
+,,,,
+jumper,good,Centre,599.0,595.0
+assist,,Centre,,
+foul,,Centre,586.0,17.0
+three pointer,missed,maryville,586.0,30.0
+defensive rebound,,Centre,,
+subbing in,,maryville,586.0,30.0
+subbing in,,maryville,586.0,30.0
+subbing in,,maryville,586.0,30.0
+subbing out,,maryville,586.0,30.0
+subbing out,,maryville,586.0,30.0
+subbing out,,maryville,586.0,30.0
+subbing in,,Centre,586.0,30.0
+subbing out,,Centre,586.0,30.0
+turnover,,Centre,585.0,29.0
+layup,good,maryville,567.0,12.0
+foul,,Centre,560.0,23.0
+free throw,good,maryville,555.0,30.0
+foul,,maryville,532.0,2.0
+free throw,missed,Centre,532.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,532.0,30.0
+subbing in,,Centre,532.0,30.0
+subbing in,,Centre,532.0,30.0
+subbing out,,Centre,532.0,30.0
+subbing out,,Centre,532.0,30.0
+turnover,,maryville,513.0,11.0
+subbing in,,maryville,513.0,30.0
+subbing in,,maryville,513.0,30.0
+subbing in,,maryville,513.0,30.0
+subbing out,,maryville,513.0,30.0
+subbing out,,maryville,513.0,30.0
+subbing out,,maryville,513.0,30.0
+jumper,missed,Centre,500.0,17.0
+block,,maryville,500.0,17.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,490.0,7.0
+offensive rebound,,Centre,,
+foul,,maryville,480.0,20.0
+jumper,missed,Centre,480.0,30.0
+defensive rebound,,maryville,,
+turnover,,maryville,478.0,28.0
+subbing in,,Centre,478.0,30.0
+subbing in,,Centre,478.0,30.0
+subbing out,,Centre,478.0,30.0
+subbing out,,Centre,478.0,30.0
+foul,,maryville,467.0,19.0
+foul,,maryville,459.0,22.0
+free throw,good,Centre,459.0,30.0
+free throw,good,Centre,459.0,30.0
+subbing in,,maryville,459.0,30.0
+subbing out,,maryville,459.0,30.0
+subbing in,,Centre,459.0,30.0
+subbing in,,Centre,459.0,30.0
+subbing out,,Centre,459.0,30.0
+subbing out,,Centre,459.0,30.0
+jumper,good,maryville,450.0,21.0
+jumper,missed,Centre,426.0,6.0
+defensive rebound,,maryville,,
+jumper,missed,maryville,414.0,18.0
+offensive rebound,,maryville,,
+foul,,Centre,412.0,28.0
+subbing in,,maryville,412.0,30.0
+subbing out,,maryville,412.0,30.0
+subbing in,,Centre,412.0,30.0
+subbing out,,Centre,412.0,30.0
+layup,good,maryville,407.0,25.0
+three pointer,missed,Centre,395.0,18.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,389.0,24.0
+defensive rebound,,maryville,,
+jumper,missed,maryville,368.0,9.0
+defensive rebound,,Centre,,
+foul,,maryville,367.0,29.0
+free throw,missed,Centre,367.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,367.0,30.0
+subbing in,,maryville,367.0,30.0
+subbing out,,maryville,367.0,30.0
+subbing in,,Centre,367.0,30.0
+subbing in,,Centre,367.0,30.0
+subbing out,,Centre,367.0,30.0
+subbing out,,Centre,367.0,30.0
+foul,,Centre,354.0,17.0
+free throw,good,maryville,354.0,30.0
+free throw,good,maryville,354.0,30.0
+subbing in,,Centre,354.0,30.0
+subbing out,,Centre,354.0,30.0
+jumper,missed,Centre,338.0,14.0
+defensive rebound,,maryville,,
+three pointer,good,maryville,329.0,21.0
+assist,,maryville,,
+layup,good,Centre,312.0,13.0
+layup,good,maryville,300.0,18.0
+layup,missed,Centre,281.0,11.0
+offensive rebound,,Centre,,
+foul,,maryville,275.0,24.0
+free throw,missed,Centre,275.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,275.0,30.0
+subbing in,,maryville,275.0,30.0
+subbing out,,maryville,275.0,30.0
+subbing in,,Centre,275.0,30.0
+subbing out,,Centre,275.0,30.0
+turnover,,maryville,269.0,24.0
+steal,,Centre,267.0,28.0
+foul,,maryville,263.0,26.0
+free throw,good,Centre,263.0,30.0
+free throw,good,Centre,263.0,30.0
+subbing in,,maryville,263.0,30.0
+subbing out,,maryville,263.0,30.0
+layup,good,maryville,255.0,22.0
+assist,,maryville,,
+three pointer,good,Centre,237.0,12.0
+assist,,Centre,,
+jumper,missed,maryville,218.0,11.0
+offensive rebound,,maryville,,
+foul,,Centre,202.0,14.0
+free throw,good,maryville,202.0,30.0
+free throw,good,maryville,202.0,30.0
+subbing in,,Centre,202.0,30.0
+subbing out,,Centre,202.0,30.0
+turnover,,Centre,187.0,15.0
+steal,,maryville,184.0,27.0
+free throw,missed,maryville,178.0,30.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,152.0,28.0
+assist,,Centre,,
+foul,,Centre,132.0,10.0
+free throw,good,maryville,132.0,30.0
+free throw,good,maryville,132.0,30.0
+subbing in,,maryville,132.0,30.0
+subbing in,,maryville,132.0,30.0
+subbing out,,maryville,132.0,30.0
+subbing out,,maryville,132.0,30.0
+subbing in,,Centre,132.0,30.0
+subbing in,,Centre,132.0,30.0
+subbing out,,Centre,132.0,30.0
+subbing out,,Centre,132.0,30.0
+three pointer,missed,Centre,125.0,23.0
+defensive rebound,,maryville,,
+three pointer,missed,maryville,113.0,18.0
+defensive rebound,,Centre,,
+foul,,maryville,106.0,23.0
+free throw,good,Centre,106.0,30.0
+free throw,good,Centre,106.0,30.0
+subbing in,,Centre,106.0,30.0
+subbing in,,Centre,106.0,30.0
+subbing out,,Centre,106.0,30.0
+subbing out,,Centre,106.0,30.0
+layup,good,maryville,92.0,16.0
+foul,,maryville,88.0,26.0
+free throw,missed,Centre,88.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,88.0,30.0
+subbing in,,maryville,88.0,30.0
+subbing in,,maryville,88.0,30.0
+subbing in,,maryville,88.0,30.0
+subbing out,,maryville,88.0,30.0
+subbing out,,maryville,88.0,30.0
+subbing out,,maryville,88.0,30.0
+three pointer,good,maryville,77.0,19.0
+assist,,maryville,,
+foul,,maryville,65.0,18.0
+free throw,good,Centre,65.0,30.0
+free throw,good,Centre,65.0,30.0
+subbing in,,maryville,65.0,30.0
+subbing in,,maryville,65.0,30.0
+subbing out,,maryville,65.0,30.0
+subbing out,,maryville,65.0,30.0
+subbing in,,Centre,65.0,30.0
+subbing out,,Centre,65.0,30.0
+foul,,maryville,59.0,24.0
+foul,,maryville,59.0,30.0
+free throw,good,Centre,59.0,30.0
+free throw,good,Centre,59.0,30.0
+subbing in,,maryville,59.0,30.0
+subbing in,,maryville,59.0,30.0
+subbing out,,maryville,59.0,30.0
+subbing out,,maryville,59.0,30.0
+jumper,missed,maryville,49.0,20.0
+jumper,missed,maryville,36.0,17.0
+defensive rebound,,Centre,,
+foul,,maryville,27.0,27.0
+subbing in,,maryville,25.0,25.0
+subbing out,,maryville,25.0,25.0
+free throw,good,Centre,22.0,22.0
+free throw,good,Centre,19.0,19.0
+three pointer,missed,maryville,13.0,13.0
+offensive rebound,,Centre,,
+jumper,good,maryville,9.0,9.0
+foul,,Centre,9.0,9.0
+free throw,missed,maryville,23.0,23.0
+defensive rebound,,Centre,,
