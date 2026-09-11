@@ -1,0 +1,499 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+turnover,,Centre,1183.0,13.0
+turnover,,Centre,1174.0,21.0
+steal,,rhodes college,1156.0,12.0
+layup,good,rhodes college,1155.0,29.0
+three pointer,good,Centre,1149.0,24.0
+assist,,Centre,,
+jumper,missed,rhodes college,1123.0,4.0
+defensive rebound,,Centre,,
+foul,,rhodes college,1123.0,30.0
+jumper,missed,Centre,1110.0,17.0
+defensive rebound,,rhodes college,,
+turnover,,rhodes college,1092.0,12.0
+layup,good,Centre,1055.0,23.0
+assist,,Centre,,
+three pointer,missed,rhodes college,1034.0,9.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,1024.0,20.0
+defensive rebound,,rhodes college,,
+turnover,,rhodes college,1012.0,18.0
+subbing in,,rhodes college,1012.0,30.0
+subbing in,,rhodes college,1012.0,30.0
+subbing out,,rhodes college,1012.0,30.0
+subbing out,,rhodes college,1012.0,30.0
+jumper,missed,Centre,996.0,14.0
+defensive rebound,,rhodes college,,
+three pointer,missed,rhodes college,985.0,19.0
+defensive rebound,,Centre,,
+layup,good,Centre,978.0,23.0
+three pointer,missed,rhodes college,964.0,16.0
+defensive rebound,,Centre,,
+layup,good,Centre,938.0,4.0
+assist,,Centre,,
+jumper,missed,rhodes college,917.0,9.0
+offensive rebound,,rhodes college,,
+jumper,missed,rhodes college,917.0,30.0
+block,,Centre,917.0,30.0
+offensive rebound,,Centre,,
+subbing in,,rhodes college,917.0,30.0
+subbing out,,rhodes college,917.0,30.0
+subbing in,,Centre,917.0,30.0
+subbing in,,Centre,917.0,30.0
+subbing in,,Centre,917.0,30.0
+subbing in,,Centre,917.0,30.0
+subbing out,,Centre,917.0,30.0
+subbing out,,Centre,917.0,30.0
+subbing out,,Centre,917.0,30.0
+subbing out,,Centre,917.0,30.0
+jumper,missed,rhodes college,914.0,27.0
+defensive rebound,,Centre,,
+layup,good,Centre,895.0,11.0
+foul,,rhodes college,895.0,30.0
+free throw,good,Centre,895.0,30.0
+foul,,Centre,884.0,19.0
+foul,,Centre,867.0,13.0
+free throw,missed,rhodes college,867.0,30.0
+deadball rebound,,Centre,,
+free throw,good,rhodes college,867.0,30.0
+jumper,missed,Centre,847.0,10.0
+block,,rhodes college,847.0,10.0
+offensive rebound,,Centre,,
+three pointer,good,Centre,836.0,29.0
+assist,,Centre,,
+three pointer,good,rhodes college,821.0,15.0
+assist,,rhodes college,,
+three pointer,good,Centre,804.0,13.0
+assist,,Centre,,
+foul,,Centre,784.0,10.0
+subbing in,,Centre,784.0,30.0
+subbing in,,Centre,784.0,30.0
+subbing out,,Centre,784.0,30.0
+subbing out,,Centre,784.0,30.0
+three pointer,good,rhodes college,775.0,21.0
+assist,,rhodes college,,
+foul,,rhodes college,758.0,13.0
+subbing in,,rhodes college,758.0,30.0
+subbing out,,rhodes college,758.0,30.0
+layup,good,Centre,747.0,19.0
+three pointer,missed,rhodes college,726.0,9.0
+offensive rebound,,Centre,,
+subbing in,,Centre,724.0,28.0
+subbing out,,Centre,724.0,28.0
+turnover,,rhodes college,714.0,18.0
+steal,,Centre,712.0,28.0
+jumper,missed,Centre,709.0,27.0
+defensive rebound,,rhodes college,,
+foul,,Centre,709.0,30.0
+subbing in,,rhodes college,709.0,30.0
+subbing out,,rhodes college,709.0,30.0
+layup,good,rhodes college,683.0,4.0
+foul,,rhodes college,663.0,10.0
+subbing in,,rhodes college,663.0,30.0
+subbing out,,rhodes college,663.0,30.0
+subbing in,,Centre,663.0,30.0
+subbing out,,Centre,663.0,30.0
+jumper,missed,Centre,662.0,29.0
+defensive rebound,,rhodes college,,
+foul,,Centre,659.0,27.0
+foul,,Centre,653.0,24.0
+three pointer,missed,rhodes college,645.0,22.0
+defensive rebound,,Centre,,
+foul,,rhodes college,613.0,28.0
+free throw,good,Centre,613.0,30.0
+free throw,good,Centre,613.0,30.0
+subbing in,,rhodes college,613.0,30.0
+subbing in,,rhodes college,613.0,30.0
+subbing out,,rhodes college,613.0,30.0
+subbing out,,rhodes college,613.0,30.0
+subbing in,,Centre,613.0,30.0
+subbing in,,Centre,613.0,30.0
+subbing out,,Centre,613.0,30.0
+subbing out,,Centre,613.0,30.0
+foul,,Centre,607.0,24.0
+free throw,good,rhodes college,607.0,30.0
+free throw,good,rhodes college,607.0,30.0
+subbing in,,rhodes college,607.0,30.0
+subbing out,,rhodes college,607.0,30.0
+three pointer,good,Centre,601.0,24.0
+assist,,Centre,,
+turnover,,rhodes college,586.0,15.0
+steal,,Centre,584.0,28.0
+turnover,,Centre,557.0,3.0
+steal,,rhodes college,556.0,29.0
+layup,good,rhodes college,552.0,26.0
+foul,,rhodes college,525.0,3.0
+free throw,good,Centre,518.0,30.0
+free throw,good,Centre,518.0,30.0
+subbing in,,rhodes college,518.0,30.0
+subbing out,,rhodes college,518.0,30.0
+subbing in,,Centre,518.0,30.0
+subbing in,,Centre,518.0,30.0
+subbing in,,Centre,518.0,30.0
+subbing out,,Centre,518.0,30.0
+subbing out,,Centre,518.0,30.0
+subbing out,,Centre,518.0,30.0
+jumper,missed,rhodes college,512.0,17.0
+offensive rebound,,rhodes college,,
+jumper,good,rhodes college,508.0,26.0
+layup,good,Centre,484.0,6.0
+three pointer,missed,rhodes college,469.0,15.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,446.0,7.0
+offensive rebound,,Centre,,
+turnover,,Centre,438.0,22.0
+steal,,rhodes college,438.0,30.0
+three pointer,good,rhodes college,417.0,9.0
+assist,,rhodes college,,
+turnover,,Centre,393.0,6.0
+steal,,rhodes college,391.0,28.0
+jumper,missed,rhodes college,379.0,18.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,360.0,11.0
+offensive rebound,,Centre,,
+layup,good,Centre,356.0,26.0
+turnover,,rhodes college,349.0,23.0
+steal,,Centre,349.0,30.0
+foul,,rhodes college,349.0,30.0
+timeout,,Centre,349.0,30.0
+free throw,good,Centre,349.0,30.0
+free throw,good,Centre,349.0,30.0
+subbing in,,rhodes college,349.0,30.0
+subbing in,,rhodes college,349.0,30.0
+subbing out,,rhodes college,349.0,30.0
+subbing out,,rhodes college,349.0,30.0
+subbing in,,Centre,349.0,30.0
+subbing in,,Centre,349.0,30.0
+subbing in,,Centre,349.0,30.0
+subbing out,,Centre,349.0,30.0
+subbing out,,Centre,349.0,30.0
+subbing out,,Centre,349.0,30.0
+jumper,missed,rhodes college,334.0,15.0
+block,,Centre,334.0,30.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,326.0,22.0
+assist,,Centre,,
+three pointer,missed,rhodes college,310.0,14.0
+defensive rebound,,Centre,,
+layup,missed,Centre,301.0,21.0
+defensive rebound,,rhodes college,,
+jumper,missed,rhodes college,278.0,7.0
+defensive rebound,,Centre,,
+layup,good,Centre,261.0,13.0
+jumper,missed,rhodes college,244.0,13.0
+defensive rebound,,Centre,,
+jumper,good,Centre,231.0,17.0
+timeout,,Centre,229.0,28.0
+subbing in,,rhodes college,229.0,28.0
+subbing in,,rhodes college,229.0,28.0
+subbing in,,rhodes college,229.0,28.0
+subbing out,,rhodes college,229.0,28.0
+subbing out,,rhodes college,229.0,28.0
+subbing out,,rhodes college,229.0,28.0
+subbing in,,Centre,229.0,28.0
+subbing out,,Centre,229.0,28.0
+turnover,,rhodes college,207.0,6.0
+jumper,missed,Centre,183.0,6.0
+block,,rhodes college,183.0,6.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,175.0,28.0
+offensive rebound,,Centre,,
+turnover,,Centre,175.0,30.0
+foul,,Centre,155.0,10.0
+free throw,good,rhodes college,155.0,30.0
+free throw,missed,rhodes college,155.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,155.0,30.0
+subbing out,,Centre,155.0,30.0
+foul,,rhodes college,128.0,3.0
+free throw,good,Centre,128.0,30.0
+free throw,good,Centre,128.0,30.0
+subbing in,,rhodes college,128.0,30.0
+subbing out,,rhodes college,128.0,30.0
+subbing in,,Centre,128.0,30.0
+subbing in,,Centre,128.0,30.0
+subbing out,,Centre,128.0,30.0
+subbing out,,Centre,128.0,30.0
+turnover,,rhodes college,122.0,24.0
+steal,,Centre,120.0,28.0
+turnover,,Centre,112.0,22.0
+jumper,missed,rhodes college,94.0,12.0
+offensive rebound,,rhodes college,,
+jumper,missed,rhodes college,85.0,21.0
+defensive rebound,,Centre,,
+turnover,,Centre,56.0,1.0
+subbing in,,Centre,56.0,30.0
+subbing out,,Centre,56.0,30.0
+three pointer,missed,rhodes college,34.0,8.0
+offensive rebound,,rhodes college,,
+foul,,Centre,7.0,7.0
+free throw,good,rhodes college,7.0,7.0
+free throw,missed,rhodes college,7.0,7.0
+defensive rebound,,Centre,,
+layup,good,Centre,0.0,0.0
+,,,,
+subbing in,,rhodes college,1200.0,30.0
+subbing out,,rhodes college,1200.0,30.0
+jumper,good,Centre,1194.0,24.0
+jumper,missed,rhodes college,1184.0,20.0
+defensive rebound,,Centre,,
+turnover,,Centre,1182.0,28.0
+three pointer,missed,rhodes college,1170.0,18.0
+defensive rebound,,Centre,,
+foul,,rhodes college,1168.0,28.0
+three pointer,missed,Centre,1152.0,14.0
+defensive rebound,,rhodes college,,
+three pointer,missed,rhodes college,1135.0,13.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,1127.0,22.0
+block,,rhodes college,1127.0,30.0
+defensive rebound,,rhodes college,,
+foul,,Centre,1111.0,14.0
+free throw,good,rhodes college,1111.0,30.0
+free throw,good,rhodes college,1111.0,30.0
+subbing in,,Centre,1111.0,30.0
+subbing out,,Centre,1111.0,30.0
+jumper,missed,Centre,1080.0,29.0
+defensive rebound,,rhodes college,,
+three pointer,missed,rhodes college,1058.0,8.0
+offensive rebound,,rhodes college,,
+three pointer,missed,rhodes college,1051.0,23.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,1019.0,28.0
+defensive rebound,,rhodes college,,
+turnover,,rhodes college,1015.0,26.0
+timeout,,Centre,1015.0,30.0
+subbing in,,Centre,1015.0,30.0
+subbing in,,Centre,1015.0,30.0
+subbing out,,Centre,1015.0,30.0
+subbing out,,Centre,1015.0,30.0
+jumper,missed,Centre,1003.0,18.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,998.0,25.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,993.0,25.0
+offensive rebound,,Centre,,
+subbing in,,rhodes college,992.0,29.0
+subbing out,,rhodes college,992.0,29.0
+turnover,,Centre,988.0,25.0
+steal,,rhodes college,986.0,28.0
+layup,good,rhodes college,978.0,22.0
+assist,,rhodes college,,
+turnover,,Centre,960.0,12.0
+steal,,rhodes college,958.0,28.0
+foul,,Centre,954.0,26.0
+subbing in,,rhodes college,954.0,30.0
+subbing out,,rhodes college,954.0,30.0
+three pointer,missed,rhodes college,940.0,16.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,929.0,19.0
+defensive rebound,,Centre,,
+subbing in,,Centre,925.0,26.0
+subbing in,,Centre,925.0,26.0
+subbing in,,Centre,925.0,26.0
+subbing out,,Centre,925.0,26.0
+subbing out,,Centre,925.0,26.0
+subbing out,,Centre,925.0,26.0
+jumper,good,rhodes college,907.0,8.0
+foul,,Centre,907.0,30.0
+free throw,missed,rhodes college,907.0,30.0
+defensive rebound,,Centre,,
+foul,,rhodes college,905.0,28.0
+layup,good,Centre,880.0,5.0
+subbing in,,rhodes college,875.0,25.0
+subbing out,,rhodes college,875.0,25.0
+three pointer,missed,rhodes college,871.0,21.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,842.0,1.0
+offensive rebound,,Centre,,
+foul,,rhodes college,837.0,25.0
+turnover,,Centre,837.0,30.0
+steal,,rhodes college,837.0,30.0
+subbing in,,rhodes college,837.0,30.0
+subbing in,,rhodes college,837.0,30.0
+subbing out,,rhodes college,837.0,30.0
+subbing out,,rhodes college,837.0,30.0
+subbing out,,rhodes college,837.0,30.0
+three pointer,missed,rhodes college,830.0,23.0
+offensive rebound,,rhodes college,,
+foul,,Centre,815.0,15.0
+free throw,good,rhodes college,809.0,30.0
+free throw,missed,rhodes college,809.0,30.0
+defensive rebound,,Centre,,
+foul,,rhodes college,794.0,9.0
+subbing in,,rhodes college,794.0,30.0
+subbing out,,rhodes college,794.0,30.0
+subbing in,,Centre,794.0,30.0
+subbing in,,Centre,794.0,30.0
+subbing in,,Centre,794.0,30.0
+subbing out,,Centre,794.0,30.0
+subbing out,,Centre,794.0,30.0
+subbing out,,Centre,794.0,30.0
+jumper,good,Centre,763.0,29.0
+jumper,good,rhodes college,755.0,22.0
+assist,,rhodes college,,
+timeout,,Centre,755.0,30.0
+subbing in,,rhodes college,755.0,30.0
+layup,missed,Centre,741.0,16.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,739.0,28.0
+block,,rhodes college,739.0,28.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,732.0,21.0
+defensive rebound,,rhodes college,,
+layup,missed,rhodes college,720.0,18.0
+offensive rebound,,Centre,,
+subbing in,,rhodes college,719.0,29.0
+subbing out,,rhodes college,719.0,29.0
+three pointer,good,rhodes college,712.0,22.0
+assist,,rhodes college,,
+turnover,,Centre,679.0,27.0
+timeout,,Centre,679.0,30.0
+subbing in,,rhodes college,679.0,30.0
+subbing out,,rhodes college,679.0,30.0
+subbing in,,Centre,679.0,30.0
+subbing out,,Centre,679.0,30.0
+three pointer,missed,rhodes college,668.0,19.0
+offensive rebound,,rhodes college,,
+layup,missed,rhodes college,657.0,19.0
+defensive rebound,,Centre,,
+foul,,rhodes college,650.0,23.0
+foul,,Centre,626.0,6.0
+turnover,,Centre,626.0,30.0
+subbing in,,rhodes college,624.0,28.0
+subbing out,,rhodes college,624.0,28.0
+jumper,missed,rhodes college,609.0,13.0
+defensive rebound,,Centre,,
+foul,,rhodes college,607.0,28.0
+three pointer,missed,Centre,582.0,5.0
+defensive rebound,,rhodes college,,
+foul,,Centre,580.0,28.0
+jumper,missed,rhodes college,565.0,15.0
+defensive rebound,,Centre,,
+foul,,rhodes college,562.0,27.0
+free throw,missed,Centre,562.0,30.0
+defensive rebound,,rhodes college,,
+subbing in,,Centre,562.0,30.0
+subbing out,,Centre,562.0,30.0
+three pointer,missed,rhodes college,544.0,12.0
+defensive rebound,,Centre,,
+turnover,,Centre,540.0,26.0
+steal,,rhodes college,540.0,30.0
+subbing in,,rhodes college,540.0,30.0
+subbing out,,rhodes college,540.0,30.0
+subbing in,,Centre,540.0,30.0
+subbing out,,Centre,540.0,30.0
+three pointer,good,rhodes college,531.0,21.0
+assist,,rhodes college,,
+jumper,missed,Centre,497.0,26.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,490.0,23.0
+offensive rebound,,Centre,,
+three pointer,good,Centre,476.0,16.0
+assist,,Centre,,
+three pointer,missed,rhodes college,462.0,16.0
+offensive rebound,,rhodes college,,
+jumper,good,rhodes college,453.0,21.0
+timeout,,Centre,451.0,28.0
+foul,,rhodes college,426.0,3.0
+free throw,good,Centre,426.0,30.0
+free throw,good,Centre,426.0,30.0
+subbing in,,rhodes college,426.0,30.0
+subbing out,,rhodes college,426.0,30.0
+jumper,good,rhodes college,416.0,20.0
+layup,missed,Centre,394.0,8.0
+defensive rebound,,rhodes college,,
+three pointer,missed,rhodes college,382.0,18.0
+defensive rebound,,Centre,,
+foul,,Centre,373.0,21.0
+turnover,,Centre,373.0,30.0
+three pointer,good,rhodes college,364.0,21.0
+assist,,rhodes college,,
+foul,,rhodes college,331.0,27.0
+free throw,missed,Centre,331.0,30.0
+defensive rebound,,rhodes college,,
+jumper,missed,rhodes college,314.0,13.0
+defensive rebound,,Centre,,
+foul,,rhodes college,308.0,24.0
+free throw,good,Centre,308.0,30.0
+free throw,missed,Centre,308.0,30.0
+deadball rebound,,Centre,,
+timeout,,Centre,308.0,30.0
+subbing in,,rhodes college,308.0,30.0
+subbing out,,rhodes college,308.0,30.0
+subbing in,,Centre,308.0,30.0
+subbing in,,Centre,308.0,30.0
+subbing in,,Centre,308.0,30.0
+subbing out,,Centre,308.0,30.0
+subbing out,,Centre,308.0,30.0
+subbing out,,Centre,308.0,30.0
+jumper,good,Centre,303.0,25.0
+assist,,Centre,,
+three pointer,missed,rhodes college,295.0,22.0
+defensive rebound,,Centre,,
+turnover,,Centre,285.0,20.0
+steal,,rhodes college,284.0,29.0
+foul,,Centre,278.0,24.0
+free throw,good,rhodes college,278.0,30.0
+free throw,missed,rhodes college,278.0,30.0
+defensive rebound,,Centre,,
+subbing in,,rhodes college,278.0,30.0
+subbing out,,rhodes college,278.0,30.0
+layup,good,Centre,261.0,13.0
+three pointer,missed,rhodes college,250.0,19.0
+defensive rebound,,Centre,,
+foul,,rhodes college,244.0,24.0
+free throw,good,Centre,244.0,30.0
+free throw,good,Centre,244.0,30.0
+subbing in,,rhodes college,244.0,30.0
+subbing out,,rhodes college,244.0,30.0
+layup,good,rhodes college,235.0,21.0
+foul,,rhodes college,210.0,5.0
+free throw,good,Centre,210.0,30.0
+free throw,good,Centre,210.0,30.0
+subbing in,,rhodes college,210.0,30.0
+subbing out,,rhodes college,210.0,30.0
+three pointer,missed,rhodes college,202.0,22.0
+block,,Centre,202.0,22.0
+offensive rebound,,rhodes college,,
+three pointer,missed,rhodes college,194.0,14.0
+offensive rebound,,rhodes college,,
+jumper,good,rhodes college,193.0,29.0
+foul,,Centre,193.0,30.0
+free throw,good,rhodes college,193.0,30.0
+subbing in,,Centre,193.0,30.0
+subbing in,,Centre,193.0,30.0
+subbing out,,Centre,193.0,30.0
+subbing out,,Centre,193.0,30.0
+jumper,missed,Centre,163.0,0.0
+defensive rebound,,rhodes college,,
+foul,,Centre,163.0,30.0
+free throw,good,rhodes college,163.0,30.0
+free throw,good,rhodes college,163.0,30.0
+timeout,,Centre,163.0,30.0
+turnover,,Centre,144.0,11.0
+steal,,rhodes college,143.0,29.0
+jumper,missed,rhodes college,138.0,25.0
+block,,Centre,138.0,30.0
+defensive rebound,,Centre,,
+layup,good,Centre,111.0,3.0
+three pointer,missed,rhodes college,97.0,16.0
+defensive rebound,,Centre,,
+foul,,rhodes college,65.0,28.0
+free throw,good,Centre,65.0,30.0
+free throw,missed,Centre,65.0,30.0
+defensive rebound,,rhodes college,,
+subbing in,,Centre,65.0,30.0
+subbing out,,Centre,65.0,30.0
+foul,,Centre,58.0,23.0
+free throw,good,rhodes college,58.0,30.0
+free throw,missed,rhodes college,58.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,42.0,14.0
+three pointer,good,rhodes college,33.0,21.0
+assist,,rhodes college,,
+three pointer,missed,Centre,9.0,9.0
+defensive rebound,,rhodes college,,
+three pointer,missed,rhodes college,2.0,2.0
+defensive rebound,,Centre,,

@@ -1,0 +1,563 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+turnover,,birmingham-southern,1188.0,18.0
+steal,,Centre,1186.0,28.0
+layup,missed,Centre,1177.0,21.0
+defensive rebound,,birmingham-southern,,
+three pointer,missed,birmingham-southern,1160.0,13.0
+defensive rebound,,Centre,,
+layup,missed,Centre,1141.0,11.0
+block,,birmingham-southern,1141.0,30.0
+defensive rebound,,Centre,,
+jumper,missed,birmingham-southern,1141.0,30.0
+defensive rebound,,Centre,,
+layup,good,Centre,1141.0,30.0
+layup,missed,birmingham-southern,1055.0,-26.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,1055.0,30.0
+defensive rebound,,birmingham-southern,,
+turnover,,birmingham-southern,1032.0,7.0
+steal,,Centre,1031.0,29.0
+layup,good,Centre,1020.0,19.0
+jumper,good,birmingham-southern,1004.0,14.0
+foul,,birmingham-southern,989.0,15.0
+three pointer,missed,Centre,986.0,27.0
+defensive rebound,,birmingham-southern,,
+jumper,missed,birmingham-southern,974.0,18.0
+offensive rebound,,birmingham-southern,,
+jumper,good,birmingham-southern,968.0,24.0
+assist,,birmingham-southern,,
+three pointer,good,Centre,949.0,11.0
+assist,,Centre,,
+jumper,good,birmingham-southern,924.0,5.0
+layup,good,Centre,916.0,22.0
+assist,,Centre,,
+foul,,Centre,902.0,16.0
+subbing in,,Centre,902.0,30.0
+subbing in,,Centre,902.0,30.0
+subbing out,,Centre,902.0,30.0
+subbing out,,Centre,902.0,30.0
+subbing in,,birmingham-southern,902.0,30.0
+subbing in,,birmingham-southern,902.0,30.0
+subbing out,,birmingham-southern,902.0,30.0
+subbing out,,birmingham-southern,902.0,30.0
+foul,,Centre,896.0,24.0
+free throw,good,birmingham-southern,896.0,30.0
+free throw,good,birmingham-southern,896.0,30.0
+turnover,,Centre,875.0,9.0
+steal,,birmingham-southern,874.0,29.0
+jumper,missed,birmingham-southern,869.0,25.0
+defensive rebound,,Centre,,
+foul,,birmingham-southern,860.0,21.0
+free throw,good,Centre,860.0,30.0
+free throw,good,Centre,860.0,30.0
+subbing in,,Centre,860.0,30.0
+subbing out,,Centre,860.0,30.0
+subbing in,,birmingham-southern,860.0,30.0
+subbing in,,birmingham-southern,860.0,30.0
+subbing out,,birmingham-southern,860.0,30.0
+subbing out,,birmingham-southern,860.0,30.0
+turnover,,birmingham-southern,851.0,21.0
+steal,,Centre,844.0,23.0
+turnover,,Centre,840.0,26.0
+turnover,,birmingham-southern,828.0,18.0
+three pointer,missed,Centre,817.0,19.0
+defensive rebound,,birmingham-southern,,
+layup,missed,birmingham-southern,800.0,13.0
+defensive rebound,,Centre,,
+layup,missed,Centre,780.0,10.0
+block,,birmingham-southern,780.0,30.0
+defensive rebound,,birmingham-southern,,
+three pointer,missed,birmingham-southern,771.0,21.0
+offensive rebound,,birmingham-southern,,
+foul,,Centre,770.0,29.0
+free throw,good,birmingham-southern,770.0,30.0
+free throw,good,birmingham-southern,770.0,30.0
+subbing in,,Centre,770.0,30.0
+subbing in,,Centre,770.0,30.0
+subbing in,,Centre,770.0,30.0
+subbing out,,Centre,770.0,30.0
+subbing out,,Centre,770.0,30.0
+subbing out,,Centre,770.0,30.0
+foul,,birmingham-southern,755.0,15.0
+layup,good,Centre,754.0,29.0
+assist,,Centre,,
+foul,,birmingham-southern,753.0,29.0
+free throw,good,Centre,753.0,30.0
+layup,good,birmingham-southern,752.0,29.0
+foul,,birmingham-southern,735.0,13.0
+free throw,good,Centre,735.0,30.0
+free throw,good,Centre,735.0,30.0
+jumper,missed,birmingham-southern,726.0,21.0
+offensive rebound,,birmingham-southern,,
+foul,,Centre,726.0,30.0
+subbing in,,Centre,726.0,30.0
+subbing out,,Centre,726.0,30.0
+jumper,good,birmingham-southern,713.0,17.0
+layup,good,Centre,695.0,12.0
+assist,,Centre,,
+turnover,,birmingham-southern,682.0,17.0
+steal,,Centre,679.0,27.0
+layup,missed,Centre,676.0,27.0
+defensive rebound,,birmingham-southern,,
+jumper,missed,birmingham-southern,664.0,18.0
+defensive rebound,,Centre,,
+subbing in,,Centre,660.0,26.0
+subbing out,,Centre,660.0,26.0
+subbing in,,birmingham-southern,660.0,26.0
+subbing in,,birmingham-southern,660.0,26.0
+subbing in,,birmingham-southern,660.0,26.0
+subbing in,,birmingham-southern,660.0,26.0
+subbing out,,birmingham-southern,660.0,26.0
+subbing out,,birmingham-southern,660.0,26.0
+subbing out,,birmingham-southern,660.0,26.0
+subbing out,,birmingham-southern,660.0,26.0
+jumper,missed,Centre,652.0,18.0
+defensive rebound,,birmingham-southern,,
+subbing in,,birmingham-southern,647.0,25.0
+subbing out,,birmingham-southern,647.0,25.0
+layup,missed,birmingham-southern,645.0,23.0
+defensive rebound,,Centre,,
+foul,,birmingham-southern,623.0,8.0
+jumper,missed,Centre,620.0,27.0
+defensive rebound,,birmingham-southern,,
+foul,,Centre,608.0,18.0
+free throw,good,birmingham-southern,608.0,30.0
+free throw,good,birmingham-southern,608.0,30.0
+turnover,,Centre,595.0,17.0
+steal,,birmingham-southern,593.0,28.0
+layup,missed,birmingham-southern,588.0,25.0
+defensive rebound,,Centre,,
+subbing in,,birmingham-southern,583.0,25.0
+subbing out,,birmingham-southern,583.0,25.0
+foul,,birmingham-southern,570.0,12.0
+timeout,,Centre,570.0,30.0
+free throw,good,Centre,570.0,30.0
+free throw,missed,Centre,570.0,30.0
+defensive rebound,,birmingham-southern,,
+subbing in,,Centre,570.0,30.0
+subbing in,,Centre,570.0,30.0
+subbing out,,Centre,570.0,30.0
+subbing out,,Centre,570.0,30.0
+subbing out,,Centre,570.0,30.0
+subbing out,,Centre,570.0,30.0
+subbing in,,birmingham-southern,570.0,30.0
+subbing out,,birmingham-southern,570.0,30.0
+jumper,missed,birmingham-southern,559.0,19.0
+block,,Centre,559.0,30.0
+defensive rebound,,Centre,,
+layup,missed,Centre,548.0,19.0
+offensive rebound,,Centre,,
+layup,good,Centre,545.0,27.0
+foul,,birmingham-southern,544.0,29.0
+free throw,good,Centre,544.0,30.0
+subbing in,,birmingham-southern,544.0,30.0
+subbing out,,birmingham-southern,544.0,30.0
+three pointer,good,birmingham-southern,529.0,15.0
+assist,,birmingham-southern,,
+foul,,Centre,510.0,11.0
+turnover,,Centre,510.0,30.0
+subbing in,,birmingham-southern,510.0,30.0
+subbing out,,birmingham-southern,510.0,30.0
+turnover,,birmingham-southern,508.0,28.0
+subbing in,,Centre,507.0,29.0
+subbing out,,Centre,507.0,29.0
+jumper,good,Centre,497.0,19.0
+assist,,Centre,,
+jumper,good,birmingham-southern,479.0,12.0
+jumper,missed,Centre,471.0,22.0
+defensive rebound,,birmingham-southern,,
+foul,,birmingham-southern,463.0,22.0
+turnover,,birmingham-southern,463.0,30.0
+subbing in,,Centre,463.0,30.0
+subbing out,,Centre,463.0,30.0
+subbing in,,birmingham-southern,463.0,30.0
+subbing out,,birmingham-southern,463.0,30.0
+turnover,,Centre,448.0,15.0
+jumper,good,birmingham-southern,435.0,17.0
+assist,,birmingham-southern,,
+layup,good,Centre,423.0,18.0
+assist,,Centre,,
+turnover,,birmingham-southern,412.0,19.0
+steal,,Centre,412.0,30.0
+turnover,,Centre,412.0,30.0
+timeout,,Centre,411.0,29.0
+subbing in,,Centre,411.0,29.0
+layup,missed,birmingham-southern,401.0,19.0
+defensive rebound,,Centre,,
+layup,good,Centre,393.0,22.0
+assist,,Centre,,
+foul,,Centre,388.0,25.0
+free throw,good,birmingham-southern,388.0,30.0
+free throw,good,birmingham-southern,388.0,30.0
+subbing in,,birmingham-southern,388.0,30.0
+subbing out,,birmingham-southern,388.0,30.0
+layup,missed,Centre,373.0,15.0
+defensive rebound,,birmingham-southern,,
+jumper,good,birmingham-southern,360.0,17.0
+turnover,,Centre,345.0,15.0
+steal,,birmingham-southern,342.0,27.0
+layup,good,birmingham-southern,336.0,24.0
+assist,,birmingham-southern,,
+timeout,,Centre,334.0,28.0
+layup,missed,Centre,326.0,20.0
+block,,birmingham-southern,326.0,30.0
+defensive rebound,,birmingham-southern,,
+turnover,,birmingham-southern,320.0,24.0
+foul,,birmingham-southern,320.0,30.0
+layup,missed,Centre,306.0,16.0
+block,,birmingham-southern,306.0,16.0
+offensive rebound,,Centre,,
+layup,missed,Centre,305.0,15.0
+defensive rebound,,birmingham-southern,,
+foul,,Centre,304.0,29.0
+free throw,good,birmingham-southern,304.0,30.0
+free throw,missed,birmingham-southern,304.0,30.0
+defensive rebound,,Centre,,
+layup,good,Centre,282.0,8.0
+assist,,Centre,,
+three pointer,missed,birmingham-southern,267.0,15.0
+offensive rebound,,birmingham-southern,,
+foul,,Centre,262.0,25.0
+free throw,missed,birmingham-southern,262.0,30.0
+offensive rebound,,birmingham-southern,,
+subbing in,,Centre,262.0,30.0
+subbing in,,Centre,262.0,30.0
+subbing out,,Centre,262.0,30.0
+subbing out,,Centre,262.0,30.0
+subbing in,,birmingham-southern,262.0,30.0
+subbing out,,birmingham-southern,262.0,30.0
+turnover,,birmingham-southern,253.0,21.0
+foul,,birmingham-southern,242.0,19.0
+free throw,good,Centre,242.0,30.0
+free throw,good,Centre,242.0,30.0
+turnover,,birmingham-southern,233.0,21.0
+steal,,Centre,229.0,26.0
+turnover,,Centre,215.0,16.0
+steal,,birmingham-southern,215.0,30.0
+foul,,Centre,207.0,22.0
+free throw,missed,birmingham-southern,207.0,30.0
+deadball rebound,,Centre,,
+free throw,good,birmingham-southern,207.0,30.0
+subbing in,,Centre,207.0,30.0
+subbing out,,Centre,207.0,30.0
+foul,,Centre,195.0,18.0
+turnover,,Centre,195.0,30.0
+foul,,Centre,182.0,17.0
+free throw,good,birmingham-southern,182.0,30.0
+free throw,good,birmingham-southern,182.0,30.0
+layup,good,Centre,171.0,19.0
+three pointer,good,birmingham-southern,155.0,14.0
+assist,,birmingham-southern,,
+jumper,missed,Centre,141.0,16.0
+defensive rebound,,birmingham-southern,,
+layup,missed,birmingham-southern,132.0,21.0
+defensive rebound,,Centre,,
+foul,,Centre,126.0,24.0
+turnover,,Centre,126.0,30.0
+subbing in,,Centre,126.0,30.0
+subbing out,,Centre,126.0,30.0
+subbing in,,birmingham-southern,126.0,30.0
+subbing out,,birmingham-southern,126.0,30.0
+foul,,Centre,120.0,24.0
+free throw,good,birmingham-southern,120.0,30.0
+free throw,good,birmingham-southern,120.0,30.0
+subbing in,,Centre,120.0,30.0
+subbing out,,Centre,120.0,30.0
+turnover,,Centre,115.0,25.0
+subbing in,,birmingham-southern,115.0,30.0
+subbing out,,birmingham-southern,115.0,30.0
+layup,missed,birmingham-southern,102.0,17.0
+offensive rebound,,Centre,,
+layup,good,birmingham-southern,99.0,27.0
+assist,,birmingham-southern,,
+layup,missed,Centre,78.0,9.0
+block,,birmingham-southern,78.0,9.0
+offensive rebound,,Centre,,
+layup,missed,Centre,73.0,4.0
+defensive rebound,,birmingham-southern,,
+three pointer,missed,birmingham-southern,66.0,23.0
+defensive rebound,,Centre,,
+foul,,Centre,52.0,16.0
+foul,,Centre,31.0,9.0
+free throw,good,birmingham-southern,31.0,30.0
+free throw,missed,birmingham-southern,31.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,31.0,30.0
+foul,,birmingham-southern,13.0,13.0
+free throw,missed,Centre,13.0,13.0
+deadball rebound,,Centre,,
+free throw,good,Centre,13.0,13.0
+turnover,,birmingham-southern,6.0,6.0
+steal,,Centre,4.0,4.0
+jumper,good,Centre,1.0,1.0
+,,,,
+three pointer,missed,Centre,1173.0,1172.0
+defensive rebound,,birmingham-southern,,
+jumper,missed,birmingham-southern,1152.0,9.0
+block,,Centre,1152.0,9.0
+offensive rebound,,Centre,,
+turnover,,birmingham-southern,1150.0,7.0
+jumper,missed,Centre,1136.0,16.0
+defensive rebound,,birmingham-southern,,
+layup,missed,birmingham-southern,1122.0,16.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,1111.0,19.0
+offensive rebound,,Centre,,
+jumper,good,Centre,1100.0,19.0
+assist,,Centre,,
+three pointer,good,birmingham-southern,1084.0,14.0
+assist,,birmingham-southern,,
+layup,good,Centre,1066.0,12.0
+assist,,Centre,,
+turnover,,birmingham-southern,1049.0,13.0
+steal,,Centre,1046.0,27.0
+layup,missed,Centre,1026.0,10.0
+offensive rebound,,Centre,,
+foul,,birmingham-southern,1020.0,24.0
+free throw,good,Centre,1020.0,30.0
+free throw,good,Centre,1020.0,30.0
+subbing in,,birmingham-southern,1020.0,30.0
+subbing out,,birmingham-southern,1020.0,30.0
+foul,,Centre,994.0,4.0
+free throw,missed,birmingham-southern,994.0,30.0
+deadball rebound,,Centre,,
+free throw,good,birmingham-southern,994.0,30.0
+free throw,missed,birmingham-southern,994.0,30.0
+offensive rebound,,birmingham-southern,,
+subbing in,,Centre,994.0,30.0
+subbing out,,Centre,994.0,30.0
+layup,good,birmingham-southern,992.0,28.0
+layup,good,Centre,971.0,9.0
+assist,,Centre,,
+foul,,birmingham-southern,958.0,17.0
+turnover,,birmingham-southern,958.0,30.0
+jumper,good,Centre,949.0,21.0
+three pointer,missed,birmingham-southern,932.0,13.0
+defensive rebound,,Centre,,
+layup,good,Centre,921.0,19.0
+foul,,birmingham-southern,921.0,30.0
+free throw,good,Centre,921.0,30.0
+subbing in,,birmingham-southern,921.0,30.0
+subbing in,,birmingham-southern,921.0,30.0
+subbing out,,birmingham-southern,921.0,30.0
+subbing out,,birmingham-southern,921.0,30.0
+turnover,,birmingham-southern,907.0,16.0
+steal,,Centre,905.0,28.0
+layup,good,Centre,903.0,28.0
+assist,,Centre,,
+timeout,,Centre,895.0,22.0
+jumper,missed,birmingham-southern,877.0,4.0
+defensive rebound,,Centre,,
+layup,missed,Centre,862.0,15.0
+offensive rebound,,Centre,,
+turnover,,Centre,861.0,29.0
+subbing in,,birmingham-southern,861.0,30.0
+subbing in,,birmingham-southern,861.0,30.0
+subbing in,,birmingham-southern,861.0,30.0
+subbing out,,birmingham-southern,861.0,30.0
+subbing out,,birmingham-southern,861.0,30.0
+subbing out,,birmingham-southern,861.0,30.0
+layup,missed,birmingham-southern,852.0,21.0
+defensive rebound,,Centre,,
+turnover,,Centre,847.0,25.0
+foul,,Centre,844.0,27.0
+free throw,good,birmingham-southern,844.0,30.0
+free throw,good,birmingham-southern,844.0,30.0
+subbing in,,Centre,844.0,30.0
+subbing out,,Centre,844.0,30.0
+foul,,birmingham-southern,831.0,17.0
+layup,good,Centre,830.0,29.0
+assist,,Centre,,
+turnover,,birmingham-southern,810.0,10.0
+steal,,Centre,808.0,28.0
+jumper,good,Centre,804.0,26.0
+assist,,Centre,,
+turnover,,birmingham-southern,788.0,14.0
+steal,,Centre,787.0,29.0
+foul,,birmingham-southern,786.0,29.0
+free throw,good,Centre,786.0,30.0
+free throw,good,Centre,786.0,30.0
+subbing in,,birmingham-southern,786.0,30.0
+subbing in,,birmingham-southern,786.0,30.0
+subbing out,,birmingham-southern,786.0,30.0
+subbing out,,birmingham-southern,786.0,30.0
+jumper,good,birmingham-southern,777.0,21.0
+assist,,birmingham-southern,,
+jumper,missed,Centre,757.0,10.0
+block,,birmingham-southern,757.0,30.0
+defensive rebound,,birmingham-southern,,
+jumper,good,birmingham-southern,749.0,22.0
+foul,,Centre,749.0,30.0
+free throw,good,birmingham-southern,749.0,30.0
+subbing in,,Centre,749.0,30.0
+subbing out,,Centre,749.0,30.0
+jumper,good,Centre,730.0,11.0
+layup,good,birmingham-southern,706.0,6.0
+turnover,,Centre,699.0,23.0
+steal,,birmingham-southern,698.0,29.0
+jumper,good,birmingham-southern,683.0,15.0
+layup,missed,Centre,671.0,18.0
+block,,birmingham-southern,671.0,18.0
+offensive rebound,,Centre,,
+subbing in,,Centre,671.0,18.0
+subbing out,,Centre,671.0,18.0
+subbing in,,birmingham-southern,671.0,18.0
+subbing out,,birmingham-southern,671.0,18.0
+layup,missed,Centre,666.0,13.0
+defensive rebound,,Centre,,
+foul,,Centre,657.0,21.0
+subbing in,,Centre,657.0,30.0
+subbing in,,Centre,657.0,30.0
+subbing out,,Centre,657.0,30.0
+subbing out,,Centre,657.0,30.0
+three pointer,missed,birmingham-southern,655.0,28.0
+defensive rebound,,Centre,,
+layup,good,Centre,635.0,10.0
+assist,,Centre,,
+foul,,Centre,604.0,29.0
+free throw,good,birmingham-southern,604.0,30.0
+free throw,good,birmingham-southern,604.0,30.0
+timeout,,Centre,604.0,30.0
+subbing in,,Centre,604.0,30.0
+subbing out,,Centre,604.0,30.0
+layup,good,Centre,579.0,5.0
+assist,,Centre,,
+three pointer,missed,birmingham-southern,555.0,6.0
+defensive rebound,,Centre,,
+turnover,,Centre,551.0,26.0
+three pointer,missed,birmingham-southern,549.0,28.0
+defensive rebound,,Centre,,
+layup,missed,Centre,533.0,14.0
+offensive rebound,,Centre,,
+foul,,birmingham-southern,531.0,28.0
+subbing in,,birmingham-southern,531.0,30.0
+subbing in,,birmingham-southern,531.0,30.0
+subbing in,,birmingham-southern,531.0,30.0
+subbing out,,birmingham-southern,531.0,30.0
+subbing out,,birmingham-southern,531.0,30.0
+subbing out,,birmingham-southern,531.0,30.0
+layup,good,Centre,530.0,29.0
+assist,,Centre,,
+three pointer,missed,birmingham-southern,517.0,17.0
+defensive rebound,,Centre,,
+jumper,good,Centre,508.0,21.0
+assist,,Centre,,
+layup,missed,birmingham-southern,491.0,13.0
+defensive rebound,,Centre,,
+turnover,,Centre,480.0,19.0
+steal,,birmingham-southern,480.0,30.0
+timeout,,Centre,480.0,30.0
+jumper,missed,birmingham-southern,460.0,10.0
+defensive rebound,,Centre,,
+layup,good,Centre,445.0,15.0
+foul,,Centre,427.0,12.0
+free throw,good,birmingham-southern,427.0,30.0
+free throw,good,birmingham-southern,427.0,30.0
+subbing in,,Centre,427.0,30.0
+subbing out,,Centre,427.0,30.0
+layup,missed,Centre,415.0,18.0
+defensive rebound,,birmingham-southern,,
+foul,,Centre,407.0,22.0
+free throw,good,birmingham-southern,407.0,30.0
+free throw,good,birmingham-southern,407.0,30.0
+foul,,birmingham-southern,400.0,23.0
+free throw,good,Centre,400.0,30.0
+free throw,missed,Centre,400.0,30.0
+defensive rebound,,birmingham-southern,,
+turnover,,birmingham-southern,391.0,21.0
+steal,,Centre,390.0,29.0
+foul,,birmingham-southern,382.0,22.0
+free throw,good,Centre,382.0,30.0
+free throw,good,Centre,382.0,30.0
+subbing in,,birmingham-southern,382.0,30.0
+subbing out,,birmingham-southern,382.0,30.0
+jumper,missed,birmingham-southern,366.0,14.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,354.0,18.0
+assist,,Centre,,
+three pointer,missed,birmingham-southern,343.0,19.0
+offensive rebound,,birmingham-southern,,
+foul,,Centre,340.0,27.0
+free throw,good,birmingham-southern,340.0,30.0
+free throw,good,birmingham-southern,340.0,30.0
+subbing in,,birmingham-southern,340.0,30.0
+subbing out,,birmingham-southern,340.0,30.0
+foul,,birmingham-southern,321.0,11.0
+free throw,good,Centre,321.0,30.0
+free throw,good,Centre,321.0,30.0
+timeout,,Centre,321.0,30.0
+subbing in,,birmingham-southern,320.0,29.0
+subbing out,,birmingham-southern,320.0,29.0
+layup,missed,birmingham-southern,299.0,8.0
+block,,Centre,299.0,8.0
+offensive rebound,,Centre,,
+three pointer,missed,birmingham-southern,298.0,7.0
+defensive rebound,,Centre,,
+foul,,birmingham-southern,287.0,19.0
+free throw,good,Centre,287.0,30.0
+free throw,good,Centre,287.0,30.0
+subbing in,,birmingham-southern,287.0,30.0
+subbing out,,birmingham-southern,287.0,30.0
+foul,,Centre,280.0,23.0
+free throw,missed,birmingham-southern,280.0,30.0
+defensive rebound,,Centre,,
+foul,,birmingham-southern,271.0,21.0
+free throw,good,Centre,271.0,30.0
+free throw,good,Centre,271.0,30.0
+subbing in,,Centre,271.0,30.0
+subbing out,,Centre,271.0,30.0
+three pointer,missed,birmingham-southern,263.0,22.0
+block,,Centre,263.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,241.0,8.0
+jumper,good,birmingham-southern,225.0,14.0
+assist,,birmingham-southern,,
+three pointer,missed,Centre,204.0,9.0
+defensive rebound,,birmingham-southern,,
+foul,,Centre,201.0,27.0
+free throw,good,birmingham-southern,201.0,30.0
+free throw,good,birmingham-southern,201.0,30.0
+subbing in,,Centre,201.0,30.0
+subbing out,,Centre,201.0,30.0
+layup,missed,Centre,183.0,12.0
+block,,birmingham-southern,183.0,12.0
+offensive rebound,,Centre,,
+layup,good,Centre,179.0,8.0
+foul,,Centre,171.0,22.0
+free throw,good,birmingham-southern,171.0,30.0
+free throw,good,birmingham-southern,171.0,30.0
+foul,,birmingham-southern,171.0,30.0
+free throw,missed,Centre,171.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,Centre,171.0,30.0
+defensive rebound,,birmingham-southern,,
+subbing in,,birmingham-southern,171.0,30.0
+subbing out,,birmingham-southern,171.0,30.0
+foul,,Centre,165.0,24.0
+free throw,missed,birmingham-southern,165.0,30.0
+deadball rebound,,Centre,,
+free throw,good,birmingham-southern,165.0,30.0
+layup,missed,Centre,141.0,6.0
+offensive rebound,,Centre,,
+layup,good,Centre,138.0,27.0
+timeout,,Centre,137.0,29.0
+jumper,missed,birmingham-southern,128.0,20.0
+defensive rebound,,Centre,,
+jumper,good,Centre,112.0,14.0
+assist,,Centre,,
+layup,good,birmingham-southern,99.0,17.0
+assist,,birmingham-southern,,
+turnover,,Centre,71.0,2.0
+steal,,birmingham-southern,70.0,29.0
+three pointer,missed,birmingham-southern,65.0,25.0
+defensive rebound,,Centre,,
+foul,,birmingham-southern,40.0,5.0
+free throw,missed,Centre,40.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,40.0,30.0
+jumper,missed,birmingham-southern,34.0,24.0
+defensive rebound,,Centre,,
+turnover,,Centre,14.0,14.0
+steal,,birmingham-southern,13.0,13.0
+layup,good,birmingham-southern,7.0,7.0

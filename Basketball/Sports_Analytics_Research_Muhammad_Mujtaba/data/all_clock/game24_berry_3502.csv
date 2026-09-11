@@ -1,0 +1,481 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+turnover,,Centre,580.0,10.0
+steal,,berry,580.0,30.0
+subbing in,,Centre,580.0,30.0
+subbing in,,Centre,580.0,30.0
+subbing out,,Centre,580.0,30.0
+subbing out,,Centre,580.0,30.0
+layup,missed,berry,568.0,18.0
+offensive rebound,,berry,,
+layup,good,berry,564.0,26.0
+three pointer,good,Centre,541.0,7.0
+assist,,Centre,,
+layup,missed,berry,509.0,28.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,495.0,16.0
+assist,,Centre,,
+layup,missed,berry,474.0,9.0
+block,,Centre,474.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,464.0,20.0
+layup,missed,berry,448.0,14.0
+offensive rebound,,berry,,
+turnover,,berry,446.0,28.0
+steal,,Centre,446.0,30.0
+three pointer,good,Centre,427.0,11.0
+assist,,Centre,,
+layup,good,berry,413.0,16.0
+three pointer,missed,Centre,387.0,4.0
+defensive rebound,,Centre,,
+subbing in,,Centre,385.0,28.0
+subbing in,,Centre,385.0,28.0
+subbing out,,Centre,385.0,28.0
+subbing out,,Centre,385.0,28.0
+layup,missed,berry,374.0,17.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,368.0,24.0
+defensive rebound,,berry,,
+three pointer,missed,berry,349.0,11.0
+offensive rebound,,berry,,
+layup,missed,berry,336.0,17.0
+defensive rebound,,Centre,,
+subbing in,,Centre,332.0,26.0
+subbing in,,Centre,332.0,26.0
+subbing out,,Centre,332.0,26.0
+subbing out,,Centre,332.0,26.0
+three pointer,missed,Centre,305.0,29.0
+defensive rebound,,berry,,
+three pointer,missed,berry,288.0,13.0
+defensive rebound,,Centre,,
+foul,,Centre,275.0,17.0
+turnover,,Centre,275.0,30.0
+timeout,,Centre,275.0,30.0
+subbing in,,Centre,275.0,30.0
+subbing in,,Centre,275.0,30.0
+subbing out,,Centre,275.0,30.0
+subbing out,,Centre,275.0,30.0
+turnover,,berry,272.0,27.0
+foul,,berry,244.0,2.0
+jumper,missed,Centre,223.0,9.0
+defensive rebound,,berry,,
+three pointer,good,berry,213.0,20.0
+assist,,berry,,
+turnover,,Centre,190.0,7.0
+subbing in,,Centre,188.0,28.0
+subbing in,,Centre,188.0,28.0
+subbing in,,Centre,188.0,28.0
+subbing out,,Centre,188.0,28.0
+subbing out,,Centre,188.0,28.0
+subbing out,,Centre,188.0,28.0
+layup,good,berry,182.0,22.0
+foul,,Centre,182.0,30.0
+free throw,good,berry,182.0,30.0
+three pointer,good,Centre,163.0,11.0
+assist,,Centre,,
+three pointer,missed,berry,140.0,7.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,129.0,19.0
+defensive rebound,,berry,,
+layup,missed,berry,109.0,10.0
+defensive rebound,,Centre,,
+layup,good,Centre,100.0,21.0
+assist,,Centre,,
+layup,missed,berry,83.0,13.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,66.0,13.0
+assist,,Centre,,
+jumper,missed,berry,50.0,14.0
+offensive rebound,,berry,,
+turnover,,berry,46.0,26.0
+subbing in,,berry,46.0,30.0
+subbing in,,berry,46.0,30.0
+subbing in,,berry,46.0,30.0
+subbing out,,berry,46.0,30.0
+subbing out,,berry,46.0,30.0
+subbing out,,berry,46.0,30.0
+subbing in,,Centre,46.0,30.0
+subbing in,,Centre,46.0,30.0
+subbing out,,Centre,46.0,30.0
+subbing out,,Centre,46.0,30.0
+jumper,missed,Centre,16.0,16.0
+defensive rebound,,berry,,
+jumper,missed,berry,0.0,0.0
+defensive rebound,,Centre,,
+,,,,
+subbing in,,Centre,600.0,30.0
+subbing in,,Centre,600.0,30.0
+subbing in,,Centre,600.0,30.0
+subbing out,,Centre,600.0,30.0
+subbing out,,Centre,600.0,30.0
+subbing out,,Centre,600.0,30.0
+foul,,Centre,590.0,20.0
+free throw,good,berry,590.0,30.0
+free throw,good,berry,590.0,30.0
+subbing in,,berry,590.0,30.0
+subbing out,,berry,590.0,30.0
+foul,,berry,555.0,25.0
+free throw,good,Centre,555.0,30.0
+free throw,good,Centre,555.0,30.0
+subbing in,,berry,555.0,30.0
+subbing in,,berry,555.0,30.0
+subbing out,,berry,555.0,30.0
+subbing out,,berry,555.0,30.0
+subbing in,,Centre,555.0,30.0
+subbing out,,Centre,555.0,30.0
+jumper,missed,berry,547.0,22.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,538.0,21.0
+offensive rebound,,Centre,,
+subbing in,,berry,528.0,20.0
+subbing out,,berry,528.0,20.0
+jumper,missed,Centre,521.0,13.0
+defensive rebound,,berry,,
+turnover,,berry,517.0,26.0
+jumper,missed,Centre,510.0,23.0
+offensive rebound,,Centre,,
+layup,missed,Centre,489.0,9.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,469.0,10.0
+defensive rebound,,Centre,,
+three pointer,missed,berry,447.0,8.0
+defensive rebound,,Centre,,
+subbing in,,Centre,444.0,27.0
+subbing in,,Centre,444.0,27.0
+subbing out,,Centre,444.0,27.0
+subbing out,,Centre,444.0,27.0
+foul,,berry,422.0,5.0
+free throw,good,Centre,422.0,30.0
+free throw,good,Centre,422.0,30.0
+subbing in,,berry,422.0,30.0
+subbing out,,berry,422.0,30.0
+turnover,,berry,413.0,21.0
+steal,,Centre,412.0,29.0
+three pointer,missed,Centre,407.0,25.0
+defensive rebound,,berry,,
+layup,good,berry,393.0,16.0
+three pointer,missed,Centre,368.0,5.0
+defensive rebound,,berry,,
+foul,,Centre,350.0,12.0
+subbing in,,berry,350.0,30.0
+subbing out,,berry,350.0,30.0
+subbing in,,Centre,350.0,30.0
+subbing in,,Centre,350.0,30.0
+subbing in,,Centre,350.0,30.0
+subbing in,,Centre,350.0,30.0
+subbing in,,Centre,350.0,30.0
+subbing out,,Centre,350.0,30.0
+subbing out,,Centre,350.0,30.0
+subbing out,,Centre,350.0,30.0
+subbing out,,Centre,350.0,30.0
+subbing out,,Centre,350.0,30.0
+layup,missed,berry,337.0,17.0
+offensive rebound,,berry,,
+layup,missed,berry,327.0,20.0
+defensive rebound,,Centre,,
+foul,,berry,308.0,11.0
+three pointer,missed,Centre,295.0,17.0
+offensive rebound,,Centre,,
+timeout,,Centre,295.0,30.0
+jumper,good,Centre,291.0,26.0
+jumper,missed,berry,271.0,10.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,255.0,14.0
+defensive rebound,,berry,,
+turnover,,berry,226.0,1.0
+subbing in,,berry,226.0,30.0
+subbing out,,berry,226.0,30.0
+three pointer,missed,Centre,197.0,1.0
+defensive rebound,,berry,,
+three pointer,missed,berry,187.0,20.0
+offensive rebound,,berry,,
+layup,missed,berry,178.0,21.0
+block,,Centre,178.0,21.0
+offensive rebound,,berry,,
+layup,good,berry,172.0,15.0
+subbing in,,Centre,152.0,10.0
+subbing in,,Centre,152.0,10.0
+subbing in,,Centre,152.0,10.0
+subbing in,,Centre,152.0,10.0
+subbing in,,Centre,152.0,10.0
+subbing out,,Centre,152.0,10.0
+subbing out,,Centre,152.0,10.0
+subbing out,,Centre,152.0,10.0
+subbing out,,Centre,152.0,10.0
+subbing out,,Centre,152.0,10.0
+turnover,,Centre,140.0,28.0
+layup,missed,berry,130.0,20.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,109.0,9.0
+offensive rebound,,Centre,,
+layup,missed,Centre,105.0,26.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,99.0,24.0
+offensive rebound,,Centre,,
+turnover,,Centre,96.0,27.0
+layup,missed,berry,72.0,6.0
+offensive rebound,,berry,,
+subbing in,,berry,70.0,28.0
+subbing out,,berry,70.0,28.0
+turnover,,berry,68.0,26.0
+steal,,Centre,65.0,27.0
+layup,missed,Centre,45.0,10.0
+offensive rebound,,Centre,,
+layup,good,Centre,42.0,27.0
+layup,missed,berry,12.0,12.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,2.0,2.0
+defensive rebound,,berry,,
+,,,,
+subbing in,,Centre,600.0,588.0
+subbing in,,Centre,600.0,588.0
+subbing out,,Centre,600.0,588.0
+subbing out,,Centre,600.0,588.0
+three pointer,missed,Centre,573.0,561.0
+offensive rebound,,Centre,,
+layup,missed,Centre,550.0,7.0
+defensive rebound,,berry,,
+jumper,good,berry,530.0,10.0
+three pointer,missed,Centre,511.0,11.0
+defensive rebound,,berry,,
+layup,missed,berry,493.0,12.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,475.0,12.0
+defensive rebound,,berry,,
+three pointer,missed,berry,464.0,19.0
+offensive rebound,,berry,,
+turnover,,berry,461.0,27.0
+three pointer,missed,Centre,438.0,7.0
+defensive rebound,,berry,,
+foul,,Centre,414.0,6.0
+subbing in,,Centre,414.0,30.0
+subbing in,,Centre,414.0,30.0
+subbing in,,Centre,414.0,30.0
+subbing in,,Centre,414.0,30.0
+subbing in,,Centre,414.0,30.0
+subbing out,,Centre,414.0,30.0
+subbing out,,Centre,414.0,30.0
+subbing out,,Centre,414.0,30.0
+subbing out,,Centre,414.0,30.0
+subbing out,,Centre,414.0,30.0
+layup,good,berry,411.0,27.0
+assist,,berry,,
+timeout,,Centre,402.0,21.0
+layup,missed,Centre,393.0,12.0
+defensive rebound,,berry,,
+foul,,berry,377.0,14.0
+turnover,,berry,377.0,30.0
+turnover,,Centre,358.0,11.0
+steal,,berry,356.0,28.0
+foul,,berry,341.0,15.0
+turnover,,berry,341.0,30.0
+subbing in,,Centre,341.0,30.0
+subbing in,,Centre,341.0,30.0
+subbing in,,Centre,341.0,30.0
+subbing in,,Centre,341.0,30.0
+subbing in,,Centre,341.0,30.0
+subbing out,,Centre,341.0,30.0
+subbing out,,Centre,341.0,30.0
+subbing out,,Centre,341.0,30.0
+subbing out,,Centre,341.0,30.0
+subbing out,,Centre,341.0,30.0
+three pointer,missed,Centre,315.0,4.0
+defensive rebound,,Centre,,
+subbing in,,berry,312.0,27.0
+subbing in,,berry,312.0,27.0
+subbing out,,berry,312.0,27.0
+subbing out,,berry,312.0,27.0
+layup,good,berry,300.0,15.0
+three pointer,missed,Centre,284.0,14.0
+defensive rebound,,berry,,
+turnover,,berry,271.0,17.0
+steal,,Centre,269.0,28.0
+timeout,,Centre,252.0,13.0
+layup,missed,Centre,250.0,11.0
+offensive rebound,,Centre,,
+turnover,,Centre,245.0,25.0
+steal,,berry,244.0,29.0
+layup,missed,berry,226.0,12.0
+offensive rebound,,berry,,
+foul,,Centre,208.0,12.0
+free throw,missed,berry,208.0,30.0
+deadball rebound,,Centre,,
+subbing in,,Centre,208.0,30.0
+subbing in,,Centre,208.0,30.0
+subbing out,,Centre,208.0,30.0
+subbing out,,Centre,208.0,30.0
+free throw,good,berry,207.0,30.0
+layup,missed,Centre,195.0,17.0
+offensive rebound,,Centre,,
+three pointer,good,Centre,189.0,24.0
+assist,,Centre,,
+jumper,missed,berry,173.0,14.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,142.0,29.0
+offensive rebound,,Centre,,
+layup,missed,Centre,136.0,24.0
+defensive rebound,,berry,,
+layup,good,berry,129.0,23.0
+jumper,missed,Centre,99.0,0.0
+defensive rebound,,berry,,
+layup,missed,berry,80.0,11.0
+block,,Centre,80.0,30.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,73.0,23.0
+offensive rebound,,Centre,,
+subbing in,,Centre,71.0,28.0
+subbing in,,Centre,71.0,28.0
+subbing in,,Centre,71.0,28.0
+subbing in,,Centre,71.0,28.0
+subbing in,,Centre,71.0,28.0
+subbing out,,Centre,71.0,28.0
+subbing out,,Centre,71.0,28.0
+subbing out,,Centre,71.0,28.0
+subbing out,,Centre,71.0,28.0
+subbing out,,Centre,71.0,28.0
+turnover,,Centre,56.0,13.0
+steal,,berry,55.0,29.0
+layup,missed,berry,53.0,28.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,34.0,11.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,16.0,16.0
+offensive rebound,,Centre,,
+foul,,berry,12.0,12.0
+layup,good,Centre,6.0,6.0
+foul,,berry,6.0,6.0
+free throw,good,Centre,6.0,6.0
+subbing in,,Centre,6.0,6.0
+subbing out,,Centre,6.0,6.0
+three pointer,missed,berry,0.0,0.0
+defensive rebound,,Centre,,
+,,,,
+subbing in,,berry,600.0,30.0
+subbing out,,berry,600.0,30.0
+subbing in,,Centre,600.0,30.0
+subbing in,,Centre,600.0,30.0
+subbing out,,Centre,600.0,30.0
+subbing out,,Centre,600.0,30.0
+jumper,good,berry,596.0,26.0
+turnover,,Centre,583.0,17.0
+layup,good,berry,546.0,23.0
+layup,missed,Centre,523.0,7.0
+offensive rebound,,Centre,,
+foul,,berry,521.0,28.0
+subbing in,,Centre,521.0,30.0
+subbing in,,Centre,521.0,30.0
+subbing out,,Centre,521.0,30.0
+subbing out,,Centre,521.0,30.0
+three pointer,missed,Centre,502.0,11.0
+defensive rebound,,berry,,
+jumper,missed,berry,489.0,17.0
+defensive rebound,,Centre,,
+jumper,good,Centre,471.0,12.0
+assist,,Centre,,
+foul,,berry,471.0,30.0
+free throw,missed,Centre,471.0,30.0
+defensive rebound,,berry,,
+timeout,,Centre,465.0,24.0
+subbing in,,berry,465.0,24.0
+subbing out,,berry,465.0,24.0
+foul,,Centre,457.0,16.0
+free throw,missed,berry,457.0,30.0
+deadball rebound,,Centre,,
+free throw,good,berry,457.0,30.0
+foul,,berry,428.0,1.0
+turnover,,Centre,426.0,28.0
+foul,,Centre,416.0,20.0
+free throw,good,berry,416.0,30.0
+free throw,good,berry,416.0,30.0
+subbing in,,Centre,416.0,30.0
+subbing in,,Centre,416.0,30.0
+subbing in,,Centre,416.0,30.0
+subbing in,,Centre,416.0,30.0
+subbing in,,Centre,416.0,30.0
+subbing out,,Centre,416.0,30.0
+subbing out,,Centre,416.0,30.0
+subbing out,,Centre,416.0,30.0
+subbing out,,Centre,416.0,30.0
+subbing out,,Centre,416.0,30.0
+layup,missed,Centre,397.0,11.0
+offensive rebound,,Centre,,
+jumper,good,Centre,393.0,26.0
+assist,,Centre,,
+jumper,good,berry,380.0,17.0
+turnover,,Centre,361.0,11.0
+subbing in,,Centre,361.0,30.0
+subbing out,,Centre,361.0,30.0
+three pointer,good,berry,335.0,4.0
+assist,,berry,,
+jumper,missed,Centre,319.0,14.0
+defensive rebound,,berry,,
+turnover,,berry,302.0,13.0
+subbing in,,Centre,300.0,28.0
+subbing in,,Centre,300.0,28.0
+subbing out,,Centre,300.0,28.0
+subbing out,,Centre,300.0,28.0
+layup,good,Centre,272.0,0.0
+foul,,Centre,252.0,10.0
+free throw,missed,berry,252.0,30.0
+deadball rebound,,Centre,,
+free throw,good,berry,252.0,30.0
+subbing in,,berry,252.0,30.0
+subbing out,,berry,252.0,30.0
+jumper,missed,Centre,229.0,7.0
+defensive rebound,,berry,,
+jumper,good,berry,206.0,7.0
+subbing in,,Centre,185.0,9.0
+subbing in,,Centre,185.0,9.0
+subbing out,,Centre,185.0,9.0
+subbing out,,Centre,185.0,9.0
+three pointer,missed,Centre,176.0,0.0
+defensive rebound,,berry,,
+turnover,,berry,156.0,10.0
+subbing in,,Centre,156.0,30.0
+subbing out,,Centre,156.0,30.0
+timeout,,Centre,154.0,28.0
+jumper,missed,Centre,144.0,18.0
+defensive rebound,,berry,,
+turnover,,berry,122.0,8.0
+steal,,Centre,121.0,29.0
+three pointer,missed,Centre,106.0,15.0
+offensive rebound,,Centre,,
+foul,,berry,101.0,25.0
+free throw,missed,Centre,101.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,101.0,30.0
+layup,missed,berry,82.0,11.0
+defensive rebound,,Centre,,
+foul,,Centre,73.0,21.0
+turnover,,Centre,73.0,30.0
+subbing in,,berry,73.0,30.0
+subbing out,,berry,73.0,30.0
+subbing in,,Centre,73.0,30.0
+subbing out,,Centre,73.0,30.0
+timeout,,Centre,63.0,20.0
+subbing in,,Centre,63.0,20.0
+subbing out,,Centre,63.0,20.0
+layup,good,berry,51.0,8.0
+timeout,,Centre,47.0,26.0
+subbing in,,berry,47.0,26.0
+subbing out,,berry,47.0,26.0
+subbing in,,Centre,47.0,26.0
+subbing out,,Centre,47.0,26.0
+layup,missed,Centre,41.0,20.0
+defensive rebound,,berry,,
+foul,,Centre,34.0,23.0
+free throw,good,berry,34.0,30.0
+free throw,good,berry,34.0,30.0
+timeout,,Centre,34.0,30.0
+jumper,missed,Centre,26.0,26.0
+defensive rebound,,berry,,
+foul,,Centre,22.0,22.0
+free throw,missed,berry,22.0,22.0
+deadball rebound,,Centre,,
+free throw,good,berry,22.0,22.0
+jumper,good,Centre,15.0,15.0
+foul,,Centre,10.0,10.0
+free throw,good,berry,10.0,10.0
+free throw,good,berry,10.0,10.0
+three pointer,missed,Centre,1.0,1.0
+defensive rebound,,berry,,
