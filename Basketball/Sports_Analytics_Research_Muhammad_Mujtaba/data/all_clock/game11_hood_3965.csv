@@ -1,0 +1,567 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+layup,missed,hood,578.0,8.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,549.0,1.0
+defensive rebound,,hood,,
+turnover,,hood,532.0,13.0
+steal,,Centre,531.0,29.0
+layup,good,Centre,528.0,27.0
+layup,good,hood,511.0,13.0
+jumper,missed,Centre,490.0,9.0
+offensive rebound,,Centre,,
+layup,good,Centre,488.0,28.0
+turnover,,hood,472.0,14.0
+steal,,Centre,471.0,29.0
+foul,,hood,469.0,28.0
+subbing in,,hood,469.0,30.0
+subbing out,,hood,469.0,30.0
+jumper,good,Centre,456.0,17.0
+assist,,Centre,,
+jumper,good,hood,430.0,4.0
+foul,,hood,412.0,12.0
+layup,missed,Centre,400.0,18.0
+defensive rebound,,hood,,
+subbing in,,hood,397.0,27.0
+subbing out,,hood,397.0,27.0
+subbing in,,Centre,397.0,27.0
+subbing out,,Centre,397.0,27.0
+turnover,,hood,387.0,17.0
+steal,,Centre,386.0,29.0
+layup,missed,Centre,377.0,21.0
+offensive rebound,,Centre,,
+layup,good,Centre,375.0,28.0
+turnover,,hood,364.0,19.0
+steal,,Centre,363.0,29.0
+turnover,,Centre,353.0,20.0
+steal,,hood,351.0,28.0
+layup,missed,hood,343.0,22.0
+defensive rebound,,Centre,,
+subbing in,,hood,342.0,29.0
+subbing out,,hood,342.0,29.0
+subbing in,,Centre,342.0,29.0
+subbing in,,Centre,342.0,29.0
+subbing out,,Centre,342.0,29.0
+subbing out,,Centre,342.0,29.0
+jumper,missed,Centre,338.0,25.0
+block,,hood,338.0,30.0
+defensive rebound,,hood,,
+turnover,,hood,320.0,12.0
+subbing in,,Centre,320.0,30.0
+subbing out,,Centre,320.0,30.0
+turnover,,Centre,304.0,14.0
+layup,good,hood,291.0,17.0
+jumper,missed,Centre,257.0,26.0
+defensive rebound,,hood,,
+layup,missed,hood,244.0,17.0
+defensive rebound,,Centre,,
+timeout,,Centre,242.0,28.0
+subbing in,,hood,242.0,28.0
+subbing out,,hood,242.0,28.0
+subbing in,,Centre,242.0,28.0
+subbing in,,Centre,242.0,28.0
+subbing in,,Centre,242.0,28.0
+subbing in,,Centre,242.0,28.0
+subbing out,,Centre,242.0,28.0
+subbing out,,Centre,242.0,28.0
+subbing out,,Centre,242.0,28.0
+subbing out,,Centre,242.0,28.0
+foul,,hood,231.0,17.0
+free throw,missed,Centre,231.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,231.0,30.0
+subbing in,,hood,231.0,30.0
+subbing out,,hood,231.0,30.0
+turnover,,hood,224.0,23.0
+turnover,,Centre,208.0,14.0
+layup,missed,hood,198.0,20.0
+defensive rebound,,Centre,,
+layup,missed,Centre,188.0,20.0
+defensive rebound,,hood,,
+turnover,,hood,174.0,16.0
+steal,,Centre,172.0,28.0
+three pointer,good,Centre,168.0,26.0
+assist,,Centre,,
+jumper,good,hood,150.0,12.0
+jumper,good,Centre,130.0,10.0
+assist,,Centre,,
+jumper,missed,hood,111.0,11.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,103.0,22.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,84.0,11.0
+defensive rebound,,hood,,
+foul,,Centre,75.0,21.0
+free throw,missed,hood,75.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,hood,75.0,30.0
+defensive rebound,,Centre,,
+subbing in,,hood,75.0,30.0
+subbing in,,hood,75.0,30.0
+subbing out,,hood,75.0,30.0
+subbing out,,hood,75.0,30.0
+subbing in,,Centre,75.0,30.0
+subbing in,,Centre,75.0,30.0
+subbing in,,Centre,75.0,30.0
+subbing in,,Centre,75.0,30.0
+subbing in,,Centre,75.0,30.0
+subbing out,,Centre,75.0,30.0
+subbing out,,Centre,75.0,30.0
+subbing out,,Centre,75.0,30.0
+subbing out,,Centre,75.0,30.0
+subbing out,,Centre,75.0,30.0
+jumper,missed,Centre,54.0,9.0
+defensive rebound,,hood,,
+turnover,,hood,41.0,17.0
+steal,,Centre,40.0,29.0
+foul,,hood,34.0,24.0
+jumper,missed,Centre,31.0,27.0
+defensive rebound,,hood,,
+turnover,,hood,23.0,23.0
+steal,,Centre,22.0,22.0
+foul,,hood,4.0,4.0
+free throw,missed,Centre,4.0,4.0
+deadball rebound,,Centre,,
+free throw,good,Centre,4.0,4.0
+,,,,
+subbing in,,hood,600.0,599.0
+subbing in,,hood,600.0,599.0
+subbing out,,hood,600.0,599.0
+subbing out,,hood,600.0,599.0
+turnover,,Centre,582.0,581.0
+turnover,,hood,574.0,22.0
+steal,,Centre,573.0,29.0
+jumper,missed,Centre,564.0,21.0
+defensive rebound,,Centre,,
+subbing in,,hood,549.0,15.0
+subbing out,,hood,549.0,15.0
+turnover,,hood,541.0,7.0
+steal,,Centre,540.0,29.0
+layup,good,Centre,533.0,23.0
+assist,,Centre,,
+three pointer,missed,hood,516.0,13.0
+block,,Centre,516.0,30.0
+defensive rebound,,Centre,,
+layup,missed,Centre,503.0,17.0
+block,,hood,503.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,501.0,28.0
+subbing out,,Centre,501.0,28.0
+timeout,,Centre,499.0,26.0
+jumper,good,hood,489.0,16.0
+assist,,hood,,
+layup,missed,Centre,463.0,4.0
+offensive rebound,,Centre,,
+foul,,hood,462.0,29.0
+free throw,good,Centre,462.0,30.0
+free throw,good,Centre,462.0,30.0
+subbing in,,hood,462.0,30.0
+subbing out,,hood,462.0,30.0
+subbing in,,Centre,462.0,30.0
+subbing in,,Centre,462.0,30.0
+subbing out,,Centre,462.0,30.0
+subbing out,,Centre,462.0,30.0
+jumper,missed,hood,437.0,5.0
+offensive rebound,,hood,,
+layup,missed,hood,433.0,26.0
+block,,Centre,433.0,30.0
+defensive rebound,,Centre,,
+layup,good,Centre,427.0,24.0
+layup,good,hood,408.0,11.0
+assist,,hood,,
+three pointer,missed,Centre,385.0,7.0
+defensive rebound,,hood,,
+foul,,Centre,369.0,14.0
+free throw,good,hood,369.0,30.0
+free throw,good,hood,369.0,30.0
+subbing in,,hood,369.0,30.0
+subbing in,,hood,369.0,30.0
+subbing out,,hood,369.0,30.0
+subbing out,,hood,369.0,30.0
+subbing in,,Centre,369.0,30.0
+subbing out,,Centre,369.0,30.0
+three pointer,missed,Centre,341.0,2.0
+offensive rebound,,Centre,,
+,,,329.0,30.0
+three pointer,good,hood,326.0,15.0
+assist,,hood,,
+foul,,hood,311.0,15.0
+foul,,hood,311.0,30.0
+foul,,hood,311.0,30.0
+free throw,missed,Centre,311.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,311.0,30.0
+free throw,good,Centre,311.0,30.0
+free throw,good,Centre,311.0,30.0
+three pointer,good,Centre,289.0,8.0
+assist,,Centre,,
+turnover,,hood,276.0,17.0
+steal,,Centre,275.0,29.0
+layup,good,Centre,273.0,28.0
+foul,,Centre,258.0,15.0
+subbing in,,hood,258.0,30.0
+subbing out,,hood,258.0,30.0
+subbing in,,Centre,258.0,30.0
+subbing in,,Centre,258.0,30.0
+subbing in,,Centre,258.0,30.0
+subbing in,,Centre,258.0,30.0
+subbing out,,Centre,258.0,30.0
+subbing out,,Centre,258.0,30.0
+subbing out,,Centre,258.0,30.0
+subbing out,,Centre,258.0,30.0
+three pointer,missed,hood,247.0,19.0
+defensive rebound,,Centre,,
+turnover,,Centre,237.0,20.0
+jumper,missed,hood,227.0,20.0
+offensive rebound,,hood,,
+jumper,good,hood,225.0,28.0
+jumper,missed,Centre,205.0,10.0
+block,,hood,205.0,30.0
+defensive rebound,,hood,,
+turnover,,hood,196.0,21.0
+subbing in,,Centre,196.0,30.0
+subbing out,,Centre,196.0,30.0
+jumper,missed,Centre,170.0,4.0
+offensive rebound,,Centre,,
+layup,missed,Centre,168.0,28.0
+block,,hood,168.0,28.0
+offensive rebound,,Centre,,
+turnover,,Centre,167.0,27.0
+foul,,Centre,149.0,12.0
+subbing in,,hood,149.0,30.0
+subbing out,,hood,149.0,30.0
+subbing in,,Centre,149.0,30.0
+subbing in,,Centre,149.0,30.0
+subbing out,,Centre,149.0,30.0
+subbing out,,Centre,149.0,30.0
+foul,,Centre,147.0,28.0
+free throw,good,hood,147.0,30.0
+free throw,good,hood,147.0,30.0
+subbing in,,hood,147.0,30.0
+subbing out,,hood,147.0,30.0
+three pointer,good,Centre,132.0,15.0
+jumper,missed,hood,116.0,14.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,103.0,17.0
+block,,hood,103.0,17.0
+offensive rebound,,Centre,,
+subbing in,,hood,103.0,17.0
+subbing out,,hood,103.0,17.0
+subbing in,,Centre,103.0,17.0
+subbing in,,Centre,103.0,17.0
+subbing out,,Centre,103.0,17.0
+subbing out,,Centre,103.0,17.0
+jumper,good,Centre,100.0,14.0
+foul,,Centre,85.0,15.0
+free throw,good,hood,85.0,30.0
+free throw,good,hood,85.0,30.0
+subbing in,,Centre,85.0,30.0
+subbing out,,Centre,85.0,30.0
+foul,,hood,73.0,18.0
+free throw,good,Centre,73.0,30.0
+free throw,missed,Centre,73.0,30.0
+offensive rebound,,Centre,,
+foul,,hood,72.0,29.0
+free throw,good,Centre,72.0,30.0
+free throw,good,Centre,72.0,30.0
+subbing in,,hood,72.0,30.0
+subbing in,,hood,72.0,30.0
+subbing out,,hood,72.0,30.0
+subbing out,,hood,72.0,30.0
+turnover,,hood,70.0,28.0
+layup,good,Centre,58.0,18.0
+three pointer,missed,hood,45.0,17.0
+defensive rebound,,Centre,,
+layup,good,Centre,29.0,29.0
+assist,,Centre,,
+subbing in,,hood,14.0,14.0
+subbing out,,hood,14.0,14.0
+subbing in,,Centre,14.0,14.0
+subbing out,,Centre,14.0,14.0
+three pointer,missed,hood,12.0,12.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,1.0,1.0
+deadball rebound,,Centre,,
+,,,,
+subbing in,,hood,600.0,585.0
+subbing in,,hood,600.0,585.0
+subbing out,,hood,600.0,585.0
+subbing out,,hood,600.0,585.0
+layup,missed,hood,589.0,574.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,583.0,24.0
+offensive rebound,,Centre,,
+turnover,,Centre,563.0,10.0
+foul,,Centre,549.0,16.0
+free throw,good,hood,549.0,30.0
+free throw,good,hood,549.0,30.0
+free throw,good,hood,549.0,30.0
+subbing in,,Centre,549.0,30.0
+subbing out,,Centre,549.0,30.0
+three pointer,missed,Centre,536.0,17.0
+defensive rebound,,Centre,,
+layup,missed,hood,508.0,2.0
+defensive rebound,,Centre,,
+layup,missed,Centre,489.0,11.0
+offensive rebound,,Centre,,
+foul,,hood,487.0,28.0
+free throw,good,Centre,487.0,30.0
+free throw,good,Centre,487.0,30.0
+subbing in,,hood,487.0,30.0
+subbing out,,hood,487.0,30.0
+subbing in,,Centre,487.0,30.0
+subbing out,,Centre,487.0,30.0
+layup,missed,hood,467.0,10.0
+defensive rebound,,Centre,,
+jumper,good,Centre,446.0,9.0
+assist,,Centre,,
+jumper,good,hood,435.0,19.0
+three pointer,missed,Centre,422.0,17.0
+defensive rebound,,Centre,,
+subbing in,,hood,418.0,26.0
+subbing out,,hood,418.0,26.0
+subbing in,,Centre,418.0,26.0
+subbing out,,Centre,418.0,26.0
+three pointer,missed,hood,401.0,9.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,390.0,19.0
+deadball rebound,,Centre,,
+foul,,Centre,374.0,14.0
+free throw,missed,hood,374.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,hood,374.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,374.0,30.0
+subbing out,,Centre,374.0,30.0
+jumper,missed,Centre,354.0,10.0
+block,,hood,354.0,10.0
+offensive rebound,,Centre,,
+three pointer,good,Centre,351.0,7.0
+assist,,Centre,,
+jumper,missed,hood,326.0,5.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,316.0,20.0
+assist,,Centre,,
+timeout,,hood,312.0,26.0
+subbing in,,hood,312.0,26.0
+subbing out,,hood,312.0,26.0
+subbing in,,Centre,312.0,26.0
+subbing in,,Centre,312.0,26.0
+subbing out,,Centre,312.0,26.0
+subbing out,,Centre,312.0,26.0
+three pointer,missed,hood,300.0,14.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,272.0,2.0
+assist,,Centre,,
+foul,,Centre,247.0,5.0
+free throw,good,hood,247.0,30.0
+free throw,good,hood,247.0,30.0
+subbing in,,Centre,247.0,30.0
+subbing out,,Centre,247.0,30.0
+jumper,missed,Centre,230.0,13.0
+defensive rebound,,hood,,
+layup,good,hood,219.0,19.0
+foul,,hood,201.0,12.0
+free throw,good,Centre,201.0,30.0
+free throw,missed,Centre,201.0,30.0
+offensive rebound,,Centre,,
+subbing in,,hood,192.0,21.0
+subbing out,,hood,192.0,21.0
+jumper,good,Centre,191.0,20.0
+layup,missed,hood,167.0,6.0
+defensive rebound,,Centre,,
+subbing in,,hood,160.0,23.0
+subbing out,,hood,160.0,23.0
+subbing in,,Centre,160.0,23.0
+subbing in,,Centre,160.0,23.0
+subbing out,,Centre,160.0,23.0
+subbing out,,Centre,160.0,23.0
+turnover,,Centre,148.0,11.0
+layup,good,hood,129.0,11.0
+assist,,hood,,
+three pointer,missed,Centre,108.0,9.0
+defensive rebound,,hood,,
+layup,missed,hood,99.0,21.0
+defensive rebound,,Centre,,
+layup,good,Centre,85.0,16.0
+assist,,Centre,,
+foul,,Centre,66.0,11.0
+free throw,good,hood,66.0,30.0
+free throw,good,hood,66.0,30.0
+subbing in,,hood,66.0,30.0
+subbing out,,hood,66.0,30.0
+layup,good,Centre,57.0,21.0
+layup,missed,hood,38.0,11.0
+offensive rebound,,Centre,,
+foul,,Centre,33.0,25.0
+free throw,good,hood,33.0,30.0
+free throw,missed,hood,33.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,hood,33.0,30.0
+defensive rebound,,Centre,,
+foul,,hood,18.0,18.0
+jumper,missed,Centre,7.0,7.0
+defensive rebound,,hood,,
+jumper,missed,hood,1.0,1.0
+defensive rebound,,Centre,,
+,,,,
+subbing in,,hood,600.0,597.0
+subbing in,,hood,600.0,597.0
+subbing in,,hood,600.0,597.0
+subbing out,,hood,600.0,597.0
+subbing out,,hood,600.0,597.0
+subbing out,,hood,600.0,597.0
+subbing in,,Centre,600.0,597.0
+subbing out,,Centre,600.0,597.0
+jumper,missed,Centre,579.0,576.0
+defensive rebound,,hood,,
+three pointer,missed,hood,568.0,19.0
+offensive rebound,,hood,,
+three pointer,missed,hood,562.0,24.0
+offensive rebound,,hood,,
+foul,,Centre,561.0,29.0
+free throw,good,hood,561.0,30.0
+free throw,missed,hood,561.0,30.0
+defensive rebound,,Centre,,
+subbing in,,hood,561.0,30.0
+subbing out,,hood,561.0,30.0
+turnover,,Centre,558.0,27.0
+steal,,hood,556.0,28.0
+three pointer,missed,hood,555.0,29.0
+defensive rebound,,Centre,,
+turnover,,Centre,551.0,26.0
+subbing in,,hood,551.0,30.0
+subbing out,,hood,551.0,30.0
+layup,missed,hood,542.0,21.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,525.0,13.0
+offensive rebound,,Centre,,
+jumper,good,Centre,520.0,25.0
+assist,,Centre,,
+turnover,,hood,506.0,16.0
+steal,,Centre,506.0,30.0
+subbing in,,hood,500.0,24.0
+subbing out,,hood,500.0,24.0
+subbing in,,Centre,500.0,24.0
+subbing out,,Centre,500.0,24.0
+jumper,missed,Centre,489.0,13.0
+offensive rebound,,Centre,,
+foul,,Centre,485.0,26.0
+turnover,,Centre,485.0,30.0
+layup,missed,hood,471.0,16.0
+defensive rebound,,Centre,,
+layup,good,Centre,459.0,18.0
+assist,,Centre,,
+layup,good,hood,439.0,10.0
+jumper,missed,Centre,417.0,8.0
+block,,hood,417.0,8.0
+offensive rebound,,Centre,,
+layup,missed,Centre,415.0,6.0
+defensive rebound,,hood,,
+foul,,Centre,413.0,28.0
+subbing in,,hood,413.0,30.0
+subbing in,,hood,413.0,30.0
+subbing out,,hood,413.0,30.0
+subbing out,,hood,413.0,30.0
+subbing in,,Centre,413.0,30.0
+subbing in,,Centre,413.0,30.0
+subbing in,,Centre,413.0,30.0
+subbing in,,Centre,413.0,30.0
+subbing out,,Centre,413.0,30.0
+subbing out,,Centre,413.0,30.0
+subbing out,,Centre,413.0,30.0
+subbing out,,Centre,413.0,30.0
+foul,,hood,403.0,20.0
+turnover,,hood,403.0,30.0
+jumper,missed,Centre,377.0,4.0
+defensive rebound,,hood,,
+jumper,missed,hood,355.0,8.0
+defensive rebound,,Centre,,
+foul,,hood,352.0,27.0
+subbing in,,hood,352.0,30.0
+subbing out,,hood,352.0,30.0
+foul,,hood,340.0,18.0
+subbing in,,hood,340.0,30.0
+subbing out,,hood,340.0,30.0
+subbing in,,Centre,340.0,30.0
+subbing out,,Centre,340.0,30.0
+three pointer,missed,Centre,335.0,25.0
+defensive rebound,,hood,,
+jumper,missed,hood,320.0,15.0
+defensive rebound,,Centre,,
+foul,,hood,309.0,19.0
+free throw,good,Centre,309.0,30.0
+free throw,good,Centre,309.0,30.0
+timeout,,Centre,309.0,30.0
+subbing in,,hood,309.0,30.0
+subbing out,,hood,309.0,30.0
+turnover,,hood,289.0,10.0
+turnover,,Centre,287.0,28.0
+steal,,hood,284.0,27.0
+jumper,missed,hood,284.0,30.0
+block,,Centre,284.0,30.0
+offensive rebound,,hood,,
+layup,good,hood,281.0,27.0
+assist,,hood,,
+turnover,,Centre,258.0,7.0
+steal,,hood,258.0,30.0
+turnover,,hood,253.0,25.0
+subbing in,,hood,253.0,30.0
+subbing out,,hood,253.0,30.0
+subbing in,,Centre,253.0,30.0
+subbing in,,Centre,253.0,30.0
+subbing out,,Centre,253.0,30.0
+subbing out,,Centre,253.0,30.0
+three pointer,good,Centre,240.0,17.0
+assist,,Centre,,
+jumper,good,hood,213.0,3.0
+assist,,hood,,
+jumper,missed,Centre,193.0,10.0
+defensive rebound,,hood,,
+foul,,Centre,192.0,29.0
+layup,good,hood,187.0,25.0
+assist,,hood,,
+foul,,Centre,187.0,30.0
+free throw,missed,hood,187.0,30.0
+defensive rebound,,Centre,,
+layup,good,Centre,181.0,24.0
+assist,,Centre,,
+layup,missed,hood,165.0,14.0
+defensive rebound,,Centre,,
+jumper,good,Centre,135.0,0.0
+assist,,Centre,,
+foul,,Centre,121.0,16.0
+free throw,good,hood,121.0,30.0
+free throw,good,hood,121.0,30.0
+subbing in,,hood,121.0,30.0
+subbing out,,hood,121.0,30.0
+subbing in,,Centre,121.0,30.0
+subbing in,,Centre,121.0,30.0
+subbing in,,Centre,121.0,30.0
+subbing out,,Centre,121.0,30.0
+subbing out,,Centre,121.0,30.0
+subbing out,,Centre,121.0,30.0
+layup,missed,Centre,96.0,5.0
+block,,hood,96.0,5.0
+offensive rebound,,Centre,,
+subbing in,,hood,96.0,5.0
+subbing out,,hood,96.0,5.0
+subbing in,,Centre,96.0,5.0
+subbing out,,Centre,96.0,5.0
+three pointer,missed,Centre,94.0,3.0
+defensive rebound,,hood,,
+jumper,good,hood,78.0,14.0
+assist,,hood,,
+foul,,hood,58.0,10.0
+free throw,good,Centre,58.0,30.0
+free throw,good,Centre,58.0,30.0
+three pointer,missed,hood,47.0,19.0
+offensive rebound,,hood,,
+layup,missed,hood,39.0,22.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,24.0,24.0
+defensive rebound,,hood,,
+layup,missed,hood,14.0,14.0
+offensive rebound,,hood,,
+layup,missed,hood,12.0,12.0
+defensive rebound,,Centre,,

@@ -1,0 +1,456 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+jumper,good,Centre,1170.0,0.0
+foul,,Centre,1153.0,13.0
+free throw,good,ferrum,1153.0,30.0
+free throw,good,ferrum,1153.0,30.0
+jumper,missed,Centre,1136.0,13.0
+block,,ferrum,1136.0,30.0
+defensive rebound,,ferrum,,
+layup,good,ferrum,1126.0,20.0
+jumper,missed,Centre,1104.0,8.0
+defensive rebound,,ferrum,,
+turnover,,ferrum,1091.0,17.0
+steal,,Centre,1089.0,28.0
+three pointer,missed,Centre,1071.0,12.0
+offensive rebound,,Centre,,
+subbing in,,Centre,1070.0,29.0
+subbing out,,Centre,1070.0,29.0
+jumper,missed,Centre,1065.0,24.0
+defensive rebound,,ferrum,,
+jumper,good,ferrum,1041.0,6.0
+turnover,,Centre,1021.0,10.0
+subbing in,,Centre,1021.0,30.0
+subbing out,,Centre,1021.0,30.0
+three pointer,good,ferrum,1005.0,14.0
+assist,,ferrum,,
+layup,missed,Centre,978.0,3.0
+offensive rebound,,Centre,,
+layup,missed,Centre,976.0,28.0
+block,,ferrum,976.0,28.0
+offensive rebound,,Centre,,
+layup,missed,Centre,968.0,20.0
+defensive rebound,,Centre,,
+foul,,Centre,965.0,27.0
+layup,missed,ferrum,961.0,26.0
+offensive rebound,,ferrum,,
+layup,good,ferrum,957.0,26.0
+foul,,ferrum,939.0,12.0
+free throw,missed,Centre,939.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,939.0,30.0
+subbing in,,ferrum,939.0,30.0
+subbing in,,ferrum,939.0,30.0
+subbing out,,ferrum,939.0,30.0
+subbing out,,ferrum,939.0,30.0
+subbing in,,Centre,939.0,30.0
+subbing out,,Centre,939.0,30.0
+jumper,missed,ferrum,918.0,9.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,906.0,18.0
+defensive rebound,,ferrum,,
+three pointer,missed,ferrum,903.0,27.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,880.0,7.0
+offensive rebound,,Centre,,
+layup,good,Centre,874.0,24.0
+layup,good,ferrum,863.0,19.0
+assist,,ferrum,,
+timeout,,Centre,861.0,28.0
+turnover,,Centre,836.0,3.0
+assist,,ferrum,,
+jumper,missed,Centre,829.0,23.0
+defensive rebound,,Centre,,
+layup,good,Centre,818.0,19.0
+assist,,Centre,,
+jumper,missed,ferrum,801.0,13.0
+defensive rebound,,Centre,,
+turnover,,Centre,796.0,25.0
+steal,,ferrum,796.0,30.0
+foul,,Centre,796.0,30.0
+free throw,good,ferrum,796.0,30.0
+free throw,missed,ferrum,796.0,30.0
+defensive rebound,,Centre,,
+jumper,good,Centre,772.0,6.0
+assist,,Centre,,
+jumper,missed,ferrum,749.0,7.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,728.0,9.0
+assist,,Centre,,
+three pointer,missed,ferrum,707.0,9.0
+defensive rebound,,Centre,,
+turnover,,Centre,696.0,19.0
+steal,,ferrum,695.0,29.0
+jumper,good,ferrum,692.0,27.0
+jumper,missed,Centre,668.0,6.0
+offensive rebound,,Centre,,
+turnover,,Centre,663.0,25.0
+subbing in,,ferrum,663.0,30.0
+subbing in,,ferrum,663.0,30.0
+subbing in,,ferrum,663.0,30.0
+subbing in,,ferrum,663.0,30.0
+subbing out,,ferrum,663.0,30.0
+subbing out,,ferrum,663.0,30.0
+subbing out,,ferrum,663.0,30.0
+subbing out,,ferrum,663.0,30.0
+subbing in,,Centre,663.0,30.0
+subbing in,,Centre,663.0,30.0
+subbing out,,Centre,663.0,30.0
+subbing out,,Centre,663.0,30.0
+layup,missed,ferrum,631.0,28.0
+defensive rebound,,Centre,,
+turnover,,Centre,620.0,19.0
+turnover,,ferrum,620.0,30.0
+foul,,ferrum,620.0,30.0
+foul,,ferrum,615.0,25.0
+free throw,good,Centre,615.0,30.0
+free throw,missed,Centre,615.0,30.0
+offensive rebound,,Centre,,
+subbing in,,Centre,615.0,30.0
+subbing out,,Centre,615.0,30.0
+three pointer,good,Centre,607.0,22.0
+assist,,Centre,,
+jumper,missed,ferrum,575.0,28.0
+defensive rebound,,Centre,,
+jumper,good,Centre,549.0,4.0
+assist,,Centre,,
+layup,missed,ferrum,527.0,8.0
+offensive rebound,,ferrum,,
+layup,good,ferrum,524.0,27.0
+three pointer,missed,Centre,519.0,25.0
+offensive rebound,,Centre,,
+layup,good,Centre,514.0,25.0
+foul,,Centre,505.0,21.0
+subbing in,,Centre,505.0,30.0
+subbing in,,Centre,505.0,30.0
+subbing out,,Centre,505.0,30.0
+subbing out,,Centre,505.0,30.0
+three pointer,good,ferrum,499.0,24.0
+assist,,ferrum,,
+layup,good,Centre,482.0,13.0
+assist,,Centre,,
+three pointer,missed,ferrum,464.0,12.0
+offensive rebound,,Centre,,
+foul,,Centre,461.0,27.0
+subbing in,,ferrum,461.0,30.0
+subbing in,,ferrum,461.0,30.0
+subbing in,,ferrum,461.0,30.0
+subbing out,,ferrum,461.0,30.0
+subbing out,,ferrum,461.0,30.0
+subbing out,,ferrum,461.0,30.0
+subbing in,,Centre,461.0,30.0
+subbing in,,Centre,461.0,30.0
+subbing out,,Centre,461.0,30.0
+subbing out,,Centre,461.0,30.0
+jumper,good,ferrum,438.0,7.0
+foul,,Centre,438.0,30.0
+free throw,good,ferrum,438.0,30.0
+subbing in,,Centre,438.0,30.0
+subbing in,,Centre,438.0,30.0
+subbing out,,Centre,438.0,30.0
+subbing out,,Centre,438.0,30.0
+foul,,ferrum,426.0,18.0
+jumper,good,Centre,417.0,21.0
+assist,,Centre,,
+jumper,missed,ferrum,391.0,4.0
+defensive rebound,,Centre,,
+foul,,ferrum,389.0,28.0
+turnover,,Centre,377.0,18.0
+steal,,ferrum,377.0,30.0
+layup,good,ferrum,377.0,30.0
+layup,good,Centre,377.0,30.0
+assist,,Centre,,
+foul,,ferrum,371.0,24.0
+free throw,missed,Centre,360.0,30.0
+defensive rebound,,ferrum,,
+subbing in,,ferrum,360.0,19.0
+subbing out,,ferrum,360.0,19.0
+three pointer,missed,ferrum,338.0,27.0
+defensive rebound,,Centre,,
+layup,missed,Centre,312.0,4.0
+block,,ferrum,312.0,30.0
+defensive rebound,,ferrum,,
+three pointer,missed,ferrum,304.0,22.0
+offensive rebound,,ferrum,,
+layup,good,ferrum,298.0,24.0
+timeout,,Centre,296.0,28.0
+turnover,,Centre,277.0,9.0
+steal,,ferrum,275.0,28.0
+turnover,,ferrum,273.0,28.0
+layup,good,Centre,245.0,2.0
+layup,good,ferrum,231.0,16.0
+three pointer,missed,Centre,200.0,29.0
+defensive rebound,,ferrum,,
+foul,,Centre,174.0,4.0
+free throw,missed,ferrum,174.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,ferrum,174.0,30.0
+defensive rebound,,Centre,,
+subbing in,,ferrum,174.0,30.0
+subbing out,,ferrum,174.0,30.0
+subbing in,,Centre,174.0,30.0
+subbing out,,Centre,174.0,30.0
+jumper,missed,Centre,160.0,16.0
+defensive rebound,,ferrum,,
+subbing in,,ferrum,154.0,24.0
+subbing in,,ferrum,154.0,24.0
+subbing out,,ferrum,154.0,24.0
+subbing out,,ferrum,154.0,24.0
+layup,missed,ferrum,144.0,14.0
+defensive rebound,,Centre,,
+layup,missed,Centre,138.0,24.0
+defensive rebound,,ferrum,,
+foul,,Centre,137.0,29.0
+free throw,good,ferrum,137.0,30.0
+free throw,good,ferrum,137.0,30.0
+subbing in,,ferrum,137.0,30.0
+subbing out,,ferrum,137.0,30.0
+three pointer,good,Centre,119.0,12.0
+assist,,Centre,,
+turnover,,ferrum,102.0,13.0
+foul,,ferrum,102.0,30.0
+foul,,ferrum,83.0,11.0
+free throw,missed,Centre,83.0,30.0
+defensive rebound,,ferrum,,
+three pointer,good,ferrum,67.0,14.0
+three pointer,missed,Centre,45.0,8.0
+defensive rebound,,ferrum,,
+turnover,,ferrum,26.0,26.0
+steal,,Centre,25.0,25.0
+three pointer,missed,Centre,2.0,2.0
+defensive rebound,,ferrum,,
+jumper,missed,ferrum,0.0,0.0
+defensive rebound,,Centre,,
+,,,,
+foul,,ferrum,1181.0,11.0
+free throw,good,Centre,1181.0,30.0
+free throw,good,Centre,1181.0,30.0
+layup,good,ferrum,1165.0,14.0
+assist,,ferrum,,
+three pointer,missed,Centre,1156.0,21.0
+defensive rebound,,ferrum,,
+jumper,missed,ferrum,1140.0,14.0
+offensive rebound,,ferrum,,
+jumper,good,ferrum,1136.0,26.0
+layup,good,Centre,1115.0,9.0
+turnover,,ferrum,1107.0,22.0
+steal,,Centre,1106.0,29.0
+turnover,,Centre,1095.0,19.0
+steal,,ferrum,1093.0,28.0
+layup,good,ferrum,1091.0,28.0
+three pointer,good,Centre,1078.0,17.0
+three pointer,good,ferrum,1059.0,11.0
+assist,,ferrum,,
+jumper,good,Centre,1038.0,9.0
+assist,,Centre,,
+layup,missed,ferrum,1026.0,18.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,1021.0,25.0
+assist,,Centre,,
+layup,missed,ferrum,992.0,1.0
+offensive rebound,,ferrum,,
+foul,,Centre,992.0,30.0
+free throw,missed,ferrum,992.0,30.0
+deadball rebound,,Centre,,
+free throw,good,ferrum,992.0,30.0
+subbing in,,ferrum,992.0,30.0
+subbing out,,ferrum,992.0,30.0
+subbing in,,Centre,992.0,30.0
+subbing in,,Centre,992.0,30.0
+subbing out,,Centre,992.0,30.0
+subbing out,,Centre,992.0,30.0
+jumper,good,Centre,985.0,23.0
+assist,,Centre,,
+three pointer,good,ferrum,968.0,13.0
+assist,,ferrum,,
+turnover,,Centre,955.0,17.0
+steal,,ferrum,954.0,29.0
+layup,good,ferrum,951.0,27.0
+turnover,,Centre,928.0,7.0
+timeout,,Centre,927.0,29.0
+subbing in,,ferrum,927.0,29.0
+subbing out,,ferrum,927.0,29.0
+subbing in,,Centre,927.0,29.0
+subbing out,,Centre,927.0,29.0
+jumper,good,ferrum,919.0,21.0
+layup,missed,Centre,907.0,18.0
+offensive rebound,,Centre,,
+layup,good,Centre,904.0,27.0
+layup,good,ferrum,892.0,18.0
+foul,,ferrum,875.0,13.0
+subbing in,,ferrum,875.0,30.0
+subbing out,,ferrum,875.0,30.0
+three pointer,missed,Centre,846.0,1.0
+defensive rebound,,ferrum,,
+jumper,good,ferrum,827.0,11.0
+three pointer,good,Centre,804.0,7.0
+assist,,Centre,,
+layup,missed,ferrum,796.0,22.0
+offensive rebound,,ferrum,,
+layup,good,ferrum,796.0,30.0
+three pointer,missed,Centre,796.0,30.0
+defensive rebound,,ferrum,,
+layup,missed,ferrum,796.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,796.0,30.0
+steal,,ferrum,796.0,30.0
+turnover,,ferrum,793.0,27.0
+subbing in,,Centre,788.0,25.0
+subbing in,,Centre,788.0,25.0
+subbing out,,Centre,788.0,25.0
+subbing out,,Centre,788.0,25.0
+layup,good,Centre,775.0,12.0
+assist,,Centre,,
+layup,good,ferrum,752.0,7.0
+assist,,ferrum,,
+turnover,,Centre,731.0,9.0
+subbing in,,ferrum,727.0,26.0
+subbing in,,ferrum,727.0,26.0
+subbing in,,ferrum,727.0,26.0
+subbing out,,ferrum,727.0,26.0
+subbing out,,ferrum,727.0,26.0
+subbing out,,ferrum,727.0,26.0
+subbing in,,Centre,727.0,26.0
+subbing out,,Centre,727.0,26.0
+foul,,Centre,716.0,15.0
+free throw,missed,ferrum,712.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,ferrum,706.0,30.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,698.0,12.0
+defensive rebound,,ferrum,,
+three pointer,missed,ferrum,698.0,30.0
+defensive rebound,,Centre,,
+layup,missed,Centre,681.0,13.0
+defensive rebound,,ferrum,,
+layup,missed,ferrum,673.0,22.0
+offensive rebound,,ferrum,,
+layup,missed,ferrum,671.0,28.0
+block,,Centre,671.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,661.0,20.0
+steal,,ferrum,659.0,28.0
+three pointer,missed,ferrum,643.0,14.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,635.0,22.0
+jumper,good,ferrum,629.0,24.0
+assist,,ferrum,,
+jumper,missed,Centre,605.0,6.0
+defensive rebound,,ferrum,,
+layup,good,ferrum,597.0,22.0
+assist,,ferrum,,
+timeout,,Centre,525.0,-42.0
+subbing in,,ferrum,525.0,-42.0
+subbing in,,ferrum,525.0,-42.0
+subbing out,,ferrum,525.0,-42.0
+subbing out,,ferrum,525.0,-42.0
+subbing in,,Centre,525.0,-42.0
+subbing in,,Centre,525.0,-42.0
+subbing in,,Centre,525.0,-42.0
+subbing out,,Centre,525.0,-42.0
+subbing out,,Centre,525.0,-42.0
+subbing out,,Centre,525.0,-42.0
+jumper,good,Centre,516.0,-21.0
+assist,,Centre,,
+jumper,missed,ferrum,494.0,8.0
+defensive rebound,,Centre,,
+turnover,,Centre,465.0,1.0
+subbing in,,ferrum,463.0,28.0
+subbing in,,ferrum,463.0,28.0
+subbing out,,ferrum,463.0,28.0
+subbing out,,ferrum,463.0,28.0
+turnover,,ferrum,452.0,17.0
+jumper,missed,Centre,434.0,12.0
+defensive rebound,,Centre,,
+jumper,good,ferrum,419.0,15.0
+three pointer,good,Centre,407.0,18.0
+assist,,Centre,,
+turnover,,ferrum,397.0,20.0
+three pointer,missed,Centre,375.0,8.0
+defensive rebound,,ferrum,,
+three pointer,missed,ferrum,355.0,10.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,333.0,8.0
+offensive rebound,,Centre,,
+layup,missed,Centre,326.0,23.0
+defensive rebound,,ferrum,,
+timeout,,Centre,322.0,26.0
+subbing in,,Centre,322.0,26.0
+subbing out,,Centre,322.0,26.0
+layup,missed,ferrum,315.0,19.0
+defensive rebound,,Centre,,
+jumper,good,Centre,297.0,12.0
+assist,,Centre,,
+three pointer,missed,ferrum,279.0,12.0
+defensive rebound,,Centre,,
+layup,good,Centre,259.0,10.0
+assist,,Centre,,
+layup,good,ferrum,247.0,18.0
+foul,,Centre,247.0,30.0
+free throw,good,ferrum,247.0,30.0
+subbing in,,Centre,247.0,30.0
+subbing out,,Centre,247.0,30.0
+timeout,,Centre,244.0,27.0
+subbing in,,ferrum,244.0,27.0
+subbing out,,ferrum,244.0,27.0
+turnover,,Centre,227.0,10.0
+steal,,ferrum,225.0,28.0
+turnover,,ferrum,220.0,25.0
+steal,,Centre,218.0,28.0
+three pointer,missed,Centre,198.0,10.0
+defensive rebound,,ferrum,,
+jumper,good,ferrum,180.0,12.0
+jumper,missed,Centre,148.0,28.0
+offensive rebound,,Centre,,
+layup,good,Centre,145.0,27.0
+layup,missed,ferrum,133.0,18.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,126.0,23.0
+defensive rebound,,ferrum,,
+timeout,,Centre,102.0,6.0
+subbing in,,Centre,102.0,6.0
+subbing out,,Centre,102.0,6.0
+foul,,Centre,95.0,29.0
+layup,good,ferrum,92.0,27.0
+assist,,ferrum,,
+three pointer,missed,Centre,83.0,21.0
+defensive rebound,,ferrum,,
+foul,,Centre,64.0,11.0
+timeout,,Centre,64.0,30.0
+subbing in,,Centre,64.0,30.0
+subbing out,,Centre,64.0,30.0
+foul,,Centre,63.0,29.0
+timeout,,Centre,63.0,30.0
+foul,,Centre,61.0,28.0
+free throw,good,ferrum,61.0,30.0
+free throw,missed,ferrum,61.0,30.0
+offensive rebound,,Centre,,
+foul,,Centre,59.0,28.0
+free throw,good,ferrum,59.0,30.0
+free throw,missed,ferrum,59.0,30.0
+defensive rebound,,Centre,,
+subbing in,,ferrum,59.0,30.0
+subbing out,,ferrum,59.0,30.0
+turnover,,Centre,53.0,24.0
+subbing in,,ferrum,53.0,30.0
+subbing out,,ferrum,53.0,30.0
+foul,,Centre,51.0,28.0
+free throw,good,ferrum,51.0,30.0
+free throw,good,ferrum,51.0,30.0
+subbing in,,ferrum,51.0,30.0
+subbing out,,ferrum,51.0,30.0
+layup,missed,Centre,42.0,21.0
+offensive rebound,,Centre,,
+layup,good,Centre,42.0,30.0
+timeout,,Centre,42.0,30.0
+foul,,Centre,41.0,29.0
+free throw,good,ferrum,41.0,30.0
+free throw,good,ferrum,41.0,30.0
+subbing in,,ferrum,41.0,30.0
+subbing out,,ferrum,41.0,30.0
+three pointer,missed,Centre,36.0,25.0
+defensive rebound,,ferrum,,
+three pointer,missed,ferrum,4.0,4.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,2.0,2.0
+defensive rebound,,Centre,,

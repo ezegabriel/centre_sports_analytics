@@ -1,0 +1,837 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+foul,,Centre,575.0,5.0
+layup,good,hendrix,558.0,13.0
+assist,,hendrix,,
+layup,missed,Centre,531.0,3.0
+block,,hendrix,531.0,3.0
+offensive rebound,,Centre,,
+turnover,,Centre,529.0,1.0
+steal,,hendrix,527.0,28.0
+turnover,,hendrix,526.0,29.0
+steal,,Centre,524.0,28.0
+turnover,,Centre,503.0,9.0
+steal,,hendrix,502.0,29.0
+layup,missed,hendrix,498.0,26.0
+offensive rebound,,hendrix,,
+turnover,,hendrix,495.0,27.0
+steal,,Centre,490.0,25.0
+jumper,missed,Centre,477.0,17.0
+defensive rebound,,hendrix,,
+three pointer,missed,hendrix,460.0,13.0
+offensive rebound,,hendrix,,
+layup,missed,hendrix,454.0,24.0
+block,,Centre,454.0,30.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,440.0,16.0
+defensive rebound,,hendrix,,
+turnover,,hendrix,429.0,19.0
+subbing in,,Centre,429.0,30.0
+subbing in,,Centre,429.0,30.0
+subbing in,,Centre,429.0,30.0
+subbing in,,Centre,429.0,30.0
+subbing out,,Centre,429.0,30.0
+subbing out,,Centre,429.0,30.0
+subbing out,,Centre,429.0,30.0
+subbing out,,Centre,429.0,30.0
+layup,missed,Centre,406.0,7.0
+offensive rebound,,Centre,,
+layup,good,Centre,403.0,27.0
+foul,,hendrix,403.0,30.0
+free throw,good,Centre,403.0,30.0
+subbing in,,hendrix,403.0,30.0
+subbing out,,hendrix,403.0,30.0
+turnover,,hendrix,390.0,17.0
+steal,,Centre,389.0,29.0
+foul,,hendrix,385.0,26.0
+layup,missed,Centre,378.0,23.0
+defensive rebound,,hendrix,,
+foul,,Centre,367.0,19.0
+free throw,good,hendrix,367.0,30.0
+free throw,good,hendrix,367.0,30.0
+subbing in,,hendrix,367.0,30.0
+subbing out,,hendrix,367.0,30.0
+turnover,,Centre,340.0,3.0
+steal,,hendrix,338.0,28.0
+jumper,missed,hendrix,334.0,26.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,312.0,8.0
+offensive rebound,,Centre,,
+layup,good,Centre,307.0,25.0
+turnover,,hendrix,286.0,9.0
+steal,,Centre,285.0,29.0
+layup,good,Centre,281.0,26.0
+assist,,Centre,,
+three pointer,missed,hendrix,269.0,18.0
+defensive rebound,,Centre,,
+foul,,hendrix,249.0,10.0
+subbing in,,hendrix,249.0,30.0
+subbing in,,hendrix,249.0,30.0
+subbing in,,hendrix,249.0,30.0
+subbing out,,hendrix,249.0,30.0
+subbing out,,hendrix,249.0,30.0
+subbing out,,hendrix,249.0,30.0
+subbing in,,Centre,249.0,30.0
+subbing in,,Centre,249.0,30.0
+subbing in,,Centre,249.0,30.0
+subbing out,,Centre,249.0,30.0
+subbing out,,Centre,249.0,30.0
+subbing out,,Centre,249.0,30.0
+turnover,,Centre,246.0,27.0
+subbing in,,Centre,246.0,30.0
+subbing in,,Centre,246.0,30.0
+subbing out,,Centre,246.0,30.0
+subbing out,,Centre,246.0,30.0
+jumper,missed,hendrix,226.0,10.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,226.0,30.0
+defensive rebound,,hendrix,,
+timeout,,Centre,189.0,-7.0
+layup,missed,hendrix,189.0,-7.0
+defensive rebound,,Centre,,
+jumper,good,Centre,129.0,-37.0
+assist,,Centre,,
+jumper,missed,hendrix,119.0,20.0
+defensive rebound,,Centre,,
+jumper,good,Centre,105.0,16.0
+subbing in,,hendrix,105.0,30.0
+subbing in,,hendrix,105.0,30.0
+subbing in,,hendrix,105.0,30.0
+subbing in,,hendrix,105.0,30.0
+subbing out,,hendrix,105.0,30.0
+subbing out,,hendrix,105.0,30.0
+subbing out,,hendrix,105.0,30.0
+subbing out,,hendrix,105.0,30.0
+foul,,Centre,93.0,18.0
+free throw,good,hendrix,93.0,30.0
+free throw,good,hendrix,93.0,30.0
+jumper,missed,Centre,70.0,7.0
+offensive rebound,,Centre,,
+foul,,hendrix,69.0,29.0
+turnover,,Centre,57.0,18.0
+subbing in,,hendrix,57.0,30.0
+subbing out,,hendrix,57.0,30.0
+subbing in,,Centre,57.0,30.0
+subbing in,,Centre,57.0,30.0
+subbing out,,Centre,57.0,30.0
+subbing out,,Centre,57.0,30.0
+foul,,Centre,46.0,19.0
+layup,good,hendrix,39.0,23.0
+turnover,,Centre,25.0,25.0
+subbing in,,Centre,25.0,25.0
+subbing out,,Centre,25.0,25.0
+three pointer,missed,hendrix,4.0,4.0
+offensive rebound,,hendrix,,
+jumper,missed,hendrix,2.0,2.0
+defensive rebound,,Centre,,
+,,,,
+subbing in,,Centre,600.0,591.0
+subbing in,,Centre,600.0,591.0
+subbing in,,Centre,600.0,591.0
+subbing out,,Centre,600.0,591.0
+subbing out,,Centre,600.0,591.0
+subbing out,,Centre,600.0,591.0
+turnover,,Centre,580.0,571.0
+jumper,missed,hendrix,569.0,19.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,552.0,13.0
+defensive rebound,,hendrix,,
+foul,,Centre,545.0,23.0
+jumper,good,hendrix,545.0,30.0
+jumper,missed,Centre,501.0,16.0
+block,,hendrix,501.0,30.0
+defensive rebound,,hendrix,,
+jumper,missed,hendrix,487.0,16.0
+defensive rebound,,Centre,,
+foul,,hendrix,480.0,23.0
+subbing in,,hendrix,480.0,30.0
+subbing out,,hendrix,480.0,30.0
+subbing in,,Centre,480.0,30.0
+subbing out,,Centre,480.0,30.0
+turnover,,Centre,475.0,25.0
+steal,,hendrix,474.0,29.0
+layup,missed,hendrix,471.0,27.0
+defensive rebound,,Centre,,
+timeout,,Centre,466.0,25.0
+three pointer,good,Centre,445.0,4.0
+assist,,Centre,,
+turnover,,hendrix,425.0,10.0
+subbing in,,hendrix,425.0,30.0
+subbing out,,hendrix,425.0,30.0
+jumper,good,Centre,410.0,15.0
+layup,missed,hendrix,396.0,16.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,364.0,28.0
+defensive rebound,,hendrix,,
+three pointer,missed,hendrix,356.0,22.0
+offensive rebound,,hendrix,,
+layup,missed,hendrix,339.0,13.0
+defensive rebound,,Centre,,
+layup,missed,Centre,330.0,21.0
+offensive rebound,,Centre,,
+subbing in,,hendrix,328.0,28.0
+subbing in,,hendrix,328.0,28.0
+subbing in,,hendrix,328.0,28.0
+subbing out,,hendrix,328.0,28.0
+subbing out,,hendrix,328.0,28.0
+subbing out,,hendrix,328.0,28.0
+subbing in,,Centre,328.0,28.0
+subbing in,,Centre,328.0,28.0
+subbing in,,Centre,328.0,28.0
+subbing in,,Centre,328.0,28.0
+subbing out,,Centre,328.0,28.0
+subbing out,,Centre,328.0,28.0
+subbing out,,Centre,328.0,28.0
+subbing out,,Centre,328.0,28.0
+layup,good,Centre,322.0,22.0
+timeout,,Centre,298.0,6.0
+subbing in,,Centre,298.0,6.0
+subbing out,,Centre,298.0,6.0
+jumper,missed,hendrix,295.0,3.0
+block,,Centre,295.0,3.0
+offensive rebound,,Centre,,
+three pointer,good,hendrix,288.0,26.0
+foul,,hendrix,268.0,10.0
+subbing in,,hendrix,268.0,30.0
+subbing in,,hendrix,268.0,30.0
+subbing in,,hendrix,268.0,30.0
+subbing in,,hendrix,268.0,30.0
+subbing out,,hendrix,268.0,30.0
+subbing out,,hendrix,268.0,30.0
+subbing out,,hendrix,268.0,30.0
+subbing out,,hendrix,268.0,30.0
+subbing in,,Centre,268.0,30.0
+subbing out,,Centre,268.0,30.0
+turnover,,Centre,258.0,20.0
+steal,,hendrix,258.0,30.0
+layup,good,hendrix,245.0,17.0
+assist,,hendrix,,
+turnover,,Centre,211.0,26.0
+steal,,hendrix,209.0,28.0
+foul,,Centre,207.0,28.0
+free throw,missed,hendrix,207.0,30.0
+deadball rebound,,Centre,,
+free throw,good,hendrix,207.0,30.0
+subbing in,,hendrix,207.0,30.0
+subbing out,,hendrix,207.0,30.0
+subbing in,,Centre,207.0,30.0
+subbing in,,Centre,207.0,30.0
+subbing in,,Centre,207.0,30.0
+subbing in,,Centre,207.0,30.0
+subbing out,,Centre,207.0,30.0
+subbing out,,Centre,207.0,30.0
+subbing out,,Centre,207.0,30.0
+subbing out,,Centre,207.0,30.0
+jumper,missed,Centre,180.0,3.0
+offensive rebound,,Centre,,
+layup,good,Centre,177.0,27.0
+jumper,good,hendrix,163.0,16.0
+assist,,hendrix,,
+jumper,missed,Centre,140.0,7.0
+block,,hendrix,140.0,7.0
+offensive rebound,,Centre,,
+subbing in,,hendrix,140.0,7.0
+subbing out,,hendrix,140.0,7.0
+foul,,hendrix,136.0,3.0
+free throw,missed,Centre,136.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,Centre,136.0,30.0
+defensive rebound,,hendrix,,
+layup,missed,hendrix,116.0,10.0
+defensive rebound,,Centre,,
+foul,,hendrix,115.0,29.0
+subbing in,,hendrix,115.0,30.0
+subbing out,,hendrix,115.0,30.0
+jumper,missed,Centre,99.0,14.0
+defensive rebound,,hendrix,,
+foul,,Centre,97.0,28.0
+turnover,,hendrix,80.0,13.0
+jumper,missed,Centre,53.0,3.0
+block,,hendrix,53.0,30.0
+defensive rebound,,hendrix,,
+layup,missed,hendrix,47.0,24.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,20.0,20.0
+defensive rebound,,hendrix,,
+turnover,,hendrix,16.0,16.0
+steal,,Centre,16.0,16.0
+foul,,hendrix,16.0,16.0
+free throw,good,Centre,16.0,16.0
+free throw,good,Centre,16.0,16.0
+subbing in,,hendrix,16.0,16.0
+subbing out,,hendrix,16.0,16.0
+turnover,,hendrix,5.0,5.0
+steal,,Centre,5.0,5.0
+subbing in,,Centre,5.0,5.0
+subbing out,,Centre,5.0,5.0
+three pointer,missed,Centre,0.0,0.0
+defensive rebound,,Centre,,
+,,,,
+turnover,,hendrix,586.0,16.0
+foul,,hendrix,565.0,9.0
+free throw,good,Centre,565.0,30.0
+free throw,good,Centre,565.0,30.0
+subbing in,,hendrix,565.0,30.0
+subbing out,,hendrix,565.0,30.0
+layup,good,hendrix,551.0,16.0
+assist,,hendrix,,
+turnover,,Centre,528.0,7.0
+foul,,Centre,514.0,16.0
+free throw,good,hendrix,514.0,30.0
+free throw,good,hendrix,514.0,30.0
+turnover,,Centre,491.0,7.0
+steal,,hendrix,490.0,29.0
+turnover,,hendrix,484.0,24.0
+steal,,Centre,484.0,30.0
+subbing in,,hendrix,484.0,30.0
+subbing out,,hendrix,484.0,30.0
+three pointer,good,Centre,483.0,29.0
+assist,,Centre,,
+foul,,Centre,440.0,17.0
+free throw,good,hendrix,440.0,30.0
+free throw,missed,hendrix,440.0,30.0
+defensive rebound,,Centre,,
+subbing in,,hendrix,440.0,30.0
+subbing out,,hendrix,440.0,30.0
+subbing in,,Centre,440.0,30.0
+subbing in,,Centre,440.0,30.0
+subbing in,,Centre,440.0,30.0
+subbing out,,Centre,440.0,30.0
+subbing out,,Centre,440.0,30.0
+subbing out,,Centre,440.0,30.0
+jumper,missed,Centre,425.0,15.0
+offensive rebound,,Centre,,
+jumper,good,Centre,421.0,26.0
+assist,,Centre,,
+jumper,missed,hendrix,401.0,10.0
+offensive rebound,,hendrix,,
+foul,,Centre,399.0,28.0
+subbing in,,hendrix,399.0,30.0
+subbing out,,hendrix,399.0,30.0
+subbing in,,Centre,399.0,30.0
+subbing out,,Centre,399.0,30.0
+foul,,Centre,393.0,24.0
+subbing in,,Centre,393.0,30.0
+subbing in,,Centre,393.0,30.0
+subbing out,,Centre,393.0,30.0
+subbing out,,Centre,393.0,30.0
+layup,good,hendrix,379.0,16.0
+assist,,hendrix,,
+layup,good,Centre,358.0,9.0
+foul,,hendrix,358.0,30.0
+free throw,good,Centre,358.0,30.0
+subbing in,,hendrix,358.0,30.0
+subbing in,,hendrix,358.0,30.0
+subbing out,,hendrix,358.0,30.0
+subbing out,,hendrix,358.0,30.0
+jumper,missed,hendrix,326.0,28.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,310.0,14.0
+defensive rebound,,hendrix,,
+layup,good,hendrix,291.0,11.0
+foul,,Centre,291.0,30.0
+free throw,good,hendrix,291.0,30.0
+subbing in,,hendrix,291.0,30.0
+subbing in,,hendrix,291.0,30.0
+subbing out,,hendrix,291.0,30.0
+subbing out,,hendrix,291.0,30.0
+subbing in,,Centre,291.0,30.0
+subbing out,,Centre,291.0,30.0
+jumper,missed,Centre,266.0,5.0
+offensive rebound,,Centre,,
+foul,,hendrix,265.0,29.0
+subbing in,,hendrix,265.0,30.0
+subbing in,,hendrix,265.0,30.0
+subbing out,,hendrix,265.0,30.0
+subbing out,,hendrix,265.0,30.0
+three pointer,missed,Centre,245.0,10.0
+defensive rebound,,hendrix,,
+turnover,,hendrix,237.0,22.0
+foul,,hendrix,237.0,30.0
+subbing in,,Centre,237.0,30.0
+subbing in,,Centre,237.0,30.0
+subbing out,,Centre,237.0,30.0
+subbing out,,Centre,237.0,30.0
+foul,,hendrix,220.0,13.0
+free throw,good,Centre,220.0,30.0
+free throw,good,Centre,220.0,30.0
+subbing in,,hendrix,220.0,30.0
+subbing out,,hendrix,220.0,30.0
+subbing in,,Centre,220.0,30.0
+subbing out,,Centre,220.0,30.0
+turnover,,hendrix,214.0,24.0
+steal,,Centre,212.0,28.0
+turnover,,Centre,195.0,13.0
+steal,,hendrix,193.0,28.0
+foul,,Centre,188.0,25.0
+free throw,good,hendrix,188.0,30.0
+free throw,missed,hendrix,188.0,30.0
+defensive rebound,,Centre,,
+subbing in,,hendrix,188.0,30.0
+subbing out,,hendrix,188.0,30.0
+turnover,,Centre,171.0,13.0
+layup,good,hendrix,162.0,21.0
+assist,,hendrix,,
+jumper,good,Centre,138.0,6.0
+assist,,Centre,,
+turnover,,hendrix,118.0,10.0
+subbing in,,hendrix,118.0,30.0
+subbing in,,hendrix,118.0,30.0
+subbing out,,hendrix,118.0,30.0
+subbing out,,hendrix,118.0,30.0
+subbing in,,Centre,118.0,30.0
+subbing in,,Centre,118.0,30.0
+subbing out,,Centre,118.0,30.0
+subbing out,,Centre,118.0,30.0
+timeout,,Centre,98.0,10.0
+jumper,missed,Centre,93.0,5.0
+defensive rebound,,hendrix,,
+subbing in,,hendrix,83.0,20.0
+subbing out,,hendrix,83.0,20.0
+foul,,Centre,69.0,6.0
+free throw,missed,hendrix,69.0,30.0
+deadball rebound,,Centre,,
+free throw,good,hendrix,69.0,30.0
+subbing in,,hendrix,69.0,30.0
+subbing out,,hendrix,69.0,30.0
+subbing in,,Centre,69.0,30.0
+subbing in,,Centre,69.0,30.0
+subbing out,,Centre,69.0,30.0
+subbing out,,Centre,69.0,30.0
+foul,,hendrix,56.0,17.0
+free throw,good,Centre,56.0,30.0
+free throw,good,Centre,56.0,30.0
+subbing in,,hendrix,56.0,30.0
+subbing in,,hendrix,56.0,30.0
+subbing out,,hendrix,56.0,30.0
+subbing out,,hendrix,56.0,30.0
+subbing in,,Centre,56.0,30.0
+subbing in,,Centre,56.0,30.0
+subbing out,,Centre,56.0,30.0
+subbing out,,Centre,56.0,30.0
+jumper,missed,hendrix,43.0,17.0
+block,,Centre,43.0,17.0
+offensive rebound,,Centre,,
+subbing in,,Centre,43.0,17.0
+subbing out,,Centre,43.0,17.0
+turnover,,hendrix,38.0,12.0
+subbing in,,hendrix,38.0,30.0
+subbing out,,hendrix,38.0,30.0
+subbing in,,Centre,38.0,30.0
+subbing in,,Centre,38.0,30.0
+subbing out,,Centre,38.0,30.0
+subbing out,,Centre,38.0,30.0
+foul,,hendrix,18.0,18.0
+free throw,good,Centre,18.0,18.0
+free throw,good,Centre,18.0,18.0
+subbing in,,hendrix,18.0,18.0
+subbing out,,hendrix,18.0,18.0
+subbing in,,Centre,18.0,18.0
+subbing in,,Centre,18.0,18.0
+subbing out,,Centre,18.0,18.0
+subbing out,,Centre,18.0,18.0
+foul,,Centre,5.0,5.0
+free throw,good,hendrix,5.0,5.0
+free throw,good,hendrix,5.0,5.0
+subbing in,,hendrix,5.0,5.0
+subbing out,,hendrix,5.0,5.0
+subbing in,,Centre,5.0,5.0
+subbing in,,Centre,5.0,5.0
+subbing out,,Centre,5.0,5.0
+subbing out,,Centre,5.0,5.0
+three pointer,missed,Centre,1.0,1.0
+deadball rebound,,Centre,,
+,,,,
+subbing in,,Centre,594.0,586.0
+subbing out,,Centre,594.0,586.0
+jumper,good,hendrix,587.0,579.0
+assist,,hendrix,,
+jumper,missed,Centre,573.0,16.0
+defensive rebound,,hendrix,,
+subbing in,,hendrix,568.0,25.0
+subbing in,,hendrix,568.0,25.0
+subbing out,,hendrix,568.0,25.0
+subbing out,,hendrix,568.0,25.0
+turnover,,hendrix,564.0,21.0
+foul,,hendrix,564.0,30.0
+subbing in,,hendrix,564.0,30.0
+subbing out,,hendrix,564.0,30.0
+subbing in,,Centre,564.0,30.0
+subbing out,,Centre,564.0,30.0
+layup,missed,Centre,560.0,26.0
+offensive rebound,,Centre,,
+turnover,,Centre,532.0,2.0
+steal,,hendrix,531.0,29.0
+timeout,,Centre,528.0,27.0
+subbing in,,hendrix,528.0,27.0
+subbing out,,hendrix,528.0,27.0
+foul,,Centre,515.0,14.0
+free throw,good,hendrix,515.0,30.0
+free throw,good,hendrix,515.0,30.0
+subbing in,,Centre,515.0,30.0
+subbing out,,Centre,515.0,30.0
+jumper,good,Centre,491.0,6.0
+assist,,Centre,,
+three pointer,missed,hendrix,475.0,14.0
+defensive rebound,,Centre,,
+foul,,hendrix,473.0,28.0
+subbing in,,hendrix,473.0,30.0
+subbing out,,hendrix,473.0,30.0
+jumper,missed,Centre,457.0,14.0
+offensive rebound,,Centre,,
+turnover,,Centre,446.0,19.0
+turnover,,hendrix,425.0,9.0
+subbing in,,Centre,425.0,30.0
+subbing in,,Centre,425.0,30.0
+subbing out,,Centre,425.0,30.0
+subbing out,,Centre,425.0,30.0
+jumper,missed,Centre,423.0,28.0
+defensive rebound,,hendrix,,
+foul,,Centre,381.0,18.0
+subbing in,,hendrix,381.0,30.0
+subbing in,,hendrix,381.0,30.0
+subbing out,,hendrix,381.0,30.0
+subbing out,,hendrix,381.0,30.0
+subbing in,,Centre,381.0,30.0
+subbing in,,Centre,381.0,30.0
+subbing in,,Centre,381.0,30.0
+subbing out,,Centre,381.0,30.0
+subbing out,,Centre,381.0,30.0
+subbing out,,Centre,381.0,30.0
+turnover,,hendrix,368.0,17.0
+steal,,Centre,367.0,29.0
+jumper,missed,Centre,364.0,27.0
+offensive rebound,,Centre,,
+layup,missed,Centre,361.0,27.0
+defensive rebound,,hendrix,,
+turnover,,hendrix,356.0,25.0
+jumper,missed,Centre,340.0,14.0
+defensive rebound,,hendrix,,
+jumper,good,hendrix,320.0,10.0
+timeout,,Centre,312.0,22.0
+jumper,missed,Centre,300.0,10.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,296.0,26.0
+defensive rebound,,hendrix,,
+three pointer,missed,hendrix,287.0,21.0
+defensive rebound,,Centre,,
+foul,,hendrix,285.0,28.0
+subbing in,,hendrix,285.0,30.0
+subbing out,,hendrix,285.0,30.0
+subbing in,,hendrix,282.0,27.0
+subbing in,,hendrix,282.0,27.0
+subbing out,,hendrix,282.0,27.0
+subbing out,,hendrix,282.0,27.0
+subbing in,,Centre,282.0,27.0
+subbing out,,Centre,282.0,27.0
+foul,,hendrix,266.0,11.0
+free throw,missed,Centre,266.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,266.0,30.0
+subbing in,,hendrix,266.0,30.0
+subbing out,,hendrix,266.0,30.0
+subbing in,,Centre,266.0,30.0
+subbing in,,Centre,266.0,30.0
+subbing out,,Centre,266.0,30.0
+subbing out,,Centre,266.0,30.0
+foul,,Centre,255.0,19.0
+three pointer,good,hendrix,245.0,20.0
+assist,,hendrix,,
+jumper,missed,Centre,220.0,5.0
+defensive rebound,,hendrix,,
+foul,,Centre,197.0,7.0
+subbing in,,hendrix,197.0,30.0
+subbing in,,hendrix,197.0,30.0
+subbing out,,hendrix,197.0,30.0
+subbing out,,hendrix,197.0,30.0
+subbing in,,Centre,197.0,30.0
+subbing in,,Centre,197.0,30.0
+subbing in,,Centre,197.0,30.0
+subbing in,,Centre,197.0,30.0
+subbing out,,Centre,197.0,30.0
+subbing out,,Centre,197.0,30.0
+subbing out,,Centre,197.0,30.0
+subbing out,,Centre,197.0,30.0
+jumper,missed,hendrix,182.0,15.0
+offensive rebound,,hendrix,,
+turnover,,hendrix,177.0,25.0
+steal,,Centre,176.0,29.0
+jumper,missed,Centre,156.0,10.0
+block,,hendrix,156.0,10.0
+offensive rebound,,Centre,,
+subbing in,,hendrix,156.0,10.0
+subbing out,,hendrix,156.0,10.0
+three pointer,missed,Centre,151.0,5.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,146.0,25.0
+defensive rebound,,hendrix,,
+timeout,,Centre,136.0,20.0
+subbing in,,Centre,128.0,12.0
+subbing out,,Centre,128.0,12.0
+three pointer,missed,hendrix,127.0,11.0
+defensive rebound,,Centre,,
+subbing in,,Centre,121.0,24.0
+subbing in,,Centre,121.0,24.0
+subbing in,,Centre,121.0,24.0
+subbing out,,Centre,121.0,24.0
+subbing out,,Centre,121.0,24.0
+subbing out,,Centre,121.0,24.0
+turnover,,Centre,101.0,4.0
+steal,,hendrix,100.0,29.0
+jumper,missed,hendrix,82.0,12.0
+defensive rebound,,Centre,,
+jumper,good,Centre,73.0,21.0
+assist,,Centre,,
+foul,,Centre,59.0,16.0
+free throw,good,hendrix,59.0,30.0
+free throw,good,hendrix,59.0,30.0
+subbing in,,hendrix,59.0,30.0
+subbing out,,hendrix,59.0,30.0
+subbing in,,Centre,59.0,30.0
+subbing in,,Centre,59.0,30.0
+subbing in,,Centre,59.0,30.0
+subbing in,,Centre,59.0,30.0
+subbing out,,Centre,59.0,30.0
+subbing out,,Centre,59.0,30.0
+subbing out,,Centre,59.0,30.0
+subbing out,,Centre,59.0,30.0
+layup,missed,Centre,41.0,12.0
+defensive rebound,,hendrix,,
+timeout,,Centre,24.0,24.0
+jumper,missed,hendrix,13.0,13.0
+defensive rebound,,Centre,,
+foul,,hendrix,8.0,8.0
+free throw,good,Centre,8.0,8.0
+free throw,good,Centre,8.0,8.0
+timeout,,Centre,8.0,8.0
+subbing in,,hendrix,8.0,8.0
+subbing out,,hendrix,8.0,8.0
+layup,good,hendrix,2.0,2.0
+jumper,missed,Centre,1.0,1.0
+deadball rebound,,Centre,,
+,,,,
+layup,good,hendrix,282.0,271.0
+assist,,hendrix,,
+subbing in,,Centre,266.0,14.0
+subbing out,,Centre,266.0,14.0
+three pointer,missed,Centre,265.0,13.0
+offensive rebound,,Centre,,
+jumper,good,Centre,257.0,22.0
+assist,,Centre,,
+layup,missed,hendrix,239.0,12.0
+offensive rebound,,hendrix,,
+jumper,good,hendrix,226.0,17.0
+three pointer,missed,Centre,199.0,3.0
+defensive rebound,,hendrix,,
+turnover,,hendrix,164.0,25.0
+subbing in,,hendrix,164.0,30.0
+subbing in,,hendrix,164.0,30.0
+subbing in,,hendrix,164.0,30.0
+subbing out,,hendrix,164.0,30.0
+subbing out,,hendrix,164.0,30.0
+subbing out,,hendrix,164.0,30.0
+subbing in,,Centre,164.0,30.0
+subbing in,,Centre,164.0,30.0
+subbing in,,Centre,164.0,30.0
+subbing in,,Centre,164.0,30.0
+subbing out,,Centre,164.0,30.0
+subbing out,,Centre,164.0,30.0
+subbing out,,Centre,164.0,30.0
+subbing out,,Centre,164.0,30.0
+jumper,missed,Centre,146.0,12.0
+defensive rebound,,hendrix,,
+jumper,missed,hendrix,120.0,4.0
+defensive rebound,,Centre,,
+jumper,good,Centre,106.0,16.0
+assist,,Centre,,
+foul,,Centre,90.0,14.0
+free throw,good,hendrix,90.0,30.0
+free throw,good,hendrix,90.0,30.0
+subbing in,,hendrix,90.0,30.0
+subbing in,,hendrix,90.0,30.0
+subbing in,,hendrix,90.0,30.0
+subbing out,,hendrix,90.0,30.0
+subbing out,,hendrix,90.0,30.0
+subbing out,,hendrix,90.0,30.0
+subbing in,,Centre,90.0,30.0
+subbing out,,Centre,90.0,30.0
+layup,missed,hendrix,80.0,20.0
+defensive rebound,,Centre,,
+foul,,hendrix,51.0,1.0
+free throw,good,Centre,51.0,30.0
+free throw,good,Centre,51.0,30.0
+subbing in,,hendrix,51.0,30.0
+subbing out,,hendrix,51.0,30.0
+turnover,,hendrix,35.0,14.0
+steal,,Centre,33.0,28.0
+layup,good,Centre,31.0,28.0
+timeout,,Centre,25.0,25.0
+foul,,Centre,17.0,17.0
+free throw,good,hendrix,17.0,17.0
+free throw,good,hendrix,17.0,17.0
+timeout,,Centre,17.0,17.0
+jumper,missed,Centre,2.0,2.0
+defensive rebound,,hendrix,,
+,,,,
+subbing in,,hendrix,300.0,299.0
+subbing out,,hendrix,300.0,299.0
+jumper,good,hendrix,284.0,283.0
+jumper,missed,Centre,259.0,5.0
+offensive rebound,,Centre,,
+subbing in,,hendrix,256.0,27.0
+subbing out,,hendrix,256.0,27.0
+jumper,missed,Centre,240.0,11.0
+defensive rebound,,hendrix,,
+jumper,missed,hendrix,228.0,18.0
+block,,Centre,228.0,30.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,206.0,8.0
+defensive rebound,,hendrix,,
+jumper,missed,hendrix,175.0,29.0
+defensive rebound,,Centre,,
+foul,,hendrix,172.0,27.0
+free throw,missed,Centre,172.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,172.0,30.0
+subbing in,,hendrix,172.0,30.0
+subbing in,,hendrix,172.0,30.0
+subbing out,,hendrix,172.0,30.0
+subbing out,,hendrix,172.0,30.0
+subbing in,,Centre,172.0,30.0
+subbing in,,Centre,172.0,30.0
+subbing in,,Centre,172.0,30.0
+subbing out,,Centre,172.0,30.0
+subbing out,,Centre,172.0,30.0
+subbing out,,Centre,172.0,30.0
+jumper,missed,hendrix,163.0,21.0
+block,,Centre,163.0,21.0
+offensive rebound,,Centre,,
+three pointer,good,hendrix,157.0,15.0
+assist,,hendrix,,
+jumper,missed,Centre,135.0,8.0
+block,,hendrix,135.0,30.0
+defensive rebound,,hendrix,,
+turnover,,hendrix,113.0,8.0
+foul,,hendrix,113.0,30.0
+subbing in,,hendrix,113.0,30.0
+subbing out,,hendrix,113.0,30.0
+foul,,hendrix,98.0,15.0
+free throw,good,Centre,98.0,30.0
+free throw,good,Centre,98.0,30.0
+subbing in,,hendrix,98.0,30.0
+subbing out,,hendrix,98.0,30.0
+subbing in,,Centre,98.0,30.0
+subbing out,,Centre,98.0,30.0
+three pointer,good,hendrix,86.0,18.0
+jumper,good,Centre,66.0,10.0
+assist,,Centre,,
+foul,,hendrix,66.0,30.0
+free throw,missed,Centre,66.0,30.0
+defensive rebound,,hendrix,,
+subbing in,,Centre,66.0,30.0
+subbing out,,Centre,66.0,30.0
+jumper,missed,hendrix,47.0,11.0
+block,,Centre,47.0,30.0
+defensive rebound,,Centre,,
+subbing in,,hendrix,47.0,30.0
+subbing out,,hendrix,47.0,30.0
+jumper,good,Centre,29.0,29.0
+foul,,hendrix,29.0,29.0
+free throw,good,Centre,29.0,29.0
+subbing in,,hendrix,29.0,29.0
+subbing out,,hendrix,29.0,29.0
+timeout,,Centre,14.0,14.0
+layup,good,hendrix,2.0,2.0
+assist,,hendrix,,
+foul,,Centre,2.0,2.0
+free throw,good,hendrix,2.0,2.0
+timeout,,Centre,2.0,2.0
+three pointer,good,Centre,1.0,1.0
+assist,,Centre,,
+subbing in,,Centre,1.0,1.0
+subbing in,,Centre,1.0,1.0
+subbing out,,Centre,1.0,1.0
+subbing out,,Centre,1.0,1.0
+,,,,
+subbing in,,hendrix,292.0,275.0
+subbing in,,hendrix,292.0,275.0
+subbing out,,hendrix,292.0,275.0
+subbing out,,hendrix,292.0,275.0
+subbing in,,Centre,292.0,275.0
+subbing in,,Centre,292.0,275.0
+subbing out,,Centre,292.0,275.0
+subbing out,,Centre,292.0,275.0
+jumper,missed,hendrix,264.0,247.0
+defensive rebound,,Centre,,
+subbing in,,hendrix,263.0,29.0
+subbing out,,hendrix,263.0,29.0
+foul,,hendrix,243.0,9.0
+free throw,missed,Centre,243.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,243.0,30.0
+subbing in,,hendrix,243.0,30.0
+subbing out,,hendrix,243.0,30.0
+foul,,Centre,225.0,12.0
+free throw,good,hendrix,225.0,30.0
+free throw,good,hendrix,225.0,30.0
+subbing in,,hendrix,225.0,30.0
+subbing out,,hendrix,225.0,30.0
+subbing in,,Centre,225.0,30.0
+subbing in,,Centre,225.0,30.0
+subbing out,,Centre,225.0,30.0
+subbing out,,Centre,225.0,30.0
+jumper,missed,Centre,214.0,19.0
+defensive rebound,,hendrix,,
+foul,,Centre,213.0,29.0
+free throw,missed,hendrix,213.0,30.0
+deadball rebound,,Centre,,
+free throw,good,hendrix,213.0,30.0
+subbing in,,Centre,213.0,30.0
+subbing in,,Centre,213.0,30.0
+subbing in,,Centre,213.0,30.0
+subbing out,,Centre,213.0,30.0
+subbing out,,Centre,213.0,30.0
+subbing out,,Centre,213.0,30.0
+layup,good,Centre,194.0,11.0
+assist,,Centre,,
+jumper,good,hendrix,177.0,13.0
+assist,,hendrix,,
+layup,missed,Centre,154.0,7.0
+offensive rebound,,Centre,,
+three pointer,good,Centre,149.0,25.0
+assist,,Centre,,
+jumper,missed,hendrix,129.0,10.0
+offensive rebound,,hendrix,,
+jumper,missed,hendrix,126.0,27.0
+offensive rebound,,hendrix,,
+jumper,missed,hendrix,122.0,26.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,98.0,6.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,93.0,25.0
+defensive rebound,,hendrix,,
+timeout,,Centre,88.0,25.0
+jumper,good,hendrix,76.0,13.0
+assist,,hendrix,,
+jumper,missed,Centre,60.0,14.0
+defensive rebound,,hendrix,,
+jumper,missed,hendrix,49.0,19.0
+block,,Centre,49.0,30.0
+defensive rebound,,Centre,,
+foul,,hendrix,33.0,14.0
+free throw,good,Centre,33.0,30.0
+free throw,good,Centre,33.0,30.0
+subbing in,,hendrix,33.0,30.0
+subbing in,,hendrix,33.0,30.0
+subbing in,,hendrix,33.0,30.0
+subbing out,,hendrix,33.0,30.0
+subbing out,,hendrix,33.0,30.0
+subbing out,,hendrix,33.0,30.0
+jumper,good,hendrix,23.0,23.0
+timeout,,Centre,23.0,23.0
+jumper,good,Centre,9.0,9.0
+assist,,Centre,,
+jumper,missed,hendrix,5.0,5.0
+offensive rebound,,hendrix,,
+layup,missed,hendrix,1.0,1.0
+deadball rebound,,Centre,,

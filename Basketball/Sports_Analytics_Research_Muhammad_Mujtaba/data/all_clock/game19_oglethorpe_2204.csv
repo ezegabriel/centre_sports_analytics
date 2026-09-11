@@ -1,0 +1,441 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+turnover,,oglethorpe,1174.0,4.0
+three pointer,missed,Centre,1144.0,0.0
+block,,oglethorpe,1144.0,30.0
+defensive rebound,,oglethorpe,,
+three pointer,missed,oglethorpe,1120.0,6.0
+defensive rebound,,Centre,,
+foul,,oglethorpe,1104.0,14.0
+free throw,good,Centre,1104.0,30.0
+free throw,good,Centre,1104.0,30.0
+turnover,,oglethorpe,1102.0,28.0
+assist,,Centre,,
+jumper,good,Centre,1090.0,18.0
+jumper,missed,oglethorpe,1053.0,23.0
+block,,Centre,1053.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,1040.0,17.0
+steal,,oglethorpe,1040.0,30.0
+jumper,missed,oglethorpe,1035.0,25.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,1021.0,16.0
+assist,,Centre,,
+timeout,,Centre,1021.0,30.0
+three pointer,missed,oglethorpe,1005.0,14.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,991.0,16.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,986.0,25.0
+offensive rebound,,Centre,,
+subbing in,,oglethorpe,979.0,23.0
+subbing out,,oglethorpe,979.0,23.0
+layup,good,Centre,976.0,20.0
+assist,,Centre,,
+timeout,,Centre,975.0,29.0
+three pointer,good,oglethorpe,955.0,9.0
+assist,,oglethorpe,,
+turnover,,Centre,921.0,26.0
+steal,,oglethorpe,919.0,28.0
+three pointer,missed,oglethorpe,908.0,19.0
+defensive rebound,,Centre,,
+turnover,,Centre,890.0,12.0
+steal,,oglethorpe,889.0,29.0
+layup,good,oglethorpe,887.0,28.0
+assist,,oglethorpe,,
+turnover,,Centre,878.0,21.0
+steal,,oglethorpe,876.0,28.0
+jumper,missed,oglethorpe,874.0,28.0
+defensive rebound,,Centre,,
+timeout,,Centre,870.0,26.0
+subbing in,,Centre,870.0,26.0
+subbing in,,Centre,870.0,26.0
+subbing out,,Centre,870.0,26.0
+subbing out,,Centre,870.0,26.0
+subbing in,,oglethorpe,870.0,26.0
+subbing in,,oglethorpe,870.0,26.0
+subbing out,,oglethorpe,870.0,26.0
+subbing out,,oglethorpe,870.0,26.0
+turnover,,Centre,852.0,8.0
+steal,,oglethorpe,851.0,29.0
+layup,missed,oglethorpe,846.0,25.0
+defensive rebound,,Centre,,
+foul,,oglethorpe,826.0,10.0
+free throw,good,Centre,826.0,30.0
+free throw,good,Centre,826.0,30.0
+subbing in,,Centre,826.0,30.0
+subbing in,,Centre,826.0,30.0
+subbing out,,Centre,826.0,30.0
+subbing out,,Centre,826.0,30.0
+three pointer,good,oglethorpe,812.0,16.0
+assist,,oglethorpe,,
+jumper,missed,Centre,779.0,27.0
+defensive rebound,,oglethorpe,,
+jumper,missed,oglethorpe,760.0,11.0
+offensive rebound,,oglethorpe,,
+foul,,Centre,758.0,28.0
+jumper,missed,oglethorpe,754.0,26.0
+offensive rebound,,oglethorpe,,
+three pointer,missed,oglethorpe,751.0,27.0
+defensive rebound,,Centre,,
+jumper,good,Centre,741.0,20.0
+assist,,Centre,,
+three pointer,good,oglethorpe,719.0,8.0
+assist,,oglethorpe,,
+three pointer,missed,Centre,694.0,5.0
+defensive rebound,,oglethorpe,,
+turnover,,oglethorpe,670.0,6.0
+steal,,Centre,670.0,30.0
+subbing in,,Centre,670.0,30.0
+subbing in,,Centre,670.0,30.0
+subbing out,,Centre,670.0,30.0
+subbing out,,Centre,670.0,30.0
+subbing in,,oglethorpe,670.0,30.0
+subbing in,,oglethorpe,670.0,30.0
+subbing in,,oglethorpe,670.0,30.0
+subbing out,,oglethorpe,670.0,30.0
+subbing out,,oglethorpe,670.0,30.0
+subbing out,,oglethorpe,670.0,30.0
+jumper,missed,Centre,659.0,19.0
+defensive rebound,,oglethorpe,,
+jumper,missed,oglethorpe,635.0,6.0
+defensive rebound,,Centre,,
+turnover,,Centre,632.0,27.0
+jumper,good,oglethorpe,631.0,29.0
+assist,,oglethorpe,,
+jumper,missed,Centre,612.0,11.0
+defensive rebound,,oglethorpe,,
+three pointer,missed,oglethorpe,584.0,2.0
+offensive rebound,,oglethorpe,,
+foul,,Centre,580.0,26.0
+subbing in,,Centre,580.0,30.0
+subbing out,,Centre,580.0,30.0
+subbing in,,oglethorpe,580.0,30.0
+subbing in,,oglethorpe,580.0,30.0
+subbing out,,oglethorpe,580.0,30.0
+subbing out,,oglethorpe,580.0,30.0
+three pointer,missed,oglethorpe,575.0,25.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,554.0,9.0
+defensive rebound,,oglethorpe,,
+three pointer,missed,oglethorpe,537.0,13.0
+defensive rebound,,Centre,,
+layup,missed,Centre,526.0,19.0
+block,,oglethorpe,526.0,19.0
+offensive rebound,,Centre,,
+foul,,oglethorpe,524.0,17.0
+free throw,good,Centre,524.0,30.0
+free throw,good,Centre,524.0,30.0
+subbing in,,Centre,524.0,30.0
+subbing in,,Centre,524.0,30.0
+subbing out,,Centre,524.0,30.0
+subbing out,,Centre,524.0,30.0
+subbing in,,oglethorpe,524.0,30.0
+subbing out,,oglethorpe,524.0,30.0
+three pointer,missed,oglethorpe,497.0,3.0
+offensive rebound,,oglethorpe,,
+turnover,,oglethorpe,482.0,15.0
+jumper,missed,Centre,455.0,3.0
+defensive rebound,,oglethorpe,,
+three pointer,good,oglethorpe,431.0,6.0
+assist,,oglethorpe,,
+layup,missed,Centre,409.0,8.0
+defensive rebound,,oglethorpe,,
+jumper,missed,oglethorpe,396.0,17.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,384.0,18.0
+assist,,Centre,,
+jumper,missed,oglethorpe,360.0,6.0
+defensive rebound,,Centre,,
+timeout,,Centre,357.0,27.0
+subbing in,,Centre,357.0,27.0
+subbing in,,Centre,357.0,27.0
+subbing in,,Centre,357.0,27.0
+subbing out,,Centre,357.0,27.0
+subbing out,,Centre,357.0,27.0
+subbing out,,Centre,357.0,27.0
+subbing in,,oglethorpe,357.0,27.0
+subbing in,,oglethorpe,357.0,27.0
+subbing out,,oglethorpe,357.0,27.0
+subbing out,,oglethorpe,357.0,27.0
+turnover,,Centre,326.0,26.0
+jumper,missed,oglethorpe,303.0,7.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,286.0,13.0
+defensive rebound,,oglethorpe,,
+three pointer,missed,oglethorpe,270.0,14.0
+defensive rebound,,Centre,,
+turnover,,Centre,264.0,24.0
+steal,,oglethorpe,262.0,28.0
+layup,good,oglethorpe,259.0,27.0
+foul,,oglethorpe,234.0,5.0
+subbing in,,Centre,234.0,30.0
+subbing out,,Centre,234.0,30.0
+subbing in,,oglethorpe,234.0,30.0
+subbing in,,oglethorpe,234.0,30.0
+subbing out,,oglethorpe,234.0,30.0
+subbing out,,oglethorpe,234.0,30.0
+three pointer,missed,Centre,232.0,28.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,225.0,23.0
+defensive rebound,,oglethorpe,,
+foul,,Centre,219.0,24.0
+subbing in,,Centre,219.0,30.0
+subbing out,,Centre,219.0,30.0
+jumper,good,oglethorpe,195.0,6.0
+foul,,oglethorpe,180.0,15.0
+subbing in,,oglethorpe,180.0,30.0
+subbing out,,oglethorpe,180.0,30.0
+jumper,missed,Centre,177.0,27.0
+defensive rebound,,oglethorpe,,
+three pointer,missed,oglethorpe,148.0,1.0
+defensive rebound,,Centre,,
+foul,,oglethorpe,134.0,16.0
+free throw,missed,Centre,134.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,134.0,30.0
+subbing in,,Centre,134.0,30.0
+subbing out,,Centre,134.0,30.0
+subbing in,,oglethorpe,134.0,30.0
+subbing out,,oglethorpe,134.0,30.0
+layup,missed,oglethorpe,127.0,23.0
+block,,Centre,127.0,30.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,101.0,4.0
+defensive rebound,,oglethorpe,,
+subbing in,,oglethorpe,97.0,26.0
+subbing out,,oglethorpe,97.0,26.0
+jumper,missed,oglethorpe,74.0,3.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,63.0,19.0
+defensive rebound,,oglethorpe,,
+jumper,missed,oglethorpe,29.0,29.0
+offensive rebound,,oglethorpe,,
+layup,good,oglethorpe,26.0,26.0
+three pointer,good,Centre,9.0,9.0
+assist,,Centre,,
+,,,,
+subbing in,,Centre,1200.0,1167.0
+subbing out,,Centre,1200.0,1167.0
+subbing in,,oglethorpe,1200.0,1167.0
+subbing out,,oglethorpe,1200.0,1167.0
+turnover,,oglethorpe,1188.0,1155.0
+steal,,Centre,1187.0,29.0
+jumper,missed,Centre,1178.0,21.0
+defensive rebound,,oglethorpe,,
+jumper,missed,oglethorpe,1162.0,14.0
+defensive rebound,,Centre,,
+subbing in,,Centre,1149.0,17.0
+subbing out,,Centre,1149.0,17.0
+jumper,missed,Centre,1146.0,14.0
+offensive rebound,,Centre,,
+foul,,oglethorpe,1140.0,24.0
+free throw,good,Centre,1140.0,30.0
+free throw,good,Centre,1140.0,30.0
+three pointer,missed,oglethorpe,1116.0,6.0
+defensive rebound,,Centre,,
+turnover,,Centre,1107.0,21.0
+steal,,oglethorpe,1106.0,29.0
+three pointer,missed,oglethorpe,1084.0,8.0
+defensive rebound,,Centre,,
+layup,missed,Centre,1075.0,21.0
+block,,oglethorpe,1075.0,21.0
+offensive rebound,,Centre,,
+subbing in,,oglethorpe,1075.0,21.0
+subbing out,,oglethorpe,1075.0,21.0
+jumper,missed,Centre,1073.0,19.0
+offensive rebound,,Centre,,
+,,,1069.0,30.0
+three pointer,missed,oglethorpe,1041.0,28.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,1030.0,19.0
+defensive rebound,,oglethorpe,,
+jumper,good,oglethorpe,1014.0,14.0
+turnover,,Centre,993.0,9.0
+steal,,oglethorpe,992.0,29.0
+layup,missed,oglethorpe,980.0,18.0
+block,,Centre,980.0,18.0
+offensive rebound,,oglethorpe,,
+layup,missed,oglethorpe,976.0,14.0
+offensive rebound,,oglethorpe,,
+layup,missed,oglethorpe,971.0,25.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,963.0,22.0
+defensive rebound,,oglethorpe,,
+jumper,missed,oglethorpe,947.0,14.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,932.0,15.0
+offensive rebound,,Centre,,
+layup,good,Centre,928.0,26.0
+timeout,,Centre,927.0,29.0
+subbing in,,Centre,927.0,29.0
+subbing in,,Centre,927.0,29.0
+subbing in,,Centre,927.0,29.0
+subbing in,,Centre,927.0,29.0
+subbing out,,Centre,927.0,29.0
+subbing out,,Centre,927.0,29.0
+subbing out,,Centre,927.0,29.0
+subbing out,,Centre,927.0,29.0
+subbing in,,oglethorpe,927.0,29.0
+subbing in,,oglethorpe,927.0,29.0
+subbing out,,oglethorpe,927.0,29.0
+subbing out,,oglethorpe,927.0,29.0
+three pointer,good,oglethorpe,904.0,6.0
+assist,,oglethorpe,,
+layup,missed,Centre,878.0,4.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,874.0,26.0
+defensive rebound,,oglethorpe,,
+jumper,missed,oglethorpe,843.0,29.0
+defensive rebound,,Centre,,
+layup,missed,Centre,836.0,23.0
+defensive rebound,,oglethorpe,,
+jumper,missed,oglethorpe,827.0,21.0
+offensive rebound,,Centre,,
+subbing in,,oglethorpe,825.0,28.0
+subbing in,,oglethorpe,825.0,28.0
+subbing out,,oglethorpe,825.0,28.0
+subbing out,,oglethorpe,825.0,28.0
+jumper,missed,oglethorpe,817.0,20.0
+defensive rebound,,Centre,,
+turnover,,Centre,802.0,15.0
+steal,,oglethorpe,799.0,27.0
+three pointer,missed,oglethorpe,788.0,19.0
+defensive rebound,,Centre,,
+foul,,oglethorpe,775.0,17.0
+free throw,good,Centre,775.0,30.0
+free throw,good,Centre,775.0,30.0
+subbing in,,Centre,775.0,30.0
+subbing in,,Centre,775.0,30.0
+subbing in,,Centre,775.0,30.0
+subbing out,,Centre,775.0,30.0
+subbing out,,Centre,775.0,30.0
+subbing out,,Centre,775.0,30.0
+subbing in,,oglethorpe,775.0,30.0
+subbing in,,oglethorpe,775.0,30.0
+subbing out,,oglethorpe,775.0,30.0
+subbing out,,oglethorpe,775.0,30.0
+jumper,missed,oglethorpe,754.0,9.0
+offensive rebound,,oglethorpe,,
+foul,,Centre,749.0,25.0
+free throw,good,oglethorpe,749.0,30.0
+free throw,good,oglethorpe,749.0,30.0
+jumper,missed,Centre,720.0,1.0
+defensive rebound,,oglethorpe,,
+jumper,good,oglethorpe,690.0,0.0
+assist,,oglethorpe,,
+layup,missed,Centre,660.0,0.0
+defensive rebound,,oglethorpe,,
+jumper,good,oglethorpe,630.0,0.0
+three pointer,good,Centre,620.0,20.0
+assist,,Centre,,
+foul,,Centre,615.0,25.0
+free throw,missed,oglethorpe,615.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,oglethorpe,615.0,30.0
+defensive rebound,,Centre,,
+subbing in,,oglethorpe,615.0,30.0
+subbing in,,oglethorpe,615.0,30.0
+subbing out,,oglethorpe,615.0,30.0
+subbing out,,oglethorpe,615.0,30.0
+subbing in,,Centre,604.0,19.0
+subbing out,,Centre,604.0,19.0
+foul,,oglethorpe,598.0,13.0
+layup,good,Centre,596.0,28.0
+assist,,Centre,,
+jumper,missed,oglethorpe,577.0,11.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,553.0,6.0
+defensive rebound,,oglethorpe,,
+three pointer,missed,oglethorpe,534.0,11.0
+offensive rebound,,oglethorpe,,
+layup,missed,oglethorpe,517.0,13.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,509.0,22.0
+offensive rebound,,Centre,,
+layup,missed,Centre,497.0,18.0
+defensive rebound,,oglethorpe,,
+foul,,Centre,488.0,21.0
+subbing in,,Centre,488.0,30.0
+subbing in,,Centre,488.0,30.0
+subbing out,,Centre,488.0,30.0
+subbing out,,Centre,488.0,30.0
+three pointer,good,oglethorpe,477.0,19.0
+assist,,oglethorpe,,
+subbing in,,oglethorpe,464.0,17.0
+subbing out,,oglethorpe,464.0,17.0
+turnover,,Centre,452.0,5.0
+steal,,oglethorpe,452.0,30.0
+foul,,Centre,452.0,30.0
+subbing in,,oglethorpe,444.0,22.0
+subbing out,,oglethorpe,444.0,22.0
+jumper,missed,oglethorpe,433.0,11.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,413.0,10.0
+defensive rebound,,oglethorpe,,
+jumper,missed,oglethorpe,384.0,1.0
+offensive rebound,,Centre,,
+timeout,,Centre,382.0,28.0
+jumper,missed,oglethorpe,373.0,19.0
+defensive rebound,,Centre,,
+turnover,,Centre,367.0,24.0
+subbing in,,oglethorpe,367.0,30.0
+subbing out,,oglethorpe,367.0,30.0
+layup,missed,oglethorpe,341.0,4.0
+defensive rebound,,Centre,,
+subbing in,,Centre,337.0,26.0
+subbing out,,Centre,337.0,26.0
+foul,,oglethorpe,314.0,3.0
+subbing in,,oglethorpe,314.0,30.0
+subbing in,,oglethorpe,314.0,30.0
+subbing out,,oglethorpe,314.0,30.0
+subbing out,,oglethorpe,314.0,30.0
+layup,good,Centre,310.0,26.0
+assist,,Centre,,
+turnover,,oglethorpe,286.0,6.0
+steal,,Centre,285.0,29.0
+three pointer,good,Centre,281.0,26.0
+assist,,Centre,,
+timeout,,Centre,277.0,26.0
+foul,,Centre,261.0,10.0
+jumper,good,oglethorpe,256.0,25.0
+jumper,missed,Centre,234.0,8.0
+offensive rebound,,Centre,,
+foul,,oglethorpe,231.0,27.0
+free throw,good,Centre,231.0,30.0
+free throw,good,Centre,231.0,30.0
+subbing in,,oglethorpe,231.0,30.0
+subbing out,,oglethorpe,231.0,30.0
+turnover,,oglethorpe,225.0,24.0
+steal,,Centre,223.0,28.0
+foul,,oglethorpe,213.0,20.0
+foul,,oglethorpe,204.0,21.0
+free throw,good,Centre,204.0,30.0
+free throw,good,Centre,204.0,30.0
+turnover,,oglethorpe,182.0,8.0
+steal,,Centre,181.0,29.0
+layup,good,Centre,161.0,10.0
+assist,,Centre,,
+timeout,,Centre,159.0,28.0
+three pointer,missed,oglethorpe,135.0,4.0
+offensive rebound,,oglethorpe,,
+foul,,Centre,132.0,27.0
+timeout,,Centre,132.0,30.0
+jumper,missed,oglethorpe,129.0,27.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,109.0,10.0
+offensive rebound,,Centre,,
+turnover,,Centre,99.0,20.0
+steal,,oglethorpe,99.0,30.0
+turnover,,oglethorpe,87.0,18.0
+steal,,Centre,86.0,29.0
+turnover,,Centre,60.0,4.0
+foul,,oglethorpe,47.0,17.0
+turnover,,oglethorpe,47.0,30.0
+subbing in,,oglethorpe,47.0,30.0
+subbing in,,oglethorpe,47.0,30.0
+subbing out,,oglethorpe,47.0,30.0
+subbing out,,oglethorpe,47.0,30.0
+jumper,missed,Centre,31.0,14.0
+defensive rebound,,oglethorpe,,
+layup,good,oglethorpe,17.0,17.0

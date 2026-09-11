@@ -1,0 +1,380 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+three pointer,good,Centre,1173.0,603.0
+assist,,Centre,,
+jumper,good,university of dallas,1154.0,11.0
+assist,,university of dallas,,
+steal,,university of dallas,1135.0,11.0
+turnover,,Centre,1133.0,28.0
+three pointer,missed,university of dallas,1128.0,25.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,1114.0,16.0
+defensive rebound,,university of dallas,,
+three pointer,missed,university of dallas,1100.0,16.0
+defensive rebound,,Centre,,
+turnover,,Centre,1093.0,23.0
+turnover,,university of dallas,1080.0,17.0
+steal,,Centre,1079.0,29.0
+jumper,missed,Centre,1072.0,23.0
+defensive rebound,,university of dallas,,
+three pointer,missed,university of dallas,1065.0,23.0
+defensive rebound,,Centre,,
+steal,,university of dallas,1059.0,24.0
+turnover,,Centre,1057.0,28.0
+jumper,missed,university of dallas,1050.0,23.0
+defensive rebound,,Centre,,
+turnover,,Centre,1032.0,12.0
+jumper,missed,university of dallas,1015.0,13.0
+defensive rebound,,Centre,,
+foul,,university of dallas,1003.0,18.0
+layup,good,Centre,979.0,6.0
+foul,,university of dallas,979.0,30.0
+timeout,,Centre,979.0,30.0
+free throw,missed,Centre,979.0,30.0
+defensive rebound,,university of dallas,,
+three pointer,good,university of dallas,965.0,16.0
+layup,missed,Centre,947.0,12.0
+defensive rebound,,Centre,,
+steal,,Centre,923.0,6.0
+turnover,,university of dallas,921.0,28.0
+turnover,,Centre,914.0,23.0
+three pointer,missed,university of dallas,895.0,11.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,868.0,3.0
+defensive rebound,,university of dallas,,
+three pointer,missed,university of dallas,860.0,22.0
+defensive rebound,,Centre,,
+foul,,university of dallas,853.0,23.0
+three pointer,missed,Centre,847.0,24.0
+defensive rebound,,Centre,,
+turnover,,university of dallas,832.0,15.0
+three pointer,missed,Centre,810.0,8.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,805.0,25.0
+offensive rebound,,Centre,,
+layup,missed,Centre,800.0,25.0
+defensive rebound,,university of dallas,,
+three pointer,missed,university of dallas,785.0,15.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,776.0,21.0
+defensive rebound,,university of dallas,,
+jumper,missed,university of dallas,752.0,6.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,739.0,17.0
+defensive rebound,,university of dallas,,
+jumper,missed,university of dallas,728.0,19.0
+defensive rebound,,Centre,,
+timeout,,Centre,724.0,26.0
+layup,good,Centre,715.0,17.0
+layup,missed,university of dallas,687.0,2.0
+defensive rebound,,Centre,,
+layup,good,Centre,687.0,30.0
+assist,,Centre,,
+jumper,good,university of dallas,672.0,15.0
+assist,,university of dallas,,
+foul,,university of dallas,635.0,23.0
+free throw,missed,Centre,635.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,635.0,30.0
+layup,missed,university of dallas,607.0,2.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,597.0,20.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,590.0,23.0
+offensive rebound,,Centre,,
+foul,,university of dallas,585.0,25.0
+free throw,good,Centre,585.0,30.0
+free throw,missed,Centre,585.0,30.0
+defensive rebound,,university of dallas,,
+foul,,Centre,585.0,30.0
+turnover,,university of dallas,574.0,19.0
+turnover,,Centre,561.0,17.0
+turnover,,university of dallas,554.0,23.0
+steal,,Centre,551.0,27.0
+foul,,university of dallas,548.0,27.0
+free throw,good,Centre,548.0,30.0
+timeout,,Centre,548.0,30.0
+jumper,missed,university of dallas,548.0,30.0
+block,,Centre,548.0,30.0
+defensive rebound,,Centre,,
+free throw,good,Centre,548.0,30.0
+jumper,missed,university of dallas,525.0,7.0
+defensive rebound,,Centre,,
+turnover,,Centre,518.0,23.0
+steal,,university of dallas,517.0,29.0
+turnover,,university of dallas,515.0,28.0
+steal,,Centre,514.0,29.0
+three pointer,missed,Centre,512.0,28.0
+defensive rebound,,Centre,,
+jumper,missed,university of dallas,495.0,13.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,479.0,14.0
+offensive rebound,,Centre,,
+layup,missed,Centre,472.0,23.0
+defensive rebound,,university of dallas,,
+foul,,Centre,469.0,27.0
+jumper,missed,university of dallas,455.0,16.0
+offensive rebound,,Centre,,
+foul,,Centre,453.0,28.0
+turnover,,university of dallas,447.0,24.0
+steal,,Centre,446.0,29.0
+turnover,,Centre,444.0,28.0
+layup,good,university of dallas,434.0,20.0
+foul,,Centre,434.0,30.0
+free throw,missed,university of dallas,434.0,30.0
+defensive rebound,,Centre,,
+layup,good,Centre,422.0,18.0
+turnover,,university of dallas,406.0,14.0
+steal,,Centre,405.0,29.0
+foul,,university of dallas,396.0,21.0
+free throw,good,Centre,396.0,30.0
+free throw,good,Centre,396.0,30.0
+three pointer,missed,university of dallas,383.0,17.0
+offensive rebound,,university of dallas,,
+jumper,missed,university of dallas,376.0,23.0
+offensive rebound,,university of dallas,,
+layup,missed,university of dallas,374.0,28.0
+defensive rebound,,Centre,,
+layup,good,Centre,356.0,12.0
+assist,,Centre,,
+timeout,,Centre,353.0,27.0
+turnover,,university of dallas,344.0,18.0
+steal,,Centre,342.0,28.0
+foul,,university of dallas,340.0,28.0
+free throw,missed,Centre,340.0,30.0
+defensive rebound,,university of dallas,,
+turnover,,university of dallas,329.0,19.0
+steal,,Centre,327.0,28.0
+layup,missed,Centre,321.0,24.0
+offensive rebound,,Centre,,
+jumper,good,Centre,317.0,26.0
+foul,,Centre,303.0,16.0
+layup,good,university of dallas,282.0,9.0
+three pointer,good,Centre,257.0,5.0
+assist,,Centre,,
+jumper,missed,university of dallas,232.0,5.0
+defensive rebound,,Centre,,
+foul,,university of dallas,216.0,14.0
+free throw,missed,Centre,216.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,216.0,30.0
+jumper,missed,university of dallas,205.0,19.0
+defensive rebound,,Centre,,
+turnover,,Centre,181.0,6.0
+foul,,Centre,167.0,16.0
+free throw,missed,university of dallas,167.0,30.0
+deadball rebound,,Centre,,
+free throw,good,university of dallas,167.0,30.0
+three pointer,missed,Centre,158.0,21.0
+defensive rebound,,university of dallas,,
+foul,,Centre,157.0,29.0
+free throw,missed,university of dallas,157.0,30.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,135.0,8.0
+defensive rebound,,university of dallas,,
+turnover,,university of dallas,116.0,11.0
+three pointer,missed,Centre,98.0,12.0
+defensive rebound,,university of dallas,,
+steal,,Centre,73.0,5.0
+turnover,,university of dallas,70.0,27.0
+layup,good,university of dallas,63.0,23.0
+assist,,university of dallas,,
+steal,,university of dallas,54.0,21.0
+turnover,,Centre,53.0,29.0
+jumper,missed,Centre,37.0,14.0
+offensive rebound,,Centre,,
+layup,missed,Centre,29.0,29.0
+block,,university of dallas,29.0,29.0
+defensive rebound,,university of dallas,,
+layup,good,university of dallas,9.0,9.0
+,,,,
+jumper,good,university of dallas,1192.0,1185.0
+steal,,university of dallas,1158.0,26.0
+turnover,,Centre,1156.0,28.0
+layup,good,university of dallas,1154.0,28.0
+assist,,university of dallas,,
+three pointer,missed,Centre,1124.0,0.0
+defensive rebound,,Centre,,
+turnover,,university of dallas,1116.0,22.0
+steal,,Centre,1114.0,28.0
+layup,missed,Centre,1112.0,28.0
+offensive rebound,,Centre,,
+foul,,university of dallas,1109.0,27.0
+free throw,good,Centre,1109.0,30.0
+free throw,good,Centre,1109.0,30.0
+jumper,missed,university of dallas,1096.0,17.0
+offensive rebound,,university of dallas,,
+three pointer,good,university of dallas,1090.0,24.0
+assist,,university of dallas,,
+timeout,,Centre,1082.0,22.0
+layup,good,Centre,1071.0,11.0
+assist,,Centre,,
+turnover,,university of dallas,1063.0,22.0
+steal,,Centre,1060.0,27.0
+layup,good,Centre,1059.0,29.0
+jumper,missed,university of dallas,1050.0,21.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,1036.0,16.0
+offensive rebound,,Centre,,
+layup,good,Centre,1030.0,24.0
+jumper,missed,university of dallas,1006.0,6.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,997.0,21.0
+defensive rebound,,university of dallas,,
+foul,,Centre,981.0,14.0
+free throw,missed,university of dallas,981.0,30.0
+deadball rebound,,Centre,,
+free throw,good,university of dallas,980.0,30.0
+layup,good,Centre,973.0,22.0
+assist,,Centre,,
+jumper,good,university of dallas,960.0,17.0
+assist,,university of dallas,,
+layup,missed,Centre,952.0,22.0
+offensive rebound,,Centre,,
+layup,good,Centre,949.0,27.0
+timeout,,Centre,944.0,25.0
+three pointer,good,university of dallas,918.0,29.0
+assist,,university of dallas,,
+turnover,,Centre,899.0,11.0
+steal,,university of dallas,895.0,26.0
+foul,,Centre,892.0,27.0
+jumper,missed,university of dallas,887.0,25.0
+offensive rebound,,university of dallas,,
+foul,,Centre,885.0,28.0
+free throw,good,university of dallas,885.0,30.0
+free throw,missed,university of dallas,885.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,859.0,4.0
+steal,,university of dallas,858.0,29.0
+jumper,missed,university of dallas,836.0,8.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,828.0,22.0
+assist,,Centre,,
+jumper,missed,university of dallas,802.0,4.0
+offensive rebound,,university of dallas,,
+foul,,Centre,793.0,21.0
+free throw,good,university of dallas,793.0,30.0
+free throw,good,university of dallas,793.0,30.0
+turnover,,Centre,776.0,13.0
+steal,,university of dallas,776.0,30.0
+layup,missed,university of dallas,764.0,18.0
+defensive rebound,,Centre,,
+layup,missed,Centre,751.0,17.0
+defensive rebound,,university of dallas,,
+three pointer,missed,university of dallas,729.0,8.0
+defensive rebound,,Centre,,
+foul,,university of dallas,718.0,19.0
+free throw,good,Centre,718.0,30.0
+free throw,good,Centre,718.0,30.0
+turnover,,university of dallas,706.0,18.0
+steal,,Centre,704.0,28.0
+layup,good,Centre,701.0,27.0
+foul,,Centre,693.0,22.0
+free throw,good,university of dallas,693.0,30.0
+free throw,good,university of dallas,693.0,30.0
+turnover,,Centre,668.0,5.0
+three pointer,missed,university of dallas,656.0,18.0
+defensive rebound,,Centre,,
+turnover,,Centre,648.0,22.0
+steal,,university of dallas,647.0,29.0
+layup,good,university of dallas,644.0,27.0
+three pointer,missed,Centre,607.0,23.0
+offensive rebound,,Centre,,
+layup,missed,Centre,604.0,27.0
+defensive rebound,,Centre,,
+layup,missed,university of dallas,588.0,14.0
+defensive rebound,,Centre,,
+turnover,,Centre,580.0,22.0
+turnover,,university of dallas,563.0,13.0
+steal,,Centre,561.0,28.0
+jumper,good,Centre,555.0,24.0
+assist,,Centre,,
+three pointer,missed,university of dallas,534.0,9.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,515.0,11.0
+defensive rebound,,university of dallas,,
+foul,,Centre,511.0,26.0
+turnover,,university of dallas,505.0,24.0
+jumper,missed,Centre,496.0,21.0
+defensive rebound,,university of dallas,,
+foul,,Centre,494.0,28.0
+free throw,good,university of dallas,494.0,30.0
+free throw,missed,university of dallas,494.0,30.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,480.0,16.0
+offensive rebound,,Centre,,
+layup,missed,Centre,476.0,26.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,470.0,24.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,450.0,10.0
+defensive rebound,,university of dallas,,
+timeout,,Centre,444.0,24.0
+jumper,missed,university of dallas,439.0,19.0
+defensive rebound,,Centre,,
+layup,missed,Centre,432.0,23.0
+defensive rebound,,university of dallas,,
+foul,,Centre,419.0,17.0
+free throw,good,university of dallas,419.0,30.0
+free throw,good,university of dallas,419.0,30.0
+three pointer,good,Centre,399.0,10.0
+assist,,Centre,,
+layup,missed,university of dallas,383.0,14.0
+block,,Centre,383.0,30.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,370.0,17.0
+assist,,Centre,,
+layup,good,university of dallas,355.0,15.0
+layup,good,Centre,329.0,4.0
+three pointer,missed,university of dallas,313.0,14.0
+defensive rebound,,Centre,,
+layup,good,Centre,300.0,17.0
+assist,,Centre,,
+timeout,,Centre,294.0,24.0
+foul,,Centre,283.0,13.0
+free throw,missed,university of dallas,283.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,university of dallas,283.0,30.0
+defensive rebound,,Centre,,
+foul,,university of dallas,268.0,15.0
+layup,missed,Centre,266.0,28.0
+defensive rebound,,university of dallas,,
+three pointer,missed,university of dallas,255.0,19.0
+offensive rebound,,university of dallas,,
+three pointer,missed,university of dallas,247.0,22.0
+offensive rebound,,Centre,,
+jumper,missed,university of dallas,235.0,18.0
+defensive rebound,,Centre,,
+foul,,university of dallas,233.0,28.0
+layup,missed,Centre,216.0,13.0
+defensive rebound,,university of dallas,,
+three pointer,good,university of dallas,201.0,15.0
+assist,,university of dallas,,
+layup,good,Centre,182.0,11.0
+assist,,Centre,,
+layup,good,university of dallas,167.0,15.0
+timeout,,Centre,154.0,17.0
+jumper,missed,Centre,131.0,24.0
+defensive rebound,,university of dallas,,
+turnover,,university of dallas,122.0,21.0
+steal,,Centre,120.0,28.0
+turnover,,Centre,100.0,10.0
+steal,,university of dallas,100.0,30.0
+foul,,university of dallas,95.0,25.0
+turnover,,Centre,85.0,20.0
+steal,,university of dallas,85.0,30.0
+foul,,Centre,85.0,30.0
+layup,missed,university of dallas,85.0,30.0
+defensive rebound,,Centre,,
+free throw,missed,university of dallas,85.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,university of dallas,85.0,30.0
+defensive rebound,,Centre,,
+foul,,university of dallas,85.0,30.0
+three pointer,missed,Centre,71.0,16.0
+defensive rebound,,university of dallas,,
+three pointer,missed,university of dallas,65.0,24.0
+defensive rebound,,Centre,,
+turnover,,Centre,42.0,7.0
+steal,,university of dallas,40.0,40.0
+jumper,good,university of dallas,34.0,34.0

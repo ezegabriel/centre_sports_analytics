@@ -1,0 +1,418 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+turnover,,sewanee,1186.0,16.0
+steal,,Centre,1184.0,28.0
+turnover,,Centre,1176.0,22.0
+turnover,,sewanee,1161.0,15.0
+steal,,Centre,1159.0,28.0
+three pointer,missed,Centre,1143.0,14.0
+defensive rebound,,sewanee,,
+turnover,,sewanee,1131.0,18.0
+steal,,Centre,1129.0,28.0
+jumper,good,Centre,1124.0,25.0
+timeout,,Centre,1121.0,27.0
+jumper,missed,sewanee,1108.0,14.0
+defensive rebound,,Centre,,
+foul,,sewanee,1103.0,25.0
+layup,missed,Centre,1102.0,29.0
+block,,sewanee,1102.0,30.0
+defensive rebound,,sewanee,,
+three pointer,good,sewanee,1078.0,6.0
+three pointer,missed,Centre,1046.0,28.0
+offensive rebound,,Centre,,
+foul,,sewanee,1041.0,25.0
+free throw,good,Centre,1041.0,30.0
+free throw,good,Centre,1041.0,30.0
+subbing in,,Centre,1041.0,30.0
+subbing out,,Centre,1041.0,30.0
+foul,,Centre,1026.0,15.0
+three pointer,good,sewanee,1001.0,5.0
+assist,,sewanee,,
+foul,,sewanee,978.0,7.0
+subbing in,,Centre,978.0,30.0
+subbing out,,Centre,978.0,30.0
+subbing in,,sewanee,978.0,30.0
+subbing out,,sewanee,978.0,30.0
+jumper,good,Centre,974.0,26.0
+turnover,,sewanee,951.0,7.0
+subbing in,,sewanee,951.0,30.0
+subbing out,,sewanee,951.0,30.0
+turnover,,Centre,929.0,8.0
+steal,,sewanee,929.0,30.0
+timeout,,Centre,919.0,20.0
+subbing in,,Centre,911.0,12.0
+subbing out,,Centre,911.0,12.0
+jumper,good,sewanee,905.0,6.0
+foul,,sewanee,876.0,1.0
+free throw,missed,Centre,876.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,876.0,30.0
+subbing in,,Centre,876.0,30.0
+subbing in,,Centre,876.0,30.0
+subbing out,,Centre,876.0,30.0
+subbing out,,Centre,876.0,30.0
+subbing in,,sewanee,876.0,30.0
+subbing out,,sewanee,876.0,30.0
+turnover,,sewanee,860.0,14.0
+jumper,missed,Centre,847.0,17.0
+defensive rebound,,sewanee,,
+jumper,good,sewanee,819.0,2.0
+jumper,missed,Centre,795.0,6.0
+defensive rebound,,sewanee,,
+three pointer,missed,sewanee,779.0,14.0
+defensive rebound,,Centre,,
+layup,missed,Centre,772.0,23.0
+defensive rebound,,sewanee,,
+jumper,missed,sewanee,765.0,23.0
+offensive rebound,,Centre,,
+layup,good,sewanee,761.0,26.0
+subbing in,,Centre,761.0,30.0
+subbing in,,Centre,761.0,30.0
+subbing out,,Centre,761.0,30.0
+subbing out,,Centre,761.0,30.0
+subbing in,,sewanee,761.0,30.0
+subbing in,,sewanee,761.0,30.0
+subbing in,,sewanee,761.0,30.0
+subbing out,,sewanee,761.0,30.0
+subbing out,,sewanee,761.0,30.0
+subbing out,,sewanee,761.0,30.0
+foul,,sewanee,738.0,7.0
+subbing in,,Centre,738.0,30.0
+subbing out,,Centre,738.0,30.0
+turnover,,Centre,735.0,27.0
+three pointer,good,sewanee,712.0,7.0
+assist,,sewanee,,
+turnover,,Centre,700.0,18.0
+steal,,sewanee,698.0,28.0
+turnover,,sewanee,684.0,16.0
+steal,,Centre,681.0,27.0
+jumper,good,Centre,672.0,21.0
+turnover,,sewanee,642.0,0.0
+steal,,Centre,641.0,29.0
+jumper,good,Centre,638.0,27.0
+assist,,Centre,,
+layup,good,sewanee,612.0,4.0
+assist,,sewanee,,
+timeout,,Centre,606.0,24.0
+three pointer,good,Centre,584.0,2.0
+assist,,Centre,,
+three pointer,missed,sewanee,557.0,3.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,530.0,3.0
+defensive rebound,,sewanee,,
+three pointer,good,sewanee,516.0,16.0
+assist,,sewanee,,
+jumper,missed,Centre,490.0,4.0
+defensive rebound,,sewanee,,
+turnover,,sewanee,467.0,7.0
+layup,missed,Centre,467.0,30.0
+defensive rebound,,sewanee,,
+subbing in,,Centre,467.0,30.0
+subbing in,,Centre,467.0,30.0
+subbing in,,Centre,467.0,30.0
+subbing out,,Centre,467.0,30.0
+subbing out,,Centre,467.0,30.0
+subbing out,,Centre,467.0,30.0
+subbing in,,sewanee,467.0,30.0
+subbing in,,sewanee,467.0,30.0
+subbing out,,sewanee,467.0,30.0
+subbing out,,sewanee,467.0,30.0
+layup,missed,sewanee,458.0,21.0
+defensive rebound,,Centre,,
+turnover,,Centre,449.0,21.0
+three pointer,missed,sewanee,438.0,19.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,426.0,18.0
+assist,,Centre,,
+jumper,good,sewanee,391.0,25.0
+foul,,sewanee,366.0,5.0
+free throw,good,Centre,366.0,30.0
+free throw,good,Centre,366.0,30.0
+subbing in,,Centre,366.0,30.0
+subbing out,,Centre,366.0,30.0
+subbing in,,sewanee,366.0,30.0
+subbing in,,sewanee,366.0,30.0
+subbing in,,sewanee,366.0,30.0
+subbing out,,sewanee,366.0,30.0
+subbing out,,sewanee,366.0,30.0
+subbing out,,sewanee,366.0,30.0
+three pointer,good,sewanee,346.0,10.0
+assist,,sewanee,,
+foul,,sewanee,336.0,20.0
+free throw,missed,Centre,336.0,30.0
+defensive rebound,,sewanee,,
+subbing in,,Centre,328.0,22.0
+subbing out,,Centre,328.0,22.0
+jumper,good,sewanee,306.0,0.0
+layup,good,Centre,284.0,8.0
+foul,,sewanee,281.0,27.0
+free throw,good,Centre,281.0,30.0
+foul,,Centre,258.0,7.0
+free throw,good,sewanee,258.0,30.0
+free throw,good,sewanee,258.0,30.0
+layup,good,Centre,253.0,25.0
+turnover,,sewanee,235.0,12.0
+steal,,Centre,234.0,29.0
+layup,good,Centre,231.0,27.0
+timeout,,Centre,227.0,26.0
+turnover,,sewanee,224.0,23.0
+steal,,Centre,223.0,29.0
+foul,,sewanee,221.0,28.0
+free throw,good,Centre,221.0,30.0
+free throw,good,Centre,221.0,30.0
+subbing in,,sewanee,221.0,30.0
+subbing out,,sewanee,221.0,30.0
+three pointer,missed,sewanee,203.0,12.0
+offensive rebound,,sewanee,,
+foul,,Centre,193.0,20.0
+free throw,good,sewanee,193.0,30.0
+free throw,good,sewanee,193.0,30.0
+turnover,,Centre,188.0,25.0
+steal,,sewanee,186.0,28.0
+three pointer,missed,sewanee,182.0,26.0
+offensive rebound,,sewanee,,
+jumper,missed,sewanee,178.0,26.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,166.0,18.0
+defensive rebound,,Centre,,
+subbing in,,Centre,165.0,29.0
+subbing out,,Centre,165.0,29.0
+turnover,,sewanee,156.0,20.0
+subbing in,,Centre,155.0,29.0
+subbing out,,Centre,155.0,29.0
+jumper,missed,Centre,134.0,8.0
+defensive rebound,,sewanee,,
+jumper,missed,sewanee,118.0,14.0
+defensive rebound,,Centre,,
+foul,,sewanee,109.0,21.0
+free throw,good,Centre,109.0,30.0
+free throw,missed,Centre,109.0,30.0
+defensive rebound,,sewanee,,
+turnover,,sewanee,84.0,5.0
+jumper,missed,Centre,73.0,19.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,68.0,25.0
+block,,sewanee,68.0,30.0
+defensive rebound,,sewanee,,
+three pointer,missed,sewanee,57.0,19.0
+defensive rebound,,Centre,,
+turnover,,Centre,35.0,8.0
+jumper,missed,sewanee,10.0,10.0
+defensive rebound,,Centre,,
+,,,,
+turnover,,Centre,1174.0,1169.0
+steal,,sewanee,1172.0,28.0
+layup,missed,sewanee,1158.0,16.0
+defensive rebound,,Centre,,
+foul,,sewanee,1149.0,21.0
+jumper,missed,Centre,1137.0,18.0
+block,,sewanee,1137.0,18.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,1132.0,13.0
+offensive rebound,,Centre,,
+foul,,sewanee,1129.0,27.0
+free throw,good,Centre,1129.0,30.0
+free throw,missed,Centre,1129.0,30.0
+defensive rebound,,sewanee,,
+subbing in,,Centre,1129.0,30.0
+subbing out,,Centre,1129.0,30.0
+three pointer,missed,sewanee,1103.0,4.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,1081.0,8.0
+offensive rebound,,Centre,,
+layup,missed,Centre,1077.0,26.0
+defensive rebound,,sewanee,,
+turnover,,sewanee,1059.0,12.0
+foul,,sewanee,1059.0,30.0
+subbing in,,sewanee,1059.0,30.0
+subbing out,,sewanee,1059.0,30.0
+layup,missed,Centre,1048.0,19.0
+offensive rebound,,Centre,,
+layup,missed,Centre,1043.0,25.0
+defensive rebound,,sewanee,,
+jumper,missed,sewanee,1019.0,6.0
+defensive rebound,,Centre,,
+layup,good,Centre,1011.0,22.0
+assist,,Centre,,
+three pointer,missed,sewanee,991.0,10.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,969.0,8.0
+defensive rebound,,sewanee,,
+foul,,Centre,949.0,10.0
+free throw,good,sewanee,949.0,30.0
+free throw,missed,sewanee,949.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,949.0,30.0
+subbing in,,Centre,949.0,30.0
+subbing out,,Centre,949.0,30.0
+subbing out,,Centre,949.0,30.0
+foul,,sewanee,946.0,27.0
+jumper,good,Centre,924.0,8.0
+three pointer,good,sewanee,903.0,9.0
+assist,,sewanee,,
+jumper,good,Centre,878.0,5.0
+three pointer,missed,sewanee,863.0,15.0
+offensive rebound,,sewanee,,
+jumper,missed,sewanee,851.0,18.0
+offensive rebound,,sewanee,,
+foul,,Centre,848.0,27.0
+free throw,good,sewanee,848.0,30.0
+free throw,good,sewanee,848.0,30.0
+subbing in,,Centre,848.0,30.0
+subbing in,,Centre,848.0,30.0
+subbing out,,Centre,848.0,30.0
+subbing out,,Centre,848.0,30.0
+subbing in,,sewanee,848.0,30.0
+subbing out,,sewanee,848.0,30.0
+layup,good,Centre,837.0,19.0
+turnover,,sewanee,820.0,13.0
+steal,,Centre,819.0,29.0
+layup,good,Centre,816.0,27.0
+turnover,,sewanee,807.0,21.0
+steal,,Centre,805.0,28.0
+foul,,sewanee,803.0,28.0
+timeout,,Centre,802.0,29.0
+three pointer,missed,Centre,798.0,25.0
+defensive rebound,,sewanee,,
+foul,,Centre,789.0,21.0
+jumper,missed,sewanee,788.0,29.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,778.0,20.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,751.0,3.0
+defensive rebound,,Centre,,
+subbing in,,sewanee,749.0,28.0
+subbing in,,sewanee,749.0,28.0
+subbing out,,sewanee,749.0,28.0
+subbing out,,sewanee,749.0,28.0
+foul,,Centre,741.0,20.0
+foul,,Centre,737.0,26.0
+free throw,good,sewanee,737.0,30.0
+free throw,good,sewanee,737.0,30.0
+subbing in,,Centre,737.0,30.0
+subbing out,,Centre,737.0,30.0
+three pointer,missed,Centre,713.0,6.0
+defensive rebound,,sewanee,,
+three pointer,missed,sewanee,696.0,13.0
+defensive rebound,,Centre,,
+foul,,sewanee,687.0,21.0
+free throw,missed,Centre,687.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,687.0,30.0
+subbing in,,Centre,687.0,30.0
+subbing out,,Centre,687.0,30.0
+foul,,Centre,676.0,19.0
+foul,,Centre,660.0,14.0
+free throw,good,sewanee,660.0,30.0
+free throw,good,sewanee,660.0,30.0
+foul,,sewanee,640.0,10.0
+free throw,good,Centre,640.0,30.0
+free throw,good,Centre,640.0,30.0
+subbing in,,Centre,640.0,30.0
+subbing in,,Centre,640.0,30.0
+subbing in,,Centre,640.0,30.0
+subbing out,,Centre,640.0,30.0
+subbing out,,Centre,640.0,30.0
+subbing out,,Centre,640.0,30.0
+subbing in,,sewanee,640.0,30.0
+subbing out,,sewanee,640.0,30.0
+three pointer,missed,sewanee,613.0,3.0
+offensive rebound,,sewanee,,
+turnover,,Centre,604.0,21.0
+turnover,,Centre,591.0,17.0
+steal,,sewanee,589.0,28.0
+foul,,Centre,588.0,29.0
+free throw,missed,sewanee,588.0,30.0
+defensive rebound,,Centre,,
+jumper,good,Centre,573.0,15.0
+foul,,Centre,560.0,17.0
+free throw,good,sewanee,560.0,30.0
+free throw,good,sewanee,560.0,30.0
+subbing in,,Centre,560.0,30.0
+subbing out,,Centre,560.0,30.0
+subbing in,,sewanee,560.0,30.0
+subbing out,,sewanee,560.0,30.0
+three pointer,good,Centre,550.0,20.0
+assist,,Centre,,
+jumper,missed,sewanee,539.0,19.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,525.0,16.0
+assist,,Centre,,
+timeout,,Centre,516.0,21.0
+jumper,good,sewanee,516.0,21.0
+subbing in,,Centre,516.0,21.0
+subbing in,,Centre,516.0,21.0
+subbing out,,Centre,516.0,21.0
+subbing out,,Centre,516.0,21.0
+jumper,missed,Centre,478.0,13.0
+defensive rebound,,sewanee,,
+foul,,Centre,473.0,25.0
+free throw,missed,sewanee,473.0,30.0
+deadball rebound,,Centre,,
+free throw,good,sewanee,473.0,30.0
+layup,missed,Centre,459.0,16.0
+defensive rebound,,sewanee,,
+jumper,missed,sewanee,438.0,9.0
+block,,Centre,438.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,425.0,17.0
+steal,,sewanee,423.0,28.0
+three pointer,missed,sewanee,408.0,15.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,388.0,10.0
+assist,,Centre,,
+jumper,missed,sewanee,357.0,29.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,351.0,24.0
+offensive rebound,,Centre,,
+jumper,good,Centre,343.0,22.0
+timeout,,Centre,331.0,18.0
+three pointer,missed,sewanee,331.0,18.0
+defensive rebound,,Centre,,
+subbing in,,Centre,331.0,18.0
+subbing out,,Centre,331.0,18.0
+subbing in,,sewanee,331.0,18.0
+subbing in,,sewanee,331.0,18.0
+subbing out,,sewanee,331.0,18.0
+subbing out,,sewanee,331.0,18.0
+jumper,missed,Centre,296.0,13.0
+defensive rebound,,sewanee,,
+jumper,missed,sewanee,271.0,5.0
+defensive rebound,,Centre,,
+jumper,good,Centre,245.0,4.0
+assist,,Centre,,
+foul,,sewanee,245.0,30.0
+free throw,good,Centre,245.0,30.0
+jumper,missed,sewanee,227.0,12.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,202.0,5.0
+defensive rebound,,sewanee,,
+layup,good,sewanee,186.0,14.0
+assist,,sewanee,,
+subbing in,,Centre,159.0,3.0
+subbing out,,Centre,159.0,3.0
+subbing in,,sewanee,159.0,3.0
+subbing out,,sewanee,159.0,3.0
+jumper,missed,Centre,156.0,0.0
+offensive rebound,,Centre,,
+foul,,sewanee,152.0,26.0
+free throw,missed,Centre,152.0,30.0
+deadball rebound,,Centre,,
+turnover,,Centre,148.0,26.0
+three pointer,missed,sewanee,120.0,2.0
+defensive rebound,,Centre,,
+foul,,sewanee,98.0,8.0
+free throw,good,Centre,98.0,30.0
+free throw,good,Centre,98.0,30.0
+jumper,good,sewanee,79.0,11.0
+assist,,sewanee,,
+foul,,sewanee,58.0,9.0
+free throw,good,Centre,58.0,30.0
+free throw,good,Centre,58.0,30.0
+jumper,missed,sewanee,40.0,12.0
+defensive rebound,,Centre,,
+turnover,,Centre,21.0,21.0
+steal,,sewanee,19.0,19.0
+foul,,Centre,17.0,17.0
+free throw,good,sewanee,17.0,17.0
+free throw,good,sewanee,17.0,17.0

@@ -1,0 +1,485 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+turnover,,spalding univ.,1179.0,9.0
+steal,,Centre,1178.0,29.0
+layup,good,Centre,1174.0,26.0
+assist,,Centre,,
+jumper,good,spalding univ.,1159.0,15.0
+three pointer,good,Centre,1140.0,11.0
+assist,,Centre,,
+turnover,,spalding univ.,1131.0,21.0
+steal,,Centre,1130.0,29.0
+three pointer,missed,Centre,1125.0,25.0
+defensive rebound,,spalding univ.,,
+jumper,missed,spalding univ.,1107.0,12.0
+defensive rebound,,Centre,,
+layup,good,Centre,1099.0,22.0
+assist,,Centre,,
+layup,good,spalding univ.,1085.0,16.0
+assist,,spalding univ.,,
+turnover,,Centre,1066.0,11.0
+layup,missed,spalding univ.,1053.0,17.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,1043.0,20.0
+defensive rebound,,spalding univ.,,
+layup,missed,spalding univ.,1031.0,18.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,1023.0,22.0
+offensive rebound,,Centre,,
+foul,,spalding univ.,1018.0,25.0
+free throw,missed,Centre,1018.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,Centre,1018.0,30.0
+defensive rebound,,spalding univ.,,
+subbing in,,Centre,1018.0,30.0
+subbing in,,Centre,1018.0,30.0
+subbing out,,Centre,1018.0,30.0
+subbing out,,Centre,1018.0,30.0
+turnover,,spalding univ.,1013.0,25.0
+steal,,Centre,1012.0,29.0
+layup,missed,Centre,1010.0,28.0
+defensive rebound,,spalding univ.,,
+jumper,good,spalding univ.,1005.0,25.0
+jumper,missed,Centre,981.0,6.0
+defensive rebound,,spalding univ.,,
+foul,,Centre,950.0,29.0
+free throw,good,spalding univ.,950.0,30.0
+free throw,good,spalding univ.,950.0,30.0
+subbing in,,Centre,950.0,30.0
+subbing in,,Centre,950.0,30.0
+subbing out,,Centre,950.0,30.0
+subbing out,,Centre,950.0,30.0
+jumper,good,Centre,928.0,8.0
+assist,,Centre,,
+turnover,,spalding univ.,902.0,4.0
+steal,,Centre,901.0,29.0
+layup,good,Centre,898.0,27.0
+assist,,Centre,,
+three pointer,missed,spalding univ.,886.0,18.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,878.0,22.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,868.0,20.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,863.0,25.0
+offensive rebound,,Centre,,
+layup,missed,Centre,857.0,24.0
+defensive rebound,,spalding univ.,,
+layup,missed,spalding univ.,849.0,22.0
+defensive rebound,,Centre,,
+layup,missed,Centre,843.0,24.0
+defensive rebound,,spalding univ.,,
+subbing in,,spalding univ.,838.0,25.0
+subbing in,,spalding univ.,838.0,25.0
+subbing in,,spalding univ.,838.0,25.0
+subbing out,,spalding univ.,838.0,25.0
+subbing out,,spalding univ.,838.0,25.0
+subbing out,,spalding univ.,838.0,25.0
+layup,missed,spalding univ.,811.0,28.0
+defensive rebound,,Centre,,
+turnover,,Centre,799.0,18.0
+steal,,spalding univ.,797.0,28.0
+layup,good,spalding univ.,784.0,17.0
+timeout,,Centre,780.0,26.0
+subbing in,,spalding univ.,780.0,26.0
+subbing out,,spalding univ.,780.0,26.0
+subbing in,,Centre,780.0,26.0
+subbing in,,Centre,780.0,26.0
+subbing in,,Centre,780.0,26.0
+subbing in,,Centre,780.0,26.0
+subbing out,,Centre,780.0,26.0
+subbing out,,Centre,780.0,26.0
+subbing out,,Centre,780.0,26.0
+subbing out,,Centre,780.0,26.0
+jumper,good,Centre,764.0,10.0
+layup,good,spalding univ.,749.0,15.0
+jumper,missed,Centre,730.0,11.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,727.0,27.0
+defensive rebound,,spalding univ.,,
+turnover,,spalding univ.,708.0,11.0
+subbing in,,spalding univ.,708.0,30.0
+subbing in,,spalding univ.,708.0,30.0
+subbing out,,spalding univ.,708.0,30.0
+subbing out,,spalding univ.,708.0,30.0
+foul,,spalding univ.,696.0,18.0
+free throw,good,Centre,696.0,30.0
+free throw,good,Centre,696.0,30.0
+jumper,missed,spalding univ.,665.0,29.0
+block,,Centre,665.0,30.0
+defensive rebound,,Centre,,
+layup,missed,Centre,654.0,19.0
+block,,spalding univ.,654.0,30.0
+defensive rebound,,spalding univ.,,
+turnover,,spalding univ.,648.0,24.0
+subbing in,,spalding univ.,648.0,30.0
+subbing in,,spalding univ.,648.0,30.0
+subbing out,,spalding univ.,648.0,30.0
+subbing out,,spalding univ.,648.0,30.0
+layup,good,Centre,620.0,2.0
+assist,,Centre,,
+jumper,good,spalding univ.,600.0,10.0
+assist,,spalding univ.,,
+turnover,,Centre,578.0,8.0
+steal,,spalding univ.,575.0,27.0
+turnover,,spalding univ.,573.0,28.0
+subbing in,,spalding univ.,573.0,30.0
+subbing out,,spalding univ.,573.0,30.0
+subbing in,,Centre,573.0,30.0
+subbing in,,Centre,573.0,30.0
+subbing in,,Centre,573.0,30.0
+subbing in,,Centre,573.0,30.0
+subbing out,,Centre,573.0,30.0
+subbing out,,Centre,573.0,30.0
+subbing out,,Centre,573.0,30.0
+subbing out,,Centre,573.0,30.0
+jumper,missed,Centre,558.0,15.0
+defensive rebound,,Centre,,
+subbing in,,spalding univ.,554.0,26.0
+subbing out,,spalding univ.,554.0,26.0
+foul,,Centre,542.0,14.0
+turnover,,spalding univ.,542.0,30.0
+steal,,Centre,540.0,28.0
+three pointer,missed,Centre,533.0,23.0
+defensive rebound,,spalding univ.,,
+jumper,missed,spalding univ.,526.0,23.0
+offensive rebound,,spalding univ.,,
+layup,good,spalding univ.,523.0,27.0
+turnover,,Centre,495.0,2.0
+jumper,missed,spalding univ.,495.0,30.0
+defensive rebound,,Centre,,
+subbing in,,spalding univ.,495.0,30.0
+subbing out,,spalding univ.,495.0,30.0
+layup,good,Centre,461.0,26.0
+assist,,Centre,,
+foul,,Centre,444.0,13.0
+free throw,good,spalding univ.,444.0,30.0
+free throw,good,spalding univ.,444.0,30.0
+three pointer,good,Centre,428.0,14.0
+assist,,Centre,,
+foul,,Centre,414.0,16.0
+free throw,missed,spalding univ.,414.0,30.0
+deadball rebound,,Centre,,
+free throw,good,spalding univ.,414.0,30.0
+subbing in,,Centre,414.0,30.0
+subbing in,,Centre,414.0,30.0
+subbing out,,Centre,414.0,30.0
+subbing out,,Centre,414.0,30.0
+layup,missed,Centre,399.0,15.0
+offensive rebound,,Centre,,
+foul,,spalding univ.,396.0,27.0
+free throw,missed,Centre,396.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,Centre,396.0,30.0
+defensive rebound,,spalding univ.,,
+turnover,,spalding univ.,396.0,30.0
+steal,,Centre,396.0,30.0
+subbing in,,spalding univ.,396.0,30.0
+subbing out,,spalding univ.,396.0,30.0
+subbing in,,Centre,396.0,30.0
+subbing out,,Centre,396.0,30.0
+turnover,,Centre,386.0,20.0
+steal,,spalding univ.,386.0,30.0
+subbing in,,spalding univ.,386.0,30.0
+subbing out,,spalding univ.,386.0,30.0
+turnover,,spalding univ.,382.0,26.0
+steal,,Centre,380.0,28.0
+three pointer,missed,Centre,375.0,25.0
+offensive rebound,,Centre,,
+subbing in,,spalding univ.,369.0,24.0
+subbing out,,spalding univ.,369.0,24.0
+turnover,,Centre,356.0,11.0
+steal,,spalding univ.,355.0,29.0
+layup,missed,spalding univ.,344.0,19.0
+defensive rebound,,Centre,,
+turnover,,Centre,338.0,24.0
+steal,,spalding univ.,328.0,20.0
+three pointer,good,spalding univ.,328.0,30.0
+three pointer,missed,Centre,318.0,20.0
+defensive rebound,,spalding univ.,,
+three pointer,good,spalding univ.,309.0,21.0
+assist,,spalding univ.,,
+three pointer,good,Centre,277.0,28.0
+assist,,Centre,,
+layup,missed,spalding univ.,261.0,14.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,242.0,11.0
+defensive rebound,,spalding univ.,,
+turnover,,spalding univ.,220.0,8.0
+steal,,Centre,219.0,29.0
+three pointer,missed,Centre,211.0,22.0
+defensive rebound,,Centre,,
+layup,missed,spalding univ.,186.0,5.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,167.0,11.0
+defensive rebound,,spalding univ.,,
+foul,,Centre,154.0,17.0
+free throw,good,spalding univ.,154.0,30.0
+free throw,good,spalding univ.,154.0,30.0
+subbing in,,spalding univ.,154.0,30.0
+subbing in,,spalding univ.,154.0,30.0
+subbing in,,spalding univ.,154.0,30.0
+subbing out,,spalding univ.,154.0,30.0
+subbing out,,spalding univ.,154.0,30.0
+subbing out,,spalding univ.,154.0,30.0
+subbing in,,Centre,154.0,30.0
+subbing out,,Centre,154.0,30.0
+jumper,missed,Centre,139.0,15.0
+defensive rebound,,spalding univ.,,
+subbing in,,spalding univ.,124.0,15.0
+subbing out,,spalding univ.,124.0,15.0
+jumper,missed,spalding univ.,121.0,12.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,103.0,12.0
+assist,,Centre,,
+layup,missed,spalding univ.,80.0,7.0
+defensive rebound,,Centre,,
+layup,good,Centre,72.0,22.0
+assist,,Centre,,
+timeout,,Centre,66.0,24.0
+turnover,,spalding univ.,60.0,18.0
+steal,,Centre,58.0,28.0
+jumper,missed,Centre,56.0,28.0
+defensive rebound,,spalding univ.,,
+layup,missed,spalding univ.,33.0,7.0
+offensive rebound,,spalding univ.,,
+layup,good,spalding univ.,29.0,29.0
+jumper,good,Centre,1.0,1.0
+assist,,Centre,,
+,,,,
+turnover,,Centre,1193.0,1190.0
+three pointer,good,spalding univ.,1179.0,16.0
+assist,,spalding univ.,,
+jumper,missed,Centre,1155.0,6.0
+block,,spalding univ.,1155.0,30.0
+defensive rebound,,spalding univ.,,
+three pointer,missed,spalding univ.,1129.0,4.0
+offensive rebound,,spalding univ.,,
+turnover,,spalding univ.,1125.0,26.0
+steal,,Centre,1123.0,28.0
+turnover,,Centre,1113.0,20.0
+steal,,spalding univ.,1111.0,28.0
+layup,missed,spalding univ.,1107.0,26.0
+block,,Centre,1107.0,30.0
+defensive rebound,,Centre,,
+block,,spalding univ.,1084.0,7.0
+layup,good,Centre,1074.0,27.0
+subbing in,,Centre,1068.0,24.0
+subbing out,,Centre,1068.0,24.0
+turnover,,spalding univ.,1060.0,16.0
+steal,,Centre,1059.0,29.0
+jumper,missed,Centre,1053.0,24.0
+defensive rebound,,spalding univ.,,
+three pointer,missed,spalding univ.,1043.0,20.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,1025.0,12.0
+defensive rebound,,spalding univ.,,
+foul,,Centre,1001.0,6.0
+free throw,good,spalding univ.,1001.0,30.0
+free throw,good,spalding univ.,1001.0,30.0
+subbing in,,Centre,1001.0,30.0
+subbing in,,Centre,1001.0,30.0
+subbing in,,Centre,1001.0,30.0
+subbing out,,Centre,1001.0,30.0
+subbing out,,Centre,1001.0,30.0
+subbing out,,Centre,1001.0,30.0
+three pointer,missed,Centre,975.0,4.0
+offensive rebound,,Centre,,
+foul,,spalding univ.,970.0,25.0
+free throw,good,Centre,970.0,30.0
+free throw,good,Centre,970.0,30.0
+subbing in,,spalding univ.,970.0,30.0
+subbing in,,spalding univ.,970.0,30.0
+subbing in,,spalding univ.,970.0,30.0
+subbing out,,spalding univ.,970.0,30.0
+subbing out,,spalding univ.,970.0,30.0
+subbing out,,spalding univ.,970.0,30.0
+three pointer,good,spalding univ.,964.0,24.0
+assist,,spalding univ.,,
+three pointer,good,Centre,942.0,8.0
+assist,,Centre,,
+foul,,Centre,929.0,17.0
+free throw,missed,spalding univ.,929.0,30.0
+deadball rebound,,Centre,,
+free throw,missed,spalding univ.,929.0,30.0
+defensive rebound,,Centre,,
+layup,missed,Centre,908.0,9.0
+block,,spalding univ.,908.0,9.0
+offensive rebound,,Centre,,
+layup,good,Centre,904.0,5.0
+assist,,Centre,,
+timeout,,spalding univ.,900.0,26.0
+three pointer,missed,spalding univ.,889.0,15.0
+defensive rebound,,Centre,,
+foul,,spalding univ.,886.0,27.0
+jumper,missed,Centre,872.0,16.0
+defensive rebound,,spalding univ.,,
+turnover,,spalding univ.,855.0,13.0
+steal,,Centre,852.0,27.0
+jumper,missed,Centre,848.0,26.0
+defensive rebound,,spalding univ.,,
+foul,,Centre,830.0,12.0
+subbing in,,spalding univ.,830.0,30.0
+subbing in,,spalding univ.,830.0,30.0
+subbing in,,spalding univ.,830.0,30.0
+subbing out,,spalding univ.,830.0,30.0
+subbing out,,spalding univ.,830.0,30.0
+subbing out,,spalding univ.,830.0,30.0
+subbing in,,Centre,830.0,30.0
+subbing out,,Centre,830.0,30.0
+turnover,,spalding univ.,819.0,19.0
+steal,,Centre,817.0,28.0
+foul,,spalding univ.,804.0,17.0
+free throw,good,Centre,804.0,30.0
+free throw,missed,Centre,804.0,30.0
+defensive rebound,,spalding univ.,,
+subbing in,,spalding univ.,804.0,30.0
+subbing out,,spalding univ.,804.0,30.0
+jumper,missed,spalding univ.,782.0,8.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,755.0,3.0
+defensive rebound,,spalding univ.,,
+jumper,missed,spalding univ.,747.0,22.0
+block,,Centre,747.0,30.0
+defensive rebound,,Centre,,
+layup,good,Centre,726.0,9.0
+foul,,spalding univ.,722.0,26.0
+free throw,good,Centre,718.0,30.0
+foul,,Centre,697.0,5.0
+free throw,good,spalding univ.,697.0,30.0
+free throw,good,spalding univ.,697.0,30.0
+subbing in,,Centre,697.0,30.0
+subbing in,,Centre,697.0,30.0
+subbing in,,Centre,697.0,30.0
+subbing in,,Centre,697.0,30.0
+subbing out,,Centre,697.0,30.0
+subbing out,,Centre,697.0,30.0
+subbing out,,Centre,697.0,30.0
+subbing out,,Centre,697.0,30.0
+jumper,missed,Centre,696.0,29.0
+offensive rebound,,Centre,,
+subbing in,,spalding univ.,696.0,30.0
+subbing in,,spalding univ.,696.0,30.0
+subbing out,,spalding univ.,696.0,30.0
+subbing out,,spalding univ.,696.0,30.0
+subbing in,,Centre,696.0,30.0
+subbing out,,Centre,696.0,30.0
+jumper,missed,Centre,684.0,18.0
+defensive rebound,,spalding univ.,,
+foul,,Centre,684.0,30.0
+jumper,good,spalding univ.,664.0,10.0
+turnover,,Centre,641.0,7.0
+steal,,spalding univ.,640.0,29.0
+turnover,,spalding univ.,631.0,21.0
+steal,,Centre,628.0,27.0
+three pointer,missed,Centre,615.0,17.0
+defensive rebound,,spalding univ.,,
+foul,,Centre,594.0,9.0
+free throw,good,spalding univ.,594.0,30.0
+free throw,good,spalding univ.,594.0,30.0
+subbing in,,Centre,594.0,30.0
+subbing in,,Centre,594.0,30.0
+subbing in,,Centre,594.0,30.0
+subbing out,,Centre,594.0,30.0
+subbing out,,Centre,594.0,30.0
+subbing out,,Centre,594.0,30.0
+jumper,missed,Centre,571.0,7.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,565.0,24.0
+defensive rebound,,spalding univ.,,
+jumper,missed,spalding univ.,550.0,15.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,530.0,10.0
+defensive rebound,,spalding univ.,,
+three pointer,missed,spalding univ.,500.0,0.0
+defensive rebound,,Centre,,
+subbing in,,spalding univ.,498.0,28.0
+subbing in,,spalding univ.,498.0,28.0
+subbing out,,spalding univ.,498.0,28.0
+subbing out,,spalding univ.,498.0,28.0
+subbing in,,Centre,498.0,28.0
+subbing in,,Centre,498.0,28.0
+subbing in,,Centre,498.0,28.0
+subbing in,,Centre,498.0,28.0
+subbing out,,Centre,498.0,28.0
+subbing out,,Centre,498.0,28.0
+subbing out,,Centre,498.0,28.0
+subbing out,,Centre,498.0,28.0
+foul,,spalding univ.,479.0,9.0
+jumper,good,Centre,472.0,23.0
+turnover,,spalding univ.,453.0,11.0
+jumper,missed,Centre,444.0,21.0
+offensive rebound,,Centre,,
+layup,missed,Centre,441.0,27.0
+defensive rebound,,spalding univ.,,
+layup,good,spalding univ.,432.0,21.0
+layup,good,Centre,407.0,5.0
+assist,,Centre,,
+subbing in,,spalding univ.,396.0,19.0
+subbing in,,spalding univ.,396.0,19.0
+subbing out,,spalding univ.,396.0,19.0
+subbing out,,spalding univ.,396.0,19.0
+turnover,,spalding univ.,385.0,8.0
+jumper,missed,Centre,355.0,0.0
+offensive rebound,,Centre,,
+turnover,,Centre,350.0,25.0
+steal,,spalding univ.,348.0,28.0
+foul,,Centre,345.0,27.0
+free throw,missed,spalding univ.,345.0,30.0
+deadball rebound,,Centre,,
+free throw,good,spalding univ.,345.0,30.0
+three pointer,good,Centre,339.0,24.0
+assist,,Centre,,
+foul,,spalding univ.,311.0,2.0
+turnover,,Centre,311.0,30.0
+layup,good,Centre,288.0,7.0
+assist,,Centre,,
+jumper,missed,spalding univ.,266.0,8.0
+defensive rebound,,Centre,,
+layup,good,Centre,243.0,7.0
+subbing in,,spalding univ.,225.0,12.0
+subbing in,,spalding univ.,225.0,12.0
+subbing in,,spalding univ.,225.0,12.0
+subbing out,,spalding univ.,225.0,12.0
+subbing out,,spalding univ.,225.0,12.0
+subbing out,,spalding univ.,225.0,12.0
+three pointer,missed,spalding univ.,218.0,5.0
+defensive rebound,,Centre,,
+foul,,spalding univ.,214.0,26.0
+free throw,good,Centre,214.0,30.0
+free throw,good,Centre,214.0,30.0
+turnover,,spalding univ.,203.0,19.0
+timeout,,spalding univ.,203.0,30.0
+jumper,missed,Centre,198.0,25.0
+defensive rebound,,spalding univ.,,
+jumper,good,spalding univ.,191.0,23.0
+assist,,spalding univ.,,
+layup,missed,Centre,180.0,19.0
+offensive rebound,,Centre,,
+foul,,spalding univ.,178.0,28.0
+free throw,good,Centre,178.0,30.0
+free throw,good,Centre,178.0,30.0
+three pointer,missed,spalding univ.,169.0,21.0
+defensive rebound,,Centre,,
+layup,good,Centre,165.0,26.0
+turnover,,spalding univ.,153.0,18.0
+jumper,good,Centre,130.0,7.0
+assist,,Centre,,
+three pointer,missed,spalding univ.,120.0,20.0
+offensive rebound,,spalding univ.,,
+layup,good,spalding univ.,120.0,30.0
+layup,missed,Centre,79.0,19.0
+defensive rebound,,spalding univ.,,
+layup,missed,spalding univ.,70.0,21.0
+offensive rebound,,spalding univ.,,
+layup,good,spalding univ.,68.0,28.0
+jumper,missed,Centre,39.0,1.0
+defensive rebound,,spalding univ.,,
+foul,,Centre,30.0,30.0
+free throw,good,spalding univ.,30.0,30.0
+free throw,good,spalding univ.,30.0,30.0
+subbing in,,spalding univ.,30.0,30.0
+subbing in,,spalding univ.,30.0,30.0
+subbing out,,spalding univ.,30.0,30.0
+subbing out,,spalding univ.,30.0,30.0
+jumper,good,Centre,4.0,4.0

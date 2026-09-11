@@ -1,0 +1,456 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+turnover,,berry college,1191.0,21.0
+steal,,Centre,1189.0,28.0
+turnover,,Centre,1183.0,24.0
+layup,good,berry college,1175.0,22.0
+three pointer,good,Centre,1158.0,13.0
+assist,,Centre,,
+layup,good,berry college,1136.0,8.0
+assist,,berry college,,
+three pointer,missed,Centre,1124.0,18.0
+defensive rebound,,berry college,,
+foul,,Centre,1105.0,11.0
+jumper,missed,berry college,1098.0,23.0
+defensive rebound,,Centre,,
+layup,good,Centre,1086.0,18.0
+three pointer,missed,berry college,1074.0,18.0
+defensive rebound,,Centre,,
+turnover,,Centre,1064.0,20.0
+steal,,berry college,1061.0,27.0
+subbing in,,Centre,1059.0,28.0
+subbing out,,Centre,1059.0,28.0
+turnover,,berry college,1057.0,26.0
+three pointer,missed,Centre,1047.0,20.0
+defensive rebound,,berry college,,
+turnover,,berry college,1030.0,13.0
+steal,,Centre,1029.0,29.0
+turnover,,Centre,1024.0,25.0
+jumper,good,berry college,1012.0,18.0
+assist,,berry college,,
+turnover,,Centre,999.0,17.0
+subbing in,,Centre,999.0,30.0
+subbing out,,Centre,999.0,30.0
+three pointer,good,berry college,995.0,26.0
+assist,,berry college,,
+three pointer,good,Centre,980.0,15.0
+assist,,Centre,,
+layup,missed,berry college,965.0,15.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,954.0,19.0
+defensive rebound,,berry college,,
+three pointer,missed,berry college,944.0,20.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,935.0,21.0
+assist,,Centre,,
+timeout,,Centre,926.0,21.0
+subbing in,,berry college,926.0,21.0
+subbing in,,berry college,926.0,21.0
+subbing out,,berry college,926.0,21.0
+subbing out,,berry college,926.0,21.0
+subbing in,,Centre,926.0,21.0
+subbing out,,Centre,926.0,21.0
+three pointer,missed,berry college,908.0,3.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,896.0,18.0
+assist,,Centre,,
+three pointer,missed,berry college,881.0,15.0
+defensive rebound,,Centre,,
+layup,good,Centre,865.0,14.0
+assist,,Centre,,
+foul,,Centre,851.0,16.0
+free throw,good,berry college,851.0,30.0
+free throw,good,berry college,851.0,30.0
+subbing in,,Centre,851.0,30.0
+subbing out,,Centre,851.0,30.0
+layup,missed,Centre,831.0,10.0
+block,,berry college,831.0,10.0
+offensive rebound,,Centre,,
+three pointer,good,Centre,826.0,5.0
+assist,,Centre,,
+turnover,,berry college,811.0,15.0
+steal,,Centre,809.0,28.0
+three pointer,missed,Centre,805.0,26.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,796.0,21.0
+offensive rebound,,Centre,,
+three pointer,good,Centre,791.0,25.0
+assist,,Centre,,
+timeout,,Centre,786.0,25.0
+three pointer,missed,berry college,777.0,16.0
+defensive rebound,,Centre,,
+layup,missed,Centre,751.0,4.0
+defensive rebound,,berry college,,
+subbing in,,Centre,722.0,1.0
+subbing out,,Centre,722.0,1.0
+jumper,missed,berry college,718.0,27.0
+defensive rebound,,Centre,,
+turnover,,Centre,715.0,27.0
+jumper,good,berry college,710.0,25.0
+assist,,berry college,,
+jumper,missed,Centre,691.0,11.0
+defensive rebound,,berry college,,
+foul,,Centre,681.0,20.0
+free throw,good,berry college,681.0,30.0
+free throw,missed,berry college,681.0,30.0
+defensive rebound,,Centre,,
+subbing in,,berry college,681.0,30.0
+subbing in,,berry college,681.0,30.0
+subbing out,,berry college,681.0,30.0
+subbing out,,berry college,681.0,30.0
+subbing in,,Centre,681.0,30.0
+subbing out,,Centre,681.0,30.0
+jumper,missed,Centre,667.0,16.0
+defensive rebound,,berry college,,
+jumper,missed,berry college,645.0,8.0
+defensive rebound,,Centre,,
+foul,,berry college,627.0,12.0
+free throw,good,Centre,627.0,30.0
+free throw,good,Centre,627.0,30.0
+subbing in,,berry college,627.0,30.0
+subbing out,,berry college,627.0,30.0
+subbing in,,Centre,627.0,30.0
+subbing out,,Centre,627.0,30.0
+layup,missed,berry college,621.0,24.0
+defensive rebound,,Centre,,
+layup,good,Centre,610.0,19.0
+assist,,Centre,,
+turnover,,berry college,593.0,13.0
+turnover,,Centre,571.0,8.0
+jumper,good,berry college,542.0,1.0
+assist,,berry college,,
+layup,good,Centre,527.0,15.0
+turnover,,berry college,504.0,7.0
+steal,,Centre,502.0,28.0
+jumper,good,Centre,489.0,17.0
+jumper,good,berry college,469.0,10.0
+assist,,berry college,,
+three pointer,missed,Centre,455.0,16.0
+defensive rebound,,berry college,,
+three pointer,missed,berry college,443.0,18.0
+defensive rebound,,Centre,,
+foul,,berry college,431.0,18.0
+subbing in,,berry college,431.0,30.0
+subbing in,,berry college,431.0,30.0
+subbing out,,berry college,431.0,30.0
+subbing out,,berry college,431.0,30.0
+subbing in,,Centre,431.0,30.0
+subbing in,,Centre,431.0,30.0
+subbing out,,Centre,431.0,30.0
+subbing out,,Centre,431.0,30.0
+jumper,good,Centre,418.0,17.0
+turnover,,berry college,408.0,20.0
+steal,,Centre,406.0,28.0
+three pointer,missed,Centre,388.0,12.0
+defensive rebound,,berry college,,
+three pointer,missed,berry college,378.0,20.0
+defensive rebound,,Centre,,
+timeout,,Centre,375.0,27.0
+layup,missed,Centre,364.0,16.0
+defensive rebound,,berry college,,
+jumper,missed,berry college,348.0,14.0
+offensive rebound,,berry college,,
+three pointer,good,berry college,342.0,24.0
+assist,,berry college,,
+foul,,berry college,324.0,12.0
+subbing in,,Centre,324.0,30.0
+subbing out,,Centre,324.0,30.0
+layup,good,Centre,314.0,20.0
+foul,,berry college,314.0,30.0
+free throw,good,Centre,314.0,30.0
+subbing in,,berry college,314.0,30.0
+subbing out,,berry college,314.0,30.0
+foul,,Centre,304.0,20.0
+free throw,good,berry college,304.0,30.0
+free throw,good,berry college,304.0,30.0
+subbing in,,Centre,304.0,30.0
+subbing out,,Centre,304.0,30.0
+three pointer,good,Centre,284.0,10.0
+assist,,Centre,,
+three pointer,missed,berry college,266.0,12.0
+defensive rebound,,Centre,,
+layup,missed,Centre,257.0,21.0
+offensive rebound,,Centre,,
+layup,good,Centre,252.0,25.0
+subbing in,,berry college,241.0,19.0
+subbing out,,berry college,241.0,19.0
+three pointer,missed,berry college,228.0,6.0
+offensive rebound,,berry college,,
+layup,missed,berry college,210.0,12.0
+defensive rebound,,Centre,,
+subbing in,,berry college,198.0,18.0
+subbing out,,berry college,198.0,18.0
+subbing in,,Centre,198.0,18.0
+subbing out,,Centre,198.0,18.0
+three pointer,good,Centre,191.0,11.0
+three pointer,missed,berry college,179.0,18.0
+offensive rebound,,berry college,,
+three pointer,good,berry college,168.0,19.0
+assist,,berry college,,
+layup,missed,Centre,147.0,9.0
+defensive rebound,,berry college,,
+layup,missed,berry college,139.0,22.0
+defensive rebound,,Centre,,
+layup,missed,Centre,119.0,10.0
+defensive rebound,,berry college,,
+jumper,good,berry college,106.0,17.0
+assist,,berry college,,
+foul,,berry college,80.0,4.0
+subbing in,,berry college,80.0,30.0
+subbing in,,berry college,80.0,30.0
+subbing out,,berry college,80.0,30.0
+subbing out,,berry college,80.0,30.0
+layup,good,Centre,78.0,28.0
+three pointer,missed,berry college,63.0,15.0
+offensive rebound,,berry college,,
+layup,missed,berry college,56.0,23.0
+defensive rebound,,Centre,,
+jumper,good,Centre,40.0,14.0
+assist,,Centre,,
+subbing in,,berry college,37.0,27.0
+subbing out,,berry college,37.0,27.0
+jumper,missed,berry college,26.0,26.0
+defensive rebound,,Centre,,
+turnover,,Centre,17.0,17.0
+layup,missed,berry college,4.0,4.0
+defensive rebound,,Centre,,
+,,,,
+jumper,missed,berry college,1192.0,1182.0
+defensive rebound,,Centre,,
+foul,,berry college,1187.0,25.0
+layup,good,Centre,1180.0,23.0
+assist,,Centre,,
+layup,missed,berry college,1159.0,9.0
+defensive rebound,,Centre,,
+foul,,berry college,1150.0,21.0
+jumper,missed,Centre,1142.0,22.0
+defensive rebound,,berry college,,
+three pointer,good,berry college,1134.0,22.0
+assist,,berry college,,
+layup,missed,Centre,1114.0,10.0
+defensive rebound,,berry college,,
+foul,,Centre,1112.0,28.0
+subbing in,,berry college,1112.0,30.0
+subbing out,,berry college,1112.0,30.0
+layup,good,berry college,1101.0,19.0
+assist,,berry college,,
+layup,missed,Centre,1078.0,7.0
+block,,berry college,1078.0,30.0
+defensive rebound,,berry college,,
+three pointer,missed,berry college,1069.0,21.0
+offensive rebound,,berry college,,
+turnover,,berry college,1065.0,26.0
+jumper,good,Centre,1051.0,16.0
+assist,,Centre,,
+jumper,missed,berry college,1034.0,13.0
+defensive rebound,,Centre,,
+foul,,berry college,1017.0,13.0
+jumper,missed,Centre,1016.0,29.0
+defensive rebound,,berry college,,
+jumper,good,berry college,1004.0,18.0
+jumper,good,Centre,986.0,12.0
+assist,,Centre,,
+foul,,Centre,971.0,15.0
+subbing in,,Centre,971.0,30.0
+subbing in,,Centre,971.0,30.0
+subbing out,,Centre,971.0,30.0
+subbing out,,Centre,971.0,30.0
+foul,,Centre,964.0,23.0
+free throw,good,berry college,964.0,30.0
+free throw,good,berry college,964.0,30.0
+subbing in,,Centre,949.0,15.0
+subbing out,,Centre,949.0,15.0
+foul,,berry college,941.0,7.0
+timeout,,Centre,941.0,30.0
+jumper,missed,Centre,925.0,14.0
+defensive rebound,,berry college,,
+layup,good,berry college,914.0,19.0
+three pointer,missed,Centre,905.0,21.0
+defensive rebound,,berry college,,
+turnover,,berry college,899.0,24.0
+layup,missed,Centre,876.0,7.0
+offensive rebound,,Centre,,
+layup,missed,Centre,870.0,24.0
+offensive rebound,,Centre,,
+layup,good,Centre,865.0,25.0
+three pointer,missed,berry college,837.0,2.0
+offensive rebound,,berry college,,
+subbing in,,berry college,830.0,23.0
+subbing in,,berry college,830.0,23.0
+subbing out,,berry college,830.0,23.0
+subbing out,,berry college,830.0,23.0
+subbing in,,Centre,830.0,23.0
+subbing out,,Centre,830.0,23.0
+jumper,missed,berry college,824.0,17.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,807.0,13.0
+defensive rebound,,berry college,,
+three pointer,missed,berry college,799.0,22.0
+defensive rebound,,Centre,,
+layup,good,Centre,783.0,14.0
+three pointer,missed,berry college,773.0,20.0
+offensive rebound,,Centre,,
+subbing in,,berry college,770.0,27.0
+subbing out,,berry college,770.0,27.0
+subbing in,,Centre,770.0,27.0
+subbing in,,Centre,770.0,27.0
+subbing out,,Centre,770.0,27.0
+subbing out,,Centre,770.0,27.0
+turnover,,berry college,760.0,17.0
+steal,,Centre,759.0,29.0
+layup,missed,Centre,756.0,27.0
+defensive rebound,,Centre,,
+jumper,missed,berry college,746.0,20.0
+defensive rebound,,Centre,,
+layup,good,Centre,740.0,24.0
+assist,,Centre,,
+layup,good,berry college,725.0,15.0
+assist,,berry college,,
+layup,missed,Centre,707.0,12.0
+defensive rebound,,berry college,,
+layup,good,berry college,701.0,24.0
+assist,,berry college,,
+foul,,berry college,681.0,10.0
+free throw,missed,Centre,681.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,681.0,30.0
+subbing in,,berry college,681.0,30.0
+subbing out,,berry college,681.0,30.0
+subbing in,,Centre,681.0,30.0
+subbing in,,Centre,681.0,30.0
+subbing out,,Centre,681.0,30.0
+subbing out,,Centre,681.0,30.0
+turnover,,berry college,673.0,22.0
+foul,,berry college,664.0,21.0
+free throw,good,Centre,664.0,30.0
+free throw,good,Centre,664.0,30.0
+subbing in,,berry college,664.0,30.0
+subbing out,,berry college,664.0,30.0
+layup,missed,berry college,659.0,25.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,640.0,11.0
+assist,,Centre,,
+three pointer,missed,berry college,626.0,16.0
+defensive rebound,,Centre,,
+turnover,,Centre,619.0,23.0
+steal,,berry college,617.0,28.0
+foul,,Centre,603.0,16.0
+free throw,missed,berry college,603.0,30.0
+deadball rebound,,Centre,,
+free throw,good,berry college,603.0,30.0
+subbing in,,Centre,603.0,30.0
+subbing in,,Centre,603.0,30.0
+subbing out,,Centre,603.0,30.0
+subbing out,,Centre,603.0,30.0
+turnover,,Centre,592.0,19.0
+subbing in,,berry college,592.0,30.0
+subbing out,,berry college,592.0,30.0
+jumper,missed,berry college,563.0,1.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,555.0,22.0
+defensive rebound,,berry college,,
+jumper,missed,berry college,546.0,21.0
+offensive rebound,,berry college,,
+timeout,,Centre,533.0,17.0
+subbing in,,Centre,533.0,17.0
+subbing out,,Centre,533.0,17.0
+turnover,,berry college,524.0,8.0
+timeout,,Centre,506.0,12.0
+subbing in,,Centre,506.0,12.0
+subbing out,,Centre,506.0,12.0
+jumper,missed,Centre,497.0,3.0
+offensive rebound,,Centre,,
+subbing in,,Centre,485.0,18.0
+subbing out,,Centre,485.0,18.0
+layup,good,Centre,468.0,1.0
+three pointer,missed,berry college,451.0,13.0
+offensive rebound,,berry college,,
+three pointer,missed,berry college,444.0,23.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,418.0,4.0
+defensive rebound,,berry college,,
+three pointer,missed,berry college,396.0,8.0
+defensive rebound,,Centre,,
+foul,,berry college,379.0,13.0
+free throw,good,Centre,379.0,30.0
+free throw,good,Centre,379.0,30.0
+subbing in,,berry college,379.0,30.0
+subbing in,,berry college,379.0,30.0
+subbing in,,berry college,379.0,30.0
+subbing out,,berry college,379.0,30.0
+subbing out,,berry college,379.0,30.0
+subbing out,,berry college,379.0,30.0
+subbing in,,Centre,379.0,30.0
+subbing out,,Centre,379.0,30.0
+layup,good,berry college,371.0,22.0
+turnover,,Centre,359.0,18.0
+jumper,missed,berry college,348.0,19.0
+offensive rebound,,berry college,,
+three pointer,missed,berry college,342.0,24.0
+defensive rebound,,Centre,,
+turnover,,Centre,330.0,18.0
+turnover,,berry college,316.0,16.0
+subbing in,,berry college,316.0,30.0
+subbing out,,berry college,316.0,30.0
+jumper,missed,Centre,296.0,10.0
+defensive rebound,,berry college,,
+three pointer,missed,berry college,287.0,21.0
+defensive rebound,,Centre,,
+turnover,,Centre,273.0,16.0
+steal,,berry college,271.0,28.0
+layup,good,berry college,269.0,28.0
+layup,missed,Centre,256.0,17.0
+offensive rebound,,Centre,,
+layup,good,Centre,251.0,25.0
+three pointer,missed,berry college,242.0,21.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,233.0,21.0
+assist,,Centre,,
+jumper,missed,berry college,218.0,15.0
+defensive rebound,,Centre,,
+timeout,,Centre,204.0,16.0
+subbing in,,Centre,204.0,16.0
+subbing in,,Centre,204.0,16.0
+subbing in,,Centre,204.0,16.0
+subbing out,,Centre,204.0,16.0
+subbing out,,Centre,204.0,16.0
+subbing out,,Centre,204.0,16.0
+layup,good,Centre,196.0,8.0
+jumper,good,berry college,177.0,11.0
+assist,,berry college,,
+turnover,,Centre,160.0,13.0
+steal,,berry college,158.0,28.0
+turnover,,berry college,149.0,21.0
+foul,,berry college,143.0,24.0
+free throw,good,Centre,143.0,30.0
+free throw,good,Centre,143.0,30.0
+subbing in,,berry college,143.0,30.0
+subbing in,,berry college,143.0,30.0
+subbing out,,berry college,143.0,30.0
+subbing out,,berry college,143.0,30.0
+subbing in,,Centre,143.0,30.0
+subbing in,,Centre,143.0,30.0
+subbing in,,Centre,143.0,30.0
+subbing out,,Centre,143.0,30.0
+subbing out,,Centre,143.0,30.0
+subbing out,,Centre,143.0,30.0
+jumper,missed,berry college,130.0,17.0
+offensive rebound,,berry college,,
+turnover,,berry college,125.0,25.0
+steal,,Centre,123.0,28.0
+turnover,,Centre,105.0,12.0
+steal,,berry college,104.0,29.0
+foul,,Centre,104.0,30.0
+jumper,missed,berry college,95.0,21.0
+offensive rebound,,berry college,,
+jumper,good,berry college,78.0,13.0
+turnover,,Centre,58.0,10.0
+turnover,,berry college,40.0,12.0
+steal,,Centre,38.0,28.0
+three pointer,missed,Centre,18.0,18.0
+defensive rebound,,berry college,,
+three pointer,missed,berry college,9.0,9.0
+offensive rebound,,berry college,,
+foul,,Centre,2.0,2.0
+free throw,good,berry college,2.0,2.0
+free throw,good,berry college,2.0,2.0

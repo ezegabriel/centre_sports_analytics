@@ -1,0 +1,411 @@
+Play Type,Shot Outcome,Team,Time(seconds),Shot Clock
+,,,,30.0
+layup,good,Centre,1186.0,16.0
+layup,good,hendrix college,1167.0,11.0
+assist,,hendrix college,,
+layup,good,Centre,1152.0,15.0
+assist,,Centre,,
+jumper,good,hendrix college,1138.0,16.0
+jumper,missed,Centre,1115.0,7.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,1109.0,24.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,1104.0,25.0
+offensive rebound,,Centre,,
+turnover,,Centre,1102.0,28.0
+jumper,missed,hendrix college,1076.0,4.0
+defensive rebound,,Centre,,
+turnover,,Centre,1064.0,18.0
+jumper,missed,hendrix college,1051.0,17.0
+offensive rebound,,hendrix college,,
+jumper,good,hendrix college,1038.0,17.0
+three pointer,missed,Centre,1022.0,14.0
+defensive rebound,,hendrix college,,
+jumper,good,hendrix college,1010.0,18.0
+three pointer,good,Centre,993.0,13.0
+assist,,Centre,,
+subbing in,,Centre,988.0,25.0
+subbing out,,Centre,988.0,25.0
+jumper,missed,hendrix college,976.0,13.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,961.0,15.0
+defensive rebound,,hendrix college,,
+turnover,,hendrix college,955.0,24.0
+steal,,Centre,953.0,28.0
+layup,good,Centre,938.0,15.0
+foul,,hendrix college,920.0,12.0
+turnover,,hendrix college,920.0,30.0
+subbing in,,hendrix college,920.0,30.0
+subbing out,,hendrix college,920.0,30.0
+layup,good,Centre,906.0,16.0
+jumper,good,hendrix college,893.0,17.0
+jumper,missed,Centre,880.0,17.0
+defensive rebound,,hendrix college,,
+three pointer,missed,hendrix college,869.0,19.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,858.0,19.0
+defensive rebound,,hendrix college,,
+jumper,missed,hendrix college,836.0,8.0
+defensive rebound,,Centre,,
+jumper,good,Centre,815.0,9.0
+assist,,Centre,,
+turnover,,hendrix college,798.0,13.0
+subbing in,,hendrix college,798.0,30.0
+subbing in,,hendrix college,798.0,30.0
+subbing out,,hendrix college,798.0,30.0
+subbing out,,hendrix college,798.0,30.0
+subbing in,,Centre,798.0,30.0
+subbing in,,Centre,798.0,30.0
+subbing out,,Centre,798.0,30.0
+subbing out,,Centre,798.0,30.0
+foul,,hendrix college,785.0,17.0
+free throw,missed,Centre,785.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,785.0,30.0
+turnover,,hendrix college,774.0,19.0
+steal,,Centre,774.0,30.0
+layup,missed,Centre,774.0,30.0
+block,,hendrix college,774.0,30.0
+defensive rebound,,hendrix college,,
+turnover,,hendrix college,773.0,29.0
+layup,good,Centre,738.0,25.0
+layup,missed,hendrix college,716.0,8.0
+defensive rebound,,Centre,,
+three pointer,missed,Centre,710.0,24.0
+defensive rebound,,Centre,,
+subbing in,,hendrix college,705.0,25.0
+subbing in,,hendrix college,705.0,25.0
+subbing out,,hendrix college,705.0,25.0
+subbing out,,hendrix college,705.0,25.0
+foul,,Centre,686.0,6.0
+subbing in,,Centre,686.0,30.0
+subbing out,,Centre,686.0,30.0
+turnover,,hendrix college,676.0,20.0
+steal,,Centre,673.0,27.0
+foul,,hendrix college,657.0,14.0
+subbing in,,Centre,657.0,30.0
+subbing in,,Centre,657.0,30.0
+subbing out,,Centre,657.0,30.0
+subbing out,,Centre,657.0,30.0
+turnover,,Centre,656.0,29.0
+steal,,hendrix college,655.0,29.0
+three pointer,missed,hendrix college,651.0,26.0
+offensive rebound,,hendrix college,,
+foul,,Centre,648.0,27.0
+jumper,missed,hendrix college,644.0,26.0
+defensive rebound,,Centre,,
+foul,,hendrix college,628.0,14.0
+free throw,good,Centre,628.0,30.0
+free throw,good,Centre,628.0,30.0
+subbing in,,hendrix college,628.0,30.0
+subbing out,,hendrix college,628.0,30.0
+foul,,Centre,613.0,15.0
+timeout,,Centre,613.0,30.0
+subbing in,,Centre,613.0,30.0
+subbing out,,Centre,613.0,30.0
+jumper,good,hendrix college,600.0,17.0
+jumper,missed,Centre,565.0,25.0
+defensive rebound,,hendrix college,,
+three pointer,missed,hendrix college,556.0,21.0
+defensive rebound,,Centre,,
+turnover,,Centre,545.0,19.0
+subbing in,,hendrix college,545.0,30.0
+subbing out,,hendrix college,545.0,30.0
+subbing in,,Centre,545.0,30.0
+subbing in,,Centre,545.0,30.0
+subbing out,,Centre,545.0,30.0
+subbing out,,Centre,545.0,30.0
+turnover,,hendrix college,528.0,13.0
+foul,,hendrix college,517.0,19.0
+subbing in,,hendrix college,517.0,30.0
+subbing out,,hendrix college,517.0,30.0
+layup,missed,Centre,515.0,28.0
+offensive rebound,,Centre,,
+layup,missed,Centre,512.0,27.0
+offensive rebound,,Centre,,
+layup,good,Centre,507.0,25.0
+jumper,good,hendrix college,494.0,17.0
+jumper,good,Centre,483.0,19.0
+three pointer,good,hendrix college,465.0,12.0
+layup,missed,Centre,452.0,17.0
+block,,hendrix college,452.0,17.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,450.0,15.0
+offensive rebound,,Centre,,
+layup,missed,Centre,442.0,22.0
+defensive rebound,,hendrix college,,
+foul,,hendrix college,430.0,18.0
+turnover,,hendrix college,430.0,30.0
+timeout,,Centre,430.0,30.0
+three pointer,good,Centre,415.0,15.0
+assist,,Centre,,
+turnover,,hendrix college,395.0,10.0
+foul,,hendrix college,389.0,24.0
+free throw,good,Centre,389.0,30.0
+free throw,missed,Centre,389.0,30.0
+defensive rebound,,hendrix college,,
+subbing in,,hendrix college,389.0,30.0
+subbing out,,hendrix college,389.0,30.0
+three pointer,missed,hendrix college,373.0,14.0
+defensive rebound,,Centre,,
+jumper,good,Centre,350.0,7.0
+jumper,missed,hendrix college,332.0,12.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,322.0,20.0
+offensive rebound,,Centre,,
+layup,good,Centre,317.0,25.0
+timeout,,Centre,316.0,29.0
+subbing in,,Centre,316.0,29.0
+subbing out,,Centre,316.0,29.0
+jumper,missed,hendrix college,296.0,9.0
+defensive rebound,,Centre,,
+layup,missed,Centre,282.0,16.0
+block,,hendrix college,282.0,16.0
+offensive rebound,,Centre,,
+jumper,missed,Centre,267.0,1.0
+defensive rebound,,hendrix college,,
+jumper,good,hendrix college,252.0,15.0
+assist,,hendrix college,,
+three pointer,good,Centre,237.0,15.0
+three pointer,missed,hendrix college,225.0,18.0
+defensive rebound,,Centre,,
+turnover,,Centre,203.0,8.0
+steal,,hendrix college,200.0,27.0
+layup,missed,hendrix college,197.0,27.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,180.0,13.0
+offensive rebound,,Centre,,
+layup,missed,Centre,176.0,26.0
+offensive rebound,,Centre,,
+layup,good,Centre,167.0,21.0
+jumper,missed,hendrix college,159.0,22.0
+defensive rebound,,Centre,,
+turnover,,Centre,147.0,18.0
+steal,,hendrix college,145.0,28.0
+layup,good,hendrix college,143.0,28.0
+jumper,missed,Centre,113.0,0.0
+offensive rebound,,Centre,,
+layup,missed,Centre,110.0,27.0
+defensive rebound,,hendrix college,,
+layup,missed,hendrix college,99.0,19.0
+defensive rebound,,Centre,,
+timeout,,Centre,93.0,24.0
+subbing in,,hendrix college,93.0,24.0
+subbing in,,hendrix college,93.0,24.0
+subbing out,,hendrix college,93.0,24.0
+subbing out,,hendrix college,93.0,24.0
+subbing in,,Centre,93.0,24.0
+subbing in,,Centre,93.0,24.0
+subbing out,,Centre,93.0,24.0
+subbing out,,Centre,93.0,24.0
+jumper,missed,Centre,81.0,12.0
+defensive rebound,,hendrix college,,
+three pointer,missed,hendrix college,61.0,10.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,47.0,16.0
+defensive rebound,,hendrix college,,
+three pointer,good,hendrix college,32.0,15.0
+assist,,hendrix college,,
+jumper,missed,Centre,9.0,9.0
+offensive rebound,,Centre,,
+layup,good,Centre,6.0,6.0
+three pointer,missed,hendrix college,0.0,0.0
+deadball rebound,,Centre,,
+,,,,
+layup,good,hendrix college,1192.0,22.0
+jumper,missed,Centre,1175.0,13.0
+defensive rebound,,hendrix college,,
+jumper,good,hendrix college,1166.0,21.0
+assist,,hendrix college,,
+three pointer,missed,Centre,1146.0,10.0
+offensive rebound,,Centre,,
+layup,missed,Centre,1125.0,9.0
+defensive rebound,,hendrix college,,
+jumper,good,hendrix college,1114.0,19.0
+assist,,hendrix college,,
+timeout,,Centre,1101.0,17.0
+foul,,hendrix college,1098.0,14.0
+turnover,,Centre,1087.0,19.0
+steal,,hendrix college,1086.0,29.0
+layup,good,hendrix college,1072.0,16.0
+turnover,,Centre,1054.0,12.0
+steal,,hendrix college,1052.0,28.0
+layup,good,hendrix college,1043.0,21.0
+layup,missed,Centre,1026.0,13.0
+block,,hendrix college,1026.0,13.0
+offensive rebound,,Centre,,
+layup,good,Centre,1020.0,7.0
+layup,good,hendrix college,1016.0,26.0
+turnover,,Centre,1004.0,18.0
+steal,,hendrix college,1003.0,29.0
+layup,good,hendrix college,996.0,23.0
+three pointer,missed,Centre,985.0,19.0
+defensive rebound,,hendrix college,,
+jumper,missed,hendrix college,974.0,19.0
+defensive rebound,,Centre,,
+three pointer,good,Centre,964.0,20.0
+assist,,Centre,,
+subbing in,,Centre,949.0,15.0
+subbing in,,Centre,949.0,15.0
+subbing out,,Centre,949.0,15.0
+subbing out,,Centre,949.0,15.0
+three pointer,missed,hendrix college,946.0,12.0
+defensive rebound,,Centre,,
+foul,,hendrix college,944.0,28.0
+subbing in,,Centre,944.0,30.0
+subbing in,,Centre,944.0,30.0
+subbing out,,Centre,944.0,30.0
+subbing out,,Centre,944.0,30.0
+subbing in,,hendrix college,936.0,22.0
+subbing out,,hendrix college,936.0,22.0
+turnover,,Centre,924.0,10.0
+jumper,good,hendrix college,911.0,17.0
+jumper,good,Centre,893.0,12.0
+foul,,Centre,880.0,17.0
+jumper,missed,hendrix college,871.0,21.0
+defensive rebound,,Centre,,
+layup,good,Centre,855.0,14.0
+subbing in,,hendrix college,841.0,16.0
+subbing in,,hendrix college,841.0,16.0
+subbing out,,hendrix college,841.0,16.0
+subbing out,,hendrix college,841.0,16.0
+layup,missed,hendrix college,835.0,10.0
+defensive rebound,,Centre,,
+foul,,hendrix college,822.0,17.0
+free throw,missed,Centre,822.0,30.0
+deadball rebound,,Centre,,
+free throw,good,Centre,822.0,30.0
+three pointer,missed,hendrix college,809.0,17.0
+defensive rebound,,Centre,,
+layup,missed,Centre,797.0,18.0
+block,,hendrix college,797.0,30.0
+defensive rebound,,hendrix college,,
+foul,,Centre,791.0,24.0
+subbing in,,hendrix college,785.0,24.0
+subbing out,,hendrix college,785.0,24.0
+jumper,good,hendrix college,780.0,19.0
+foul,,hendrix college,749.0,29.0
+free throw,good,Centre,749.0,30.0
+free throw,good,Centre,749.0,30.0
+subbing in,,Centre,749.0,30.0
+subbing in,,Centre,749.0,30.0
+subbing out,,Centre,749.0,30.0
+subbing out,,Centre,749.0,30.0
+turnover,,hendrix college,742.0,23.0
+layup,missed,Centre,736.0,24.0
+offensive rebound,,Centre,,
+three pointer,missed,Centre,707.0,1.0
+defensive rebound,,hendrix college,,
+foul,,Centre,705.0,28.0
+free throw,good,hendrix college,705.0,30.0
+free throw,good,hendrix college,705.0,30.0
+subbing in,,hendrix college,705.0,30.0
+subbing out,,hendrix college,705.0,30.0
+turnover,,Centre,696.0,21.0
+steal,,hendrix college,694.0,28.0
+foul,,Centre,681.0,17.0
+free throw,missed,hendrix college,681.0,30.0
+deadball rebound,,Centre,,
+free throw,good,hendrix college,681.0,30.0
+subbing in,,Centre,681.0,30.0
+subbing in,,Centre,681.0,30.0
+subbing out,,Centre,681.0,30.0
+subbing out,,Centre,681.0,30.0
+jumper,missed,Centre,658.0,7.0
+defensive rebound,,hendrix college,,
+turnover,,hendrix college,651.0,23.0
+three pointer,good,Centre,636.0,15.0
+assist,,Centre,,
+foul,,hendrix college,635.0,29.0
+jumper,missed,Centre,635.0,30.0
+defensive rebound,,hendrix college,,
+jumper,good,hendrix college,617.0,12.0
+jumper,missed,Centre,602.0,15.0
+defensive rebound,,hendrix college,,
+layup,missed,hendrix college,586.0,14.0
+defensive rebound,,Centre,,
+layup,missed,Centre,567.0,11.0
+offensive rebound,,Centre,,
+layup,good,Centre,560.0,23.0
+assist,,Centre,,
+timeout,,Centre,543.0,13.0
+jumper,missed,hendrix college,535.0,5.0
+defensive rebound,,Centre,,
+foul,,Centre,515.0,10.0
+turnover,,Centre,515.0,30.0
+layup,missed,hendrix college,506.0,21.0
+offensive rebound,,Centre,,
+jumper,missed,hendrix college,504.0,28.0
+defensive rebound,,Centre,,
+subbing in,,hendrix college,504.0,30.0
+subbing in,,hendrix college,504.0,30.0
+subbing out,,hendrix college,504.0,30.0
+subbing out,,hendrix college,504.0,30.0
+subbing out,,hendrix college,504.0,30.0
+subbing in,,hendrix college,503.0,29.0
+jumper,missed,Centre,484.0,10.0
+defensive rebound,,hendrix college,,
+foul,,Centre,467.0,13.0
+free throw,good,hendrix college,466.0,30.0
+free throw,missed,hendrix college,466.0,30.0
+defensive rebound,,Centre,,
+subbing in,,Centre,466.0,29.0
+subbing out,,Centre,466.0,29.0
+layup,missed,Centre,450.0,13.0
+defensive rebound,,hendrix college,,
+turnover,,hendrix college,430.0,10.0
+steal,,Centre,428.0,28.0
+layup,good,Centre,421.0,23.0
+layup,good,hendrix college,401.0,10.0
+assist,,hendrix college,,
+jumper,good,Centre,384.0,13.0
+layup,good,hendrix college,364.0,10.0
+turnover,,Centre,344.0,10.0
+steal,,hendrix college,343.0,29.0
+subbing in,,hendrix college,335.0,22.0
+subbing in,,hendrix college,335.0,22.0
+subbing out,,hendrix college,335.0,22.0
+subbing out,,hendrix college,335.0,22.0
+layup,missed,hendrix college,328.0,15.0
+defensive rebound,,Centre,,
+layup,good,Centre,313.0,15.0
+foul,,Centre,274.0,21.0
+free throw,good,hendrix college,274.0,30.0
+free throw,missed,hendrix college,274.0,30.0
+defensive rebound,,Centre,,
+timeout,,Centre,267.0,23.0
+subbing in,,hendrix college,267.0,23.0
+subbing out,,hendrix college,267.0,23.0
+jumper,missed,Centre,258.0,14.0
+defensive rebound,,hendrix college,,
+foul,,Centre,256.0,28.0
+free throw,missed,hendrix college,256.0,30.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,237.0,11.0
+defensive rebound,,hendrix college,,
+foul,,Centre,231.0,24.0
+free throw,missed,hendrix college,231.0,30.0
+defensive rebound,,Centre,,
+turnover,,Centre,217.0,16.0
+layup,good,hendrix college,206.0,19.0
+three pointer,good,Centre,183.0,7.0
+assist,,Centre,,
+timeout,,Centre,168.0,15.0
+three pointer,missed,hendrix college,162.0,9.0
+defensive rebound,,Centre,,
+layup,good,Centre,138.0,6.0
+assist,,Centre,,
+layup,missed,hendrix college,121.0,13.0
+defensive rebound,,Centre,,
+jumper,missed,Centre,105.0,14.0
+defensive rebound,,hendrix college,,
+layup,missed,hendrix college,93.0,18.0
+defensive rebound,,Centre,,
+layup,good,Centre,72.0,9.0
+timeout,,Centre,59.0,17.0
+jumper,missed,hendrix college,47.0,5.0
+defensive rebound,,Centre,,
+layup,missed,Centre,20.0,20.0
+defensive rebound,,hendrix college,,
+layup,missed,hendrix college,12.0,12.0
+defensive rebound,,Centre,,
